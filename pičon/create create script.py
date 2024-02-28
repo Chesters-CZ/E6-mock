@@ -22,7 +22,7 @@ print("\nDone!\n")
 pools_header = []
 posts_header = []
 implications_header = []
-#tags_header = []
+# tags_header = []
 wikis_header = []
 
 pools = []
@@ -274,7 +274,8 @@ for i, wiki in enumerate(wikis):
             continue
     wikis.remove(wiki)
     removed += 1
-print("\nDone, removed " + str(removed) + " entries.\n")
+print("\nDone, removed " + str(removed) + " non-tag wikis and extracted " + str(
+    wiki_examples.__len__()) + " wiki_example relationships.\n")
 
 # with open("D:\\velký dbs fily\\zql_tag_implications.sql", "w", encoding="utf-8", newline="") as implications_out:
 #     with open("D:\\velký dbs fily\\tag_implications.csv", encoding="utf-8") as implications_in:
