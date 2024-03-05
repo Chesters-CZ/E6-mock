@@ -48,6 +48,8 @@ wiki_examples = []
 
 # with open("D\\velký dbs fily\\zql_pools.sql", "w", encoding="utf-8", newline="") as pools_out:
 
+print("\n---------- LOADING DATA ----------\n")
+
 print("Loading pools.csv")
 with open("D:\\velký dbs fily\\pools.csv", 'r', encoding="utf-8") as pools_in:
     pools_reader = csv.reader(pools_in)
@@ -155,6 +157,9 @@ with open("D:\\velký dbs fily\\wiki_pages.csv", encoding="utf-8") as wikis_in:
             print("\r" + (wikis_reader.line_num / linecount / 10).__str__() + "%", end="")
 print("\nDone!\n")
 
+print("\n---------- ALL DATA LOADED ----------\n")
+print("\n---------- MODIFYING DATA ----------\n")
+
 print("Extracting post parent-child relationships and harvesting user IDs from posts")
 arrlen = (posts.__len__() / 1000).__floor__()
 parent_count = 0
@@ -252,6 +257,8 @@ for i, row in enumerate(implications):
     for tag in tags:
         if row[1] == tag[1] or row[2] == tag[1]:
             remove = False
+            break
+
     if remove:
         implications.remove(row)
         removed_removed += 1
@@ -276,6 +283,139 @@ for i, wiki in enumerate(wikis):
     removed += 1
 print("\nDone, removed " + str(removed) + " non-tag wikis and extracted " + str(
     wiki_examples.__len__()) + " wiki_example relationships.\n")
+
+print("Removing wiki_examples referencing deleted posts")
+arrlen = (wiki_examples.__len__() / 1000).__floor__()
+removed = 0
+for i, example in enumerate(wiki_examples):
+    if i % arrlen == 0:
+        print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+
+    remove = True
+    for post in posts:
+        if example[1] == post[0]:
+            remove = False
+            break
+
+    if remove:
+        removed += 1
+        wiki_examples.remove(example)
+print("\nDone, removed " + str(removed) + " wiki_examples referencing deleted posts\n")
+
+print("\n---------- CHECKPOINT REACHED ----------")
+print("posts: DONE")
+print("tags: DONE")
+print("post_parents: DONE")
+print("post_tags: DONE")
+print("tag_implications: DONE")
+print("wikis: DONE")
+print("wiki_examples: DONE")
+print("users: harvested user IDs, need to be assigned roles and scraped usernames and posts")
+print("\n---------- SAVING DATA -----------")
+
+print("Saving posts")
+with open("D:\\velký dbs fily\\checkpoint1_posts.csv", "w", encoding="utf-8", newline="") as posts_out:
+    posts_writer = csv.writer(posts_out)
+    posts_writer.writerow(posts_header)
+
+    arrlen = (posts.__len__() / 1000).__floor__()
+    for i, post in enumerate(posts):
+        if i % arrlen == 0:
+            print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+        posts_writer.writerow(post)
+print("\nDone!\n")
+
+print("Saving tags")
+with open("D:\\velký dbs fily\\checkpoint1_tags.csv", "w", encoding="utf-8", newline="") as tags_out:
+    tags_writer = csv.writer(tags_out)
+    tags_writer.writerow(tags_header)
+
+    arrlen = (tags.__len__() / 1000).__floor__()
+    for i, tag in enumerate(tags):
+        if i % arrlen == 0:
+            print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+        tags_writer.writerow(tag)
+print("\nDone!\n")
+
+print("Saving post_parents")
+with open("D:\\velký dbs fily\\checkpoint1_post_parents.csv", "w", encoding="utf-8", newline="") as post_parents_out:
+    post_parents_writer = csv.writer(post_parents_out)
+    post_parents_writer.writerow(parents_header)
+
+    arrlen = (post_parents.__len__() / 1000).__floor__()
+    for i, post_parent in enumerate(post_parents):
+        if i % arrlen == 0:
+            print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+        post_parents_writer.writerow(post_parent)
+print("\nDone!\n")
+
+print("Saving post_tags")
+with open("D:\\velký dbs fily\\checkpoint1_post_tags.csv", "w", encoding="utf-8", newline="") as post_tags_out:
+    post_tags_writer = csv.writer(post_tags_out)
+    post_tags_writer.writerow(post_tags_header)
+
+    arrlen = (post_tags.__len__() / 1000).__floor__()
+    for i, post in enumerate(post_tags):
+        if i % arrlen == 0:
+            print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+        post_tags_writer.writerow(post)
+print("\nDone!\n")
+
+print("Saving tag_implications")
+with open("D:\\velký dbs fily\\checkpoint1_tag_implications.csv", "w", encoding="utf-8",
+          newline="") as tag_implications_out:
+    tag_implications_writer = csv.writer(tag_implications_out)
+    tag_implications_writer.writerow(implications_header)
+
+    arrlen = (implications.__len__() / 1000).__floor__()
+    for i, implication in enumerate(implications):
+        if i % arrlen == 0:
+            print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+        tag_implications_writer.writerow(implication)
+print("\nDone!\n")
+
+print("Saving wikis")
+with open("D:\\velký dbs fily\\checkpoint1_wikis.csv", "w", encoding="utf-8", newline="") as wikis_out:
+    wikis_writer = csv.writer(wikis_out)
+    wikis_writer.writerow(wikis_header)
+
+    arrlen = (wikis.__len__() / 1000).__floor__()
+    for i, wiki in enumerate(wikis):
+        if i % arrlen == 0:
+            print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+        wikis_writer.writerow(wiki)
+print("\nDone!\n")
+
+print("Saving wiki_examples")
+with open("D:\\velký dbs fily\\checkpoint1_wiki_examples.csv", "w", encoding="utf-8", newline="") as wiki_exampless_out:
+    wiki_examples_writer = csv.writer(wiki_exampless_out)
+    wiki_examples_writer.writerow(wiki_examples_header)
+
+    arrlen = (wiki_examples.__len__() / 1000).__floor__()
+    for i, example in enumerate(wiki_examples):
+        if i % arrlen == 0:
+            print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+        wikis_writer.writerow(example)
+print("\nDone!\n")
+
+print("Saving user IDs")
+with open("D:\\velký dbs fily\\checkpoint1_user_ids.csv", "w", encoding="utf-8", newline="") as user_ids_out:
+    user_ids_writer = csv.writer(wikis_out)
+    user_ids_writer.writerow(["id"])
+
+    arrlen = (user_ids.__len__() / 1000).__floor__()
+    for i, user_id in enumerate(user_ids):
+        if i % arrlen == 0:
+            print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+        wikis_writer.writerow(user_id)
+print("\nDone!\n")
+
+print("\n---------- DATA SAVED -----------\n")
+print("\n---------- SCRAPING USER DATA ----------\n")
+
+# todo: reduce data - choose several random pools, save all posts in these pools and then save random x pools and everything connected to it
+# todo: (DO NOT USE HOME INTERNET) load e9/users/*user id*, then get username with regex "User - .* - e926" and repeat
+# todo: remove concept of representing image - not scrapeable
 
 # with open("D:\\velký dbs fily\\zql_tag_implications.sql", "w", encoding="utf-8", newline="") as implications_out:
 #     with open("D:\\velký dbs fily\\tag_implications.csv", encoding="utf-8") as implications_in:
