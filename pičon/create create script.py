@@ -1,4 +1,5 @@
 import csv
+import random
 import time
 import sys
 import numpy
@@ -37,6 +38,7 @@ parents_header = ["parent", "child"]
 post_tags_header = ["post", "tag"]
 tags_header = ["tag", "has_wiki"]
 wiki_examples_header = ["tag", "post"]
+pool_posts_header = ["pool", "post", "order_in_pool"]
 
 users = []
 user_ids = []
@@ -411,9 +413,91 @@ with open("D:\\velký dbs fily\\checkpoint1_user_ids.csv", "w", encoding="utf-8"
 print("\nDone!\n")
 
 print("\n---------- DATA SAVED -----------\n")
-print("\n---------- SCRAPING USER DATA ----------\n")
+print("\n---------- CHERRY-PICKING DATA ----------\n")
 
-# todo: reduce data - choose several random pools, save all posts in these pools and then save random x pools and everything connected to it
+posts_final = []
+pool_posts_final = []
+pools_final = []
+post_parents_final = []
+
+print("Choosing pools")
+chosen_pools = random.sample(pools, 50)
+print("Done!")
+
+print("Choosing pools")
+print("Adding posts in selected pools")
+arrlen = (chosen_pools.__len__() / 1000).__floor__()
+for i, chosen_pool in enumerate(chosen_pools):
+    if i % arrlen == 0:
+        print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+
+    posts_in_chosen_pool = chosen_pool[8].replace('{', '').replace('}', '').split(',')
+
+    for post in posts:
+        if post[0] in posts_in_chosen_pool:
+            posts_final.append([post[0], post[3], post[2], post[1], post[14]])
+            pool_posts_final.append([chosen_pool[0], post[0], posts_in_chosen_pool.index(post[0])])
+            posts.remove(post)
+
+    pools_final.append([chosen_pool[0], chosen_pool[1], chosen_pool[5]])
+print("\nDone! Added " + len(posts_final).__str__() + " posts from " + len(pools_final).__str__() + " pools\n")
+
+print("Adding random posts and their family")
+chosen_posts = random.sample(posts, 40000)
+arrlen = (chosen_posts.__len__() / 1000).__floor__()
+for i, chosen_post in enumerate(chosen_posts):
+    if i % arrlen == 0:
+        print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+
+    posts_final.append([chosen_post[0], chosen_post[3], chosen_post[2], chosen_post[1], chosen_post[14]])
+
+    if chosen_post[12] != "":
+        chosen_post_id = chosen_post[0]
+        chosen_post_parent = chosen_post[12]
+        posts.remove(chosen_post)
+        for post in posts:
+            if post[0] == chosen_post_parent or post[12] == chosen_post_parent or post[12] == chosen_post_id:
+                posts_final.append([post[0], post[3], post[2], post[1], post[14]])
+                posts.remove(post)
+
+    else:
+        posts.remove(chosen_post)
+print("\nDone! There are now " + len(posts_final).__str__() + " posts\n")
+
+print("Making sure every post's entire family is accounted for")
+arrlen = (posts_final.__len__() / 1000).__floor__()
+pass_count = 1
+while (True):
+    found_new = False
+
+    for i, final_post in enumerate(posts_final):
+        if i % arrlen == 0:
+            print("\r" + (i / arrlen / 10).__str__() + "% (pass #" + pass_count.__str__() + ")", end="")
+
+        for post_parent in post_parents:
+            if final_post in post_parent:
+                for post in posts:
+                    if post[0] in post_parent or post[12] in post_parent:
+                        found_new = True
+                        posts_final.append([post[0], post[3], post[2], post[1], post[14]])
+                        posts.remove(post)
+
+    if not found_new:
+        break
+print("\nDone! There are now " + len(posts_final).__str__() + " posts\n")
+
+print("Adding post-parent relationships")
+arrlen = (post_parents.__len__() / 1000).__floor__()
+for i, post_parent in enumerate(post_parents):
+    if i % arrlen == 0:
+        print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+
+    for final_post in posts_final:
+        if final_post[0] in post_parent:
+            post_parents_final.append(post_parent)
+print("\nDone! Added " + len(post_parents_final).__str__() + " parent-post relationships")
+
+# todo: save relevant tags, post_tag relationships, wikis and maybe more
 # todo: (DO NOT USE HOME INTERNET) load e9/users/*user id*, then get username with regex "User - .* - e926" and repeat
 # todo: remove concept of representing image - not scrapeable
 
