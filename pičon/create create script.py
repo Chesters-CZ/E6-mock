@@ -39,6 +39,7 @@ post_tags_header = ["post", "tag"]
 tags_header = ["tag", "has_wiki"]
 wiki_examples_header = ["tag", "post"]
 pool_posts_header = ["pool", "post", "order_in_pool"]
+wikis_final_header = ["tag", "content"]
 
 users = []
 user_ids = []
@@ -419,6 +420,11 @@ posts_final = []
 pool_posts_final = []
 pools_final = []
 post_parents_final = []
+tags_final = []
+post_tags_final = []
+tag_implications_final = []
+wikis_final = []
+wiki_examples_final = []
 
 print("Choosing pools")
 chosen_pools = random.sample(pools, 50)
@@ -442,6 +448,23 @@ for i, chosen_pool in enumerate(chosen_pools):
     pools_final.append([chosen_pool[0], chosen_pool[1], chosen_pool[5]])
 print("\nDone! Added " + len(posts_final).__str__() + " posts from " + len(pools_final).__str__() + " pools\n")
 
+# All wiki pages won't fit in 32MB, plus was trying to solve a nonexistent problem
+#
+# print("Adding posts used as wiki examples")
+# arrlen = (posts.__len__() / 1000).__floor__()
+# for i, post in enumerate(posts):
+#     if i % arrlen == 0:
+#         print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+#
+#     for wiki_example in wiki_examples:
+#         if post[0] == wiki_example[1]:
+#             posts_final.append([post[0], post[3], post[2], post[1], post[14]])
+#             wiki_examples_final.append(wiki_example)
+#             posts.remove(post)
+#             wiki_examples.remove(wiki_example)
+#             break
+# print("\nDone! Added " + len(wiki_examples_final).__str__() + " wiki_examples and posts")
+
 print("Adding random posts and their family")
 chosen_posts = random.sample(posts, 40000)
 arrlen = (chosen_posts.__len__() / 1000).__floor__()
@@ -463,6 +486,33 @@ for i, chosen_post in enumerate(chosen_posts):
     else:
         posts.remove(chosen_post)
 print("\nDone! There are now " + len(posts_final).__str__() + " posts\n")
+
+print("Adding random wikis and their example posts")
+chosen_wikis = random.sample(wikis, 17500)
+arrlen = (chosen_wikis.__len__() / 1000).__floor__()
+for i, chosen_wiki in enumerate(chosen_wikis):
+    if i % arrlen == 0:
+        print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+
+    wikis_final.append([chosen_wiki[3], chosen_wiki[4]])
+
+    for wiki_example in wiki_examples:
+        if wiki_example[0] == chosen_wiki[3]:
+            found = False
+            for final_post in posts_final:
+                if final_post[0] == wiki_example[1]:
+                    wiki_examples_final.append(wiki_example)
+                    found = True
+                    break
+
+            if not found:
+                for post in posts:
+                    if post[0] == wiki_example[1]:
+                        posts_final.append([post[0], post[3], post[2], post[1], post[14]])
+                        posts.remove(post)
+                        wiki_examples_final.append(wiki_example)
+                        break
+print("\nDone! Added " + len(wiki_examples_final).__str__() + " wiki_examples\n")
 
 print("Making sure every post's entire family is accounted for")
 arrlen = (posts_final.__len__() / 1000).__floor__()
@@ -486,7 +536,7 @@ while (True):
         break
 print("\nDone! There are now " + len(posts_final).__str__() + " posts\n")
 
-print("Adding post-parent relationships")
+print("Matching post-parent relationships to existing posts")
 arrlen = (post_parents.__len__() / 1000).__floor__()
 for i, post_parent in enumerate(post_parents):
     if i % arrlen == 0:
@@ -495,11 +545,46 @@ for i, post_parent in enumerate(post_parents):
     for final_post in posts_final:
         if final_post[0] in post_parent:
             post_parents_final.append(post_parent)
-print("\nDone! Added " + len(post_parents_final).__str__() + " parent-post relationships")
+print("\nDone! Added " + len(post_parents_final).__str__() + " parent-post relationships\n")
 
-# todo: save relevant tags, post_tag relationships, wikis and maybe more
+print("Matching post-tag relationships to existing posts")
+arrlen = (posts_final.__len__() / 1000).__floor__()
+for i, final_post in enumerate(posts_final):
+    if i % arrlen == 0:
+        print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+
+    for post_tag in post_tags:
+        if final_post[0] == post_tag[0]:
+            post_tags_final.append(post_tag)
+print("\nDone! Found " + len(post_tags_final).__str__() + " valid post-tag relationships\n")
+
+print("Matching tags to post-tag relationships")
+arrlen = (tags.__len__() / 1000).__floor__()
+for i, tag in enumerate(tags):
+    if i % arrlen == 0:
+        print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+
+    for post_tag_final in post_tags_final:
+        if tag[0] == post_tag_final[1]:
+            tags_final.append(tag)
+print("\nDone! Found " + len(tags_final).__str__() + " tags\n")
+
+# Can't fit all wikis into 32MB, found another way. Unfinished code
+#
+# print("Matching wikis to tags")
+# arrlen = (tags_final.__len__() / 1000).__floor__()
+# for i, tag_final in enumerate(tags_final):
+#     if i % arrlen == 0:
+#         print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+#
+#     for wiki in wikis:
+#         if wiki[3] == tag_final:
+#             wikis_final.append([wiki[3], wiki[4]])
+
+
+# todo: make a checklist of entities accounted for
 # todo: (DO NOT USE HOME INTERNET) load e9/users/*user id*, then get username with regex "User - .* - e926" and repeat
-# todo: remove concept of representing image - not scrapeable
+# todo: scrape text posts and favorites and generate scores
 
 # with open("D:\\velký dbs fily\\zql_tag_implications.sql", "w", encoding="utf-8", newline="") as implications_out:
 #     with open("D:\\velký dbs fily\\tag_implications.csv", encoding="utf-8") as implications_in:
