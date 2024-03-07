@@ -558,7 +558,7 @@ for i, final_post in enumerate(posts_final):
             post_tags_final.append(post_tag)
 print("\nDone! Found " + len(post_tags_final).__str__() + " valid post-tag relationships\n")
 
-print("Matching tags to post-tag relationships")
+print("Matching tags to post-tag relationships and tag implications")
 arrlen = (tags.__len__() / 1000).__floor__()
 for i, tag in enumerate(tags):
     if i % arrlen == 0:
@@ -567,6 +567,10 @@ for i, tag in enumerate(tags):
     for post_tag_final in post_tags_final:
         if tag[0] == post_tag_final[1]:
             tags_final.append(tag)
+            for tag_implication in implications:
+                if tag in tag_implication:
+                    tag_implications_final.append(tag_implication)
+                    implications.remove(tag_implication)
 print("\nDone! Found " + len(tags_final).__str__() + " tags\n")
 
 # Can't fit all wikis into 32MB, found another way. Unfinished code
@@ -582,9 +586,10 @@ print("\nDone! Found " + len(tags_final).__str__() + " tags\n")
 #             wikis_final.append([wiki[3], wiki[4]])
 
 
-# todo: make a checklist of entities accounted for
+# todo: generate - blacklist, post score, blip score
+# todo: scrape - favorites, blips, comments
+# todo: scrape and generate users
 # todo: (DO NOT USE HOME INTERNET) load e9/users/*user id*, then get username with regex "User - .* - e926" and repeat
-# todo: scrape text posts and favorites and generate scores
 
 # with open("D:\\velký dbs fily\\zql_tag_implications.sql", "w", encoding="utf-8", newline="") as implications_out:
 #     with open("D:\\velký dbs fily\\tag_implications.csv", encoding="utf-8") as implications_in:
