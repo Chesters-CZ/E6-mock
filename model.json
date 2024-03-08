@@ -29,20 +29,12 @@
     {
       "name": "Blip",
       "parent": "Text_post",
-      "attr": [
-        {
-          "name": "replying_to",
-          "primary": false,
-          "unique": false,
-          "nullable": false,
-          "type": null
-        }
-      ],
+      "attr": [],
       "transform": {
         "x": 10,
-        "y": 72.5020739064854,
-        "width": 178,
-        "height": 123
+        "y": 72.77152188316757,
+        "width": 160.71570424095034,
+        "height": 121
       }
     },
     {
@@ -88,19 +80,12 @@
           "unique": false,
           "nullable": false,
           "type": null
-        },
-        {
-          "name": "replying_to",
-          "primary": false,
-          "unique": false,
-          "nullable": false,
-          "type": null
         }
       ],
       "transform": {
-        "x": 10,
+        "x": 10.5,
         "y": 204,
-        "width": 178,
+        "width": 161.26061223706404,
         "height": 138
       }
     },
@@ -409,8 +394,8 @@
       "transform": {
         "x": -1134.9909232923942,
         "y": 493.1854260935146,
-        "width": 198,
-        "height": 459
+        "width": 198.5,
+        "height": 352
       }
     },
     {
@@ -443,13 +428,6 @@
           "primary": false,
           "unique": false,
           "nullable": false,
-          "type": null
-        },
-        {
-          "name": "representing_image",
-          "primary": false,
-          "unique": false,
-          "nullable": true,
           "type": null
         }
       ],
@@ -514,106 +492,6 @@
     }
   ],
   "relations": [
-    [
-      {
-        "entity": "Blip",
-        "identifying": false,
-        "optional": true,
-        "cardinality": 0,
-        "xor": null,
-        "name": "<- is a reply to",
-        "transform": {
-          "anchor": {
-            "x": -1124.9909232923942,
-            "y": 612.6875,
-            "edge": 3
-          },
-          "points": [
-            {
-              "x": -1231.9909232923942,
-              "y": 612.6875
-            }
-          ],
-          "manual": false
-        }
-      },
-      {
-        "entity": "Blip",
-        "identifying": false,
-        "optional": true,
-        "cardinality": 1,
-        "xor": null,
-        "name": "<- is replied to",
-        "transform": {
-          "anchor": {
-            "x": -1124.9909232923942,
-            "y": 596.6875,
-            "edge": 3
-          },
-          "points": [
-            {
-              "x": -1231.9909232923942,
-              "y": 596.6875
-            },
-            {
-              "x": -1231.9909232923942,
-              "y": 612.6875
-            }
-          ],
-          "manual": true
-        }
-      }
-    ],
-    [
-      {
-        "entity": "Comment",
-        "identifying": false,
-        "optional": true,
-        "cardinality": 0,
-        "xor": null,
-        "name": "<- is a reply to",
-        "transform": {
-          "anchor": {
-            "x": -1124.9909232923942,
-            "y": 766.1854260935146,
-            "edge": 3
-          },
-          "points": [
-            {
-              "x": -1231.9909232923942,
-              "y": 766.1854260935146
-            },
-            {
-              "x": -1231.9909232923942,
-              "y": 739.6875
-            }
-          ],
-          "manual": true
-        }
-      },
-      {
-        "entity": "Comment",
-        "identifying": false,
-        "optional": true,
-        "cardinality": 1,
-        "xor": null,
-        "name": "<- is replied to",
-        "transform": {
-          "anchor": {
-            "x": -1124.9909232923942,
-            "y": 739.6875,
-            "edge": 3
-          },
-          "points": [
-            {
-              "x": -1231.9909232923942,
-              "y": 739.6875
-            }
-          ],
-          "manual": false
-        }
-      }
-    ],
     [
       {
         "entity": "Pool_posts",
@@ -881,24 +759,28 @@
       },
       {
         "entity": "Comment",
-        "identifying": false,
+        "identifying": true,
         "optional": false,
         "cardinality": 0,
         "xor": null,
         "name": "commenting post ->",
         "transform": {
           "anchor": {
-            "x": -946.9909232923942,
+            "x": -963.2303110553302,
             "y": 766.1854260935146,
             "edge": 1
           },
           "points": [
             {
+              "x": -868.1436834089839,
+              "y": 766.1854260935146
+            },
+            {
               "x": -71,
               "y": 766.1854260935146
             }
           ],
-          "manual": false
+          "manual": true
         }
       }
     ],
@@ -1204,13 +1086,13 @@
         "name": "has been rated by ->",
         "transform": {
           "anchor": {
-            "x": -936.9909232923942,
+            "x": -936.4909232923942,
             "y": 724.9931184012069,
             "edge": 1
           },
           "points": [
             {
-              "x": -870.9909232923942,
+              "x": -870.5061357237746,
               "y": 724.9931184012069
             }
           ],
@@ -1226,13 +1108,13 @@
         "name": null,
         "transform": {
           "anchor": {
-            "x": -870.9909232923942,
+            "x": -870.5061357237746,
             "y": 666.6875,
             "edge": 2
           },
           "points": [
             {
-              "x": -870.9909232923942,
+              "x": -870.5061357237746,
               "y": 724.9931184012069
             }
           ],
@@ -1272,7 +1154,7 @@
         "name": "has been posted by ->",
         "transform": {
           "anchor": {
-            "x": -936.9909232923942,
+            "x": -936.4909232923942,
             "y": 507.80081070889923,
             "edge": 1
           },
@@ -1537,52 +1419,6 @@
             }
           ],
           "manual": true
-        }
-      }
-    ],
-    [
-      {
-        "entity": "User",
-        "identifying": false,
-        "optional": true,
-        "cardinality": 1,
-        "xor": null,
-        "name": "is represented by ->",
-        "transform": {
-          "anchor": {
-            "x": -607.2986156000879,
-            "y": 376.078125,
-            "edge": 2
-          },
-          "points": [
-            {
-              "x": -607.2986156000879,
-              "y": 398.078125
-            }
-          ],
-          "manual": false
-        }
-      },
-      {
-        "entity": "Post",
-        "identifying": false,
-        "optional": true,
-        "cardinality": 1,
-        "xor": null,
-        "name": "<- represents",
-        "transform": {
-          "anchor": {
-            "x": -97,
-            "y": 398.078125,
-            "edge": 3
-          },
-          "points": [
-            {
-              "x": -607.2986156000879,
-              "y": 398.078125
-            }
-          ],
-          "manual": false
         }
       }
     ],

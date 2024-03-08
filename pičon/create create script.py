@@ -1,9 +1,31 @@
 import csv
 import random
-import time
 import sys
 import numpy
+import requests
 import re
+from bs4 import BeautifulSoup
+import time
+
+
+def get_username_from_user_id(user_id: int):
+    headers = {
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36"}
+    response = requests.get('https://e926.net/users/' + str(user_id), headers=headers)
+    return re.search("User - .* - e926", response.text.replace("\n", "")).group()[7:-7]
+
+
+def dump_database(dbs: list, header: list, filename: str):
+    with open("D:\\velký dbs fily\\" + filename, "w", encoding="utf-8", newline="") as file_out:
+        writer = csv.writer(file_out)
+        writer.writerow(header)
+
+        arrlen = (dbs.__len__() / 1000).__floor__()
+        for i, row in enumerate(dbs):
+            if i % arrlen == 0:
+                print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+            writer.writerow(row)
+
 
 print("\nInitializing csv field size limit", end="")
 
@@ -317,104 +339,42 @@ print("users: harvested user IDs, need to be assigned roles and scraped username
 print("\n---------- SAVING DATA -----------")
 
 print("Saving posts")
-with open("D:\\velký dbs fily\\checkpoint1_posts.csv", "w", encoding="utf-8", newline="") as posts_out:
-    posts_writer = csv.writer(posts_out)
-    posts_writer.writerow(posts_header)
-
-    arrlen = (posts.__len__() / 1000).__floor__()
-    for i, post in enumerate(posts):
-        if i % arrlen == 0:
-            print("\r" + (i / arrlen / 10).__str__() + "%", end="")
-        posts_writer.writerow(post)
+dump_database(posts, posts_header, "checkpoint1_posts.csv")
 print("\nDone!\n")
 
 print("Saving tags")
-with open("D:\\velký dbs fily\\checkpoint1_tags.csv", "w", encoding="utf-8", newline="") as tags_out:
-    tags_writer = csv.writer(tags_out)
-    tags_writer.writerow(tags_header)
-
-    arrlen = (tags.__len__() / 1000).__floor__()
-    for i, tag in enumerate(tags):
-        if i % arrlen == 0:
-            print("\r" + (i / arrlen / 10).__str__() + "%", end="")
-        tags_writer.writerow(tag)
+dump_database(tags, tags_header, "checkpoint1_tags.csv")
 print("\nDone!\n")
 
 print("Saving post_parents")
-with open("D:\\velký dbs fily\\checkpoint1_post_parents.csv", "w", encoding="utf-8", newline="") as post_parents_out:
-    post_parents_writer = csv.writer(post_parents_out)
-    post_parents_writer.writerow(parents_header)
-
-    arrlen = (post_parents.__len__() / 1000).__floor__()
-    for i, post_parent in enumerate(post_parents):
-        if i % arrlen == 0:
-            print("\r" + (i / arrlen / 10).__str__() + "%", end="")
-        post_parents_writer.writerow(post_parent)
+dump_database(post_parents, parents_header, "checkpoint1_post_parents.csv")
 print("\nDone!\n")
 
 print("Saving post_tags")
-with open("D:\\velký dbs fily\\checkpoint1_post_tags.csv", "w", encoding="utf-8", newline="") as post_tags_out:
-    post_tags_writer = csv.writer(post_tags_out)
-    post_tags_writer.writerow(post_tags_header)
-
-    arrlen = (post_tags.__len__() / 1000).__floor__()
-    for i, post in enumerate(post_tags):
-        if i % arrlen == 0:
-            print("\r" + (i / arrlen / 10).__str__() + "%", end="")
-        post_tags_writer.writerow(post)
+dump_database(post_tags, post_tags_header, "checkpoint1_post_tags.csv")
 print("\nDone!\n")
 
 print("Saving tag_implications")
-with open("D:\\velký dbs fily\\checkpoint1_tag_implications.csv", "w", encoding="utf-8",
-          newline="") as tag_implications_out:
-    tag_implications_writer = csv.writer(tag_implications_out)
-    tag_implications_writer.writerow(implications_header)
-
-    arrlen = (implications.__len__() / 1000).__floor__()
-    for i, implication in enumerate(implications):
-        if i % arrlen == 0:
-            print("\r" + (i / arrlen / 10).__str__() + "%", end="")
-        tag_implications_writer.writerow(implication)
+dump_database(implications, implications_header, "checkpoint1_tag_implications.csv")
 print("\nDone!\n")
 
 print("Saving wikis")
-with open("D:\\velký dbs fily\\checkpoint1_wikis.csv", "w", encoding="utf-8", newline="") as wikis_out:
-    wikis_writer = csv.writer(wikis_out)
-    wikis_writer.writerow(wikis_header)
-
-    arrlen = (wikis.__len__() / 1000).__floor__()
-    for i, wiki in enumerate(wikis):
-        if i % arrlen == 0:
-            print("\r" + (i / arrlen / 10).__str__() + "%", end="")
-        wikis_writer.writerow(wiki)
+dump_database(wikis, wikis_header, "checkpoint1_wikis.csv")
 print("\nDone!\n")
 
 print("Saving wiki_examples")
-with open("D:\\velký dbs fily\\checkpoint1_wiki_examples.csv", "w", encoding="utf-8", newline="") as wiki_exampless_out:
-    wiki_examples_writer = csv.writer(wiki_exampless_out)
-    wiki_examples_writer.writerow(wiki_examples_header)
-
-    arrlen = (wiki_examples.__len__() / 1000).__floor__()
-    for i, example in enumerate(wiki_examples):
-        if i % arrlen == 0:
-            print("\r" + (i / arrlen / 10).__str__() + "%", end="")
-        wikis_writer.writerow(example)
+dump_database(wiki_examples, wiki_examples_header, "checkpoint1_wiki_examples.csv")
 print("\nDone!\n")
 
 print("Saving user IDs")
-with open("D:\\velký dbs fily\\checkpoint1_user_ids.csv", "w", encoding="utf-8", newline="") as user_ids_out:
-    user_ids_writer = csv.writer(wikis_out)
-    user_ids_writer.writerow(["id"])
-
-    arrlen = (user_ids.__len__() / 1000).__floor__()
-    for i, user_id in enumerate(user_ids):
-        if i % arrlen == 0:
-            print("\r" + (i / arrlen / 10).__str__() + "%", end="")
-        wikis_writer.writerow(user_id)
+dump_database(user_ids, ["id"], "checkpoint1_user_ids.csv")
 print("\nDone!\n")
 
 print("\n---------- DATA SAVED -----------\n")
 print("\n---------- CHERRY-PICKING DATA ----------\n")
+
+posts_header = ["id", "file", "upload_date", "uploader", "verified_by"]
+users_header = ["id", "username", "password_hash", "role"]
 
 posts_final = []
 pool_posts_final = []
@@ -425,6 +385,10 @@ post_tags_final = []
 tag_implications_final = []
 wikis_final = []
 wiki_examples_final = []
+users_final = []
+
+user_ids_final = []
+unique_user_ids_final = []
 
 print("Choosing pools")
 chosen_pools = random.sample(pools, 50)
@@ -572,6 +536,56 @@ for i, tag in enumerate(tags):
                     tag_implications_final.append(tag_implication)
                     implications.remove(tag_implication)
 print("\nDone! Found " + len(tags_final).__str__() + " tags\n")
+
+print("Harvesting user ids from posts")
+arrlen = (posts_final.__len__() / 1000).__floor__()
+for i, post_final in enumerate(posts_final):
+    if i % arrlen == 0:
+        print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+
+    user_ids_final.append(post_final[3])
+    if len(post_final[4]) > 0:
+        user_ids_final.append(post_final[4])
+unique_user_ids_final = numpy.unique(numpy.array(user_ids_final))
+print("\nDone! Harvested " + unique_user_ids_final.__len__().__str__() + " unique user ids\n")
+
+print("Scraping usernames and generating password hashes")
+try:
+    arrlen = (user_ids_final.__len__() / 1000).__floor__()
+    for i, unique_user_id in enumerate(unique_user_ids_final):
+        if i % arrlen == 0:
+            print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+
+        username = get_username_from_user_id(int(unique_user_id))
+        users_final.append([unique_user_id, username, hash(username), "Member"])
+        time.sleep(0.5)
+except:
+    print("\nERROR OCCURED WHILE SCRAPING USERNAMES. DUMPING DATABASES...")
+    dump_database(posts_final, posts_header, "rescue\\posts.csv")
+    dump_database(pool_posts_final, pool_posts_header, "rescue\\pool_posts.csv")
+    dump_database(pools_final, pools_header, "rescue\\pools.csv")
+    dump_database(post_parents_final, parents_header, "rescue\\post_parents.csv")
+    dump_database(tags_final, tags_header, "rescue\\tags.csv")
+    dump_database(post_tags_final, post_tags_header, "rescue\\post_tags.csv")
+    dump_database(tag_implications_final, implications_header, "rescue\\implications.csv")
+    dump_database(wikis_final, wikis_header, "rescue\\wikis.csv")
+    dump_database(wiki_examples_final, wiki_examples_header, "rescue\\wiki_examples.csv")
+    dump_database(users_final, users_header, "rescue\\users.csv")
+    dump_database(user_ids_final, ["id"], "rescue\\user_ids.csv")
+print("\nDone!\n")
+
+print("Assigning admin, mod and janitor roles")
+arrlen = (user_ids_final.__len__() / 1000).__floor__()
+for i, final_post in enumerate(posts_final):
+    if i % arrlen == 0:
+        print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+
+    if len(final_post[4]) > 0:
+        for final_user in users_final:
+            if final_user[0] == final_post[4]:
+                final_user[3] = random.sample(["Admin", "Moderator", "Janitor"], 1)[0]
+                break
+
 
 # Can't fit all wikis into 32MB, found another way. Unfinished code
 #
