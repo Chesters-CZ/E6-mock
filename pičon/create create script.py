@@ -15,6 +15,51 @@ def get_username_from_user_id(user_id: int):
     return re.search("User - .* - e926", response.text.replace("\n", "")).group()[7:-7]
 
 
+def get_user_favorites(user_id: int):
+    headers = {
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36"}
+    response = requests.get('https://e621.net/favorites?user_id=' + str(user_id), headers=headers)
+    raw_post_ids = re.findall("<article id=\".*?\"", response.text.replace("\n", ""))
+    processed_post_ids = []
+    for raw_post_id in raw_post_ids:
+        processed_post_ids.append(raw_post_id[18:-1])
+    return processed_post_ids
+
+
+def get_user_comments(user_id: int):
+    headers = {
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36"}
+    response = requests.get('https://e621.net/comments?group_by=comment&search%5Bcreator_id%5D=' + str(user_id),
+                            headers=headers)
+    soup = BeautifulSoup(response.text, "html.parser")
+    comments = soup.find_all("div", class_="comment-post")
+    comments_out = []
+    for comment in comments:
+        try:
+            comments_out.append([re.search("[0-9]+", re.search("id=\"post_[0-9]+\"", comment.__str__().replace("\n",
+                                                                                                               "")).group().__str__()).group().__str__(),
+                                 comment.findNext("div", class_="styled-dtext").text])
+        except AttributeError:
+            pass
+    return comments_out
+
+
+def get_user_blips(user_id: int):
+    headers = {
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36"}
+    response = requests.get('https://e621.net/blips?group_by=comment&search%5Bcreator_id%5D=' + str(user_id),
+                            headers=headers)
+    soup = BeautifulSoup(response.text, "html.parser")
+    blips = soup.find_all("div", class_="response-list")
+    blips_out = []
+    for blip in blips:
+        try:
+            blips_out.append(blip.findNext("div", class_="styled-dtext").text)
+        except AttributeError:
+            pass
+    return blips_out
+
+
 def dump_database(dbs: list, header: list, filename: str):
     with open("D:\\velký dbs fily\\" + filename, "w", encoding="utf-8", newline="") as file_out:
         writer = csv.writer(file_out)
@@ -328,14 +373,6 @@ for i, example in enumerate(wiki_examples):
 print("\nDone, removed " + str(removed) + " wiki_examples referencing deleted posts\n")
 
 print("\n---------- CHECKPOINT REACHED ----------")
-print("posts: DONE")
-print("tags: DONE")
-print("post_parents: DONE")
-print("post_tags: DONE")
-print("tag_implications: DONE")
-print("wikis: DONE")
-print("wiki_examples: DONE")
-print("users: harvested user IDs, need to be assigned roles and scraped usernames and posts")
 print("\n---------- SAVING DATA -----------")
 
 print("Saving posts")
@@ -373,8 +410,11 @@ print("\nDone!\n")
 print("\n---------- DATA SAVED -----------\n")
 print("\n---------- CHERRY-PICKING DATA ----------\n")
 
-posts_header = ["id", "file", "upload_date", "uploader", "verified_by"]
+posts_header = ["id", "file", "upload_date", "uploader", "rating", "verified_by"]
 users_header = ["id", "username", "password_hash", "role"]
+favorites_header = ["user", "post"]
+comments_header = ["id", "user", "content", "post"]
+blips_header = ["id", "user", "content"]
 
 posts_final = []
 pool_posts_final = []
@@ -386,6 +426,9 @@ tag_implications_final = []
 wikis_final = []
 wiki_examples_final = []
 users_final = []
+favorites_final = []
+comments_final = []
+blips_final = []
 
 user_ids_final = []
 unique_user_ids_final = []
@@ -405,7 +448,7 @@ for i, chosen_pool in enumerate(chosen_pools):
 
     for post in posts:
         if post[0] in posts_in_chosen_pool:
-            posts_final.append([post[0], post[3], post[2], post[1], post[14]])
+            posts_final.append([post[0], post[3], post[2], post[1], post[5], post[14]])
             pool_posts_final.append([chosen_pool[0], post[0], posts_in_chosen_pool.index(post[0])])
             posts.remove(post)
 
@@ -436,7 +479,8 @@ for i, chosen_post in enumerate(chosen_posts):
     if i % arrlen == 0:
         print("\r" + (i / arrlen / 10).__str__() + "%", end="")
 
-    posts_final.append([chosen_post[0], chosen_post[3], chosen_post[2], chosen_post[1], chosen_post[14]])
+    posts_final.append(
+        [chosen_post[0], chosen_post[3], chosen_post[2], chosen_post[1], chosen_post[5], chosen_post[14]])
 
     if chosen_post[12] != "":
         chosen_post_id = chosen_post[0]
@@ -444,7 +488,7 @@ for i, chosen_post in enumerate(chosen_posts):
         posts.remove(chosen_post)
         for post in posts:
             if post[0] == chosen_post_parent or post[12] == chosen_post_parent or post[12] == chosen_post_id:
-                posts_final.append([post[0], post[3], post[2], post[1], post[14]])
+                posts_final.append([post[0], post[3], post[2], post[1], post[5], post[14]])
                 posts.remove(post)
 
     else:
@@ -472,7 +516,7 @@ for i, chosen_wiki in enumerate(chosen_wikis):
             if not found:
                 for post in posts:
                     if post[0] == wiki_example[1]:
-                        posts_final.append([post[0], post[3], post[2], post[1], post[14]])
+                        posts_final.append([post[0], post[3], post[2], post[1], post[5], post[14]])
                         posts.remove(post)
                         wiki_examples_final.append(wiki_example)
                         break
@@ -493,7 +537,7 @@ while (True):
                 for post in posts:
                     if post[0] in post_parent or post[12] in post_parent:
                         found_new = True
-                        posts_final.append([post[0], post[3], post[2], post[1], post[14]])
+                        posts_final.append([post[0], post[3], post[2], post[1], post[5], post[14]])
                         posts.remove(post)
 
     if not found_new:
@@ -556,7 +600,7 @@ try:
         if i % arrlen == 0:
             print("\r" + (i / arrlen / 10).__str__() + "%", end="")
 
-        username = get_username_from_user_id(int(unique_user_id))
+        username = get_username_from_user_id(unique_user_id)
         users_final.append([unique_user_id, username, hash(username), "Member"])
         time.sleep(0.5)
 except:
@@ -574,8 +618,8 @@ except:
     dump_database(user_ids_final, ["id"], "rescue\\user_ids.csv")
 print("\nDone!\n")
 
-print("Assigning admin, mod and janitor roles")
-arrlen = (user_ids_final.__len__() / 1000).__floor__()
+print("Assigning admin, mod and janitor roles")  # also used as a cooldown period for the request rate
+arrlen = (posts_final.__len__() / 1000).__floor__()
 for i, final_post in enumerate(posts_final):
     if i % arrlen == 0:
         print("\r" + (i / arrlen / 10).__str__() + "%", end="")
@@ -585,9 +629,123 @@ for i, final_post in enumerate(posts_final):
             if final_user[0] == final_post[4]:
                 final_user[3] = random.sample(["Admin", "Moderator", "Janitor"], 1)[0]
                 break
+print("\nDone!\n")
 
-# TODO: ADD RATING TO POST
+print("Scraping user favorites")
+try:
+    arrlen = (users_final.__len__() / 1000).__floor__()
+    for i, final_user in enumerate(users_final):
+        if i % arrlen == 0:
+            print("\r" + (i / arrlen / 10).__str__() + "%", end="")
 
+        for favorite in get_user_favorites(final_user[0]):
+            favorites_final.append([final_user[0], favorite])
+        time.sleep(0.5)
+except:
+    print("\nERROR OCCURED WHILE SCRAPING USER FAVORITES. DUMPING DATABASES...")
+    dump_database(posts_final, posts_header, "rescue\\posts.csv")
+    dump_database(pool_posts_final, pool_posts_header, "rescue\\pool_posts.csv")
+    dump_database(pools_final, pools_header, "rescue\\pools.csv")
+    dump_database(post_parents_final, parents_header, "rescue\\post_parents.csv")
+    dump_database(tags_final, tags_header, "rescue\\tags.csv")
+    dump_database(post_tags_final, post_tags_header, "rescue\\post_tags.csv")
+    dump_database(tag_implications_final, implications_header, "rescue\\implications.csv")
+    dump_database(wikis_final, wikis_header, "rescue\\wikis.csv")
+    dump_database(wiki_examples_final, wiki_examples_header, "rescue\\wiki_examples.csv")
+    dump_database(users_final, users_header, "rescue\\users.csv")
+    dump_database(user_ids_final, ["id"], "rescue\\user_ids.csv")
+    dump_database(favorites_final, favorites_header, "rescue\\favorites.csv")
+print("\nDone!\n")
+
+print("Removing user favorites referencing invalid posts")  # also used as a cooldown period for the request rate
+arrlen = (favorites_final.__len__() / 1000).__floor__()
+for i, favorite in enumerate(favorites_final):
+    if i % arrlen == 0:
+        print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+
+    found = False
+    for final_post in posts_final:
+        if final_post[0] == favorite[1]:
+            found = True
+            break
+
+    if not found:
+        favorites_final.remove(favorite)
+print("\nDone!\n")
+
+print("Scraping comments")
+try:
+    arrlen = (users_final.__len__() / 1000).__floor__()
+    for i, final_user in enumerate(users_final):
+        if i % arrlen == 0:
+            print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+
+        for comment in (get_user_comments(final_user[0])):
+            comments_final.append([i, final_user[0], comment[1], comment[0]])
+        time.sleep(0.5)
+except:
+    print("\nERROR OCCURED WHILE SCRAPING COMMENTS. DUMPING DATABASES...")
+    dump_database(posts_final, posts_header, "rescue\\posts.csv")
+    dump_database(pool_posts_final, pool_posts_header, "rescue\\pool_posts.csv")
+    dump_database(pools_final, pools_header, "rescue\\pools.csv")
+    dump_database(post_parents_final, parents_header, "rescue\\post_parents.csv")
+    dump_database(tags_final, tags_header, "rescue\\tags.csv")
+    dump_database(post_tags_final, post_tags_header, "rescue\\post_tags.csv")
+    dump_database(tag_implications_final, implications_header, "rescue\\implications.csv")
+    dump_database(wikis_final, wikis_header, "rescue\\wikis.csv")
+    dump_database(wiki_examples_final, wiki_examples_header, "rescue\\wiki_examples.csv")
+    dump_database(users_final, users_header, "rescue\\users.csv")
+    dump_database(user_ids_final, ["id"], "rescue\\user_ids.csv")
+    dump_database(favorites_final, favorites_header, "rescue\\favorites.csv")
+    dump_database(comments_final, comments_header, "rescue\\comments.csv")
+print("\nDone!\n")
+
+print("Removing comments under invalid posts")  # also used as a cooldown period for the request rate
+arrlen = (comments_final.__len__() / 1000).__floor__()
+for i, comment in enumerate(comments_final):
+    if i % arrlen == 0:
+        print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+
+    found = False
+    for final_post in posts_final:
+        if final_post[0] == comment[1]:
+            found = True
+            break
+
+    if not found:
+        comments_final.remove(comment)
+print("\nDone!\n")
+
+print("Scraping blips")
+try:
+    arrlen = (users_final.__len__() / 1000).__floor__()
+    for i, final_user in enumerate(users_final):
+        if i % arrlen == 0:
+            print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+
+        for blip in get_user_blips(final_user[0]):
+            blips_final.append([i, final_user[0], blip])
+        time.sleep(0.5)
+except:
+    print("\nERROR OCCURED WHILE SCRAPING COMMENTS. DUMPING DATABASES...")
+    dump_database(posts_final, posts_header, "rescue\\posts.csv")
+    dump_database(pool_posts_final, pool_posts_header, "rescue\\pool_posts.csv")
+    dump_database(pools_final, pools_header, "rescue\\pools.csv")
+    dump_database(post_parents_final, parents_header, "rescue\\post_parents.csv")
+    dump_database(tags_final, tags_header, "rescue\\tags.csv")
+    dump_database(post_tags_final, post_tags_header, "rescue\\post_tags.csv")
+    dump_database(tag_implications_final, implications_header, "rescue\\implications.csv")
+    dump_database(wikis_final, wikis_header, "rescue\\wikis.csv")
+    dump_database(wiki_examples_final, wiki_examples_header, "rescue\\wiki_examples.csv")
+    dump_database(users_final, users_header, "rescue\\users.csv")
+    dump_database(user_ids_final, ["id"], "rescue\\user_ids.csv")
+    dump_database(favorites_final, favorites_header, "rescue\\favorites.csv")
+    dump_database(comments_final, comments_header, "rescue\\comments.csv")
+    dump_database(blips_final, blips_header, "rescue\\blips.csv")
+print("\nDone!\n")
+
+# todo: generate - blacklist, post score, blip score
+# todo: exit program after finishing emergency dumps
 
 # Can't fit all wikis into 32MB, found another way. Unfinished code
 #
@@ -602,10 +760,6 @@ for i, final_post in enumerate(posts_final):
 #             wikis_final.append([wiki[3], wiki[4]])
 
 
-# todo: generate - blacklist, post score, blip score
-# todo: scrape - favorites, blips, comments
-# todo: scrape and generate users
-# todo: (DO NOT USE HOME INTERNET) load e9/users/*user id*, then get username with regex "User - .* - e926" and repeat
 
 # with open("D:\\velký dbs fily\\zql_tag_implications.sql", "w", encoding="utf-8", newline="") as implications_out:
 #     with open("D:\\velký dbs fily\\tag_implications.csv", encoding="utf-8") as implications_in:

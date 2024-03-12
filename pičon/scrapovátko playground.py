@@ -36,14 +36,30 @@ def get_user_comments(user_id: int):
                                                                                                                "")).group().__str__()).group().__str__(),
                                  comment.findNext("div", class_="styled-dtext").text])
         except AttributeError:
-            comments_out.append(["", comment.findNext("div", class_="styled-dtext").text])
+            pass
     return comments_out
 
 
-# TODO: implement blip scraping (https://e926.net/blips?commit=Search&search%5Bcreator_name%5D=<username>)
+def get_user_blips(user_id: int):
+    headers = {
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36"}
+    response = requests.get('https://e621.net/blips?group_by=comment&search%5Bcreator_id%5D=' + str(user_id),
+                            headers=headers)
+    soup = BeautifulSoup(response.text, "html.parser")
+    blips = soup.find_all("div", class_="response-list")
+    blips_out = []
+    for blip in blips:
+        try:
+            blips_out.append(blip.findNext("div", class_="styled-dtext").text)
+        except AttributeError:
+            pass
+    return blips_out
+
 
 print(get_username_from_user_id(1376250))
 time.sleep(0.5)
 print(get_user_favorites(1005864))
 time.sleep(0.5)
 print(get_user_comments(81259))
+time.sleep(0.5)
+print(get_user_blips(81259))
