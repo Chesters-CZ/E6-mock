@@ -40,6 +40,8 @@ def get_user_comments(user_id: int):
     return comments_out
 
 
+# TODO: implement blip scraping (https://e926.net/blips?commit=Search&search%5Bcreator_name%5D=<username>)
+
 print(get_username_from_user_id(1376250))
 time.sleep(0.5)
 print(get_user_favorites(1005864))

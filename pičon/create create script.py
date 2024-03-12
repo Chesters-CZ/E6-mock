@@ -586,6 +586,8 @@ for i, final_post in enumerate(posts_final):
                 final_user[3] = random.sample(["Admin", "Moderator", "Janitor"], 1)[0]
                 break
 
+# TODO: ADD RATING TO POST
+
 
 # Can't fit all wikis into 32MB, found another way. Unfinished code
 #
