@@ -6,6 +6,8 @@ import requests
 import re
 from bs4 import BeautifulSoup
 import time
+from datetime import datetime
+import winsound
 
 
 def get_username_from_user_id(user_id: int):
@@ -414,7 +416,9 @@ posts_header = ["id", "file", "upload_date", "uploader", "rating", "verified_by"
 users_header = ["id", "username", "password_hash", "role"]
 favorites_header = ["user", "post"]
 comments_header = ["id", "user", "content", "post"]
-blips_header = ["id", "user", "content"]
+blacklist_header = ["user", "tag"]
+post_score_header = ["post", "user", "is_like"]
+blip_score_header = ["blip", "user", "is_like"]
 
 posts_final = []
 pool_posts_final = []
@@ -428,7 +432,9 @@ wiki_examples_final = []
 users_final = []
 favorites_final = []
 comments_final = []
-blips_final = []
+blacklist_final = []
+post_score_final = []
+blip_score_final = []
 
 user_ids_final = []
 unique_user_ids_final = []
@@ -525,7 +531,7 @@ print("\nDone! Added " + len(wiki_examples_final).__str__() + " wiki_examples\n"
 print("Making sure every post's entire family is accounted for")
 arrlen = (posts_final.__len__() / 1000).__floor__()
 pass_count = 1
-while (True):
+while True:
     found_new = False
 
     for i, final_post in enumerate(posts_final):
@@ -574,7 +580,13 @@ for i, tag in enumerate(tags):
 
     for post_tag_final in post_tags_final:
         if tag[0] == post_tag_final[1]:
-            tags_final.append(tag)
+            hasWiki = False
+            for wiki in wikis_final:
+                if wiki[0] == tag[0]:
+                    hasWiki = True
+                    break
+            tags_final.append([tag[0], 1 if hasWiki else 0])
+
             for tag_implication in implications:
                 if tag in tag_implication:
                     tag_implications_final.append(tag_implication)
@@ -616,6 +628,7 @@ except:
     dump_database(wiki_examples_final, wiki_examples_header, "rescue\\wiki_examples.csv")
     dump_database(users_final, users_header, "rescue\\users.csv")
     dump_database(user_ids_final, ["id"], "rescue\\user_ids.csv")
+    exit(1)
 print("\nDone!\n")
 
 print("Assigning admin, mod and janitor roles")  # also used as a cooldown period for the request rate
@@ -655,6 +668,7 @@ except:
     dump_database(users_final, users_header, "rescue\\users.csv")
     dump_database(user_ids_final, ["id"], "rescue\\user_ids.csv")
     dump_database(favorites_final, favorites_header, "rescue\\favorites.csv")
+    exit(2)
 print("\nDone!\n")
 
 print("Removing user favorites referencing invalid posts")  # also used as a cooldown period for the request rate
@@ -698,6 +712,7 @@ except:
     dump_database(user_ids_final, ["id"], "rescue\\user_ids.csv")
     dump_database(favorites_final, favorites_header, "rescue\\favorites.csv")
     dump_database(comments_final, comments_header, "rescue\\comments.csv")
+    exit(3)
 print("\nDone!\n")
 
 print("Removing comments under invalid posts")  # also used as a cooldown period for the request rate
@@ -724,7 +739,7 @@ try:
             print("\r" + (i / arrlen / 10).__str__() + "%", end="")
 
         for blip in get_user_blips(final_user[0]):
-            blips_final.append([i, final_user[0], blip])
+            comments_final.append([i, final_user[0], blip, ""])
         time.sleep(0.5)
 except:
     print("\nERROR OCCURED WHILE SCRAPING COMMENTS. DUMPING DATABASES...")
@@ -741,53 +756,271 @@ except:
     dump_database(user_ids_final, ["id"], "rescue\\user_ids.csv")
     dump_database(favorites_final, favorites_header, "rescue\\favorites.csv")
     dump_database(comments_final, comments_header, "rescue\\comments.csv")
-    dump_database(blips_final, blips_header, "rescue\\blips.csv")
+    exit(4)
 print("\nDone!\n")
 
-# todo: generate - blacklist, post score, blip score
-# todo: exit program after finishing emergency dumps
+print("Generating blacklists")
+blacklist_count = 5000
+arrlen = (blacklist_count / 1000).__floor__()
+for i in range(blacklist_count):
+    if i % arrlen == 0:
+        print("\r" + (i / arrlen / 10).__str__() + "%", end="")
 
-# Can't fit all wikis into 32MB, found another way. Unfinished code
-#
-# print("Matching wikis to tags")
-# arrlen = (tags_final.__len__() / 1000).__floor__()
-# for i, tag_final in enumerate(tags_final):
-#     if i % arrlen == 0:
-#         print("\r" + (i / arrlen / 10).__str__() + "%", end="")
-#
-#     for wiki in wikis:
-#         if wiki[3] == tag_final:
-#             wikis_final.append([wiki[3], wiki[4]])
+    random_user = random.choice(users_final)
+    random_tag = random.choice(tags)
+    blacklist_final.append([random_user[0], random_tag[0]])
+print("\nDone!\n")
 
+print("Generating post score")
+post_score_count = 5000
+arrlen = (post_score_count / 1000).__floor__()
+for i in range(post_score_count):
+    if i % arrlen == 0:
+        print("\r" + (i / arrlen / 10).__str__() + "%", end="")
 
+    random_user = random.choice(users_final)
+    random_post = random.choice(posts)
+    post_score_final.append(
+        [random_user[0], random_post[0], (1).__str__ if (random.random() > 0.33) else (0).__str__()])
+print("\nDone!\n")
 
-# with open("D:\\velký dbs fily\\zql_tag_implications.sql", "w", encoding="utf-8", newline="") as implications_out:
-#     with open("D:\\velký dbs fily\\tag_implications.csv", encoding="utf-8") as implications_in:
-#         implications_reader = csv.reader(implications_in)
-#         firstline = True
-#         for row in implications_reader:
-#             if firstline:
-#                 implications_out.write("INSERT INTO TAG_IMPLICATIONS (TAG, IMPLIES) VALUES ")
-#                 print("-- READING TAG IMPLICATIONS --")
-#                 firstline = False
-#             else:
-#                 if row[4] == "active":
-#                     implications_out.write("( \"" + row[1] + "\", \"" + row[2] + "\" ), ")
-#                 else:
-#                     print("SKIPPING TAG IMPLICATION: " + row.__str__().encode(encoding="utf-8", errors="ignore").__str__())
-#
-# with open("D:\\velký dbs fily\\zql_tags.sql", "w", encoding="utf-8", newline="") as tags_out:
-#     tags_writer = csv.writer(tags_out)
-#     with open("D:\\velký dbs fily\\tags.csv", encoding="utf-8") as tags_in:
-#         tags_reader = csv.reader(tags_in)
-#         firstline = True
-#         for row in tags_reader:
-#             if firstline:
-#                 tags_writer.writerow([row[0], row[1]])
-#                 print("-- READING TAGS --")
-#                 firstline = False
-#             else:
-#                 if row[3] != "0":
-#                     tags_writer.writerow([row[0], row[1]])
-#                 else:
-#                     print("SKIPPING TAG: " + row.__str__().encode(encoding="utf-8", errors="ignore").__str__())
+print("Generating blip score")
+blip_score_count = 5000
+arrlen = (blip_score_count / 1000).__floor__()
+for i in range(blip_score_count):
+    if i % arrlen == 0:
+        print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+
+    random_user = random.choice(users_final)
+    random_comment = random.choice(comments_final)
+    blip_score_final.append(
+        [random_user[0], random_comment[0], (1).__str__ if (random.random() > 0.33) else (0).__str__()])
+print("\nDone!\n")
+
+print("\n---------- DATA PARSING AND GATHERING COMPLETE -----------\n")
+print("\n---------- SAVING DATA -----------\n")
+
+print("Saving posts")
+dump_database(posts_final, posts_header, "checkpoint2_posts.csv")
+print("Done!\n")
+
+print("Saving pool_posts")
+dump_database(pool_posts_final, pool_posts_header, "checkpoint2_pool_posts.csv")
+print("Done!\n")
+
+print("Saving pools")
+dump_database(pools_final, pools_header, "checkpoint2_pools.csv")
+print("Done!\n")
+
+print("Saving post_parents")
+dump_database(post_parents_final, parents_header, "checkpoint2_post_parents.csv")
+print("Done!\n")
+
+print("Saving tags")
+dump_database(tags_final, tags_header, "checkpoint2_tags.csv")
+print("Done!\n")
+
+print("Saving post_tags")
+dump_database(post_tags_final, post_tags_header, "checkpoint2_post_tags.csv")
+print("Done!\n")
+
+print("Saving implications")
+dump_database(tag_implications_final, implications_header, "checkpoint2_implications.csv")
+print("Done!\n")
+
+print("Saving wikis")
+dump_database(wikis_final, wikis_header, "checkpoint2_wikis.csv")
+print("Done!\n")
+
+print("Saving wiki_examples")
+dump_database(wiki_examples_final, wiki_examples_header, "checkpoint2_wiki_examples.csv")
+print("Done!\n")
+
+print("Saving users")
+dump_database(users_final, users_header, "checkpoint2_users.csv")
+print("Done!\n")
+
+print("Saving favorites")
+dump_database(favorites_final, favorites_header, "checkpoint2_favorites.csv")
+print("Done!\n")
+
+print("Saving comments")
+dump_database(comments_final, comments_header, "checkpoint2_comments.csv")
+print("Done!\n")
+
+print("Saving blacklist")
+dump_database(blacklist_final, blacklist_header, "checkpoint2_blacklist.csv")
+print("Done!\n")
+
+print("Saving post_score")
+dump_database(post_score_final, post_score_header, "checkpoint2_post_score.csv")
+print("Done!\n")
+
+print("Saving blip_score")
+dump_database(blip_score_final, blip_score_header, "checkpoint2_blip_score.csv")
+print("Done!\n")
+
+print("\n---------- DATA SAVED -----------\n")
+print("\n---------- CREATING INSERT SCRIPT -----------\n")
+
+progress_current = 0
+progress_max = posts_final.__len__() + pool_posts_final.__len__() + pools_final.__len__() + post_parents_final.__len__() + tags_final.__len__() + post_tags_final.__len__() + tag_implications_final.__len__() + wikis_final.__len__() + wiki_examples_final.__len__() + users_final.__len__() + favorites_final.__len__() + comments_final.__len__() + blacklist_final.__len__() + post_score_final.__len__() + blip_score_final.__len__()
+arrlen = (progress_max / 1000).__floor__()
+
+insert_script = "-- SCRIPT CREATED AT " + datetime.now().strftime("%d/%m/%Y %H:%M:%S")
+insert_script += "INSERT INTO POSTS VAUES "
+
+for post in posts_final:
+    progress_current += 1
+    if progress_current % arrlen == 0:
+        print("\r" + (progress_current / arrlen / 10).__str__() + "%", end="")
+
+    insert_script += "(" + post[0] + ",\"" + post[1] + "\"," + "\"" + post[2] + "\"," + "\"" + post[3] + "\"," + "\"" + \
+                     post[4] + "\"," + "\"" + post[5] + "\"" + "), "
+
+insert_script += ";\nINSERT INTO POOL_POSTS VALUES "
+
+for pool_post in pool_posts_final:
+    progress_current += 1
+    if progress_current % arrlen == 0:
+        print("\r" + (progress_current / arrlen / 10).__str__() + "%", end="")
+
+    insert_script += "(" + pool_post[0] + "," + pool_post[1] + "," + pool_post[2] + "), "
+
+insert_script += ";\nINSERT INTO POOLS VALUES "
+
+for pool in pools_final:
+    progress_current += 1
+    if progress_current % arrlen == 0:
+        print("\r" + (progress_current / arrlen / 10).__str__() + "%", end="")
+
+    insert_script += "(" + pool[0] + ",\"" + pool[1] + ",\"" + pool[2] + "\"), "
+
+insert_script += ";\nINSERT INTO POST_PARENTS VALUES "
+
+for parent in post_parents_final:
+    progress_current += 1
+    if progress_current % arrlen == 0:
+        print("\r" + (progress_current / arrlen / 10).__str__() + "%", end="")
+
+    insert_script += "(" + parent[0].__str__() + "," + parent[1].__str__() + "), "
+
+insert_script += ";\nINSERT INTO TAGS VALUES "
+
+for tag in tags_final:
+    progress_current += 1
+    if progress_current % arrlen == 0:
+        print("\r" + (progress_current / arrlen / 10).__str__() + "%", end="")
+
+    insert_script += "(\"" + tag[0] + "\"," + tag[1] + "), "
+
+insert_script += ";\nINSERT INTO POST_TAGS VALUES "
+
+for post_tag in post_tags_final:
+    progress_current += 1
+    if progress_current % arrlen == 0:
+        print("\r" + (progress_current / arrlen / 10).__str__() + "%", end="")
+
+    insert_script += "(" + post_tag[0] + "\"," + post_tag[1] + "), "
+
+insert_script += ";\nINSERT INTO TAG_IMPLICATIONS VALUES "
+
+for implication in tag_implications_final:
+    progress_current += 1
+    if progress_current % arrlen == 0:
+        print("\r" + (progress_current / arrlen / 10).__str__() + "%", end="")
+
+    insert_script += "(\"" + implication[0] + "\",\"" + implication[1] + "\"), "
+
+insert_script += ";\nINSERT INTO WIKIS VALUES "
+
+for wiki in wikis_final:
+    progress_current += 1
+    if progress_current % arrlen == 0:
+        print("\r" + (progress_current / arrlen / 10).__str__() + "%", end="")
+
+    insert_script += "(\"" + wiki[0] + "\",\"" + wiki[1] + "\"), "
+
+insert_script += ";\nINSERT INTO WIKI_EXAMPLES VALUES "
+
+for wiki_example in wiki_examples_final:
+    progress_current += 1
+    if progress_current % arrlen == 0:
+        print("\r" + (progress_current / arrlen / 10).__str__() + "%", end="")
+
+    insert_script += "(\"" + wiki_example[0] + "\",\"" + wiki_example[1] + "\"), "
+
+insert_script += ";\nINSERT INTO USERS VALUES "
+
+for user in users_final:
+    progress_current += 1
+    if progress_current % arrlen == 0:
+        print("\r" + (progress_current / arrlen / 10).__str__() + "%", end="")
+
+    insert_script += "(" + user[0] + ",\"" + user[1] + "\",\"" + user[2] + "\",\"" + user[3] + "\"), "
+
+insert_script += ";\nINSERT INTO FAVORITES VALUES "
+
+for favorite in favorites_final:
+    progress_current += 1
+    if progress_current % arrlen == 0:
+        print("\r" + (progress_current / arrlen / 10).__str__() + "%", end="")
+
+    insert_script += "(" + favorite[0] + "," + favorite[1] + "), "
+
+insert_script += ";\nINSERT INTO TEXT_POST VALUES "
+
+for comment in comments_final:
+    progress_current += 1
+    if progress_current % arrlen == 0:
+        print("\r" + (progress_current / arrlen / 10).__str__() + "%", end="")
+
+    insert_script += "(" + comment[0] + "," + comment[1] + ",\"" + comment[2] + "\",\"" + comment[3] + "\"), "
+
+insert_script += ";\nINSERT INTO BLACKLIST VALUES "
+
+for blacklist in blacklist_final:
+    progress_current += 1
+    if progress_current % arrlen == 0:
+        print("\r" + (progress_current / arrlen / 10).__str__() + "%", end="")
+
+    insert_script += "(" + blacklist[0] + ",\"" + blacklist[1] + "\"), "
+
+insert_script += ";\nINSERT INTO POST_SCORE VALUES "
+
+for post_score in post_score_final:
+    progress_current += 1
+    if progress_current % arrlen == 0:
+        print("\r" + (progress_current / arrlen / 10).__str__() + "%", end="")
+
+    insert_script += "(" + post_score[0] + "," + post_score[1] + "," + post_score[2] + "), "
+
+insert_script += ";\nINSERT INTO BLIP_SCORE VALUES "
+
+for blip_score in blip_score_final:
+    progress_current += 1
+    if progress_current % arrlen == 0:
+        print("\r" + (progress_current / arrlen / 10).__str__() + "%", end="")
+
+    insert_script += "(" + blip_score[0] + "," + blip_score[1] + "," + blip_score[2] + "), "
+
+insert_script += ";\n-- SCRIPT CREATED AT " + datetime.now().strftime("%d/%m/%Y %H:%M:%S")
+
+print("\n---------- SCRIPT CREATED -----------\n")
+print("\n---------- SAVING SCRIPT -----------\n")
+
+f = open("insert.sql", "w")
+f.write(insert_script)
+f.close()
+
+print("\n---------- SCRIPT SAVED -----------\n")
+
+print("change the world;")
+time.sleep(2)
+print("my final message.")
+time.sleep(3)
+print("goodbye")
+time.sleep(3)
+winsound.PlaySound("o95.wav", winsound.SND_FILENAME)
+
+exit(0)
