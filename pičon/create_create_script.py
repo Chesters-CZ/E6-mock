@@ -266,6 +266,7 @@ for i, post in enumerate(posts):
         undeleted_posts.append(post)
 print("\nDone, removed " + (len(posts) - len(undeleted_posts)).__str__() + " entries.\n")
 posts = undeleted_posts
+del undeleted_posts
 
 print("Harvesting tags and extracting post-tag relationships")
 arrlen = (posts.__len__() / 1000).__floor__()
@@ -278,7 +279,7 @@ for i, post in enumerate(posts):
 
     for tag in temp_tags:
         tag_names.append(tag)
-        post_tags.append([post[0], tag[1]])
+        post_tags.append([post[0], tag])
 print("\nDone, found " + numpy.unique(numpy.array(tag_names)).__len__().__str__() + " tags and " + str(len(post_tags)) +
       " post-tag relationships\n")
 
@@ -309,6 +310,7 @@ print("Done, created " + tags.__len__().__str__() + " tag entries")
 #               end="")
 # print("\nDone, removed " + str(removed) + " entries.\n")
 
+# fixme: could be sped up by creating a list of entries which are not to be removed and overwriting the array instead
 print("Removing inactive implications and entries with removed tags")
 arrlen = (implications.__len__() / 1000).__floor__()
 removed_inactive = 0
@@ -350,11 +352,13 @@ for i, wiki in enumerate(wikis):
             for thumb in thumbs:
                 wiki_examples.append([tag[1], re.match("[0-9]+", thumb)])
             continue
-    wikis.remove(wiki)
+        else:
+            wikis.remove(wiki)
     removed += 1
 print("\nDone, removed " + str(removed) + " non-tag wikis and extracted " + str(
     wiki_examples.__len__()) + " wiki_example relationships.\n")
 
+# fixme: could be sped up by creating a list of entries not to be deleted and overwriting the array instead of deleting
 print("Removing wiki_examples referencing deleted posts")
 arrlen = (wiki_examples.__len__() / 1000).__floor__()
 removed = 0
