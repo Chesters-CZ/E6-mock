@@ -73,6 +73,18 @@ def dump_database(dbs: list, header: list, filename: str):
                 print("\r" + (i / arrlen / 10).__str__() + "%", end="")
             writer.writerow(row)
 
+# todo: use for all single column database dumps
+def dump_single_column_database(dbs: list, header: list, filename: str):
+    with open("D:\\velký dbs fily\\" + filename, "w", encoding="utf-8", newline="") as file_out:
+        writer = csv.writer(file_out)
+        writer.writerow(header)
+
+        arrlen = (dbs.__len__() / 1000).__floor__()
+        for i, row in enumerate(dbs):
+            if i % arrlen == 0:
+                print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+            writer.writerow([row])
+
 
 print("\nInitializing csv field size limit", end="")
 
@@ -282,6 +294,10 @@ for i, post in enumerate(posts):
         post_tags.append([post[0], tag])
 print("\nDone, found " + (tag_names).__len__().__str__() + " tags and " + str(len(post_tags)) +
       " post-tag relationships\n")
+
+print("Dumping non-unique tag names")
+dump_single_column_database(tag_names, ["tag"], "\\nonunique_tags.csv")
+print("\nDone\n")
 
 print("Manually uniquing tag entries to avoid allocating too much space")
 arrlen = (tag_names.__len__() / 1000).__floor__()
