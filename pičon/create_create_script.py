@@ -280,8 +280,20 @@ for i, post in enumerate(posts):
     for tag in temp_tags:
         tag_names.append(tag)
         post_tags.append([post[0], tag])
-print("\nDone, found " + numpy.unique(numpy.array(tag_names)).__len__().__str__() + " tags and " + str(len(post_tags)) +
+print("\nDone, found " + (tag_names).__len__().__str__() + " tags and " + str(len(post_tags)) +
       " post-tag relationships\n")
+
+print("Manually uniquing tag entries to avoid allocating too much space")
+arrlen = (tag_names.__len__() / 1000).__floor__()
+unique_tag_names = []
+for i, tag_name in enumerate(tag_names):
+    if i % arrlen == 0:
+        print("\r" + (i / arrlen / 10).__str__() + "%", end="")
+    if tag_name not in unique_tag_names:
+        unique_tag_names.append(tag_name)
+print("\nDone, removed " + (len(tags) - len(unique_tag_names)).__str__() + " duplicate entries.\n")
+tag_names = unique_tag_names
+del unique_tag_names
 
 print("Creating tag entries")
 arrlen = (tag_names.__len__() / 1000).__floor__()
