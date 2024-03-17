@@ -245,7 +245,7 @@ for i, post in enumerate(posts):
         parent_count += 1
 
     # add uploader to users
-    user_ids.append(posts[1])
+    user_ids.append(post[1])
 
     # add approver if exists
     if len(post[14]) > 0:
@@ -255,31 +255,30 @@ print("\nDone, extracted " + post_parents.__len__().__str__() + " post parent-ch
     numpy.array(user_ids)).__len__().__str__() + " were unique\n")
 
 print("Removing deleted posts")
-arrlen = (posts.__len__() / 1000).__floor__()
-removed = 0
+arrlen = (posts.__len__() / 10000).__floor__()
+undeleted_posts = []
 for i, post in enumerate(posts):
     if i % arrlen == 0:
         print(
-            "\r" + (i / arrlen / 10).__str__() + "% (" + i.__str__() + " / " + (arrlen * 1000).__str__() + ")",
+            "\r" + (i / arrlen / 100).__str__() + "% (" + i.__str__() + " / " + (arrlen * 10000).__str__() + ")",
             end="")
-    if post[20] == "t":
-        posts.remove(post)
-        removed += 1
-print("\nDone, removed " + removed.__str__() + " entries.\n")
+    if post[20] != "t":
+        undeleted_posts.append(post)
+print("\nDone, removed " + (len(posts) - len(undeleted_posts)).__str__() + " entries.\n")
+posts = undeleted_posts
 
 print("Harvesting tags and extracting post-tag relationships")
 arrlen = (posts.__len__() / 1000).__floor__()
 for i, post in enumerate(posts):
     if i % arrlen == 0:
-        print(
-            "\r" + (i / arrlen / 10).__str__() + "% (" + i.__str__() + " / " + (arrlen * 1000).__str__() + ")",
-            end="")
+        print("\r" + (i / arrlen / 10).__str__() + "% (" + i.__str__() + " / " + (arrlen * 1000).__str__() + ")",
+              end="")
 
     temp_tags = post[8].split(" ")
 
     for tag in temp_tags:
         tag_names.append(tag)
-        post_tags.append([post[0], tag])
+        post_tags.append([post[0], tag[1]])
 print("\nDone, found " + numpy.unique(numpy.array(tag_names)).__len__().__str__() + " tags and " + str(len(post_tags)) +
       " post-tag relationships\n")
 
