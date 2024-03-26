@@ -5,6 +5,16 @@ import time
 import winsound
 
 maxInt = sys.maxsize
+thumb_regex = re.compile(r"thumb #[0-9]+")
+thumb_hashtagless_regex = re.compile(r"[0-9]+")
+
+
+def inTags(string):
+    for tag in tags:
+        if tag[0] == string:
+            return True
+    return False
+
 
 print("Increasing csv field size limit...")
 while True:
@@ -17,9 +27,7 @@ while True:
 
 print("\nDone!\n")
 
-
 tags = []
-
 
 print("Loading tags.csv")
 with open("D:\\velký dbs fily\\step2\\tags_unique.csv", encoding="utf-8") as tags_in:
@@ -41,10 +49,14 @@ print("\nDone!\n")
 
 with open("D:\\velký dbs fily\\wiki_pages.csv", mode="r", encoding="utf-8") as wikis_in:
     with open("D:\\velký dbs fily\\step3\\wikis.csv", mode="w", encoding="utf-8", newline="") as wikis_out:
-        with open("D:\\velký dbs fily\\step3\\wikis_unused.csv", mode="w", encoding="utf-8", newline="") as wikis_unused:
-            with open("D:\\velký dbs fily\\step3\\wiki_examples.csv", mode="w", encoding="utf-8", newline="") as wiki_examples:
-                with open("D:\\velký dbs fily\\tag_implications.csv", mode="r", encoding="utf-8", newline="") as implications_in:
-                    with open("D:\\velký dbs fily\\step3\\tag_implications.csv", mode="w", encoding="utf-8", newline="") as implications_out:
+        with open("D:\\velký dbs fily\\step3\\wikis_unused.csv", mode="w", encoding="utf-8",
+                  newline="") as wikis_unused:
+            with open("D:\\velký dbs fily\\step3\\wiki_examples.csv", mode="w", encoding="utf-8",
+                      newline="") as wiki_examples:
+                with open("D:\\velký dbs fily\\tag_implications.csv", mode="r", encoding="utf-8",
+                          newline="") as implications_in:
+                    with open("D:\\velký dbs fily\\step3\\tag_implications.csv", mode="w", encoding="utf-8",
+                              newline="") as implications_out:
                         wikis_reader = csv.reader(wikis_in)
                         wikis_writer = csv.writer(wikis_out)
                         wikis_unused_writer = csv.writer(wikis_unused)
@@ -74,11 +86,11 @@ with open("D:\\velký dbs fily\\wiki_pages.csv", mode="r", encoding="utf-8") as 
                                 firstline = not firstline
                                 continue
 
-                            if row[3] in tags:
+                            if inTags(row[3]):
                                 wikis_writer.writerow([row[3], row[4]])
-                                thumbs = re.findall("thumb #[0-9]+", row[4])
+                                thumbs = thumb_regex.findall(row[4])
                                 for thumb in thumbs:
-                                    wiki_examples_writer.writerow([row[3], re.match("[0-9]+", thumb)])
+                                    wiki_examples_writer.writerow([row[3], thumb_hashtagless_regex.match(thumb)])
 
                             else:
                                 wikis_unused_writer.writerow(row)
@@ -96,9 +108,8 @@ with open("D:\\velký dbs fily\\wiki_pages.csv", mode="r", encoding="utf-8") as 
                             if i % linecount == 0:
                                 print("\r" + (i / linecount / 100).__str__() + "%", end="")
 
-                            if (row[1] in tags) and (row[2] in tags):
+                            if (inTags(row[1])) and (inTags(row[2])):
                                 implications_writer.writerow([row[1], row[2]])
-
 
 print("\nDone!\n")
 
