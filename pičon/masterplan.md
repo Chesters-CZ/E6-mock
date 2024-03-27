@@ -1,6 +1,6 @@
 # Step 1
 
- - Remove deleted tags
+ - Remove deleted posts
  - Extract **ALL** user ids including those, who uploaded or rated deleted posts 
  - Extract actually used tags
  - Extract post_tags
