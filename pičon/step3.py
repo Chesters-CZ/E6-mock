@@ -90,7 +90,7 @@ with open("D:\\velký dbs fily\\wiki_pages.csv", mode="r", encoding="utf-8") as 
                                 wikis_writer.writerow([row[3], row[4]])
                                 thumbs = thumb_regex.findall(row[4])
                                 for thumb in thumbs:
-                                    wiki_examples_writer.writerow([row[3], thumb_hashtagless_regex.match(thumb)])
+                                    wiki_examples_writer.writerow([row[3], thumb_hashtagless_regex.search(thumb).group()])
 
                             else:
                                 wikis_unused_writer.writerow(row)
