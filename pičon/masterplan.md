@@ -6,6 +6,8 @@
  - Extract **ALL** user ids including those, who uploaded or rated deleted posts 
  - Extract actually used tags
  - Extract post_tags
+ - Extract post parents
+   - (used only to speed up step 7)
 
 ## Step 2 - uniq v linuxu
 
@@ -36,6 +38,13 @@
 
  - choose random wikis
  - create final version of wiki_examples
+
+# Step 7 - posts_final, post_tags_final
+
+ - cherry-pick posts used in wiki_examples_final and pool_posts_final
+ - add random posts
+ - add families of all posts
+ - match chosen posts to post_tags
 
 tbd
 
