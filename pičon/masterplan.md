@@ -39,12 +39,14 @@
  - choose random wikis
  - create final version of wiki_examples
 
-# Step 7 - posts_final, post_tags_final
+# Step 7, the destroyer of RAM - posts_final, post_tags_final
 
  - cherry-pick posts used in wiki_examples_final and pool_posts_final
  - add random posts
  - add families of all posts
  - match chosen posts to post_tags
+
+# Step 8 - tags_final
 
 tbd
 

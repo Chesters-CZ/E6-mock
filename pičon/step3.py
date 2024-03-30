@@ -49,14 +49,10 @@ print("\nDone!\n")
 
 with open("D:\\velký dbs fily\\wiki_pages.csv", mode="r", encoding="utf-8") as wikis_in:
     with open("D:\\velký dbs fily\\step3\\wikis.csv", mode="w", encoding="utf-8", newline="") as wikis_out:
-        with open("D:\\velký dbs fily\\step3\\wikis_unused.csv", mode="w", encoding="utf-8",
-                  newline="") as wikis_unused:
-            with open("D:\\velký dbs fily\\step3\\wiki_examples.csv", mode="w", encoding="utf-8",
-                      newline="") as wiki_examples:
-                with open("D:\\velký dbs fily\\tag_implications.csv", mode="r", encoding="utf-8",
-                          newline="") as implications_in:
-                    with open("D:\\velký dbs fily\\step3\\tag_implications.csv", mode="w", encoding="utf-8",
-                              newline="") as implications_out:
+        with open("D:\\velký dbs fily\\step3\\wikis_unused.csv", mode="w", encoding="utf-8", newline="") as wikis_unused:
+            with open("D:\\velký dbs fily\\step3\\wiki_examples.csv", mode="w", encoding="utf-8", newline="") as wiki_examples:
+                with open("D:\\velký dbs fily\\tag_implications.csv", mode="r", encoding="utf-8", newline="") as implications_in:
+                    with open("D:\\velký dbs fily\\step3\\tag_implications.csv", mode="w", encoding="utf-8", newline="") as implications_out:
                         wikis_reader = csv.reader(wikis_in)
                         wikis_writer = csv.writer(wikis_out)
                         wikis_unused_writer = csv.writer(wikis_unused)
