@@ -20,17 +20,20 @@ post_ids = []
 
 with open("D:\\velký dbs fily\\step1\\posts.csv", encoding="utf-8") as posts_in:
     posts_reader = csv.reader(posts_in)
-    print("0.0%", end="")
+    print("Initializing...", end="")
     for linecount, line in enumerate(posts_reader):
         pass
     posts_in.seek(0)
     linecount = (linecount / 1000).__floor__()
     firstline = True
-    for row in posts_reader:
+    for i, row in enumerate(posts_reader):
+        if i % linecount == 0:
+            print("\r" + (i / linecount / 100).__str__() + "%", end="")
         if firstline:
             firstline = False
             continue
         post_ids.append(row[0])
+
 
 with open("D:\\velký dbs fily\\step3\\wiki_examples.csv", mode="r", encoding="utf-8") as wiki_examples_in:
     with open("D:\\velký dbs fily\\step4\\wiki_examples.csv", mode="w", encoding="utf-8", newline="") as wiki_examples_out:
