@@ -7,29 +7,32 @@ import winsound
 
 def load_csv(path, header_return, data_return, has_header):
     print("Loading " + path)
-    with open("D:\\velký dbs fily\\" + path, 'r', encoding="utf-8") as file_in:
+    with (open("D:\\velký dbs fily\\" + path, 'r', encoding="utf-8") as file_in):
         file_reader = csv.reader(file_in)
 
         print("0.0%", end="")
-        for linecount, line in enumerate(file_reader):
-            pass
+        lines = 0
+        for line in file_reader:
+            lines += 1
         file_in.seek(0)
-        linecount = (linecount / 1000).__floor__()
-        if linecount == 0:
-            linecount = 1
+        lines = (lines / 1000).__floor__()
+        if lines == 0:
+            lines = 1
 
         firstline = True
-        for row in file_reader:
+        for i, row in enumerate(file_reader):
+            if i % lines == 0:
+                print("\r" + (i / lines / 10).__str__() + "%", end="")
+
             if firstline:
                 if has_header:
-                    header_return = row
+                    header_return.clear()
+                    header_return.append(row)
                 else:
                     data_return.append(row)
                 firstline = False
                 continue
             data_return.append(row)
-            if file_reader.line_num % linecount == 0:
-                print("\r" + (file_reader.line_num / linecount / 10).__str__() + "%", end="")
     print("\nDone!\n")
 
 
@@ -57,6 +60,7 @@ def dump_single_column_database(dbs: list, header: list, filename: str):
                 print("\r" + (i / arrlen / 10).__str__() + "%", end="")
             writer.writerow([row])
     print("\nDone\n")
+
 
 maxInt = sys.maxsize
 
@@ -140,16 +144,16 @@ linecount = (chosen_posts.__len__() / 1000).__floor__()
 pass_count = 1
 while True:
     found_new = False
-
-
-# take every chosen post, check if there is a post_parent mentioning it. if there is, add the other post
-# do this until you go through all chosen posts without adding any
+    # take every chosen post, check if there is a post_parent mentioning it. if there is, add the other post
+    # do this until you go through all chosen posts without adding any
     for i, final_post in enumerate(chosen_posts):
         if i % linecount == 0:
-            print("\r" + (i / linecount / 10).__str__() + "% (pass #" + pass_count.__str__() + ")", end="")
+            print("\r" + (
+                        i / linecount / 10).__str__() + "% (pass #" + pass_count.__str__() + ", will " + "not " if not found_new else "" + "repeat)",
+                  end="")
 
         for post_parent in post_parents:
-            if final_post == post_parent[0] or final_post == post_parent[1]:
+            if final_post[0] == post_parent[0] or final_post[0] == post_parent[1]:
                 for post in posts:
                     if post[0] == post_parent[0] or post[0] == post_parent[1]:
                         chosen_posts.append([post[0], post[3], post[2], post[1], post[12], post[5], post[14]])
@@ -166,16 +170,17 @@ while True:
 print("\nDone!\n")
 
 print("Dumping posts to file...")
-dump_database(chosen_posts, ["id", "file", "upload_date", "uploader", "parent", "rating", "verified_by"], "\\step7\\posts.csv")
+dump_database(chosen_posts, ["id", "file", "upload_date", "uploader", "parent", "rating", "verified_by"],
+              "\\step7\\posts.csv")
 del chosen_posts
-
-print("Dumping unused posts to file...")
-dump_database(posts, posts_header, "\\step7\\unused_posts.csv")
-del posts
 
 print("Dumping post_tags to file...")
 dump_database(post_tags, ["post", "tag"], "\\step7\\post_tags.csv")
 del post_tags
+
+print("Dumping unused posts to file...")
+dump_database(posts, posts_header, "\\step7\\unused_posts.csv")
+del posts
 
 print("change the world;")
 time.sleep(2)
