@@ -100,7 +100,9 @@ with open("D:\\velký dbs fily\\pools.csv", mode="r", encoding="utf-8") as pools
                                 emptyPool = False
                         else:
                             pools_unused_writer.writerow(row)
-
+                    if emptyPool:
+                        print("ERROR: NO EMPTY POOL ADDED")
+                        exit(-1)
 
 print("\nDone!\n")
 
