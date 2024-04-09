@@ -64,16 +64,16 @@ def dump_single_column_database(dbs: list, header: list, filename: str):
     print("\nDone\n")
 
 
-def get_username_from_user_id(user_id: int):
+def get_user_favorites(user_id: int):
     headers = {
         "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36"}
-    response = requests.get('https://e926.net/users/' + str(user_id), headers=headers)
-    result = re.search("User - .* - e926", response.text.replace("\n", "")).group()[7:-7]
-    if result == "":
-        print("ERROR: SCRAPED USERNAME IS EMPTY")
-        print("Response: " + response.text)
-        print("Regex: " + re.search("User - .* - e926", response.text.replace("\n", "")).groups().__str__())
-        raise Exception("no username found")
+    response = requests.get('https://e621.net/favorites?user_id=' + str(user_id), headers=headers)
+    raw_post_ids = re.findall("<article id=\".*?\"", response.text.replace("\n", ""))
+    processed_post_ids = []
+    # fixme: does not detect captcha or invalid responses
+    for raw_post_id in raw_post_ids:
+        processed_post_ids.append(raw_post_id[18:-1])
+    return processed_post_ids
 
 
 maxInt = sys.maxsize
@@ -89,14 +89,14 @@ while True:
 
 print("\nDone!\n")
 
-print("\nWARNING: SCRIPT APPENDS TO step10\\users.csv AND WILL NOT REPLACE EXISTING DATA\n")
+print("\nWARNING: SCRIPT APPENDS TO step11\\favorites.csv AND WILL NOT REPLACE EXISTING DATA\n")
 
 discard = []
 already_scraped = []
 
-load_csv("step10\\users.csv", discard, already_scraped, False)
+load_csv("step11\\favorites.csv", discard, already_scraped, False)
 
-already_scraped_ids = [user[0] for user in already_scraped if user[1] is not ""]
+already_scraped_ids = [favorite[0] for favorite in already_scraped if favorite[1] is not ""]
 del already_scraped
 
 raw_user_ids = []
@@ -107,8 +107,8 @@ user_ids_to_be_scraped = [uid for uid in raw_user_ids if uid not in already_scra
 del raw_user_ids
 del already_scraped_ids
 
-with open("D:\\velký dbs fily\\step10\\users.csv", mode="a", encoding="utf-8") as users_out:
-    users_writer = csv.writer(users_out)
+with open("D:\\velký dbs fily\\step11\\favorites.csv", mode="a", encoding="utf-8") as favorites_out:
+    favorites_writer = csv.writer(favorites_out)
 
     linecount = (user_ids_to_be_scraped.__len__() / 1000).__floor__()
     for i, user in enumerate(user_ids_to_be_scraped):
@@ -117,14 +117,14 @@ with open("D:\\velký dbs fily\\step10\\users.csv", mode="a", encoding="utf-8") 
                     i / linecount / 10).__str__() + "%)", end="")
 
         try:
-            username = get_username_from_user_id(user)
+            user_favorites = get_user_favorites(user)
         except Exception as e:
             print("ERROR WHEN SCRAPING USERNAME OF USER " + user)
             print(e.__str__())
             break
 
-        print(" " + username, end="")
-        users_writer.writerow([user, username, "", ""])
+        for user_favorite in user_favorites:
+            favorites_writer.writerow([user, user_favorite])
         time.sleep(0.5)
 
 print("\nDone!\n")
