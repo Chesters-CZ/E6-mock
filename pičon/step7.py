@@ -149,7 +149,7 @@ while True:
     for i, final_post in enumerate(chosen_posts):
         if i % linecount == 0:
             print("\r" + (
-                        i / linecount / 10).__str__() + "% (pass #" + pass_count.__str__() + ", will " + "not " if not found_new else "" + "repeat)",
+                        i / linecount / 10).__str__() + "% (pass #" + pass_count.__str__() + ", will " + ("not " if not found_new else "") + "repeat)",
                   end="")
 
         for post_parent in post_parents:

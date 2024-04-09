@@ -59,31 +59,26 @@
  - uniq tags
  - uniq user ids
 
-## Step 10 - users
-
- - select more user ids
- - assign roles to users
-
 ---
 
 # Scraping data
 
-## Step 11 - scrape usernames
+## Step 10 - scrape usernames
 
  - only scrape if username not already scraped
 
-## Step 12 - scrape favorites
+## Step 11 - scrape favorites
 
  - only scrape if username's favorites not already scraped
 
-## Step 13 - scrape comments 
+## Step 12 - scrape comments 
 
-## Step 14 - favorites_final, comments_final
+## Step 13 - favorites_final, comments_final
 
  - remove favorites with nonexistent posts
  - remove comments under nonexistent posts
 
-## Step 15 - scrape blips (blips_final)
+## Step 14 - scrape blips (blips_final)
 
  - only scrape if username's blips not already scraped
 
@@ -91,13 +86,13 @@
 
 # Generating data
 
-## Step 16 - blacklist_final, text_post_final, text_post_score, post_score, users_final
+## Step 15 - blacklist_final, text_post_final, text_post_score, post_score, users_final
 
  - generate random blacklists
  - merge blips and comments to text_post_final
  - generate text post score
  - generate post score
- - generate user password hashes
+ - generate user password hashes, assign roles
 
  
 

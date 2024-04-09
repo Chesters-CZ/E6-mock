@@ -1,7 +1,9 @@
 import csv
+import random
 import sys
 import time
 import winsound
+
 
 def load_csv(path, header_return, data_return, has_header):
     print("Loading " + path)
@@ -50,7 +52,8 @@ def dump_database(dbs: list, header: list, filename: str):
 def dump_single_column_database(dbs: list, header: list, filename: str):
     with open("D:\\velký dbs fily\\" + filename, "w", encoding="utf-8", newline="") as file_out:
         writer = csv.writer(file_out)
-        writer.writerow(header)
+        if header.__len__() > 0:
+            writer.writerow(header)
 
         arrlen = (dbs.__len__() / 1000).__floor__()
         for i, row in enumerate(dbs):
@@ -58,7 +61,6 @@ def dump_single_column_database(dbs: list, header: list, filename: str):
                 print("\r" + (i / arrlen / 10).__str__() + "%", end="")
             writer.writerow([row])
     print("\nDone\n")
-
 
 
 maxInt = sys.maxsize
@@ -74,9 +76,80 @@ while True:
 
 print("\nDone!\n")
 
-with open("D:\\velký dbs fily\\posts.csv", mode="r", encoding="utf-8") as posts_in:
-    pass;
+discard = []
+post_tags = []
+tags = []
 
+load_csv("step7\\post_tags.csv", discard, post_tags, True)
+
+linecount = (post_tags.__len__() / 1000).__floor__()
+print("Picking tags from post_tags...")
+for i, row in enumerate(post_tags):
+    if i % linecount == 0:
+        print("\r" + (i / linecount / 10).__str__() + "%", end="")
+    tags.append(row[1])
+del post_tags
+
+wikis = []
+
+load_csv("step6\\wikis.csv", discard, wikis, False)
+
+linecount = (wikis.__len__() / 1000).__floor__()
+print("Picking tags from wikis...")
+for i, row in enumerate(wikis):
+    if i % linecount == 0:
+        print("\r" + (i / linecount / 10).__str__() + "%", end="")
+    tags.append(row[0])
+del wikis
+
+wikis_raw = []
+
+load_csv("step3\\wikis.csv", discard, wikis_raw, True)
+
+print("Creating list of unused wikis...")
+wikis_unused = [wiki for wiki in wikis_raw if wiki[0] not in tags]
+del wikis_raw
+
+print("Adding a random unused wiki to step6\\wikis")
+with open("step6\\wikis.csv", mode="a", encoding="utf-8") as wikis_append:
+    wikis_writer = csv.writer(wikis_append)
+    wikis_writer.writerow(random.choice(wikis_unused))
+del wikis_unused
+
+tags_raw = []
+
+load_csv("step2\\tags_unique.csv", discard, tags_raw, False)
+
+print("Creating list of unused tags...")
+tags_unused = [tag for tag in tags_raw if tag not in tags]
+del tags_raw
+
+print("Adding a random unused tag to tags")
+tags.append(random.choice(tags_unused))
+del tags_unused
+
+print("Saving tags to step8\\extracted_tags.csv")
+dump_single_column_database(tags, [], "step8\\extracted_tags.csv")
+del tags
+
+posts = []
+
+load_csv("step8\\posts.csv", discard, posts, True)
+
+print("Extracting user ids from chosen posts...")
+user_ids = [post[3] for post in posts] + [post[6] for post in posts]
+del posts
+
+raw_user_ids = []
+
+load_csv("step2\\user_ids_unique.csv", discard, raw_user_ids, False)
+
+print("Adding random users to user ids")
+user_ids.append(random.sample(raw_user_ids, (len(raw_user_ids) / 2).__floor__()))
+del raw_user_ids
+
+print("Saving user ids to step8\\user_ids.csv")
+dump_single_column_database(user_ids, [], "step8\\user_ids.csv")
 
 print("\nDone!\n")
 

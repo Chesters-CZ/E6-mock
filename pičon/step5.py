@@ -4,7 +4,7 @@ import sys
 import time
 import winsound
 
-pool_count = 250
+pool_count = 1000
 
 maxInt = sys.maxsize
 
@@ -24,14 +24,14 @@ post_ids = []
 with open("D:\\velký dbs fily\\step1\\posts.csv", encoding="utf-8") as posts_in:
     posts_reader = csv.reader(posts_in)
     print("Initializing...", end="")
-    for linecount, line in enumerate(posts_reader):
-        pass
-    posts_in.seek(0)
-    linecount = (linecount / 1000).__floor__()
+    # for linecount, line in enumerate(posts_reader):
+    #     pass
+    # posts_in.seek(0)
+    # linecount = (linecount / 1000).__floor__()
     firstline = True
     for i, row in enumerate(posts_reader):
-        if i % linecount == 0:
-            print("\r" + (i / linecount / 100).__str__() + "%", end="")
+        # if i % linecount == 0:
+        #     print("\r" + (i / linecount / 100).__str__() + "%", end="")
         if firstline:
             firstline = False
             continue
