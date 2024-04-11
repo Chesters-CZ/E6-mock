@@ -1,4 +1,5 @@
 import csv
+import os
 import random
 import sys
 import time
@@ -76,6 +77,9 @@ while True:
         print(".", end="")
 
 print("\nDone!\n")
+
+with open("D:\\velký dbs fily\\step7\\.unfinished", "w", encoding="utf-8", newline="") as unfinished:
+    pass;
 
 posts = []  #
 pool_posts = []  #
@@ -181,6 +185,8 @@ del post_tags
 print("Dumping unused posts to file...")
 dump_database(posts, posts_header, "\\step7\\unused_posts.csv")
 del posts
+
+os.remove("D:\\velký dbs fily\\step7\\.unfinished")
 
 print("change the world;")
 time.sleep(2)
