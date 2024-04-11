@@ -89,6 +89,7 @@ for i, row in enumerate(post_tags):
         print("\r" + (i / linecount / 10).__str__() + "%", end="")
     tags.append(row[1])
 del post_tags
+print("\nDone!\n")
 
 wikis = []
 
@@ -101,6 +102,7 @@ for i, row in enumerate(wikis):
         print("\r" + (i / linecount / 10).__str__() + "%", end="")
     tags.append(row[0])
 del wikis
+print("\nDone!\n")
 
 wikis_raw = []
 
@@ -109,12 +111,14 @@ load_csv("step3\\wikis.csv", discard, wikis_raw, True)
 print("Creating list of unused wikis...")
 wikis_unused = [wiki for wiki in wikis_raw if wiki[0] not in tags]
 del wikis_raw
+print("\nDone!\n")
 
 print("Adding a random unused wiki to step6\\wikis")
-with open("step6\\wikis.csv", mode="a", encoding="utf-8") as wikis_append:
+with open("D:\\velký dbs fily\\step6\\wikis.csv", mode="a", encoding="utf-8") as wikis_append:
     wikis_writer = csv.writer(wikis_append)
     wikis_writer.writerow(random.choice(wikis_unused))
 del wikis_unused
+print("\nDone!\n")
 
 tags_raw = []
 
@@ -123,6 +127,7 @@ load_csv("step2\\tags_unique.csv", discard, tags_raw, False)
 print("Creating list of unused tags...")
 tags_unused = [tag for tag in tags_raw if tag not in tags]
 del tags_raw
+print("\nDone!\n")
 
 print("Adding a random unused tag to tags")
 tags.append(random.choice(tags_unused))
@@ -134,11 +139,12 @@ del tags
 
 posts = []
 
-load_csv("step8\\posts.csv", discard, posts, True)
+load_csv("step7\\posts.csv", discard, posts, True)
 
 print("Extracting user ids from chosen posts...")
 user_ids = [post[3] for post in posts] + [post[6] for post in posts]
 del posts
+print("\nDone!\n")
 
 raw_user_ids = []
 
@@ -147,6 +153,7 @@ load_csv("step2\\user_ids_unique.csv", discard, raw_user_ids, False)
 print("Adding random users to user ids")
 user_ids.append(random.sample(raw_user_ids, (len(raw_user_ids) / 2).__floor__()))
 del raw_user_ids
+print("\nDone!\n")
 
 print("Saving user ids to step8\\user_ids.csv")
 dump_single_column_database(user_ids, [], "step8\\user_ids.csv")
