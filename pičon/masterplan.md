@@ -102,3 +102,4 @@
 
  - more user ids can be extracted from wiki_pages.csv
  - after finishing, check count of text_post entries
+ - create .unfinished file when starting a step, delete when finished
