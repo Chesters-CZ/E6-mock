@@ -65,7 +65,7 @@ def dump_single_column_database(dbs: list, header: list, filename: str):
 
 maxInt = sys.maxsize
 
-post_count = 10000
+post_count = 5000
 
 print("Increasing csv field size limit...")
 while True:
@@ -137,7 +137,10 @@ linecount = (random_posts.__len__() / 1000).__floor__()
 for i, row in enumerate(random_posts):
     if i % linecount == 0:
         print("\r" + (i / linecount / 10).__str__() + "%", end="")
-    chosen_posts.append(row)
+    chosen_posts.append([row[0], row[3], row[2], row[1], row[12], row[5], row[14]])
+    temp_tags = row[8].split(" ")
+    for tag in temp_tags:
+        post_tags.append([row[0], tag])
     posts.remove(row)
 print("\nDone!\n")
 
@@ -153,7 +156,8 @@ while True:
     for i, final_post in enumerate(chosen_posts):
         if i % linecount == 0:
             print("\r" + (
-                        i / linecount / 10).__str__() + "% (pass #" + pass_count.__str__() + ", will " + ("not " if not found_new else "") + "repeat)",
+                    i / linecount / 10).__str__() + "% (pass #" + pass_count.__str__() + ", will " + (
+                      "not " if not found_new else "") + "repeat)",
                   end="")
 
         for post_parent in post_parents:

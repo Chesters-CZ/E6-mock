@@ -64,17 +64,17 @@ def dump_single_column_database(dbs: list, header: list, filename: str):
     print("\nDone\n")
 
 
-def get_username_from_user_id(user_id: int):
+def get_username_from_user_id(user_id):
     headers = {
         "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36"}
     response = requests.get('https://e926.net/users/' + str(user_id), headers=headers)
     result = re.search("User - .* - e926", response.text.replace("\n", "")).group()[7:-7]
     if result == "":
-        print("ERROR: SCRAPED USERNAME IS EMPTY")
+        print("\nERROR: SCRAPED USERNAME IS EMPTY")
         print("Response: " + response.text)
         print("Regex: " + re.search("User - .* - e926", response.text.replace("\n", "")).groups().__str__())
         raise Exception("no username found")
-
+    return result
 
 maxInt = sys.maxsize
 
@@ -96,35 +96,36 @@ already_scraped = []
 
 load_csv("step10\\users.csv", discard, already_scraped, False)
 
-already_scraped_ids = [user[0] for user in already_scraped if user[1] is not ""]
+already_scraped_ids = [user[0] for user in already_scraped if user[1] != ""]
 del already_scraped
 
 raw_user_ids = []
 
 load_csv("step9\\user_ids_unique.csv", discard, raw_user_ids, True)
 
-user_ids_to_be_scraped = [uid for uid in raw_user_ids if uid not in already_scraped_ids]
+user_ids_to_be_scraped = [uid for uid in raw_user_ids if uid[0] not in already_scraped_ids]
 del raw_user_ids
 del already_scraped_ids
 
-with open("D:\\velký dbs fily\\step10\\users.csv", mode="a", encoding="utf-8") as users_out:
+with open("D:\\velký dbs fily\\step10\\users.csv", mode="a", encoding="utf-8", newline="") as users_out:
     users_writer = csv.writer(users_out)
 
     linecount = (user_ids_to_be_scraped.__len__() / 1000).__floor__()
     for i, user in enumerate(user_ids_to_be_scraped):
+        start_time = time.time()
         print(
-            "\r Scraping user " + user + " (" + i.__str__() + "/" + user_ids_to_be_scraped.__len__().__str__() + " " + (
+            "\r Scraping user " + user[0] + " (" + i.__str__() + "/" + user_ids_to_be_scraped.__len__().__str__() + " " + (
                     i / linecount / 10).__str__() + "%)", end="")
 
         try:
-            username = get_username_from_user_id(user)
+            username = get_username_from_user_id(user[0])
         except Exception as e:
-            print("ERROR WHEN SCRAPING USERNAME OF USER " + user)
+            print("ERROR WHEN SCRAPING USERNAME OF USER " + user[0])
             print(e.__str__())
             break
 
-        print(" " + username, end="")
-        users_writer.writerow([user, username, "", ""])
+        print(" " + username + " in " + (time.time() - start_time).__str__() + "s", end="")
+        users_writer.writerow([user[0], username, "", ""])
         time.sleep(0.5)
 
 print("\nDone!\n")

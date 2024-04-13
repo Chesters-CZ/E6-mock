@@ -142,7 +142,7 @@ posts = []
 load_csv("step7\\posts.csv", discard, posts, True)
 
 print("Extracting user ids from chosen posts...")
-user_ids = [post[3] for post in posts] + [post[6] for post in posts]
+user_ids = [post[3] for post in posts] + [post[6] for post in posts if post[6] != ""]
 del posts
 print("\nDone!\n")
 
