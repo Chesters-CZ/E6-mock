@@ -151,7 +151,9 @@ raw_user_ids = []
 load_csv("step2\\user_ids_unique.csv", discard, raw_user_ids, False)
 
 print("Adding random users to user ids")
-user_ids.append(random.sample(raw_user_ids, (len(raw_user_ids) / 2).__floor__()))
+random_uids = random.sample(raw_user_ids, (len(raw_user_ids) / 10).__floor__())
+for row in raw_user_ids:
+    user_ids.append(row[0])
 del raw_user_ids
 print("\nDone!\n")
 

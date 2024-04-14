@@ -96,35 +96,40 @@ already_scraped = []
 
 load_csv("step11\\favorites.csv", discard, already_scraped, False)
 
-already_scraped_ids = [favorite[0] for favorite in already_scraped if favorite[1] is not ""]
+already_scraped_ids = [favorite[0] for favorite in already_scraped if favorite[1] != ""]
 del already_scraped
 
 raw_user_ids = []
 
 load_csv("step9\\user_ids_unique.csv", discard, raw_user_ids, True)
 
-user_ids_to_be_scraped = [uid for uid in raw_user_ids if uid not in already_scraped_ids]
+user_ids_to_be_scraped = [uid for uid in raw_user_ids if uid[0] not in already_scraped_ids]
 del raw_user_ids
 del already_scraped_ids
 
-with open("D:\\velký dbs fily\\step11\\favorites.csv", mode="a", encoding="utf-8") as favorites_out:
+with open("D:\\velký dbs fily\\step11\\favorites.csv", mode="a", encoding="utf-8", newline="") as favorites_out:
     favorites_writer = csv.writer(favorites_out)
 
     linecount = (user_ids_to_be_scraped.__len__() / 1000).__floor__()
     for i, user in enumerate(user_ids_to_be_scraped):
+        start_time = time.time()
         print(
-            "\r Scraping user " + user + " (" + i.__str__() + "/" + user_ids_to_be_scraped.__len__().__str__() + " " + (
+            "\r Scraping user " + user[
+                0] + " (" + i.__str__() + "/" + user_ids_to_be_scraped.__len__().__str__() + " " + (
                     i / linecount / 10).__str__() + "%)", end="")
 
         try:
-            user_favorites = get_user_favorites(user)
+            user_favorites = get_user_favorites(user[0])
         except Exception as e:
-            print("ERROR WHEN SCRAPING USERNAME OF USER " + user)
+            print("ERROR WHEN SCRAPING USERNAME OF USER " + user[0])
             print(e.__str__())
             break
 
+        print(" " + user_favorites.__len__().__str__() + " found in " + (time.time() - start_time).__str__() + "s",
+              end="")
+
         for user_favorite in user_favorites:
-            favorites_writer.writerow([user, user_favorite])
+            favorites_writer.writerow([user[0], user_favorite])
         time.sleep(0.5)
 
 print("\nDone!\n")
