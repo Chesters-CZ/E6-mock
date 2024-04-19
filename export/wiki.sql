@@ -1,0 +1,12458 @@
+insert into public.wiki (tag, content)
+values  ('assisted_bathing', 'When one character is [[bathing]] another.'),
+        ('wall_press', 'A character pressing their hands, feet, or body firmly against a wall. For tagging purposes just passively leaning against a wall should not be enough to use this tag, but being pushed against a wall is a valid usage.
+
+h4. Related tags
+
+* [[against_wall]]
+* [[wall_(structure)]]'),
+        ('dragerys_kholodno', 'Transmorph intersex ice dragon, that can changes its gender, genitals and form as it wish, dragerys_kholodno is the gynomorph ''girl'' form.'),
+        ('anput', '[B]Anput[/B] (alternatively, Anupet, Input, Inpewt, and Yineput) is an [[egyptian_mythology|Ancient Egyptian]] [[deity]], the wife and/or [[crossgender|female counterpart]] to [[Anubis]] and mother of [[Kebechet]]. (Her name is literally the feminine form of Anubis'' original Egyptian name, [i]Anpu[/i]/[i]Inpu[/i] + [i]t[/i].)
+
+The patron god of the seventeenth [i]nome[/i] (district) of Upper Egypt, Anput is likewise the guardian of Osiris'' body, and features in a statue triad of the Pharaoh Menkaure alongside [[Hathor]]. She is commonly depicted as a pregnant or nursing [[jackal]], a jackal wielding knives, or a woman whose headdress bears a jackal recumbent on a feather; unlike Anubis, traditional depictions of Anput as a [[anthro|jackal-headed woman]] are rare.
+
+h4. See also
+* [[Anubis]]
+* [[Kebechet]], her daughter'),
+        ('tears_of_the_kingdom', 'The sequel to [[The Legend of Zelda]]: [[Breath of the Wild]], released on May 12, 2023.'),
+        ('ian_(forestpuppy)', 'ian_(forestpuppy)'),
+        ('my_little_pony:_the_movie_(1986)', '[b]My Little Pony: The Movie[/b] is a Generation 1 movie that debuted on August 6th 1986. Many of the characters were reused in the following animated series [[My Little Pony ''n Friends]].
+
+h4. Characters (Incomplete)
+
+* [[Buttons (mlpnf)]]
+* [[magic_star_(mlp)|Magic Star]]
+* [[wind_whistler_(pre-g4)|Wind Whistler]]
+
+h4. External links
+
+* http://mylittlewiki.org/wiki/My_Little_Pony:_The_Movie
+
+
+h4. See Also:
+* [b][[My Little Pony]][/b]
+** [b]My Little Pony: The Movie (1986)[/b]
+** [[My Little Pony ''n Friends]]
+** [[My Little Pony Tales]]
+** [[My Little Pony (2003)]]
+** [[My Little Pony (2009)]] 
+** [[friendship is magic|My Little Pony: Friendship is Magic]]
+*** [[My Little Pony: The Movie (2017)]]
+*** [[Equestria Girls]]
+** [[mlp_g5|My Little Pony "5th Generation"]]'),
+        ('oodlesofowls', '"Deviantart":http://key2immortality.deviantart.com'),
+        ('hm3526', 'Posts uncensored versions on Twitter.'),
+        ('yellow_inner_pussy', 'thumb #2139245
+
+This refers to the fleshy region that makes up the inner part of a [[pussy]] that is the color yellow.
+
+[section,expanded=Anatomy included]
+
+Representations of flesh may also be tagged as [[yellow_flesh]].
+
+* [[Clitoris]] - More specially [[yellow_clitoris]]
+* Labia minora (inner labia) - The labia folds that occupy the space in between the labia majora (outer labia) in a [[humanoid pussy]].
+** An [[equine pussy]] also features an inner labia, but it is not always drawn as distinct from the outer labia.
+
+Sometimes the inner part of the outer labia will show a flesh color to establish the inner region. This color is likely safe to treat as an inner region color.
+
+h6. Internal anatomy (vagina, reproductive organs)
+
+Flesh that is part of internal anatomy structures
+
+For tagging purposes, the surface of the vaginal canal should not use flesh color tags. If possible to distinguish, the region inside the vaginal canal is probably best to be treated as a separate region to the inner pussy. Even though the clitoris may sometime extend from this anatomy, it probably makes sense to include it as part of the inner pussy in most cases.
+
+[u]Consider using the following tags to describe internal regions:[/u]
+
+* [[yellow_insides]] - This refers to any internal region of the body, including the vaginal canal.
+* [[yellow_vaginal_canal]] - This tag could exist as an alternative to describing the vaginal canal color with the more flesh-focused inner pussy color tags.
+
+The color of the inner pussy may be the same color as the vaginal canal. In such a case, the color tags for both regions are applicable.
+
+[/section]
+
+h4. Not to be confused with
+
+* [[innie_pussy]]
+
+h4. See also
+
+* [[pussy]]
+** [[yellow_clitoris]]
+** [[yellow_pussy]]
+
+[section,expanded=Other inner pussy colors]
+
+* [[black_inner_pussy]]
+* [[blue_inner_pussy]]
+* [[brown_inner_pussy]]
+* [[green_inner_pussy]]
+* [[grey_inner_pussy]]
+* [[orange_inner_pussy]]
+* [[pink_inner_pussy]]
+* [[purple_inner_pussy]]
+* [[red_inner_pussy]]
+* [[tan_inner_pussy]]
+* [[teal_inner_pussy]]
+* [[white_inner_pussy]]
+* [b]yellow_inner_pussy[/b]
+
+* [[multicolored_inner_pussy]]
+** [[multi_tone_inner_pussy]] - Three or more distinct colors
+*** [[rainbow_inner_pussy]]
+** [[two_tone_inner_pussy]] - Exactly two distinct colors
+
+[/section]'),
+        ('cable_tail', 'A [[tail]] composed of [[cable]] — either the sort that carries electrical signals or wire rope — often ending in a plug or other connector, or sometimes in an attached tool or weapon.
+
+
+h4. See also
+
+* [[mechanical tail]]'),
+        ('sparkothefailure', 'Humh'),
+        ('the_buzz_on_maggie', 'Maggie Pesky is an unusual young teen fly with big dreams, and this series is from her point of view. Set in the fly metropolis of Stickyfeet, Maggie gets the community''s attention with her antics in a conventional world of upstanding flies. Maggie is always plotting to make even mundane tasks fun and exciting. Maggie''s best friend, Rayna Cartflight, thinks Maggie''s crazy schemes usually cross the line. Maggie''s parents are Chauncey and Frieda Pesky. Dawn Swatworthy is Maggie''s rival, a snobby girl.'),
+        ('grimalkyne', 'The third type of feline Lynian, introduced in Monster Hunter: World.
+
+h4. See also
+
+* [[airou]]
+* [[mammal]]
+** [[felid]]
+*** [[felyne]]
+*** [[melynx]]
+*** [b]grimalkyne[/b]
+** [[canid]]
+*** [[palamute]]'),
+        ('testicle_breasts', 'When a character''s [[breasts]] are replaced with [[balls]].
+
+If the body parts in question are shared between multiple people (acting as balls for one character and breasts for another character) then both [[breast_balls]] and testicle_breasts may apply.
+
+h5. Not to be confused with:
+* [[breast_balls]] (when a character''s balls have nipples or are replaced with breasts)
+
+h5. Also see:
+* [[dickhead]]
+* [[crotch_head]]
+* [[dicknipple_balls]]
+* [[unusual_anatomy]]
+** [[unusual_balls_placement]]'),
+        ('mouse', 'thumb #1025784
+
+Mice are small [[murine]] mammals belonging to Rodentia, the order of rodents. The best known mouse species is the common house mouse ([i]Mus musculus[/i]).  Domestic mice are also popular pets.
+
+For the sake of structuring, this tag is used in equivalence to the [i]Mus[/i] genus and should therefore be used only for old-world mice in this genus, such as the house mouse.  New-world mice, or other small animals commonly known as mice, should not get this tag.
+
+This tag should not be confused with [[computer_mouse]], which is something else entirely.
+
+h4. Species:
+* [[murid]]
+** [[murinae]] (old-world rats and mice)
+*** [[mouse]] ([i]Mus[/i])
+**** [[house_mouse]]
+**** [[fancy_mouse]] (domestic mouse)
+
+h4. More information:
+https://en.wikipedia.org/wiki/Mus_(genus)'),
+        ('warg', 'A species of [[mythological creature]] appearing in old Norse mythology, depicted as a [[wolf]]-like creature that is large and strong enough to be ridden.'),
+        ('kid_icarus', 'Kid Icarus[a] is a franchise of fantasy video games by [[Nintendo]]. The games are set in a fantasy world based on classical antiquity and [[Greek mythology]], called "Angel Land". The gameplay consists of a mixture of action, adventure and platform elements. The Kid Icarus franchise is known as a cult classic and a sibling series to the [[Metroid]] franchise.
+
+The first installment, Kid Icarus, was released in 1986 for the [[Nintendo Entertainment System]] and was received to critical acclaim despite poor sales. A sequel, Kid Icarus: Of Myths and Monsters was later released for the Game Boy. On June 15, 2010, at their E3 conference, Nintendo announced [[Kid Icarus: Uprising]] on [[Nintendo 3DS]], thus reviving the franchise after a 20-year hiatus.'),
+        ('dominik_(lipton)', '[b]Dominik[/b] is a [[fox]] character belonging to "Lipton":https://furaffinity.net/user/lipton.
+
+h4.External links
+* "FurAffinity folder":https://www.furaffinity.net/gallery/lipton/folder/2725/Dominik
+* "Clothing reference":https://www.furaffinity.net/view/18392412/'),
+        ('blackhorn', 'The inky familiar of [[Quill_(mewgle)]].
+Actual spelling is Bläckhorn.'),
+        ('dakota_(dakotalesmercy)', '"Her ref sheet":https://www.furaffinity.net/view/32444344/ '),
+        ('tan_hoodie', 'Self-explanatory, tag when an image contains a [[hoodie]] in the color tan.
+
+h4. Colors:
+* [[black_hoodie]]
+* [[blue_hoodie]]
+* [[brown_hoodie]]
+* [[green_hoodie]]
+* [[grey_hoodie]]
+* [[orange_hoodie]]
+* [[pink_hoodie]]
+* [[purple_hoodie]]
+* [[red_hoodie]]
+* [b]tan_hoodie[/b]
+* [[white_hoodie]]
+* [[yellow_hoodie]]
+
+h4. See also
+* [[topwear]]
+** [[tan_topwear]]'),
+        ('chris_dunn', 'A painter and illustrator who draws in a [[realistic]] style and favors the [[victorian]] era setting.'),
+        ('ghostiefur', 'That’s my username, don’t wear it out.'),
+        ('antonn', 'h4. External links:
+
+* "Turianmerc98":https://www.furaffinity.net/user/turianmerc98 on FurAffinity'),
+        ('ravoilie', 'Artist
+
+* "Patreon":https://www.patreon.com/Ravoilie
+"Devinatart":https://www.deviantart.com/ravoilie
+"Furaffinity":https://www.furaffinity.net/user/ravoilie
+"Tumblr":https://ravoilie-blahblah.tumblr.com/'),
+        ('vksuika', '[[conditional_dnp]]: only the artist is allowed to post
+
+Discord
+frufrutoffee#7317
+'),
+        ('filipino_text', 'A tag given to posts that contain text written in Filipino.'),
+        ('soy_sauce', 'Soy sauce is a liquid condiment of Chinese origin, traditionally made from a fermented paste of soybeans, roasted grain, brine, and Aspergillus oryzae or Aspergillus sojae molds.'),
+        ('dark_nek0gami', 'Furry Artist'),
+        ('monorump', 'is when the rear is ill-defined, like a bubble instead of butt cheeks'),
+        ('azu_(azu2178)', 'An [[Avali]] character with [[red_feathers|red]], [[yellow_feathers|yellow]], and [[black feathers]] owned by Azu#2178 on Discord.'),
+        ('paul_mccartney', '[b]Sir James Paul McCartney[/b] CH MBE (born 18 June 1942) is an English singer, songwriter, musician, composer, and record and film producer who gained worldwide fame as co-lead vocalist and bassist for [[the Beatles]]. His songwriting partnership with [[John Lennon]] remains the most successful in history. After the group disbanded in 1970, he pursued a successful solo career and formed the band [[Wings]] with his first wife, [[Linda]], and [[Denny Laine]].'),
+        ('intersex_on_top', 'For posts in which an [[intersex]] character is [[on_top]] of another character.
+
+h4. See Also:
+
+* [b]Gender[/b]
+** [[male_on_top]]
+** [[female_on_top]]
+** [[ambiguous_on_top]]
+** intersex_on_top
+*** [[andromorph_on_top]]
+*** [[gynomorph_on_top]]
+*** [[herm_on_top]]
+*** [[maleherm_on_top]]
+
+* [b]Size[/b]
+** [[larger_on_top]]
+** [[smaller_on_top]]'),
+        ('vaginal_footjob', 'Using a foot on another character''s [[pussy]] for the purpose of sexual stimulation.
+
+The female version of [[footjob]].'),
+        ('lily_(jrodslammer)', 'https://www.furaffinity.net/user/jrodslammer/
+https://www.furaffinity.net/view/44764088/
+https://d.furaffinity.net/art/jrodslammer/1637779666/1637779666.jrodslammer_8c6cb335-afdc-428c-b246-12b1cfa11505.jpg'),
+        ('labret_piercing', 'A single lip piercing between the bottom lip and the chin.'),
+        ('wanda_(the_queen''s_corgi)', 'Wanda is a saluki dog in The Queen''s Corgi. She is the deuteragonist of the movie and was voiced by Sheridan Smith.
+
+Physical Appearance
+
+Wanda is a shapely saluki with a shiny coat that is mostly brown with the exception of her belly, chest and muzzle, which are white. Her tail and ears have longer hair than the rest of her body and she has large brown and expressive eyes which she uses to help get what she wants
+Personality
+
+In the beginning, Wanda is seemingly focused on having an advantage towards a more comfortable living and using male dogs who can give her that advantage. Tyson gave her protection and dating him gave her a little more freedom than other dogs in the shelter. Later, she charms Rex in order to leave the shelter for "velvet pillows".
+
+Wanda seems to change throughout the movie, forming a romantic interest with Rex and genuinely caring for his well being and happiness. '),
+        ('piledriver_position', 'thumb #545364 thumb #720519 thumb #3281256
+
+The [b]piledriver position[/b] is a sexual position named after the downward motion of a pile driver device (the wrestling move with same name was coined much later). The position is executed with the bottom partner lying neck down and bottom up with their legs bent over head, while the top partner [[crouching|crouches]] over them and inserts their penis or [[strapon]] straight downwards.
+
+When the bottom character is instead penetrating the top character (as might happen with [[female on top]]), this position becomes the [[amazon position]]. 
+
+A softer position, where the thrusting motion is more horizontal than vertical, and the bottom has more than just shoulders on the ground is the [[anvil_position]].
+
+Source: "Wikipedia":http://en.wikipedia.org/wiki/Piledriver_%28sexual%29, posted under the Creative Commons Attribution-ShareAlike License.
+
+[section,expanded=Related tags]
+
+h5. Active partner
+
+* [[bent_legs]]
+* [[crouching]] - While this position sometimes involves a standing character, it is much more common to involve crouching due to the penetration angle involved.
+
+h5. Passive partner
+
+* [[bent_legs]]
+* [[legs_over_head]]
+* [[raised_hips]]
+* [[shoulder_stand]]
+* [[spread_legs]]
+
+h5. Interactions
+
+* [[grabbing_both_legs]]
+** [[grabbing_both_ankles]]
+** [[grabbing_both_thighs]]
+* [[hands_on_legs]]
+** [[hands_on_ankles]]
+** [[hands_on_thighs]]
+* [[penile_penetration]]
+** [[penis_in_ass]]
+** [[penis_in_pussy]]
+
+[/section]
+
+h4. Similar positions
+
+* [[anvil_position]] - The penetrating partner is kneeling instead of crouching. The penetrated partner''s position is more close to lying on their back.
+* [[arch_position]] - The penetrating partner is kneeling instead of crouching. The penetrated partner''s position is mostly unchanged.
+* [[mating_press]] - A missionary-esque position designed to mimic the piledriver position.
+* [[reverse_wheelbarrow_position]] - The penetrating partner is standing instead of crouching.
+
+h4. See also
+
+* [[tag_group:sex_positions]]
+
+* [[amazon position]]
+* [[reverse piledriver position]]'),
+        ('demon', 'thumb #1857408 thumb #2206289 thumb #2039683 thumb #2578234
+
+A mythological creature. In the context of this tag, demons are evil hellspawns that tend to have at least one or two of the following traits: either a bestial or [[monster|monstrous]] shape, discolored skin (typically red), horns, claws, wings, or a [[spade tail]]. They typically possess some form of supernatural power(s).
+
+h4. Related tag:
+* [[demon_humanoid]] - For when a demon mainly resembles a [[human]] with demonic traits and/or colored skin.
+* [[demonic]]'),
+        ('john_lockwood_kipling', 'John Lockwood Kipling, C.I.E. (6 July 1837 – 26 January 1911), was an English art teacher, illustrator and museum curator who spent most of his career in British India. He was the father of the author Rudyard Kipling.'),
+        ('portuguese_audio', 'A tag given to animations that contain audio in Portuguese.'),
+        ('lyra_(sheep_and_wolves)', 'https://hero.fandom.com/wiki/Lyra_(Sheep_%26_Wolves)
+
+[b]Lyra[/b] is a third protagonist in the Russian animation film, [[Sheep and Wolves]]. She is a good-natured and naïve young ewe and she is troublemaker [[shia (sheep and wolves)|Shia]]’s older sister. She tries to be strict and authoritative, but Shia constantly lies to her and misbehaves. She is kind, understanding, pleasant and all-around good.
+
+The clumsy ram [[moz_(sheep_and_wolves)|Moz]] is madly and secretly in love with her, but he’s unable to express his feelings; to him, she is perfect and completely unattainable. According to him, she smells of cinnamon and her wool is like silk!
+
+Lyra runs a small beauty salon at her house, where all the village fashionists come to have their wool styled according to the latest trends. She’s the one designated to care for the mysterious ram who has been found unconscious near the village.
+
+[section,expanded=Wikipedia]
+From source: https://en.wikipedia.org/wiki/Sheep_and_Wolves#The_sheep
+
+"Katia Iowa":https://en.wikipedia.org/wiki/Ekaterina_Ivanchikova (Russian) and "China Anne McClain":https://en.wikipedia.org/wiki/China_Anne_McClain (English dub) as Lyra, a ewe with red curly hair who runs a hair salon.
+Iowa and McClain also sang the film''s theme song "Raised High."'),
+        ('garen_(lol)', 'Garen - The Might of Demacia
+
+[[league_of_legends|League of Legends]] Character
+
+"Picture":http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_0.jpg'),
+        ('game_cartridge', 'thumb #463208 thumb #314932
+
+A [b]game cartridge[/b] (abbreviated "cart") is a data storage medium similar to a flash drive, but requiring a dedicated access port. A cartridge is the Read-Only Memory device holding the game data (and perhaps a few secondary microchips, up to and including a RAM stack), and is slotted into the top of a [[console]]. The device may be designed to not fit into a slot of a different console (a [[Nintendo]] cartridge will not fit into a [[Sega Genesis|Genesis]] slot, for example, nor will a [[NeoGeo]] cart fit into a [[Atari Jaguar|Jaguar]] slot).
+
+Carts were largely phased out in favor of CD-ROM discs, and later DVDs and Blu-ray Discs, for reasons of storage capacity (one CD can hold a hundred games it takes an entire cartridge to store) and cost (a cartridge requires several expensive components to manufacture, leading to games that cost 40-50% more than CD games, which simply require a single piece of plastic). However, cartridges had a loading time measured in microseconds (due to their solid-state construction) and no DRM (as nobody outside the manufacturers had the machinery necessary to write blank carts; nor could a cart be re-purposed — except, perhaps, as a coaster or paperweight—once written).
+
+The [[Game Boy]] series of hand-held consoles never split from carts.
+
+The [[Nintendo Switch]] also uses a modernized form of cartridges (Save-Data or SD cards), due to their fast loading times, while still having games on-par with its contemporaries in terms of both length and graphics.
+
+h4. See also
+
+* [[tag_group:video_games]]
+
+* [[game_console]]
+* [[game_controller]]'),
+        ('charlie_peaches_(raunchyhaunches)', 'OC owned by RaunchyHaunches
+A professional journalist and informal femboy shark, Charlie has a way of getting tangled up in all kinds of sticky, slippy mischief!'),
+        ('nashiru_(kuusou_banana)', 'Not the same artist as "nashiru":/artist/show/37984'),
+        ('telescope', 'thumb #1106280 
+
+A [b]telescope[/b] is an optical instrument that aids in the observation of remote objects by collecting electromagnetic radiation (such as visible light).
+
+h4. External:
+
+* "Wikipedia - Telescope":https://en.wikipedia.org/wiki/Telescope'),
+        ('crocjob', 'thumb #4414121
+A [[footjob]] or [[shoejob]] which involves crocs or similar foam-based footwear.
+
+h4.Related Tags:
+* [[foot_fetish]]
+** [[footjob]]
+** [[shoejob]]
+* [[crocs]]
+'),
+        ('alexithymia', 'Alexithymia is the appropriate word for the characteristics of the person who is unable to depict his/her emotions. Alexithymics can feel emotions, although not a wide range, but they do not know how to to verbalize them. Usually, they are unaware that certain sensations are actually emotions.'),
+        ('zalgo_edit', 'An [[edit]] of a post where its text has been masked (usually called [i]Zalgo text[/i]) and/or its setting and subjects have been "corrupted", for example with blood dripping down walls, characters'' eyes scribbled out, unexplained shadowy figures, et cetera. This is in reference to the [i][[zalgo|Zalgo]][/i] creepypasta, which used similar effects.'),
+        ('ash_(disambiguation)', 'There are several characters and artists named Ash. Use one of the following tags instead, or create a new one and update the list below.
+
+* For characters, use the `ash_(owner)` format when creating a new tag.
+
+h4.Artists:
+* [[ash_(artist)]]
+* [[ash_bearfox]]
+* [[ash_(pixiv53802)]]
+
+h4.Characters:
+* [[ash_(acewolfy)]]
+* [[ash_(acidapluvia)]]
+* [[ash_(adventure_time)]]
+* [[ash_(ashilia)]]
+* [[ash_(ashkelling)]]
+* [[ash_(ashkor_erebos)]]
+* [[ash_(ashtailfox)]]
+* [[ash_(ashu_kamitsune)]]
+* [[ash_(ashura43)]]
+* [[ash_(autumnlewds)]]
+* [[ash_brooks]]
+* [[ash_bunny_(skeleion)]]
+* [[ash_canaan]]
+* [[ash_(captain_nikko)]]
+* [[ash_carso]]
+* [[ash_(cashmurrcat)]]
+* [[ash_(chacomics)]]
+* [[ash_(character)]]
+* [[ash_(chinchy)]]
+* [[ash_cinder]]
+* [[ash_(cloakedthief)]]
+* [[ash_crimson]]
+* [[ash_(cyantian)]]
+* [[ash_darkfire]]
+* [[ash_davis]]
+* [[ash_(deadlyvelociraptor)]]
+* [[ash_(destiny_bronson)]]
+* [[ash_(dj50)]]
+* [[ash_(dogs_of_mars)]]
+* [[ash_dragonfire]]
+* [[ash_draumer]]
+* [[ash_(fantastic_mr._fox)]]
+* [[ash_fox_(skeleion)]]
+* [[ash_(frenky_hw)]]
+* [[ash_(fsmaverick)]]
+* [[ash_(furrmurrix)]]
+* [[ash_(g-h-)]]
+* [[ash_greninja]]
+* [[ash_greytree]]
+* [[ash_harden]]
+* [[ash_(higgz)]]
+* [[ash_hunter]]
+* [[ash_jackalton_(skaii-flow)]]
+* [[ash_(jaskenator7000)]]
+* [[ash_ketchum]]
+* [[ash_(kiriyama1084)]]
+* [[ash_kitt]]
+* [[ash_(kokoro-doll)]]
+* [[ash_(latchkey_kingdom)]]
+* [[ash_(metal_fox)]]
+* [[ash_metcalf]]
+* [[ash_mongoose]]
+* [[ash_(peritian)]]
+* [[ash_(phurie)]]
+* [[ash_(poethewondercat)]]
+* [[ash_prime_(warframe)]]
+* [[ash_pyralis]]
+* [[ash_(rainbow_six)]]
+* [[ash_reeves]]
+* [[ash_(ritts)]]
+* [[ash_(rksparkster)]]
+* [[ash_selere]]
+* [[ash_(silverfur4216)]]
+* [[ash_(sing)]]
+* [[ash_skyfall]]
+* [[ash_starwolf]]
+* [[ash_tail_fox_(character)]]
+* [[ash_(the_end_is_nigh)]]
+* [[ash_the_ninetails]]
+* [[ash_(theredhare)]]
+* [[ash_the_wizard]]
+* [[ash_the_yeenwolf]]
+* [[ash_(umbry_sky)]]
+* [[ash_vega]]
+* [[ash_(vic34677)]]
+* [[ash_(warframe)]]
+* [[ash_weststar]]
+* [[ash_wilcox]]
+* [[ash_williams]]
+* [[ash_(wishvevelyn)]]
+* [[ash_(yeahbeezii)]]
+* [[ash_(zarya3d)]]'),
+        ('penis_shrinking', 'Tagged when a [[penis]] is shrinking in size, usually quickly and beyond what is biologically possible. This tag is sometimes affiliated with [[gender transformation]]. A form of [[shrinking genitalia]] and [[shrinking]].
+
+This effect is not the same as a penis becoming flaccid, but rather a reduction of the maximum size of the penis in both the [[flaccid]] and [[erection|erect]] states. In some cases, the penis can become small enough to retract into the body and disappear.
+
+h4. Not to be confused with:
+* [[retracted penis]], when a penis retracts closer to the body either due to the [[cold]], an emotional/mental/physical state (e.g. [[fear]]), or some other reason within the realm of what is biologically possible.
+* A penis [[becoming flaccid]].
+
+h4. Related tags:
+* [[sequence]]
+* [[transformation]]
+** [[gender_transformation]]
+* [[penis_expansion]] for the opposite case where an existing penis becomes bigger.
+* [[penis_growth]] for the opposite case where an entirely new penis forms.'),
+        ('earl_polar', 'Earl Wolf''s Fursona and Character.
+
+A timber wolf with some fox somewhere in the family line. He''s often depicted in unfortunate, embarrassing and humiliating scenarios, such as being at the receiving end of a wedgie or a fart.
+
+Link to his Furrafinity Account :
+https://www.furaffinity.net/user/earlwolf'),
+        ('charlene_sinclair', 'https://www.deviantart.com/tafuri42/art/Charlene-Sinclair-work-418172807
+
+she is the 12 year old girl in [[Dinosaurs (series)]]'),
+        ('azon_azimuth', 'Azon Azimuth is an original character created by IkeFanboy64. He is a feminine [[dragon_humanoid]] with tanned skin, long black_hair, blue eyes/tongue, and a black penis. His wardrobe typically consists of a beanie, button-up flannel shirt, jeans, sneakers, and black fingerless gloves. He also has dragon ears and his arms and legs transition from human to dragon.'),
+        ('heiken', 'Feral horse character who belongs to https://www.furaffinity.net/user/mcfan/'),
+        ('foxy_(helluva_boss)', 'How do I set tag tho character?'),
+        ('joeythetimelord', 'This is a fursona and has two different versions.
+
+Owner: https://www.furaffinity.net/user/joeythetimelord/
+
+Refsheet (new version): https://www.furaffinity.net/view/24127388/
+Refsheet (old version): https://www.furaffinity.net/view/20742297/'),
+        ('sfw', 'Pictures that are safe for work. In other words, pictures without any content people would find to be inappropriate.
+
+This tag is invalid since it''s easily served by the Safe rating on posts. If you would like to search for safe-rated images, search the {{rating:safe}} metatag or use our SFW domain "e926.net":https://e926.net.'),
+        ('uatli', 'formely fleshtotem '),
+        ('atunacake', 'Commissions are open!! Just message on twitter, or Discord (Tea <3#1091)'),
+        ('brightwing', 'Brightwing is a fairy dragon from Warcraft.'),
+        ('a_channel', 'A Channel (Aチャンネル Ē Channeru?), is a Japanese four-panel comic strip by bb Kuroda. It was first serialized in the seinen manga magazine Manga Time Kirara Carat on December, 2008, published by Houbunsha. A prequel manga series, also by Kuroda, launched in Manga Time Kirara Carino from January 2012. An anime adaptation by Studio Gokumi aired in Japan between April 8, 2011 and June 24, 2011. An original video animation, A Channel +smile, was released on March 21, 2012.'),
+        ('ashesdrawn', 'Commissioning information: [i]See Deviantart or Furaffinity pages[/i]
+
+* "Patreon":https://www.patreon.com/AshesDrawn
+"Deviantart":http://ashesdrawn.deviantart.com/
+"Furaffinity":http://www.furaffinity.net/user/darknessprotection/
+"Art Station":https://www.artstation.com/artist/shadowsdraw
+"Facebook":https://www.facebook.com/RShadowDraws/
+"Youtube":https://www.youtube.com/channel/UCvVcqlu35H_DrPW98tiyA2A
+"Curioos":https://www.curioos.com/ShadowDraws
+"Picarto":https://picarto.tv/RestrictedArt'),
+        ('nutty_(htf)', 'thumb #1270500
+
+thumb #1270609
+
+Nutty is one of the main characters of [[Happy Tree Friends]].
+
+Nutty is a light green squirrel with a yellow diamond-shaped marking on his head and a large curled-up tail that moves when he is excited. Nutty has an addiction for candy or anything that is sugary. He has a big swirly lollipop, candy cane, small all-day sucker, and a candy apple stuck to his fur. It is apparent that his googly eye is an amblyopia, or lazy eye, however, he seems to be able to control it, usually whenever he looks at an object intently. As a result of his huge sugar intake, Nutty is often hyperactive and jittery, and giggles more than he talks.
+
+h4. Happy Tree Friends characters:
+
+* [[Cub_(htf)]]
+* [[Cuddles_(htf)]]
+* [[Disco_Bear_(htf)]]
+* [[Flaky_(htf)]]
+* [[Flippy_(htf)]]
+* [[Giggles_(htf)]]
+* [[Handy_(htf)]]
+* [[Lammy_(htf)]]
+* [[Lifty_(htf)]]
+* [[Lumpy_(htf)]]
+* [[Mime_(htf)]]
+* [[Mr._Pickels_(htf)]]
+* Nutty_(htf)
+* [[Petunia_(htf)]]
+* [[Pop_(htf)]]
+* [[Russell_(htf)]]
+* [[Shifty_(htf)]]
+* [[Sniffles_(htf)]]
+* [[Splendid_(htf)]]
+* [[The_mole_(htf)]]
+* [[Toothy_(htf)]]'),
+        ('dominant_maleherm', 'Posts featuring a [[maleherm]] character acting as the one dominating within a [[dominant|domination]] scenario.
+
+Note: This is not the same as being the dominant/giver in non-domination/submission scenes, or implied by things such as [[penetration]] or other actions, unless it is being done in a dominant role of a Domination/submission situation.
+
+h4.Related Tags:
+
+* [[bdsm]]
+* [[dominant]]
+** [[dominant_ambiguous]]
+** [[dominant_female]]
+** [[dominant_intersex]]
+*** [[dominant_andromorph]]
+*** [[dominant_gynomorph]]
+*** [[dominant_herm]]
+*** [b]dominant_maleherm[/b]
+** [[dominant_male]]
+* [[submissive]]
+** [[submissive_ambiguous]]
+** [[submissive_female]]
+** [[submissive_intersex]]
+*** [[submissive_andromorph]]
+*** [[submissive_gynomorph]]
+*** [[submissive_herm]]
+*** [[submissive_maleherm]]
+** [[submissive_male]]
+
+* [[dominant_anthro]]
+* [[dominant_feral]]
+* [[dominant_human]]
+* [[dominant_humanoid]]
+* [[dominant_taur]]
+* [[submissive_anthro]]
+* [[submissive_feral]]
+* [[submissive_human]]
+* [[submissive_humanoid]]
+* [[submissive_taur]]
+
+* [[dominant_pov]]
+* [[submissive_pov]]
+'),
+        ('dark_magician', 'thumb #173533
+
+[b]Dark Magician[/b], known as [b]Black Magician[/b] (ブラック・マジシャン, Burakku Majishan) in the Japanese versions, is a character and [[duel monster]] in the [[Yu-Gi-Oh!]] games and anime franchise along with being one of its most iconic monsters. He is the quintessential component of the [b]Dark Magician Archetype[/b] deck, for which the archetype is named after and centers around.
+
+Unlike his student/lover [[Dark Magician Girl]], Dark Magician''s appearance has changed numerous times over the years as the anime and game has evolved. Dark Magician is usually depicted as a lean young man with long blonde hair and an angular face with a calm expression. He wears a dark colored robe over a bodysuit with light armor around his arms and legs, shoulder pads, a pointy hat, and a cowl. In his hand he holds a long scepter with a sharp end and a crystal ball on the end of it. Dark Magician''s outfit has a motif of layering and spiraling which is present in almost every single article of clothing and item he carries.
+
+Dark Magician has gone through numerous pallet swaps. His original design was peach skin, purple hair, and purple clothing, with a green scepter. Since then his skin has been green, brown, blue, white. His hair has been blonde or white. His clothing has been blue, black or red. His scepter has been green or colored to match his clothes.
+
+Dark Magician is a Level 7, Dark-Attribute, Spellcaster/Normal Monster. By default it has 2500 Attack Points and 2100 Defense Points. It requires two monster card to be tributed to her before it can be normal summoned. It facilitates the summoning and use of numerous other Dark Spellcaster Cards such as Dark Sage, Dark Magician Girl, The Magician of Black Chaos, Dark Paladin, and Dark Magician Knight.
+
+According to the protagonist of the original [[Yu-Gi-Oh!]], [[Yugi Muto]], Dark Magician is his most favorite, most powerful, and most rare card in his entire deck and his most frequently played card throughout the series.'),
+        ('hand_under_clothes', 'thumb #319776 thumb #997566 thumb #2228593
+
+Images or animations depicting a character with their hand underneath a character''s [[clothing]]. This is typically for the purposes of different kinds of [[grope|groping]].
+
+h4. See also
+* [b]hand_under_clothing[/b]
+** [[hand_under_topwear]]
+* [[shirt_lift]]
+* [[upskirt]]'),
+        ('she''s_a_bit_sluggish', '[quote]A simple story of a date between a copper robot weeb and a beleaguered slug girl. Nothing can possibly go wrong.[/quote]
+
+A short, free visual novel created by Cavemanon Studios featuring their original characters.
+
+Itch.io page: - https://cavemanon.itch.io/shes-a-bit-sluggish'),
+        ('calua_(naivete)', 'Name and/or Last name: “Mind your own business”
+Surname: Calua, « Curious and cynical asshole », “Naivete”
+Gender: Men? Who knows!
+Age : ∞ + 5 years, yes, really!
+Species: Subconscious
+Height: 1m76?
+Weight: 68kg?
+Behaviour: Makes fun of a little bit of everything but stay nice. Play a lot on the second degree and the irony. Loves to break the fourth wall!
+Background Story: Calua is part of the Subconscious race. By temporarily erasing his memory voluntarily and giving himself a fictitious appearance. He inserted himself into the story "The epics of Rei", because he wanted to live a story, he met Rei, Adréa and a lot of other characters, he quickly became friend with them! But one day, his siblings found him and want to put him away from his friends. With rage and a feelings of unfair, he fused Rei and Adréa but he did a big mistakes… To punish him for his insolence, the Subconscious’s head decide to make him suffer, to make him understand that as a Subconscious, he’s not allowed to have friends and just do his job
+Relationship: Like Reidréa and Henry’s food, Like to do jokes with Camille, Don’t care about the rest, fear Idées Noires but understands its pain.
+Sexual orientation: North-West
+'),
+        ('tanzanite', 'Owns the character [[tanzanite_(character)]].'),
+        ('command', 'thumb #3581252
+
+A [b]command[/b] is a directive statement, or [[text]] / [[pictographics]] / [[gesture]] / or audio that can reasonably be interpreted to function as a directive. A directive is an instruction to complete a task, or objective. Commands are commonplace in everyday speech habits, being one of the primary ways we convey wants and needs to each other.
+
+Commands do not necessarily have to target another character, and may even appear in [[inner monologue]]. This is due to characters sometimes expressing their needs internally.
+
+h4. Command influence
+
+Commands can exude a positive, or negative influence depending on context, and phrasing.
+
+h5. Positive influence
+
+A command issued as a suggestion, request, praise, or as words of [[encouragement]]. These commands are either asking for something in a mostly polite way, or are attempting to guide, or help someone complete a task or objective. The latter can be considered as a form of moral support. See [[cheering]].
+
+Requests may be in the form of a [[question]], which makes it an interrogative statement rather than an imperative (command) statement. The format shouldn''t matter too much as long as there is a directive being conveyed. 
+
+h5. Negative influence
+
+A command issued with authority, or with intent to threaten. These commands are more commonly referred to as orders. There may be consequences if an order is not followed.
+
+h4. Command affirmation
+
+Commands can tell you to do something (affirmative), or not to do something (negative).
+
+h4. Terms
+
+* [b]Direct command[/b] - A direct command (order) is a type of command with an unconditional expectation that the command will be followed. 
+* [b]Passive command[/b] - A passive (idle) command is a type of command that has no expectations that it will be followed.
+
+h4. Categories
+
+* [[command_to_allow]]
+* [[command_to_clean]]
+* [[command_to_look]]
+* [[command_to_prepare]]
+* [[command_to_relax]]
+* [[command_to_retrieve]]
+* [[command_to_speak]]
+* [[command_to_wait]]
+* [[command_to_open_mouth]]
+* [[command_to_swallow]]
+
+h5. States
+
+* [[be_careful]]
+* [[be_gentle]]
+* [[be_quiet]]
+
+h5. State changes
+
+* [[deeper]]
+* [[faster]]
+* [[harder]]
+* [[slower]]
+
+h5. Negations
+
+* [[don''t_listen]]
+* [[don''t_pull_out]]
+* [[don''t_stop]]
+* [[don''t_tell]]
+
+h5. Requests
+
+* [[cum_request]]
+* [[impregnation_request]]
+* [[insemination_request]]
+* [[kiss_request]]
+* [[pull_out_request]]
+
+h4. See also
+
+* [[asking]]
+** [[asking another]]
+** [[asking viewer]]
+* [[dialogue]]
+* [[question]]
+* [[text]]'),
+        ('dinobust', 'https://www.furaffinity.net/user/dinobust/
+https://www.deviantart.com/dinobust'),
+        ('the_last_hope_scar', 'The Last Hope is a TTRPG campaign streamed at https://www.twitch.tv/ra_zim utilizing the custom-made SCAR system!
+
+Recordings can be seen at https://www.youtube.com/playlist?list=PLh57HDdSNHRIuKhN6siNBYSkFea5JWsHC'),
+        ('amaran', 'An anthropomorphic fox race in the Star Wars Legends continuity, created by furry artist Amy Pronovost, aka Amara Fox.
+
+Source- "Wookieepedia''s Article on Amaran Species":http://starwars.wikia.com/wiki/Amaran'),
+        ('trix_rabbit', 'Ticks, better known as the Trix Rabbit is a food [[mascot]] for [[Trix]] [[cereal]]  manufactured by [[General Mills]]. He is an anthropomorphic [[rabbit]] with a tall body and [[white]] fur.
+
+The format in every TV commercial has changed over the years to varying degrees, but the same core formula still exists. In many commercials, he will always trick the kids into something so he can try Trix for himself without them knowing (mostly through a disguise or some contraption), but every time he tries to do so, it always backfires and the kids will say the infamous "Silly rabbit! Trix is for kids!" quote.'),
+        ('confetti', 'thumb #1072614
+
+[b]Confetti[/b] are small pieces or streamers of paper, mylar, or metallic material which are usually thrown at parades, sporting team winners, and celebrations. They may also be shot out of [[party_popper|party poppers]].
+
+h4. External:
+
+* "Wikipedia - Confetti":https://en.wikipedia.org/wiki/Confetti'),
+        ('duck_(sarah_and_duck)', 'There are a lot of other images of him at <https://booru.allthefallen.moe/posts?tags=duck_(sarah_and_duck)> but it could be unclear as to whether they meet quality standards to upload here.'),
+        ('pearl_(mikeyuk)', 'Pearl is a white snow leopard girl. She''s part of the Hunters faction in the story ''Stone Guardians''. The character is made by and belongs to MikeyUK.'),
+        ('minerva_(cutepet)', 'brown-skinned angel with purple hair'),
+        ('rineka', '[section=Dead Source]
+http://rineka.tumblr.com/'),
+        ('red_bottomwear', 'Any article of [[bottomwear]] ([[pants]], [[shorts]], [[skirt]], etc.) that is red in color.
+
+thumb #1338760 thumb #1300386 thumb #1279994
+
+h4. Categories
+
+* [[red_hakama]]
+* [[red_loincloth]]
+* [[red_kilt]]
+* [[red_pants]]
+* [[red_sarong]]
+* [[red_shorts]]
+* [[red_skirt]]
+
+h4. Bottomwear colors
+
+* [[black_bottomwear]]
+* [[blue_bottomwear]]
+* [[brown_bottomwear]]
+* [[green_bottomwear]]
+* [[grey_bottomwear]]
+* [[orange_bottomwear]]
+* [[pink_bottomwear]]
+* [[purple_bottomwear]]
+* [b]red_bottomwear[/b]
+* [[tan_bottomwear]]
+* [[teal_bottomwear]]
+* [[white_bottomwear]]
+* [[yellow_bottomwear]]
+
+* [[rainbow_bottomwear]]
+
+h5. Color attributes
+
+* [[translucent_bottomwear]]
+
+h5. Color counts
+
+* [[monotone_bottomwear]]
+* [[multicolored_bottomwear]]
+** [[two_tone_bottomwear]]
+** [[multi_tone_bottomwear]]'),
+        ('muscular/overweight', 'When one muscular character is having intercourse with an overweight character.'),
+        ('el_chavo', 'Main character of [[El_Chavo_del_Ocho]], an 8-year-old boy, who arrives at the vecindad after running away from an orphanage where his mom abandoned him. He accustoms hiding in a barrel located at the entrance of the vecindad, but he lives in #8 where a nice lady let him sleep.'),
+        ('12colors', 'Shit idk. I am a goofy goober'),
+        ('birdo_(character)', 'Birdo is a character in the Mario kart series.
+It''s been 7 years without this tag being made.
+
+[[Birdo]] is a specie, but Birdo, the character is also a character. If there''s a [[fan_character]] related of birdo species then tag the species. I''m keeping this separate as possible. '),
+        ('nana_kozuki', 'Nana Kozuki is a main character from the game God Eater 2 and its remake God Eater 2: Rage Burst and is a member of the squad of Fenrir Blood'),
+        ('vaporeon', 'thumb #666996 thumb #471843 thumb #566646 
+
+Vaporeon, known as the Bubble Jet [[Pokémon]], is one of the evolutions of [[Eevee]] that is caused by radiation from a Water Stone. Vaporeon''s body is light-blue and has a white collar; it has yellow ears made of webbing and a fin on its head resembling ears, and a pointed pattern of dark blue on its head that encompasses the backs of its ears and head-fin. It also has blue ridges that run down the length of its spine and on to its tail-fin, and the paw pads on its hind feet are dark blue like the ridges.
+
+Vaporeon''s molecular structure is close to water, and because of this, Vaporeon are highly adapted to aquatic life. It can manipulate water molecules, melt into water, walk on water, and breathe underwater. Many people who first see this Pokémon believe it is a mermaid. When Vaporeon''s fins begin to vibrate, it is said to be a sign that rain will come within a few hours. Vaporeon are always found close to water, and prefer large, clean lakes.
+
+h4. See Also:
+
+* [[pokémon]]
+** [[eevee]]
+*** [[eeveelution]]
+*** [[all eight eeveelutions]]
+**** vaporeon
+**** [[jolteon]]
+**** [[flareon]]
+**** [[espeon]]
+**** [[glaceon]]
+**** [[leafeon]]
+**** [[umbreon]]
+**** [[sylveon]]
+* [[vaporeon copypasta]]'),
+        ('loonertick', 'Formerly known as Liquid36.'),
+        ('kathryn_armbruster', '[b]Kathryn Armbruster[/b] is a [[female]] [[phoenix]] character belonging to "ZephyrGlide":https://www.furaffinity.net/user/zephyrglide/
+
+h4.External links
+* "Kathryn''s reference":https://www.furaffinity.net/view/29173849/ on Fur Affinity'),
+        ('staraptor', 'h4. See Also:
+
+* [[pokémon]]
+** [[starly]]
+*** [[staravia]]
+**** staraptor'),
+        ('extreme_french_kiss', 'thumb #513445  thumb #393583  
+
+An intense form of [[french kissing]]. This generally involves [[long_tongue|long tongues]] and an excessive amount of [[saliva]] and [[drooling]]. Sometimes it can just be a really bizarre time to be french kissing someone.
+
+The most common use for this tag is [[deep_throat|deepthroating]] someone''s tongue, with or without the lips touching.
+
+A good rule of thumb is: If you can do it with 2 normal humans, it probably isn''t an extreme french kiss.
+
+h4.See also
+
+* [[kissing]]
+** [[french_kissing]]
+*** extreme_french_kiss'),
+        ('snao', 'Formerly Tehsean
+https://www.furaffinity.net/user/tehsean'),
+        ('jennifer_(hebereke)', '[i]Jennifer[/i] is one of the main protagonists of the [[Hebereke]] series. He is a green angler fish with a yellow antenna.
+
+In the PAL release of the first game, (titled [i]Ufouria: The Saga[/i]) he is renamed to “Gil”.'),
+        ('mature_intersex', 'A middle-aged [[intersex]] character. 
+
+* If the character is depicted with a much younger character, include the [[older_intersex]] tag too.
+
+h4. See also
+
+* [b]Older:[/b]
+** [[older_ambiguous]]
+** [[older_female]]
+** [[older_male]]
+** [[older_intersex]]
+*** [[older_andromorph]]
+*** [[older_gynomorph]]
+*** [[older_herm]]
+*** [[older_maleherm]]
+* [b]Mature:[/b]
+** [[mature_ambiguous]]
+** [[mature_female]]
+** [b]mature_intersex[/b]
+*** [[mature_andromorph]]
+*** [[mature_gynomorph]]
+*** [[mature_herm]]
+*** [[mature_maleherm]]
+** [[mature_male]]
+* [b]Younger:[/b]
+** [[younger_ambiguous]]
+** [[younger_female]]
+** [[younger_male]]
+** [[younger_intersex]]
+*** [[younger_andromorph]]
+*** [[younger_gynomorph]]
+*** [[younger_herm]]
+*** [[younger_maleherm]]'),
+        ('hindwear', 'thumb #3478316 thumb #3876639 thumb #2625679 thumb #2141393
+
+On a [[clothed taur]] or [[cloathed feral]], a piece of clothing analogous to [[bottomwear]], that is meant to cover the rump. The [[topwear]] equivalent would be [[brisketwear]]. A "wide skirt" covering the entire feral portion of a taur is instead called a [[rug_(clothing)|rug]].
+
+h4. See Also
+* [[brisketwear]]
+* [[clothed_feral]]
+* [[clothed_taur]]
+* [[furgonomics]]'),
+        ('ashton_thatcher', 'h2.Ashton Thatcher
+A 23 year old raccoon hailing from Vista, California. He served for three years as an aviator for the United States Army. He received an honorable discharge in 2039 at the age of 20 following a helicopter crash that took his left arm. 
+[quote]h2.EARLY LIFE
+Born on September 16th, 2019, he was raised in several places throughout California, before finally settling in Vista.[/quote]
+[quote]h2.MILITARY SERVICE
+At the age of 17, Ashton joined into the United States Army to become a warrant aviation officer. Throughout his service, he flew a UH-6o Blackhawk during the ongoing Slavic War, primarily in Old Ukraine. His primary objectives mainly consisted of assaulting enemy convoys, and regular patrol recon. 
+
+At the tail end of his career, he was shot down along with all five of his crew approximately 60 miles behind enemy lines. However, due to not only his piloting during the crash, but his after-incident first aid and quick thinking, all crew survived. He lead the group back to the FOB from which they''d departed, carrying three crew members whom had lost consciousness in the crash, and scouting multiple high-value targets on their way. For this, he was awarded the distinguished service cross.[/quote]
+[quote]h2.POST SERVICE
+After leaving the army with both an honorable discharge and a distinguished service cross, he moved to the ''Neon District'' of a North American metropolis, finding work for Amery International as a security officer.[/quote]'),
+        ('ghoul_(h.p._lovecraft)', '========
+https://lovecraft.fandom.com/wiki/Ghoul
+========
+Ghouls are a species of cannibalistic humanoids featured in several of Lovecraft''s works.
+
+They are first depicted in the short story "Pickman''s Model", where the eponymous main character meets with the beings regularly to paint them in various poses and activities. It is revealed in "The Dream-Quest of Unknown Kadath" that Pickman is in fact a partial or full-blooded ghoul, and now resides with them in the Dreamlands as a chieftain.
+
+In combat, they are known to use items such as headstones and were unfamiliar with other types of weaponry up until their battle with the Moon-beasts. It was here that they first discovered, and quickly mastered, the use of spears and of javelins. With this newfound technology, they were able to annihilate the garrison of Moon-beasts on the nameless rock off the coast of Sarkomand in the Dreamlands.
+
+On specific planets they worship a number of gods such as Baoht Z''uqqa-mogg ("Mysterious Manuscripts" RPG Module by Thomas M. K. Stratman) or Mordiggian ("The Charnel God" by Clark Ashton Smith).
+========'),
+        ('eshbaal', 'Artist'),
+        ('lucas_(zourik)', '[b]Lucas[/b] is an original [[anthro]] [[dragon]] character created by [[Zourik]], first appearing in the comic "[i]An Unusual Intimidation - Chapter II[/i]":https://e621.net/pools/26097. [i](He also appears in the comic "[i]Just a Little Lie[/i]":https://e621.net/pools/30921)
+[/i]
+[b]Lucas[/b] is an [[anthro]] [[male]] [[dragon]], with a predominantly purple body and dark blue and black hair.
+His sclera is lighter blue than his hair, and his eyebrows are black.
+
+He also has a yellow nose piercing.'),
+        ('buzz_cut', 'A [[short_hair|short]] type of hairstyle.
+
+h4. Tags About Hair
+
+* [[hair]]
+
+[section=Tags About Hair]
+
+[section=Colors of Hair]
+h4. [[tag_group:colors|Colors]] of Hair
+
+* [[auburn_hair]]
+* [[black_hair]]
+* [[blonde_hair]]
+* [[blue_hair]]
+* [[brown_hair]]
+* [[cream_hair]]
+* [[green_hair]]
+* [[grey_hair]]
+* [[orange_hair]]
+* [[pink_hair]]
+* [[purple_hair]]
+* [[red_hair]]
+* [[silver_hair]]
+* [[tan_hair]]
+* [[teal_hair]]
+* [[white_hair]]
+
+* [[monotone_hair]]
+* [[multicolored_hair]]
+** [[rainbow_hair]]
+** [[two_tone_hair]]
+
+* [[dark_hair]]
+* [[light_hair]]
+
+[/section]
+
+[section=Hair Accessories]
+* [[hair_accessory]]
+** [[feather_in_hair]]
+** [[flower_in_hair]]
+** [[hair_beads]]
+** [[hair_bell]]
+** [[hair_ribbon]]
+*** [[hair_bow]]
+** [[hair_ring]]
+** [[hair_sticks]]
+** [[hair_tie]]
+** [[hairband]]
+*** [[frilly_hairband]]
+** [[hairclip]]
+** [[hairpin]]
+* [[hair_net]]
+
+[/section]
+
+[section=Hair Maintenance]
+h4. Actions
+
+* [[drying_hair]]
+* [[styling_hair]]
+** [[braiding_hair]]
+** [[brushing_hair]]
+** [[hair_trimming]]
+* [[tying_hair]]
+
+h4. Objects
+
+* [[hair_curlers]]
+* [[hair_dryer]]
+* [[hair_gel]]
+* [[hairbrush]]
+** [[comb_(brush)]]
+*** [[afro_comb]]
+*** [[holding_comb]]
+** [[holding_hairbrush]]
+* [[hairspray]]
+* [[scissors]]
+* [[shampoo]]
+** [[soap]]
+
+[/section]
+
+[section=Hair Traits]
+* [[ahoge]]
+* [[antenna_hair]]
+* [[big_hair]]
+** [[huge_hair]]
+*** [[hyper_hair]]
+* [[cowlick]]
+* [[curled_hair]]
+* [[flowing_hair]]
+* [[fluffy_hair]]
+* [[glistening_hair]]
+* [[glittering_hair]]
+* [[glowing_hair]]
+* [[gradient_hair]]
+* [[highlights_(coloring)|hair_highlights]]
+* [[hair_mouth]]
+* [[living_hair]]
+* [[long_hair]]
+* [[mane_hair]]
+* [[messy_hair]]
+* [[prehensile_hair]]
+** [[hair_hand]]
+* [[pseudo_hair]]
+** [[ethereal_hair]]
+*** [[cosmic_hair]]
+** [[feather_hair]]
+** [[fin_hair]]
+** [[flaming_hair]]
+** [[goo_hair]]
+** [[ice_hair]]
+** [[lava_hair]]
+** [[liquid_hair]]
+** [[metallic_hair]]
+** [[penis_hair]]
+** [[plant_hair]]
+*** [[flower_hair]]
+*** [[leaf_hair]]
+** [[scale_hair]]
+** [[smoke_hair]]
+** [[snake_hair]] (See Also: [[living_hair]])
+** [[tentacle_hair]]
+* [[short_hair]]
+* [[spiky_hair]]
+* [[spotted_hair]]
+* [[straight_hair]]
+* [[striped_hair]]
+* [[translucent_hair]]
+* [[wavy_hair]]
+* [[wet_hair]]
+
+[/section]
+
+[section=Hairstyles]
+* [[afro]]
+* [[alternate_hairstyle]]
+* [[bald]]
+* [[bangs]]
+** [[blunt_bangs]]
+** [[crossed_bangs]]
+** [[long_bangs]]
+** [[parted_bangs]]
+** [[side_bangs]]
+** [[swept_bangs]]
+* [[beehive_(hairstyle)]]
+* [[bob_cut]]
+* [[bowl_cut]]
+* [[braided_hair]]
+** [[side_braid]]
+** [[single_braid]]
+** [[twin_braids]]
+* [[bride_of_frankenstein_hairdo]]
+* [b]buzz_cut[/b]
+* [[dreadlocks]]
+* [[drill_curls]]
+* [[fauxhawk]]
+* [[hair_bun]]
+* [[hair_buns]]
+* [[hime_cut]]
+* [[mohawk_(hairstyle)]]
+* [[pigtails]]
+* [[pixie_cut]]
+* [[pompadour]]
+* [[ponytail]]
+* [[rattail_(hairstyle)]]
+* [[queue_(hairstyle)]]
+* [[side_cut]]
+
+[/section]
+
+[section=Other]
+* [[adjusting_hair]]
+* [[barber]]
+* [[biting_hair]]
+* [[cum_in_hair]]
+* [[eye_through_hair]]
+* [[eyebrow_through_hair]]
+* [[feral_with_hair]]
+* [[hair_between_eyes]]
+* [[hair_bondage]]
+* [[hair_covering_breasts]]
+* [[hair_masturbation]]
+* [[hair_on_shoulder]]
+* [[hair_on_shoulders]]
+* [[hair_over_eye]]
+* [[hair_over_eyes]]
+* [[hair_penetration]]
+* [[hair_sex]]
+* [[hairjob]]
+* [[tied_hair]]
+* [[touching_hair]]
+** [[hair_grab]]
+** [[hand_in_hair]]
+** [[holding_hair]]
+** [[pulling_hair]]
+** [[twirling_hair]]
+
+[/section]
+[/section]'),
+        ('holding_organ', 'A character holding one or more internal [[organs]].'),
+        ('sailornyan', 'A cat from "Yo-kai watch.":https://e621.net/wiki/show?title=yo-kai_watch Looks like a pink [[jibanyan]] wearing a [[serafuku]].'),
+        ('pads_(disambiguation)', 'Please use on of the following:
+
+* [[pawpads]]
+* [[finger_pads]]
+
+* [[shoulder_pads]]
+* [[knee_pads]]
+* [[elbow_pads]]
+* [[sports_pads]]
+
+* [[menstrual_pad]]'),
+        ('haveneuh', 'French artist
+
+Is taking pokémon team commissions'),
+        ('etsu_cuprumfox', 'Russian Artist
+Commissioning information: "[Link]":https://www.furaffinity.net/commissions/etsucuprumfox/
+
+* "Furaffinity":https://www.furaffinity.net/gallery/etsucuprumfox/
+"Deviantart":https://cuprumfox.deviantart.com'),
+        ('dildo_handjob', 'Touching a [[dildo]] the way someone would usually only do during a [[handjob]].'),
+        ('anthro_to_inanimate', 'When an [[anthro]] character [[transformation|transforms]] into an [[inanimate]] being.'),
+        ('rb_(colourparade)', 'https://www.pixiv.net/en/users/1990865
+https://www.etsy.com/people/ColourParade'),
+        ('keltaan', 'Russian artist
+Commissioning information: [i]Contact artist[/i]
+
+* "Deviantart":http://keltaan.deviantart.com/
+* "Furaffinity":http://www.furaffinity.net/user/keltaan/
+* "VK":https://vk.com/id139272802'),
+        ('bulge_to_breast_contact', 'When an abdominal bulge noticeably makes contact with a characters breasts. '),
+        ('kawauso_(character)', 'Artist avatar of [[kawauso98]].
+A male anthro otter.'),
+        ('after_rimming', 'thumb #2592340 thumb #2410456 thumb #2522625
+
+[b]After rimming[/b] should be used when there is visual evidence that [[rimming]] just happened, usually a [[gaping anus]], a [[saliva_string|string of saliva]], or a face pullout.
+
+h4. See also
+
+* [[after_anal]]
+* [[after_cloacal]]
+* [[after_oral]]
+* [[after_vaginal]]
+* [[rimming]]'),
+        ('indochinese_green_magpie', 'The Indochinese green magpie or yellow-breasted magpie is a passerine bird of the crow family, Corvidae. It is native to mainland southeast Asia and adjacent China.
+
+(Source: Wikipedia)
+'),
+        ('mikayla_(darkstar145)', 'thumb #2596014 thumb #2081201
+
+[b]Mikayla[/b] is a [[female]] [[shark]] character belonging to "darkstar145":https://www.furaffinity.net/user/darkstar145/.
+
+h5.External links
+* "Mikayla''s reference sheet":https://www.furaffinity.net/view/34019502/ on Fur Affinity
+
+'),
+        ('jennifer_(longblueclaw)', 'Jennifer is a hermaphrodite bear taur belonging to {{LongBlueClaw}}.'),
+        ('rammie_(jschlatt)', 'thumb #3073263
+
+The [[sheep]] mascot of the [[YouTuber]] [[jschlatt]]. Officially named via merchandise. Has his own verified "Twitter account":https://twitter.com/rammie.
+
+Note: Not the same character as [[jschlatt_(character)]].'),
+        ('aurora_(stormwolff)', 'Female character of Stormwolff''s, seems to no longer be in use as his gallery is devoid of the pieces she was in.'),
+        ('french_text', 'A tag given to posts that contain text written in French.
+'),
+        ('gremlin_(might_and_magic)', 'The Gremlin is a recruitable unupgraded 1st-level Academy unit from the 2006 turn-based strategy game [[heroes_of_might_and_magic_5| Heroes of Might & Magic V]].
+
+[i]"Creatures born as result of magical experiments on captured goblins, Gremlins are more clever and tractable than their progenitors. The most common creature in the Wizards'' army, they prefer to fight from a distance using primitive projectile weapons fuelled by explosive spells. Their clumsy hand-held mortars are sturdy, and during melee Gremlins use them as metal clubs."[/i]
+
+h5. Variants:
+* [[gremlin_(might_and_magic)| Gremlin]]
+* [[master_gremlin| Master Gremlin]]
+* Gremlin Saboteur'),
+        ('pokemon_amie', 'thumb #2323247 thumb #1707908 thumb #1712885
+
+Source:https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon-Amie
+
+[b]Pokémon-Amie[/b] (Japanese: ポケパルレ Poké Parler) is a feature introduced in [[pokemon|Pokémon]] X and Y that allows the player to develop stronger bonds with their Pokémon. It uses the touch screen to allow players to pet, feed, and play with Pokémon currently on their team. Players may interact with their Pokémon by petting or feeding them via the touchscreen or mimicking their movements using the camera. Large Pokémon, like Tyranitar and Snorlax, take up both screens of the 3DS.
+
+Pokémon-Amie introduces three new interrelated statistics for the player to manage: affection, fullness, and enjoyment. Interacting with a Pokémon or feeding it increases its affection towards the player, which grants bonuses such as allowing it to avoid attacks and land critical hits more often. Note that affection is separate from friendship.
+
+Pokémon-Amie is accessible among the paged features on the bottom screen of the 3DS, immediately left of Super Training or right of the Player Search System. In Omega Ruby and Alpha Sapphire, these are all found in the PlayNav of the PokéNav Plus.
+(The above content is from the bulbapedia.)
+
+h4. See also
+
+* [b]pokémon_amie[/b]
+** [[pokemon_refresh|pokémon_refresh]]
+*** [[pokemon_camp|pokémon_camp]]'),
+        ('year', 'This tag is for images that have a year written or printed somewhere on it. It might appear on a [[calendar]] setting a time frame for when the scene takes place or as part of a [[watermark]] or [[signature]] denoting when the image was made.'),
+        ('aseethe', 'Digital Artist
+
+* "Furaffinity":http://www.furaffinity.net/user/aseethe/
+"Twitter":https://twitter.com/SepiaPaws
+"Deviantart":https://www.deviantart.com/aseethe
+"Weasel":https://www.weasyl.com/~aseethe'),
+        ('pamela_anderson', '[b]Pamela Denise Anderson[/b] (born July 1, 1967) is a Canadian American actress and model. Anderson is best known for her roles on the television series [[Home Improvement]], [[Baywatch]] and [[V.I.P.]] after rising to fame as Playmate of the Month for Playboy magazine in February 1990. Anderson had also appeared in films such as [[Raw Justice]] (1994), [[Barb Wire]] (1996) and [[Blonde and Blonder]] (2008) and was inducted into Canada''s Walk of Fame in 2006.'),
+        ('dhampir', '[b]dhampir[/b] - a [[hybrid]] offspring of a [[vampire]] and a [[human]].'),
+        ('snes_controller', 'The oval-shaped [[game controller]] designed to interact with the [[Super Nintendo]] gaming console. The controller features a directional pad, start, and select buttons, and blue A, B, X, Y buttons. The Super Famicom controller has a similar shape, but the A, B, X, Y buttons are colored red, yellow, blue, green respectively.
+
+h4. Model tagging
+
+* [[super_famicom_controller]] - The Japanese and European (PAL) model is distinct enough to have its own tag.
+
+h4. See also
+
+* [[nintendo]]
+** [[nintendo_console]]
+** [[nintendo_controller]]
+*** [[nes_controller]]
+*** [b]snes_controller[/b]
+*** [[famicom_controller]]
+*** [[super_famicom_controller]]'),
+        ('kyodashiro', 'Korean artist.'),
+        ('double_bitted_axe', 'An [[axe]] with a head that has a [i]bit[/i] (blade) on each side. This can refer to a wide range of axes with two bits. From tools to weapons such as, for example, a double-bitted [[battle axe]] or a double-bitted [[felling axe]].
+
+Not to be confused with a [[double axe]] which is an axe with a head on each end of its shaft although the two can overlap with each other (a double-bitted double axe).
+
+h4.See Also
+* [[labrys]]'),
+        ('taur_penetrating_gynomorph', 'Used for posts depicting a [[taur]] character penetrating a [[gynomorph]] character (such as [[anthro]], [[feral]], [[human]] or [[humanoid]]).
+
+However, this does not apply if both involved are of the same form, such as [[taur_penetrating_taur]].
+
+h4. Tags About Penetration:
+
+* [[penetration]]
+
+[section=Tags About Penetration:]
+
+h4. Form:
+[section=Form:]
+
+[section=<Form>_penetrated:]
+* [[anthro_penetrated]]
+* [[feral_penetrated]]
+* [[human_penetrated]]
+* [[humanoid_penetrated]]
+* [[taur_penetrated]]
+
+[/section]
+
+[section=<Form>_penetrating:]
+* [[anthro_penetrating]]
+* [[feral_penetrating]]
+* [[human_penetrating]]
+* [[humanoid_penetrating]]
+* [[taur_penetrating]]
+
+[/section]
+
+[section=<Form>_penetrating_<Form>:]
+* [[anthro_penetrating_anthro]]
+* [[anthro_penetrating_feral]]
+* [[anthro_penetrating_human]]
+* [[anthro_penetrating_humanoid]]
+* [[anthro_penetrating_taur]]
+
+* [[feral_penetrating_anthro]]
+* [[feral_penetrating_feral]]
+* [[feral_penetrating_human]]
+* [[feral_penetrating_humanoid]]
+* [[feral_penetrating_taur]]
+
+* [[human_penetrating_anthro]]
+* [[human_penetrating_feral]]
+* [[human_penetrating_human]]
+* [[human_penetrating_humanoid]]
+* [[human_penetrating_taur]]
+
+* [[humanoid_penetrating_anthro]]
+* [[humanoid_penetrating_feral]]
+* [[humanoid_penetrating_human]]
+* [[humanoid_penetrating_humanoid]]
+* [[humanoid_penetrating_taur]]
+
+* [[taur_penetrating_anthro]]
+* [[taur_penetrating_feral]]
+* [[taur_penetrating_human]]
+* [[taur_penetrating_humanoid]]
+* [[taur_penetrating_taur]]
+
+[/section]
+
+[section=<Form>_penetrating_<Gender>:]
+
+* [[anthro_penetrating_ambiguous]]
+* [[anthro_penetrating_female]]
+* [[anthro_penetrating_intersex]]
+** [[anthro_penetrating_andromorph]]
+** [[anthro_penetrating_gynomorph]]
+** [[anthro_penetrating_herm]]
+** [[anthro_penetrating_maleherm]]
+* [[anthro_penetrating_male]]
+
+* [[feral_penetrating_ambiguous]]
+* [[feral_penetrating_female]]
+* [[feral_penetrating_intersex]]
+** [[feral_penetrating_andromorph]]
+** [[feral_penetrating_gynomorph]]
+** [[feral_penetrating_herm]]
+** [[feral_penetrating_maleherm]]
+* [[feral_penetrating_male]]
+
+* [[human_penetrating_ambiguous]]
+* [[human_penetrating_female]]
+* [[human_penetrating_intersex]]
+** [[human_penetrating_andromorph]]
+** [[human_penetrating_gynomorph]]
+** [[human_penetrating_herm]]
+** [[human_penetrating_maleherm]]
+* [[human_penetrating_male]]
+
+* [[humanoid_penetrating_ambiguous]]
+* [[humanoid_penetrating_female]]
+* [[humanoid_penetrating_intersex]]
+** [[humanoid_penetrating_andromorph]]
+** [[humanoid_penetrating_gynomorph]]
+** [[humanoid_penetrating_herm]]
+** [[humanoid_penetrating_maleherm]]
+* [[humanoid_penetrating_male]]
+
+* [[taur_penetrating_ambiguous]]
+* [[taur_penetrating_female]]
+* [[taur_penetrating_intersex]]
+** [[taur_penetrating_andromorph]]
+** [b]taur_penetrating_gynomorph[/b]
+** [[taur_penetrating_herm]]
+** [[taur_penetrating_maleherm]]
+* [[taur_penetrating_male]]
+
+[/section]
+[/section]
+
+h4. Gender:
+[section=Gender:]
+
+[section=<Gender>_penetrating Tags:]
+* [[ambiguous_penetrating]]
+* [[female_penetrating]]
+* [[intersex_penetrating]]
+** [[andromorph_penetrating]]
+** [[gynomorph_penetrating]]
+** [[herm_penetrating]]
+** [[maleherm_penetrating]]
+* [[male_penetrating]]
+
+[/section]
+
+[section=<Gender>_penetrated Tags:]
+* [[ambiguous_penetrated]]
+* [[female_penetrated]]
+* [[intersex_penetrated]]
+** [[andromorph_penetrated]]
+** [[gynomorph_penetrated]]
+** [[herm_penetrated]]
+** [[maleherm_penetrated]]
+* [[male_penetrated]]
+
+[/section]
+
+[section=<Gender>_penetrating_<Gender> Tags:]
+
+* [[ambiguous_penetrating_ambiguous]]
+* [[ambiguous_penetrating_female]]
+* [[ambiguous_penetrating_intersex]]
+** [[ambiguous_penetrating_andromorph]]
+** [[ambiguous_penetrating_gynomorph]]
+** [[ambiguous_penetrating_herm]]
+** [[ambiguous_penetrating_maleherm]]
+* [[ambiguous_penetrating_male]]
+
+* [[female_penetrating_ambiguous]]
+* [[female_penetrating_female]]
+* [[female_penetrating_intersex]]
+** [[female_penetrating_andromorph]]
+** [[female_penetrating_gynomorph]]
+** [[female_penetrating_herm]]
+** [[female_penetrating_maleherm]]
+* [[female_penetrating_male]]
+
+* [[intersex_penetrating_ambiguous]]
+* [[intersex_penetrating_female]]
+* [[intersex_penetrating_intersex]]
+** [[intersex_penetrating_andromorph]]
+** [[intersex_penetrating_gynomorph]]
+** [[intersex_penetrating_herm]]
+** [[intersex_penetrating_maleherm]]
+* [[intersex_penetrating_male]]
+
+* [[andromorph_penetrating_ambiguous]]
+* [[andromorph_penetrating_female]]
+* [[andromorph_penetrating_intersex]]
+** [[andromorph_penetrating_andromorph]]
+** [[andromorph_penetrating_gynomorph]]
+** [[andromorph_penetrating_herm]]
+** [[andromorph_penetrating_maleherm]]
+* [[andromorph_penetrating_male]]
+
+* [[gynomorph_penetrating_ambiguous]]
+* [[gynomorph_penetrating_female]]
+* [[gynomorph_penetrating_intersex]]
+** [[gynomorph_penetrating_andromorph]]
+** [[gynomorph_penetrating_gynomorph]]
+** [[gynomorph_penetrating_herm]]
+** [[gynomorph_penetrating_maleherm]]
+* [[gynomorph_penetrating_male]]
+
+* [[herm_penetrating_ambiguous]]
+* [[herm_penetrating_female]]
+* [[herm_penetrating_intersex]]
+** [[herm_penetrating_andromorph]]
+** [[herm_penetrating_gynomorph]]
+** [[herm_penetrating_herm]]
+** [[herm_penetrating_maleherm]]
+* [[herm_penetrating_male]]
+
+* [[maleherm_penetrating_ambiguous]]
+* [[maleherm_penetrating_female]]
+* [[maleherm_penetrating_intersex]]
+** [[maleherm_penetrating_andromorph]]
+** [[maleherm_penetrating_gynomorph]]
+** [[maleherm_penetrating_herm]]
+** [[maleherm_penetrating_maleherm]]
+* [[maleherm_penetrating_male]]
+
+* [[male_penetrating_ambiguous]]
+* [[male_penetrating_female]]
+* [[male_penetrating_intersex]]
+** [[male_penetrating_andromorph]]
+** [[male_penetrating_gynomorph]]
+** [[male_penetrating_herm]]
+** [[male_penetrating_maleherm]]
+* [[male_penetrating_male]]
+
+[/section]
+
+[section=<Gender>_penetrating_<Form> Tags:]
+
+* [[ambiguous_penetrating_anthro]]
+* [[ambiguous_penetrating_feral]]
+* [[ambiguous_penetrating_human]]
+* [[ambiguous_penetrating_humanoid]]
+* [[ambiguous_penetrating_taur]]
+
+* [[female_penetrating_anthro]]
+* [[female_penetrating_feral]]
+* [[female_penetrating_human]]
+* [[female_penetrating_humanoid]]
+* [[female_penetrating_taur]]
+
+* [[intersex_penetrating_anthro]]
+* [[intersex_penetrating_feral]]
+* [[intersex_penetrating_human]]
+* [[intersex_penetrating_humanoid]]
+* [[intersex_penetrating_taur]]
+
+* [[andromorph_penetrating_anthro]]
+* [[andromorph_penetrating_feral]]
+* [[andromorph_penetrating_human]]
+* [[andromorph_penetrating_humanoid]]
+* [[andromorph_penetrating_taur]]
+
+* [[gynomorph_penetrating_anthro]]
+* [[gynomorph_penetrating_feral]]
+* [[gynomorph_penetrating_human]]
+* [[gynomorph_penetrating_humanoid]]
+* [[gynomorph_penetrating_taur]]
+
+* [[herm_penetrating_anthro]]
+* [[herm_penetrating_feral]]
+* [[herm_penetrating_human]]
+* [[herm_penetrating_humanoid]]
+* [[herm_penetrating_taur]]
+
+* [[maleherm_penetrating_anthro]]
+* [[maleherm_penetrating_feral]]
+* [[maleherm_penetrating_human]]
+* [[maleherm_penetrating_humanoid]]
+* [[maleherm_penetrating_taur]]
+
+* [[male_penetrating_anthro]]
+* [[male_penetrating_feral]]
+* [[male_penetrating_human]]
+* [[male_penetrating_humanoid]]
+* [[male_penetrating_taur]]
+
+[/section]
+[/section]
+
+h4. Object / Orifice penetration:
+[section=<Object/Orifice>_penetration:]
+
+[section=<Orifice>_penetration:]
+* [[ambiguous_penetration]]
+* [[anal_penetration]]
+** [[dildo_in_ass]]
+** [[double_anal]]
+** [[pegging]]
+** [[triple_anal]]
+* [[arthropod_abdomen_penetration]]
+* [[cloacal_penetration]]
+** [[dildo_in_cloaca]]
+** [[double_cloacal]]
+** [[triple_cloacal]]
+* [[ear_penetration]]
+* [[hair_penetration]]
+* [[nasal_penetration]]
+* [[navel_penetration]]
+* [[nipple_penetration]]
+* [[oral_penetration]]
+** [[double_oral]]
+** [[triple_oral]]
+* [[pouch_penetration]]
+* [[sheath_penetration]]
+* [[slit_penetration]]
+* [[unusual_penetration]]
+* [[urethral_penetration]]
+** [[penis_in_penis]]
+* [[vaginal_penetration]]
+** [[cervical_penetration]]
+** [[dildo_in_pussy]]
+** [[double_vaginal]]
+** [[triple_vaginal]]
+
+[/section]
+
+[section=<Object>_penetration:]
+* [[building_penetration]]
+* [[food_penetration]]
+* [[sex_toy_penetration]]
+** [[dildo_penetration]]
+*** [[dildo_in_ass]]
+*** [[dildo_in_cloaca]]
+*** [[dildo_in_pussy]]
+* [[penile_penetration]]
+** [[penis_in_penis]]
+* [[tentacle_penetration]]
+* [[tongue_penetration]]
+
+[/section]
+[/section]
+
+h4. Quantity:
+[section=<Quantity>_penetration:]
+* [[double_penetration]]
+** [[double_anal]]
+** [[double_cloacal]]
+** [[double_oral]]
+** [[double_vaginal]]
+* [[multi_penetration]]
+* [[multiple_insertions]]
+* [[multiple_penetration]]
+* [[quadruple_penetration]]
+* [[quintuple_penetration]]
+* [[triple_penetration]]
+** [[triple_anal]]
+** [[triple_cloacal]]
+** [[triple_oral]]
+** [[triple_vaginal]]
+
+[/section]
+
+h4. Size / Depth:
+[section=Size / Depth:]
+* [[balls_deep]]
+* [[deep_penetration]]
+* [[extreme_penetration]]
+* [[huge_penetration]]
+* [[large_penetration]]
+* [[macro_penetration]]
+* [[ridiculous_fit]]
+* [[shallow_penetration]]
+* [[tight_fit]]
+
+[/section]
+
+h4. Other:
+[section=Other:]
+* [[bilateral_penetration]]
+* [[cum_while_penetrated]]
+* [[guided_penetration]]
+* [[oral_while_penetrating]]
+* [[penetrating_pov]]
+* [[receiving_pov]]
+* [[suspended_via_penetration]]
+* [[trilateral_penetration]]
+* [[u-turn_penetration]]
+
+[/section]
+[/section]'),
+        ('wet_tail', 'When a character''s tail is [[wet]] from [[swimming]] in a [[swimming_pool]], [[showering]] or [[bathing]], being out in the rain, or any other situation that results in a character''s tail getting [[wet]].
+
+h4. Wet Tags
+
+* [[wet]]
+
+[section=Wet Tags]
+* [[wet_body]]
+** [[wet_feathers]]
+** [[wet_fur]]
+** [[wet_scales]]
+** [[wet_skin]]
+* [[wet_breasts]]
+* [[wet_clothing]]
+** [[cum_through_clothing]]
+*** [[cum_through_underwear]]
+** [[lactating_through_clothing]]
+** [[precum_through_clothing]]
+*** [[precum_through_underwear]]
+** [[pussy_juice_through_clothing]]
+** [[wet_apron]]
+** [[wet_armwear]]
+** [[wet_bottomwear]]
+*** [[wet_pants]]
+*** [[wet_shorts]]
+** [[wet_dress]]
+** [[wet_footwear]]
+** [[wet_headwear]]
+** [[wet_legwear]]
+*** [[wet_socks]]
+** [[wet_topwear]]
+*** [[wet_shirt]]
+** [[wet_underwear]]
+*** [[wet_panties]]
+* [[wet_hair]]
+** [[wet_mane]]
+* [[wet_penis]]
+* [b]wet_tail[/b]
+* [[wet_tentacles]]
+* [[wet_tongue]]
+* [[wet_wings]]
+[/section]'),
+        ('konrad_zengel', 'Konrad is male cat character (though he is also part lynx) created by [[Iskra]].
+
+"Konrad is self-confident, active, quick-tempered, proud, frivolous and straightforward.
+
+He''s much taller and bigger than other cats, because his grandfather was a lynx.
+
+He enjoys adventuring and lives for danger which usually gets him into bad and dangerous situation. Hot-tempered and aggressive, Konrad hates to be in someone else''s subordinate, so often quarrels with higher figures. A street wise tough fighter with the strength to match to prove it, he however obeys his grandmother like a good grandson should, otherwise he will meet someone far more powerful then he."
+- Iskra'),
+        ('ducky_(artist)', '[[Finland|Finnish]] [[macro]]/[[micro]] artist known for his unique style of [[size play]] artwork. His macro art is relatively [[gentle giant|gentler]] than most others (but still contain plenty of questionable and explicit content, especially [[bulge|bulges]]).'),
+        ('wasp_humanoid', 'Characters that appear almost entirely [[human]], but have antennae, wings, abdomens, or mouthparts like a [[wasp]].
+
+* Note that animal humanoids should never be tagged [[anthro]] or [[human]].
+
+h4.See also:
+
+* [[humanoid]]
+** [[animal_humanoid]]
+*** [[insect_humanoid]]
+**** [[hymenopteran_humanoid]]
+***** [[ant_humanoid]]
+***** [[bee_humanoid]]
+***** wasp_humanoid
+* [[anthro]]
+* [[feral]]
+* [[human]]
+* [[not_furry]]
+* [[taur]]'),
+        ('slipping', '[b]Slipping[/b] is the loss of one''s balance due to placing one''s footing onto a slick surface.
+
+This probably shouldn''t be used for other interpretations of the term.
+
+h4. See also
+
+* [[frictional_sound_effect]]
+** [[slip_(sound_effect)]]'),
+        ('military', 'Characters who are part of a military or paramilitary group, but not necessarily [[soldiers]].
+
+Expect to see the tag [[unprofessional_behavior]] come up pretty often in explicit posts.
+
+h4.See also:
+
+* [[ammunition]]
+* [[camo]]
+* [[dog_tags]]
+* [[soldier]]
+* [[tag group:weapons]]
+* [[vehicle]]
+** [[aircraft]]
+*** [[airplane]]
+*** [[helicopter]]
+** [[apc]]
+** [[ship]]
+** [[tank]]
+* [[war]]'),
+        ('jojo_the_horse', 'A horse furry.
+
+Twitter- https://twitter.com/WhorsinAround 
+Bluesky- https://bsky.app/profile/h0rse.bsky.social
+FA- https://www.furaffinity.net/user/chocolatehorse/'),
+        ('scut_tail', 'thumb #959771 thumb #2014961 thumb #2719638
+Scut tails are a type of short, erect tail. These types of tails are commonly seen on [[cervid|cervids]] and [[lagomorph|lagomorphs]].
+
+h4. See also
+
+* [[mammal]]
+** [[cervid]]
+** [[lagomorph]]
+* [[short_tail]]'),
+        ('himeragoldtail', 'Support The Artist:
+
+* "Patreon":https://www.patreon.com/HimeraGoldTail
+"Paypal":https://www.paypal.me/HimeraGoldTail
+
+Russian Artist
+
+* "Furaffinity":https://www.furaffinity.net/user/himeragoldtail/
+"Deviantart":https://himeragoldtail.deviantart.com'),
+        ('neekophobia', 'Dead link: https://neekophobia.tumblr.com/'),
+        ('no_symbol', 'h1. ⃠ 🚫
+
+The [b]no symbol[/b] (also known as a [b]prohibition sign[/b], [b]no sign[/b], [b]circle-backslash symbol[/b], [b]nay[/b], [b]interdictory circle[/b], or [b]universal no[/b]), officially called the [b]international prohibition sign[/b], is a circle with a diagonal line through it (running from top left to bottom right), surrounding a pictogram used to indicate something is not permitted. The no symbol is generally colored red, but is sometimes another color, typically black.
+
+h4. External:
+
+* "Wikipedia - No symbol":https://en.wikipedia.org/wiki/No_symbol'),
+        ('hand_on_head', 'thumb #473951 thumb #457645
+
+When a character has one or both hands on their own or another character''s head.
+
+h4. Related tags
+
+h5. Contact with self or another
+
+* [[hand_in_hair]]
+* [[hand_in_mouth]]
+* [[hand_on_cheek]]
+** [[hands_on_cheeks]]
+* [[hand_on_chin]]
+* [[hand_on_face]]
+** [[hands_on_face]]
+* [[hand_on_neck]]
+* [[hand_on_mouth]]
+* [[finger_to_mouth]]
+* [[head_pat]]
+* [[spread_mouth]]
+
+h5. Usually contact, self only
+
+* [[hand_behind_head]]
+** [[hands_behind_head]]
+
+h5. Grasping self
+
+* [[holding_head]]
+* [[holding_face]]
+
+h5. Grasping another
+
+* [[cupping_chin]]
+* [[ear_grab]]
+* [[face_grab]]
+* [[fish_hooking]]
+* [[hair_grab]]
+* [[head_grab]]
+* [[horn_grab]]
+* [[muzzle_grab]]
+* [[neck_grab]]
+
+h4. See also
+
+* [[tag_group:touching]]
+
+* [[hand on back]]
+* [[hand on breast]]
+* [[hand on butt]]
+* [[hand on cheek]]
+* [[hand on chest]]
+* [[hand on chin]]
+* [[hand on crotch]]
+* [b]hand on head[/b]
+* [[hand on hip]]
+* [[hand_on_leg]]
+** [[hand on knee]]
+** [[hand on thigh]]
+* [[hand on penis]]
+* [[hand on pussy]]
+* [[hand on stomach]]'),
+        ('treble_clef', 'thumb #271980
+
+A [b]treble clef[/b] is a musical symbol used to indicate that the pitch of written [[musical_note|notes]] range from C[sup]4[/sup] and G[sup]5[/sup].
+
+h4. See also
+
+* [[Music]]
+* [[Musical note]]
+* [[Musical instrument]]
+* [[Bass clef]]'),
+        ('skullbite', 'dumb and gay dog'),
+        ('noctnii', 'A [[chiropteran|bat]] character owned by https://www.furaffinity.net/user/noctnii'),
+        ('clitoral_winking', 'Thumb #4346305
+
+In equines, the act of pulling back the vulva to expose the clitoris, then recovering it.
+
+A mare performing this action is nearly always [[in heat]].
+
+h4.See also:
+
+* [[equine_pussy]]
+* [[clitoris]]
+** [[big_clitoris]] - Big, but still anatomically possible.
+*** [[enlarged_clitoris]] - Anything bigger than a [[big_clitoris]] that''s not a [[pseudo-penis]].
+*** [[pseudo-penis]] - A specific type of clitoris in certain animals.
+** [[clitoral_hood]] - The hood that surrounds the clitoris
+** [[clitoris_piercing]]
+** [[erect_clitoris]]
+*** clitoral_winking - Behavior specific to equines.'),
+        ('felid', 'thumb #1676207 thumb #3170376 thumb #3718080 thumb #1556100 thumb #93748
+
+The entirety of the cat family. Everything from little house cats to big lions and cheetahs.
+
+Taxonomically speaking, the term "feline" actually only refers to the Felinae subfamily, "felid" being the correct term to use for the entire [b]Felidae[/b] family.  Therefore, use `felid` to search the entire cat family and `feline` for the Felinae subfamily.
+
+h4. Subfamilies, genera, and species
+
+* [b]felid[/b] - family [b]Felidae[/b] (Fischer von Waldheim, 1817)
+** [[feline]] - subfamily [[Felinae]] (Fischer von Waldheim, 1817)
+*** [i]Acinonyx[/i] (Joshua Brookes, 1828)
+**** [[cheetah]] - [i]Acinonyx jubatus[/i] (J.C.D. von Schreber, 1775)
+***** [[Asiatic cheetah]] - [i]Acinonyx jubatus venaticus[/i] (Edward Griffith, 1821)
+***** [[Northeast African cheetah]] - [i]Acinonyx jubatus soemmeringii[/i] (Leopold J.F.J. Fitzinger, 1855)
+***** [[Northwest African cheetah]] - [i]Acinonyx jubatus hecki[/i] (O.J. Max Hilzheimer, 1913)
+***** [[Southeast African cheetah]] - [i]Acinonyx jubatus jubatus[/i] (J.C.D. von Schreber, 1775)
+*** [i][[Caracal (genus)|Caracal]][/i] (John Edward Gray, 1843)
+**** [[African golden cat]] - [i]Caracal aurata[/i] (Coenraad J. Temminck, 1827)
+**** [[caracal]] - [i]Caracal caracal[/i] (J.C.D. von Schreber, 1776)
+*** [i][[Catopuma]][/i] (Nikolai A. Severtzov, 1858)
+**** [[Asian golden cat]] - [i]Catopuma temminckii[/i] (Nicholas A. Vigors; Thomas Horsfield, 1827)
+**** [[bay cat]] - [i]Catopuma badia[/i] (John Edward Gray, 1874)
+*** [i][[Felis]][/i] (Carl Linnaeus, 1758)
+**** [[black-footed cat]] - [i]Felis nigripes[/i] (William John Burchell, 1824)
+**** [[Chinese mountain cat]] - [i]Felis bieti[/i] (Alphonse Milne-Edwards, 1892)
+**** [[jungle cat]] - [i]Felis chaus[/i] (J.C.D. von Schreber, 1777)
+**** [[sand cat]] - [i]Felis margarita[/i] (Victor Loche, 1858)
+**** [[wildcat]]
+***** [[African wildcat]] - [i]Felis lybica[/i] (Georg Forster, 1780)
+****** [[domestic cat]] - [i]Felis catus[/i] (Carl Linnaeus, 1758)
+******* [i](see wiki page for breeds)[/i]
+***** [[European wildcat]] - [i]Felis silvestris[/i] (J.C.D. von Schreber, 1777)
+*** [i]Herpailurus[/i] (Nikolai A. Severtzov, 1858)
+**** [[jaguarundi]] - [i]Herpailurus yagouaroundi[/i] (Nikolai A. Severtzov, 1858)
+*** [i][[Leopardus]][/i] (John Edward Gray, 1842)
+**** [[Andean mountain cat]] - [i]Leopardus jacobita[/i] (Emilio Cornalia, 1865)
+**** [[Geoffroy''s cat]] - [i]Leopardus geoffroyi[/i] (Alcide d''Orbigny; F.L. Paul Gervais, 1844)
+**** [[kodkod]] - [i]Leopardus guigna[/i] (Juan Ignacio Molina, 1782)
+**** [[margay]] - [i]Leopardus wiedii[/i] (Heinrich Rudolf Schinz, 1821)
+**** [[ocelot]] - [i]Leopardus pardalis[/i] (Carl Linnaeus, 1758)
+**** [[oncilla]] - [i]Leopardus tigrinus[/i] (J.C.D. von Schreber, 1775)
+**** [[Pampas cat]] - [i]Leopardus colocola[/i] (Juan Ignacio Molina, 1782)
+**** [[southern tigrina]] - [i]Leopardus guttulus[/i] (Reinhold Hensel, 1872)
+*** [i]Leptailurus[/i] (Nikolai A. Severtzov, 1858)
+**** [[serval]] - [i]Leptailurus serval[/i] (J.C.D. von Schreber, 1776)
+*** [i][[Lynx]][/i] (Robert Kerr, 1792)
+**** [[bobcat]] - [i]Lynx rufus[/i] (J.C.D. von Schreber, 1777)
+**** [[Canadian lynx]] - [i]Lynx canadensis[/i] (Robert Kerr, 1792)
+**** [[Eurasian lynx]] - [i]Lynx lynx[/i] (Carl Linnaeus, 1758)
+***** [[Siberian lynx]] - [i]Lynx lynx wrangeli[/i] (Sergej Ivanovich Ognew, 1928)
+**** [[Iberian lynx]] - [i]Lynx pardinus[/i] (Coenraad J. Temminck, 1827)
+*** [i]Otocolobus[/i] (J. Friedrich von Brandt, 1842)
+**** [[Pallas''s cat|Pallus'' cat]] - [i]Otocolobus manul[/i] (J. Friedrich von Brandt, 1841)
+*** [i]Pardofelis[/i] (Nikolai A. Severtzov, 1858)
+**** [[marbled cat]] - [i]Pardofelis marmorata[/i] (William C.L. Martin, 1836)
+*** [i][[Prionailurus]][/i] (Nikolai A. Severtzov, 1858)
+**** [[fishing cat]] - [i]Prionailurus viverrinus[/i] (Edward Turner Bennett, 1833)
+**** [[flat-headed cat]] - [i]Prionailurus planiceps[/i] (Nicholas A. Vigors; Thomas Horsfield, 1827)
+**** [[leopard cat]] - [i]Prionailurus bengalensis[/i] (Robert Kerr, 1792)
+**** [[rusty-spotted cat]] - [i]Prionailurus rubiginosus[/i] (Geoffroy Saint-Hilaire, 1834)
+**** [[Sunda leopard cat]] - [i]Prionailurus javanensis[/i] (Anselme Gaëtan Desmarest, 1816)
+*** [i][[Puma]][/i] (William Jardine, 1834)
+**** [[cougar]] - [i]Puma concolor[/i] (Carl Linnaeus, 1771)
+***** [[North American cougar]] - [i]Puma concolor couguar[/i] (Robert Kerr, 1792)
+***** [[South American cougar]] - [i]Puma concolor concolor[/i] (Carl Linnaeus, 1771)
+** [[pantherine]] - subfamily [[Pantherinae]] (Reginald Innes Pocock, 1917)
+*** [i]Neofelis[/i] (John Edward Gray, 1867)
+**** [[clouded leopard]] - [i]Neofelis nebulosa[/i] (Edward Griffith, 1821)
+**** [[Sunda clouded leopard]] - [i]Neofelis diardi[/i] (Georges Cuvier, 1823)
+*** [i]Panthera[/i] (Lorenz Oken, 1816)
+**** †[[American lion]] - [i]Panthera atrox[/i] (Joseph Mellick Leidy, 1853)
+**** †[[European jaguar]] - [i]Panthera gombaszoegensis[/i] (Miklós Kretzoi, 1938)
+**** [[jaguar]] - [i]Panthera onca[/i] (Carl Linnaeus, 1758)
+**** [[leopard]] - [i]Panthera pardus[/i] (Carl Linnaeus, 1758))
+***** [[African leopard]] - [i]Panthera pardus pardus[/i] (Carl Linnaeus, 1758)
+***** [[Amur leopard]] - [i]Panthera pardus orientalis[/i] (Hermann Schlegel, 1857)
+***** [[Arabian leopard]] - [i]Panthera pardus nimr[/i] (Wilhelm F. Hemprich; Christian G. Ehrenberg, 1833)
+***** [[Javan leopard]] - [i]Panthera pardus melas[/i] (Georges Cuvier, 1809)
+**** [[lion]] - [i]Panthera leo[/i] (Carl Linnaeus, 1758)
+***** †[[cave lion]] - [i]Panthera leo fossilis[/i] (Wilhelm von Reichenau, 1906)
+***** [[Northern lion]] - [i]Panthera leo leo[/i] (Carl Linnaeus, 1758)
+****** [[Asiatic lion]]
+****** †[[Barbary lion]]
+***** [[Southern lion]] - [i]Panthera leo melanochaita[/i] (Charles Hamilton Smith, 1842)
+***** †[[Sri Lankan lion]] - [i]Panthera leo sinhaleyus[/i] (Paulus E.P. Deraniyagala, 1938)
+**** †[[Longdan tiger]] - [i]Panthera zdanskyi[/i] (Ji H. Mazák; Per Christiansen; Andrew C. Kitchener, 2011)
+**** [[snow leopard]] - [i]Panthera uncia[/i] (J.C.D. von Schreber, 1775)
+**** [[tiger]] - [i]Panthera tigris[/i] (Carl Linnaeus, 1758)
+***** [[Mainland Asian tiger]] - [i]Panthera tigris tigris[/i] (Carl Linnaeus, 1758)
+****** [[Bengal tiger]]
+****** †[[Caspian tiger]]
+****** [[Indochinese tiger]]
+****** [[Malayan tiger]]
+****** [[Siberian tiger]]
+****** [[South China tiger]]
+***** [[Sunda Island tiger]] - [i]Panthera tigris sondaica[/i] (Coenraad J. Temminck, 1844)
+****** †[[Bali tiger]]
+****** †[[Javan tiger]]
+****** [[Sumatran tiger]]
+** †[[machairodontine]] - subfamily [[Machairodontinae]] (Theodore Nicholas Gill, 1872)
+*** †[i][[Adelphailurus]][/i] (Claude W. Hibbard, 1934)
+*** †[i][[Amphimachairodus]][/i] (Miklós Kretzoi, 1929)
+*** †[i][[Dinofelis]][/i] (Otto K.J. Zdansky, 1924)
+*** †[i][[Hemimachairodus]][/i] (G.H.R. von Koenigswald, 1974)
+*** †[i][[Homotherium]][/i] (Richard Owen, 1846)
+*** †[i][[Lokotunjailurus]][/i] (Lars Werdelin, 2003)
+*** †[i][[Machairodus]][/i] (Johann Jakob Kaup, 1833)
+*** †[i][[Megantereon]][/i] (Jean-Baptiste Croizet; Antoine C.G. Jobert, 1828)
+*** †[i][[Metailurus]][/i] (Otto K.J. Zdansky, 1924)
+*** †[i][[Miomachairodus]][/i] (Norbert Schmidt-Kittler, 1976)
+*** †[i][[Nimravides]][/i] (David Burlingame Kitts, 1958)
+*** †[i][[Paramachaerodus]][/i] (Guy Ellcock Pilgrim, 1913)
+*** †[i][[Promegantereon]][/i] (Miklós Kretzoi, 1938)
+*** †[i][[Rhizosmilodon]][/i] (Steven C. Wallace; Richard C. Hulbert Jr, 2013)
+*** †[i][[Smilodon]][/i] (Peter Wilhelm Lund, 1842)
+**** †[i][[Smilodon fatalis]][/i] (Joseph Mellick Leidy, 1869)
+**** †[i][[Smilodon gracilis]][/i] (Edward Drinker Cope, 1880)
+**** †[i][[Smilodon populator]][/i] (Peter Wilhelm Lund, 1842)
+*** †[i][[Stenailurus]][/i] (Miquel Crusafont-Pairó; Emiliano Aguirre, 1972)
+*** †[i][[Yoshi (genus)|Yoshi]][/i] (Nikolai Spassov; Denis Geraads, 2014)
+*** †[i][[Xenosmilus]][/i] (Larry D. Martin, 2000)
+** †[[proailurine]] - subfamily [[Proailurinae]]
+*** †[i][i][[Proailurus]][/i][/i] (Henri Filhol, 1879)
+
+h6. Real-world hybrids
+
+* [[jagupard]] 
+* [[leopon]]
+* [[liger]]
+* [[liguar]]
+* [[lijagulep]]
+* [[lipard]]
+* [[tigon]]
+* [[pumapard]]
+
+h4. Fictional felid species
+
+* [[appoplexian]] - [[Ben 10]]
+* [[Caitan]] - [[Star Trek]]
+* [[cat (Minecraft)]]
+* [[cat humanoid]]
+* [[cataroo]] - [[cat]]-[[kangaroo]] [[hybrid]]
+* [[catcoon (species)]] - [[Don''t Starve]]
+* [[catfolk]] - [[Magic The Gathering|Magic: The Gathering]]
+* [[Cathar]] - [[Star Wars]]
+* [[Catrobis]] - by [[maddeku]]
+* [[cat-sith|cat-sìth]] - [[Celtic mythology]]
+* [[charr]] - [[Guild Wars]]
+* [[ecaflip]] - [[Ankama]]
+* [[exceed]] - [[Fairy Tail]]
+* [[felid humanoid]]
+** [[feline humanoid]]
+*** [[cat humanoid]]
+** [[pantherine humanoid]]
+*** [[jaguar humanoid]]
+*** [[leopard humanoid]]
+*** [[lion humanoid]]
+* [[felid taur]]
+** [[Chakat]] - by [[Bernard Doove]]
+** [[feline taur]]
+*** [[cat taur]]
+** [[pantherine taur]]
+*** [[jaguar taur]]
+*** [[leopard taur]]
+*** [[lion taur]]
+**** [[urmahlullu]] - [[Mesopotamian mythology]]
+**** [[wemic]] - [[Dungeons and Dragons]]
+* [[felineko]] - [[Little Tail Bronx]]
+* [[hellcat]]
+* [[hrothgar]] - [[Final Fantasy]]
+* [[irbis]] - [[MUCK (RPG)]]
+* [[kaka (BlazBlue)]]
+* [[katta]] - [[Quest for Glory]]
+* [[Keeba tiger]] - [[Kingdom Hearts]]
+* [[khajiit]] - [[The Elder Scrolls]]
+* [[kilrathi]] - [[Wing Commander]]
+* [[koicat]] - [[koi]]-[[cat]] [[hybrid]]
+* [[krenshar]] - [[Dungeons and Dragons]]
+* [[Kzinti]] - [[Known Space]]
+* [[lion guardian (Elden Ring)]]
+* [[Lombax]] - [[Ratchet and Clank]]
+* [[Lynian]] - [[Monster Hunter]]
+** [[Felyne]]
+** [[Grimalkyne]]
+** [[Melynx]]
+** [[Shakalaka]]
+* [[manticore]] - [[Persian mythology]]
+* [[meloncat]] - [[Kingdom Hearts]]
+* [[miqo''te]] - [[Final Fantasy]]
+* [[mithra]] - [[Final Fantasy]]
+* [[moomba]] - [[Final Fantasy]]
+* [[mrrshan]] - [[Master of Orion]]
+* [[mythological rakshasa]] - [[Sanskrit mythology]]
+** [[Rakshasa (Dungeons and Dragons)]]
+** [[Rakshasa (Magic: The Gathering)]]
+** [[Rakshasa (Might and Magic)]]
+** [[Rakshasa (Pathfinder)]]
+* [[mythological sphinx]] - [[Greek mythology]]
+* [[Na''vi]] - [[Avatar (movie)]]
+* [[nekoi]] - [[cat]]-[[koi]] [[hybrid]]
+* [[nekokai]] - by [[Hayakain]]
+* [[nexu]] - [[Star Wars]]
+* [[ocelot (Minecraft)]]
+* [[Pokémon (species)]]
+** #052 [[Meowth]]
+*** [[Alolan Meowth]]
+*** [[Galarian Meowth]]
+*** [[Gigantamax Meowth]]
+** #053 [[Persian]]
+*** [[Alolan Persian]]
+** #150 [[Mewtwo]]
+*** [[Mega Mewtwo]]
+**** [[Mega Mewtwo X]]
+**** [[Mega Mewtwo Y]]
+*** [[Shadow Mewtwo]]
+** #151 [[Mew]]
+** #215 [[Sneasel]]
+** #243 [[Raikou]]
+** #244 [[Entei]]
+** #245 [[Suicune]]
+** #300 [[Skitty]]
+** #301 [[Delcatty]]
+** #360 [[Absol]]
+*** [[Mega Absol]]
+** #403 [[Shinx]]
+** #404 [[Luxio]]
+** #405 [[Luxray]]
+** #431 [[Glameow]]
+** #432 [[Purugly]]
+** #461 [[Weavile]]
+** #509 [[Purrloin]]
+** #510 [[Liepard]]
+** #667 [[Litleo]]
+** #668 [[Pyroar]]
+** #677 [[Espurr]]
+** #678 [[Meowstic]]
+** #725 [[Litten]]
+** #726 [[Torracat]]
+** #727 [[Incineroar]]
+** #791 [[Solgaleo]]
+*** [[Dusk Mane Necrozma]]
+** #807 [[Zeraora]]
+** #863 [[Perrserker]]
+** #906 [[Sprigatito]]
+** [[Eeveelution]]
+*** #133 [[Eevee]]
+*** #134 [[Vaporeon]]
+*** #135 [[Jolteon]]
+*** #136 [[Flareon]]
+*** #196 [[Espeon]]
+*** #197 [[Umbreon]]
+*** #470 [[Leafeon]]
+*** #471 [[Glaceon]]
+*** #700 [[Sylveon]]
+* [[ratteguhn]] - [[Legacy (Ratte)]]
+** [[ratteguhncat]]
+* [[ronso]] - [[Final Fantasy]]
+* [[rubbercat]]
+* [[ryuu-neko]] - [[Dreamkeepers]]
+* [[Shokan]] - [[Mortal Kombat]]
+** [[Tigrar Shokan]]
+* [[skullcat (SAR)]]
+* [[slugcat (Rain World)]]
+* [[sparklecat]]
+* [[tabaxi]] - [[Dungeons and Dragons]]
+* [[Tatzelwurm]] - [[European folklore]]
+* [[tenter lion]] - [[Our Trickster Online]]
+* [[tetton]] - by [[snowskau]]
+* [[tooka]] - [[Star Wars]]
+** [[Loth-cat]] 
+* [[vamcat]]
+* [[Ventrexian]] - [[Final Space]]
+* [[werecat]]
+* [[werejaguar]]
+* [[werelion]]
+* [[winged cat]]
+* [[yokai]] - [[Asian mythology]]
+** [[bakeneko]]
+** [[nekomata]]
+*** [[felynn]] - [[Disgaea]]
+* [[zombie lion (Resident Evil)]]
+* [[Zygerrian]] - [[Star Wars]]
+
+h4. General anatomy
+
+* [[cat smile]]
+** [[teeth]]
+*** [[fangs]]
+* [[cat tail]]
+* [[feline ears]]
+* [[feline genitals]]
+** [[feline penis]]
+*** [[feline sheath]]
+*** [[penile spines]]
+** [[feline pussy]]
+* [[feline skull]]
+* [[paws]]
+** [[claws]]
+** [[pawpads]]
+* [[whiskers]]
+
+h4. More information
+
+* https://en.wikipedia.org/wiki/Felidae
+
+h4. Other rankings
+
+* [b][[tag group:species]][/b]
+* [[mammal]]
+** [[afrosoricid]] - Golden mole and tenrec.
+** [[bovine]] - Buffalo, cattle, yak, etc.
+** [[camelid]] - Alpaca, camel, llama, etc.
+** [[canine]] - Dog, fox, wolf, etc.
+** [[caprine]] - Goat, ibex, sheep, etc.
+** [[cervine]] - Elk, moose, reindeer, etc.
+** [[cetacean]] - Dolphin, porpoise, whale, etc.
+** [[equine]] - Donkey, horse, zebra, etc.
+** [[eulipotyphlan]] - Hedgehog, mole, shrew, etc.
+** [[euplerid]] - Fanaloka, fossa, vontsira, etc.
+** felid - Cat, lion, tiger, etc.
+** [[giraffid]] - Giraffe, okapi, etc.
+** [[herpestid]] - Mongoose
+** [[lagomorph]] - Rabbit, hare, pika, etc.
+** [[marsupial]] - Kangaroo, koala, opossum, etc.
+** [[mephitid]] - Skunks and stink badgers.
+** [[monotreme]] - Echidna and platypus
+** [[mustelid]] - Ferret, otter, weasel, etc.
+** [[pinniped]] - Sea lion, seal, walrus, etc.
+** [[porcine]] - Boar, pig, warthog, etc.
+** [[primate]] - Ape, lemur, monkey, etc. (excludes [[human]])
+** [[proboscidean]] - Elephant, mammoth, mastodon, etc.
+** [[procyonid]] - Kinkajou, raccoon, ring-tailed cat, etc.
+** [[rodent]] - Mouse, rat, squirrel, etc.
+** [[ursine]] - Grizzly bear, panda, polar bear, etc.
+** [[viverrid]] - Civet, genet, linsang, etc.
+** [[xenarthran]] - Anteater, armadillo, and sloth.'),
+        ('junker', 'Furshit''s main character. A hybrid of doberman and shire horse.'),
+        ('lexus_(glimmershine)', 'A noivern OC created by Glimmershine'),
+        ('looking_at_own_breasts', 'Used for posts depicting a character looking at their own [[breasts]] (usually involving [[looking_down]]).
+
+h4. Related tags
+
+* [[looking_at_breasts]]
+** [[looking at another''s breasts]]
+
+h4. See also
+
+* [[eyes_closed]]
+* [[narrowed_eyes]]
+** [[bedroom_eyes]]
+** [[eyes_mostly_closed]]
+** [[half-closed_eyes]]
+** [[squint]]
+* [[one_eye_closed]]
+** [[wink]]
+
+[section=''Looking'' Tags]
+[section=Directional]
+
+* [[looking_aside]]
+* [[looking_away]]
+* [[looking_back]]
+* [[looking_down]]
+* [[looking_forward]]
+* [[looking_up]]
+
+[/section]
+
+[section=At Someone]
+
+* [[looking_at_another]]
+** [[looking_at_partner]]
+** [[looking_at_relative]]
+*** [[looking_at_parent]]
+*** [[looking_at_sibling]]
+* [[looking_at_self]]
+* [[looking_at_viewer]]
+** [[looking_back_at_viewer]]
+
+[/section]
+
+[section=At Something]
+
+h6. Anatomy
+
+* [[looking_at_anus]]
+* [[looking_at_belly]]
+* [[looking_at_breasts]]
+** [b]looking_at_own_breasts[/b]
+* [[looking_at_bulge]]
+* [[looking_at_butt]]
+* [[looking_at_chest]]
+* [[looking_at_feet]]
+* [[looking_at_genitalia]]
+** [[looking_at_balls]]
+** [[looking_at_penis]]
+*** [[looking_at_own_penis]]
+** [[looking_at_pussy]]
+* [[looking_at_hand]]
+* [[looking_at_muscles]]
+* [[looking_at_nails]]
+** [[looking_at_fingernails]]
+** [[looking_at_toenails]]
+* [[looking_at_tail]]
+* [[looking_in_pouch]]
+
+h6. General
+
+* [[looking_at_object]]
+** [[looking_at_book]]
+** [[looking_at_computer]]
+*** [[looking_at_laptop]]
+** [[looking_at_food]]
+** [[looking_at_gift]]
+** [[looking_at_magazine]]
+** [[looking_at_mirror]]
+** [[looking_at_plant]]
+*** [[looking_at_flower]]
+*** [[looking_at_tree]]
+** [[looking_at_phone]]
+*** [[looking_at_cellphone]]
+** [[looking_at_photo]]
+** [[looking_at_porn]]
+** [[looking_at_sex_toy]]
+*** [[looking_at_dildo]]
+** [[looking_at_vehicle]]
+* [[looking_at_reflection]]
+* [[looking_at_sex]]
+
+[/section]
+
+[section=Miscellaneous]
+
+* [[looking_around_corner]]
+* [[looking_outside]]
+* [[looking_over_glasses]]
+* [[looking_pleasured]]
+* [[looking_through]] - Looking through an object, structure, or body part such as fingers or legs.
+** [[looking_through_fingers]] - Looking between or through fingers.
+** [[looking_through_hole]] - Looking through a hole in a wall or other structure such as a keyhole.
+** [[looking_through_legs]] - Looking between legs
+** [[looking_through_window]] - Looking through a window or opening that resembles a window.
+
+[/section]
+[/section]'),
+        ('breathable_gag', 'A special type of [[ball gag]] where the ball has one or several holes which allows the wearer to breath while still being [[gagged]], in contrast to regular gag balls.
+
+h4.Examples:
+thumb #920539 thumb #657429
+
+h4.Gag types:
+* [b]Common gags[/b]
+** [[ball_gag]]
+*** breathable_gag
+*** [[harness_ball_gag]]
+*** [[pokéball_gag]]
+** [[bit_gag]]
+*** [[bone_gag]]
+*** [[harness_bit_gag]]
+** [[cloth_gag]]
+** [[ring_gag]]
+*** [[harness_ring_gag]]
+** [[tape_gag]]
+* [b]Uncommon gags[/b]
+** [[cock_gag]]
+** [[fleshlight_gag]]
+** [[improvised_gag]]
+** [[inflatable_gag]]
+** [[muzzle_gag]]'),
+        ('glistening_fur', 'The property of [[fur]], where its surface is remarkably reflective.
+
+h4. Tags About Fur
+
+* [[fur]]
+
+[section=Colors]
+h4. Fur [[tag_group:colors|Colors]]
+
+* [[black_fur]]
+* [[blue_fur]]
+* [[brown_fur]]
+* [[green_fur]]
+* [[grey_fur]]
+* [[orange_fur]]
+* [[pink_fur]]
+* [[purple_fur]]
+* [[red_fur]]
+* [[tan_fur]]
+* [[white_fur]]
+* [[yellow_fur]]
+
+* [[monotone_fur]]
+* [[multicolored_fur]]
+** [[rainbow_fur]]
+** [[two_tone_fur]]
+
+* [[dark_fur]]
+* [[light_fur]]
+
+[/section]
+
+[section=General]
+
+h4. Fur Maintenance
+
+* [[brushing_fur]]
+* [[drying_fur]]
+* [[fur_trimming]]
+
+h4. Fur Traits
+
+* [[cosmic_fur]]
+* [[dappled_fur]]
+* [[detailed_fur]]
+* [[feathering]]
+* [[fur_markings]]
+* [[fur_tuft]]
+* [b]glistening_fur[/b]
+* [[glowing_fur]]
+* [[gradient_fur]]
+* [[long_fur]]
+* [[mottled_fur]]
+* [[piebald_fur]]
+* [[short_fur]]
+* [[spotted_fur]]
+* [[striped_fur]]
+* [[wet_fur]]
+* [[wool_(fur)]]
+** [[glowing_wool]]
+
+[section=Wool Color Variants]
+* [[black_wool]]
+* [[blue_wool]]
+* [[brown_wool]]
+* [[green_wool]]
+* [[grey_wool]]
+* [[orange_wool]]
+* [[pink_wool]]
+* [[purple_wool]]
+* [[red_wool]]
+* [[tan_wool]]
+* [[white_wool]]
+* [[yellow_wool]]
+
+* [[multicolored_wool]]
+** [[rainbow_wool]]
+** [[two_tone_wool]]
+
+[/section]
+
+h4. Other
+
+* [[cum_on_fur]]
+
+[/section]
+
+h4. See also
+
+[section=General Anatomy]
+* [[tag group:anatomy]]
+** [[tag group:feral anatomy]]
+
+* [[body]] - A fallback for when the body texture is difficult to decipher.
+** [[exoskeleton]] - An external skeleton often made of chitin, seen in [[insect|insects]] and [[crustacean|crustaceans]].
+** [[feathers]] - A complex texture, seen in [[bird|birds]], and most [[gryphon|gryphons]]. Often applied to [[feathered_wings|wings]] of such species.
+** [[fur]] - A furry texture, seen in most [[mammal|mammals]]. Even a single [[tuft]] will influence this.
+** [[scales]] - A squamous texture, seen in  [[reptile|reptiles]], [[scalie|scalies]], and most [[dragon|dragons]].
+** [[skin]] - A smooth texture, seen in [[human|humans]], [[dolphin|dolphins]], and [[amphibian|amphibians]].
+[/section]
+
+[section=''Glistening'' Tags]
+* [[glistening]]
+** [[glistening_balls]]
+** [[glistening_body]]
+** [[glistening_breasts]]
+** [[glistening_butt]]
+** [[glistening_clothing]]
+*** [[glistening_armwear]]
+*** [[glistening_bottomwear]]
+*** [[glistening_dress]]
+*** [[glistening_footwear]]
+*** [[glistening_gloves]]
+*** [[glistening_headwear]]
+*** [[glistening_legwear]]
+*** [[glistening_swimwear]]
+*** [[glistening_topwear]]
+*** [[glistening_underwear]]
+** [[glistening_exoskeleton]]
+** [[glistening_eyes]]
+** [[glistening_feathers]]
+** [b]glistening_fur[/b]
+** [[glistening_hair]]
+** [[glistening_lips]]
+** [[glistening_nose]]
+** [[glistening_penis]]
+*** [[glistening_glans]]
+** [[glistening_pussy]]
+** [[glistening_scales]]
+** [[glistening_skin]]
+** [[glistening_tail]]
+[/section]
+
+* [[sparkles]]
+'),
+        ('masturbating_pred', 'thumb #2118718 thumb #3676360 thumb #3375792
+
+When the predator character in a [[vore]] scenario is shown [[masturbation|masturbating]]. This is most often depicted after the predator has fully consumed the prey character, but may also be shown as the character is in the process of consuming another. In [[same size vore]], a predator may [[humping belly|hump their massively bloated belly]] — rubbing or grinding their penis/vulva against the belly, usually while [[resting on belly|laying on top of it]].
+
+
+h4. Related Tags
+* [[cum on belly]]
+* [[pussy juice on belly]]
+* [[penis on belly]]
+
+h4. Sexual [[Vore]] Tags
+
+* [[masturbation inside body]]
+** [[masturbation in stomach]]
+* [[sex inside body]]
+** [[sex in stomach]]
+* [b]masturbating pred[/b]
+* [[masturbating prey]]
+* [[sex with pred]]
+* [[sex with prey]]
+* [[recursive penetration]] '),
+        ('daki_(citrusbunch)', '{{daki_(citrusbunch)}} is a gynomorph {{hyaenid}} owned by citrusbunch
+
+[section,expanded=citrusbunch''s social medias]
+https://twitter.com/CitrusBunch
+[/section]
+'),
+        ('piilsud', 'Artist
+
+* "Twitter":https://twitter.com/piilsud
+
+* "Newgrounds":https://piilsud.newgrounds.com'),
+        ('burrito', 'thumb #2303294 thumb #1155587 thumb #57351
+
+A [b]burrito[/b] is a Mexican dish consisting of a flour tortilla wrapped around various fillings, typically minced beef, beans, vegetables, salsa, cheese and guacamole.
+
+Not to be confused with a [[blanket_burrito]], where somebody wraps themselves in a blanket and looks like a burrito.'),
+        ('oonami', '* will do free arts for anyone who asks, though she''s not always open to take more requests. 
+
+* Have any questions? Go talk to "Ami~":http://e621.net/user/show/12853 
+* Commission info can be found in just about any of the links provided or here on her "profile page":https://www.furaffinity.net/user/oonami/. 
+
+* [b]This artist will not draw porn~[/b]
+(So don''t ask, please?) '),
+        ('fawe', 'Soulja Boy off in this hooo!!!
+Watch me crank it,
+Watch me roll
+Watch me crank that, Soulja Boy then Super Man that hoeeee!!!
+
+Now watch me-
+Youuuuu crank that, Soulja Boy
+Now watch me-
+Youuuuu crank that, Soulja Boy
+Now watch me-
+Youuuuu crank that, Soulja Boy
+Now watch me-
+Youuuuu crank that, Soulja Boy'),
+        ('erebid', '[b]Erebids[/b] are species of [[moth]] of the family [i]Erebidae[/i]. The family includes underwing moths, [[tiger_moth|tiger moths]], litter moths, and [[tussock_moth|tussock moths]].
+
+h4. External links
+
+* https://en.wikipedia.org/wiki/Erebidae
+
+h4. See also
+
+* [[moth]]
+** [[noctuid]]
+*** [b]erebid[/b]'),
+        ('sparks_darkfox', 'Sparks Darkfox is a male wolf, recognizable by his distinct markings located on the arms, back, and tail, though his gender may be somewhat ambiguous at first glance given his effeminate appearance.
+
+He was adopted at a young age by a badger, who had been witness to the forest fire separating him from his family, and had mistook him for a fox, aptly giving him the name ''Sparks Darkfox''.'),
+        ('train_tracks', 'See [[railway_track]]'),
+        ('arianna_(arkdoggo)', 'An original character made by ArkDoggo. She''s Ark''s sister.'),
+        ('skylinesouth2023', 'No social media 
+
+"Active":https://e621.net/users/1600879'),
+        ('fran_cervice', '[b]Fran Cervicé[/b] is a character belonging to artist [[Keiron White]], a [[female]] [[rabbit]] character who exists in order to be depicted in suggestive images wearing [[skimpy]] clothing or [[nude]] with [[convenient_censoring|convenient censoring]], but never actually explicitly revealed.  This comes from her name, which is a play on the phrase "fanservice", to describe shots in movies, animations, and video games in which female characters show off their bodies (but not to the point of nudity) in order to titillate their fans.'),
+        ('maleherm_penetrating_maleherm', 'Used for posts depicting a [[maleherm]] character penetrating another [[maleherm]] character, regardless of the body forms of either character.
+
+h4. Tags About Penetration:
+
+* [[penetration]]
+
+[section=Tags About Penetration:]
+
+h4. Form:
+[section=Form:]
+
+[section=<Form>_penetrated:]
+* [[anthro_penetrated]]
+* [[feral_penetrated]]
+* [[human_penetrated]]
+* [[humanoid_penetrated]]
+* [[taur_penetrated]]
+
+[/section]
+
+[section=<Form>_penetrating:]
+* [[anthro_penetrating]]
+* [[feral_penetrating]]
+* [[human_penetrating]]
+* [[humanoid_penetrating]]
+* [[taur_penetrating]]
+
+[/section]
+
+[section=<Form>_penetrating_<Form>:]
+* [[anthro_penetrating_anthro]]
+* [[anthro_penetrating_feral]]
+* [[anthro_penetrating_human]]
+* [[anthro_penetrating_humanoid]]
+* [[anthro_penetrating_taur]]
+* [[feral_penetrating_anthro]]
+* [[feral_penetrating_feral]]
+* [[feral_penetrating_human]]
+* [[feral_penetrating_humanoid]]
+* [[feral_penetrating_taur]]
+* [[human_penetrating_anthro]]
+* [[human_penetrating_feral]]
+* [[human_penetrating_human]]
+* [[human_penetrating_humanoid]]
+* [[human_penetrating_taur]]
+* [[humanoid_penetrating_anthro]]
+* [[humanoid_penetrating_feral]]
+* [[humanoid_penetrating_human]]
+* [[humanoid_penetrating_humanoid]]
+* [[humanoid_penetrating_taur]]
+* [[taur_penetrating_anthro]]
+* [[taur_penetrating_feral]]
+* [[taur_penetrating_human]]
+* [[taur_penetrating_humanoid]]
+* [[taur_penetrating_taur]]
+
+[/section]
+[/section]
+
+h4. Gender:
+[section=Gender:]
+
+[section=<Gender>_penetrating Tags:]
+* [[ambiguous_penetrating]]
+* [[female_penetrating]]
+* [[intersex_penetrating]]
+** [[andromorph_penetrating]]
+** [[gynomorph_penetrating]]
+** [[herm_penetrating]]
+** [[maleherm_penetrating]]
+* [[male_penetrating]]
+
+[/section]
+
+[section=<Gender>_penetrated Tags:]
+* [[ambiguous_penetrated]]
+* [[female_penetrated]]
+* [[intersex_penetrated]]
+** [[andromorph_penetrated]]
+** [[gynomorph_penetrated]]
+** [[herm_penetrated]]
+** [[maleherm_penetrated]]
+* [[male_penetrated]]
+
+[/section]
+
+[section=<Gender>_penetrating_<Gender> Tags:]
+[section=ambiguous_penetrating:]
+* [[ambiguous_penetrating_ambiguous]]
+* [[ambiguous_penetrating_female]]
+* [[ambiguous_penetrating_intersex]]
+** [[ambiguous_penetrating_andromorph]]
+** [[ambiguous_penetrating_gynomorph]]
+** [[ambiguous_penetrating_herm]]
+** [[ambiguous_penetrating_maleherm]]
+* [[ambiguous_penetrating_male]]
+
+[/section]
+
+[section=female_penetrating:]
+* [[female_penetrating_ambiguous]]
+* [[female_penetrating_female]]
+* [[female_penetrating_intersex]]
+** [[female_penetrating_andromorph]]
+** [[female_penetrating_gynomorph]]
+** [[female_penetrating_herm]]
+** [[female_penetrating_maleherm]]
+* [[female_penetrating_male]]
+
+[/section]
+
+[section=intersex_penetrating:]
+* [[intersex_penetrating_ambiguous]]
+* [[intersex_penetrating_female]]
+* [[intersex_penetrating_intersex]]
+** [[intersex_penetrating_andromorph]]
+** [[intersex_penetrating_gynomorph]]
+** [[intersex_penetrating_herm]]
+** [[intersex_penetrating_maleherm]]
+* [[intersex_penetrating_male]]
+
+[section=andromorph_penetrating:]
+* [[andromorph_penetrating_ambiguous]]
+* [[andromorph_penetrating_female]]
+* [[andromorph_penetrating_intersex]]
+** [[andromorph_penetrating_andromorph]]
+** [[andromorph_penetrating_gynomorph]]
+** [[andromorph_penetrating_herm]]
+** [[andromorph_penetrating_maleherm]]
+* [[andromorph_penetrating_male]]
+
+[/section]
+
+[section=gynomorph_penetrating:]
+* [[gynomorph_penetrating_ambiguous]]
+* [[gynomorph_penetrating_female]]
+* [[gynomorph_penetrating_intersex]]
+** [[gynomorph_penetrating_andromorph]]
+** [[gynomorph_penetrating_gynomorph]]
+** [[gynomorph_penetrating_herm]]
+** [[gynomorph_penetrating_maleherm]]
+* [[gynomorph_penetrating_male]]
+
+[/section]
+
+[section=herm_penetrating:]
+* [[herm_penetrating_ambiguous]]
+* [[herm_penetrating_female]]
+* [[herm_penetrating_intersex]]
+** [[herm_penetrating_andromorph]]
+** [[herm_penetrating_gynomorph]]
+** [[herm_penetrating_herm]]
+** [[herm_penetrating_maleherm]]
+* [[herm_penetrating_male]]
+
+[/section]
+
+[section=maleherm_penetrating:]
+* [[maleherm_penetrating_ambiguous]]
+* [[maleherm_penetrating_female]]
+* [[maleherm_penetrating_intersex]]
+** [[maleherm_penetrating_andromorph]]
+** [[maleherm_penetrating_gynomorph]]
+** [[maleherm_penetrating_herm]]
+** [b]maleherm_penetrating_maleherm[/b]
+* [[maleherm_penetrating_male]]
+
+[/section]
+[/section]
+
+[section=male_penetrating:]
+* [[male_penetrating_ambiguous]]
+* [[male_penetrating_female]]
+* [[male_penetrating_intersex]]
+** [[male_penetrating_andromorph]]
+** [[male_penetrating_gynomorph]]
+** [[male_penetrating_herm]]
+** [[male_penetrating_maleherm]]
+* [[male_penetrating_male]]
+
+[/section]
+[/section]
+[/section]
+
+h4. Object / Orifice penetration:
+[section=<Object/Orifice>_penetration:]
+
+[section=<Orifice>_penetration:]
+* [[ambiguous_penetration]]
+* [[anal_penetration]]
+** [[dildo_in_ass]]
+** [[double_anal]]
+** [[pegging]]
+** [[triple_anal]]
+* [[arthropod_abdomen_penetration]]
+* [[cloacal_penetration]]
+** [[dildo_in_cloaca]]
+** [[double_cloacal]]
+** [[triple_cloacal]]
+* [[ear_penetration]]
+* [[hair_penetration]]
+* [[nasal_penetration]]
+* [[navel_penetration]]
+* [[nipple_penetration]]
+* [[oral_penetration]]
+** [[double_oral]]
+** [[triple_oral]]
+* [[pouch_penetration]]
+* [[sheath_penetration]]
+* [[slit_penetration]]
+* [[unusual_penetration]]
+* [[urethral_penetration]]
+** [[penis_in_penis]]
+* [[vaginal_penetration]]
+** [[cervical_penetration]]
+** [[dildo_in_pussy]]
+** [[double_vaginal]]
+** [[triple_vaginal]]
+
+[/section]
+
+[section=<Object>_penetration:]
+* [[building_penetration]]
+* [[food_penetration]]
+* [[sex_toy_penetration]]
+** [[dildo_penetration]]
+*** [[dildo_in_ass]]
+*** [[dildo_in_cloaca]]
+*** [[dildo_in_pussy]]
+* [[penile_penetration]]
+** [[penis_in_penis]]
+* [[tentacle_penetration]]
+* [[tongue_penetration]]
+
+[/section]
+[/section]
+
+h4. Quantity:
+[section=<Quantity>_penetration:]
+* [[double_penetration]]
+** [[double_anal]]
+** [[double_cloacal]]
+** [[double_oral]]
+** [[double_vaginal]]
+* [[multi_penetration]]
+* [[multiple_insertions]]
+* [[multiple_penetration]]
+* [[quadruple_penetration]]
+* [[quintuple_penetration]]
+* [[triple_penetration]]
+** [[triple_anal]]
+** [[triple_cloacal]]
+** [[triple_oral]]
+** [[triple_vaginal]]
+
+[/section]
+
+h4. Size / Depth:
+[section=Size / Depth:]
+* [[balls_deep]]
+* [[deep_penetration]]
+* [[extreme_penetration]]
+* [[huge_penetration]]
+* [[large_penetration]]
+* [[macro_penetration]]
+* [[ridiculous_fit]]
+* [[shallow_penetration]]
+* [[tight_fit]]
+
+[/section]
+
+h4. Other:
+[section=Other:]
+* [[bilateral_penetration]]
+* [[cum_while_penetrated]]
+* [[guided_penetration]]
+* [[oral_while_penetrating]]
+* [[penetrating_pov]]
+* [[receiving_pov]]
+* [[suspended_via_penetration]]
+* [[trilateral_penetration]]
+* [[u-turn_penetration]]
+
+[/section]
+[/section]'),
+        ('cloacal_fisting', '[[Fisting]] of the [[cloaca]].
+
+h4.See also:
+
+* [[cloacal_fingering]]
+* [[fisting]]
+** [[anal_fisting]]
+** cloacal_fisting
+** [[slit_fisting]]
+** [[urethral_fisting]]
+** [[vaginal_fisting]]'),
+        ('martinnicat', '"FurAffinity":https://www.furaffinity.net/user/martinni/'),
+        ('tachi_(kaptcha)', 'A tag used for the various (mostly) [[Pokemon|pokésonas]] of artist [[Kaptcha]] (Tachisempai), since they don''t have separate names. His main fursona, [[Tachibun]], has a separate tag.
+
+thumb #956677
+An already somewhat outdated family portrait.'),
+        ('v-neck', 'A [[t-shirt]] or [[tank top]] with a low, v-shaped neckline.'),
+        ('coppertone_(sunscreen)', 'A brand of suntan lotion or sunscreen. Known for a classic, often [[parody|parodied]] advertisement in which a dog pulls off a young girl''s [[swimsuit]] at a beach, giving a comparison of the tan reached by using the product to flesh normally kept out of the sun by clothing.'),
+        ('smiler_(the_backrooms)', 'https://backrooms.fandom.com/wiki/Smilers?so=search'),
+        ('text_box_prompt', 'A [b]text box prompt[/b] is a type of [[text box]] that displays options to the viewer.'),
+        ('manux_werewolf', 'un lobo cachondo xdxd'),
+        ('frostbite_armor', 'The frostbite armor is an armor set found in [[tears_of_the_kingdom]]. Lore-wise, it was used for ancient rituals relating to the ice dragon [[Naydra]]. In game, it grants the "cold weather attack up" effect. In cold weather, certain parts of the outfit light up and glow blue.
+
+This specific outfit has gone popular since it has an open back, resembles a dress and even adds painted fingernails to the wearer.'),
+        ('amy_(peculiart)', 'A character created by Peculiarart.
+
+She is a squirrel woman who works as a nurse. She is intersex and is usually portrayed as a gentle dom.'),
+        ('paw_imprint', 'thumb #3618654 thumb #3820766
+
+A type of [[foot imprint]] that resembles a typical paw shape. See [[pawprint]] for typical paw shape references. This tag includes forepaws, and hindpaws (it usually isn''t possible to tell).
+
+For examples that are incomplete, more elongated than a typical paw, or in some way or another cannot be distinguished from a regular foot shape, consider just using [[foot imprint]] instead.'),
+        ('twoscale', 'Joint account of "ShayBecke":https://www.furaffinity.net/user/shaybecke and "Oblivark":https://www.furaffinity.net/user/oblivark . Former accounts are no longer active and the artist has requested that even their prior work now be tagged under this name.'),
+        ('gold_markings', 'Add this tag when a character has distinctive marks which are gold in color. They may have a metallic sheen and texture like natural gold.
+
+h4. Not to be confused with
+
+* [[yellow_markings]] - Markings which are yellow in coloration, but not gold.
+
+h4. See also
+
+* [b][[Markings]][/b]
+* [b]Marking colors[/b]
+** [[black_markings]]
+** [[blue_markings]]
+** [[brown_markings]]
+** [[cyan_markings]]
+** [[green_markings]]
+** [[grey_markings]]
+** [[orange_markings]]
+** [[pink_markings]]
+** [[purple_markings]]
+** [[red_markings]]
+** [[tan_markings]]
+** [[teal_markings]]
+** [[white_markings]]
+** [[yellow_markings]]
+** gold_markings'),
+        ('natsumi_hinata', 'Natsumi Hinata is a protagonist in the series Keroro Gunso. She is the sister of Fuyuki Hinata, daughter of Aki Hinata and Haru Hinata, and granddaughter of Akina Hinata.'),
+        ('14th_century', 'Art that was produced in the "14th century AD":https://en.wikipedia.org/wiki/14th_century.
+(1301-1400)
+
+<-- [[13th_century]] | [b]14th_century[/b] | [[15th_century]] -->
+
+h4.Years:
+[[1400]] - [[1399]] - [[1398]] - [[1397]] - [[1396]] - [[1395]] - [[1394]] - [[1393]] - [[1392]] - [[1391]]
+[[1390]] - [[1389]] - [[1388]] - [[1387]] - [[1386]] - [[1385]] - [[1384]] - [[1383]] - [[1382]] - [[1381]]
+[[1380]] - [[1379]] - [[1378]] - [[1377]] - [[1376]] - [[1375]] - [[1374]] - [[1373]] - [[1372]] - [[1371]]
+[[1370]] - [[1369]] - [[1368]] - [[1367]] - [[1366]] - [[1365]] - [[1364]] - [[1363]] - [[1362]] - [[1361]]
+[[1360]] - [[1359]] - [[1358]] - [[1357]] - [[1356]] - [[1355]] - [[1354]] - [[1353]] - [[1352]] - [[1351]]
+[[1350]] - [[1349]] - [[1348]] - [[1347]] - [[1346]] - [[1345]] - [[1344]] - [[1343]] - [[1342]] - [[1341]]
+[[1340]] - [[1339]] - [[1338]] - [[1337]] - [[1336]] - [[1335]] - [[1334]] - [[1333]] - [[1332]] - [[1331]]
+[[1330]] - [[1329]] - [[1328]] - [[1327]] - [[1326]] - [[1325]] - [[1324]] - [[1323]] - [[1322]] - [[1321]]
+[[1320]] - [[1319]] - [[1318]] - [[1317]] - [[1316]] - [[1315]] - [[1314]] - [[1313]] - [[1312]] - [[1311]]
+[[1310]] - [[1309]] - [[1308]] - [[1307]] - [[1306]] - [[1305]] - [[1304]] - [[1303]] - [[1302]] - [[1301]]'),
+        ('temtem', '[i][b]TemTem[/b][/i] is a creature-collection MMORPG. Players explore alongside their team of [[temtem (species)|TemTems]], catching them all and battling with them, similar to the likes of [[Pokémon]] though TemTem also includes online massive multiplayer.
+
+h4. See also
+
+* "Steam page":https://store.steampowered.com/app/745920/Temtem/
+* "Official website":https://crema.gg/games/temtem/
+
+* [[digimon]]
+* [[kindred_fates]]
+* [[pokémon]]'),
+        ('wing_growth', 'Tagged when a wingless character grows wings. Usually during [[transformation]].
+
+h4. Related tags:
+
+* [[sequence]]
+* [[species_transformation]] - applies almost always
+** [[human_to_anthro]]
+* [[tail_growth]] — characters who grow wings often also grow a tail
+* [[transformation]]
+* [[wings]]
+** [[winged_humanoid]]'),
+        ('keyboard_spam_text', 'When some [[text]] in an image is the result of spamming the keyboard with many letters.
+
+For example: "hnnngnggaldjdnkdlsnskdjsalsjdbsbsksos", "nggalekdbsbskaodndbnsns", "mspwxbnxmsnsmslslaksjshh"'),
+        ('asdruballe', 'more active on FA'),
+        ('0303emily', 'Mostly for SFW art linked on tumblr'),
+        ('pissing_contest', 'A game in which participants compete to see who can urinate the highest, the farthest, the most, or for the longest.'),
+        ('raena_(gramzon)', 'Female blue jay griffon of Gramzon_The_Dragon, on FA. Can be confused for her younger sister Merida; Raena is a thief and an assassin from the same fantasy world. Normally featured in oral vore art, with or without Merida involved.'),
+        ('taxes', 'Taxes. Just taxes. Use this tag whenever it is clear that someone has done/is doing [sub](or in [[Yoshi]]’s case, hasn’t done/isn’t doing)[/sub] their taxes (e.g. Tax forms visible in the photo/gif/video, Tax collecters going round houses, etc.)
+[quote] A tax is a compulsory financial charge or some other type of levy imposed on a taxpayer (an individual or legal entity) by a governmental organization in order to fund government spending and various public expenditures. A failure to pay, along with evasion of or resistance to taxation, is punishable by law. Taxes consist of direct or indirect taxes and may be paid in money or as its labour equivalent.[/quote]
+- "Tax, from Wikipedia, the free encyclopaedia.":https://en.wikipedia.org/wiki/Tax'),
+        ('fake_beard', 'thumb #183161
+
+A man-made hairpiece shaped like a [[beard]].
+
+h4. Tags About Beard
+[section,expanded=Tags About Beard]
+[section,expanded=Beard Styles]
+* [[big_beard]]
+* [[beard_ponytail]]
+* [[braided_beard]]
+* [[chinstrap_beard]]
+* [[dreadlock_beard]]
+* [[long_beard]]
+[/section]
+[section,expanded=Colors of Beard]
+* [[black_beard]]
+* [[blonde_beard]]
+* [[blue_beard]]
+* [[brown_beard]]
+* [[green_beard]]
+* [[grey_beard]]
+* [[orange_beard]]
+* [[pink_beard]]
+* [[purple_beard]]
+* [[red_beard]]
+* [[tan_beard]]
+* [[white_beard]]
+
+* [[monotone_beard]]
+* [[multicolored_beard]]
+** [[two_tone_beard]]
+
+* [[dark_beard]]
+* [[light_beard]]
+[/section]
+[section,expanded=Accessories]
+* [[beard_ring]]
+* [b]fake_beard[/b]
+* [[postiche_beard]]
+[/section]
+[section,expanded=Other]
+* [[cum_on_beard]]
+* [[flaming_beard]]
+* [[neckbeard]]
+* [[tentacle_beard]]
+[/section]
+[/section]
+
+h4. Tags About Facial Hair
+
+* [[facial_hair]]
+
+[section,expanded=Types of Facial Hair]
+
+* [[beard]]
+* [[goatee]]
+* [[mustache]]
+* [[sideburns]]
+* [[soul_patch]]
+
+[/section]
+
+h4. See also
+
+* [[Fake Mustache]]
+* [[Merkin]]
+* [[Toupee]]
+* [[Wig]]'),
+        ('technicoloris', 'Technicoloris'' account is run by her partner Father_El, all "official" postings from Technicoloris on E6 should originate from Father_El'),
+        ('shela_squirrel', 'A female squirrel who appears in "Wakko''s Wish" near the end of the movie.'),
+        ('soiling_underwear', 'Like "soiling":https://e621.net/wiki/show/soiling
+"The act of excreting bodily wastes or fluids into clothing"
+but applying only to underwear.
+(Briefs,Boxers, Panties, Thongs and so on.)'),
+        ('rescue', 'Rescue
+When someone takes action to save another person.
+
+Example: "I saved them from drowning. I rescued them."'),
+        ('amethyst_(steven_universe)', 'Amethyst is a member of the Crystal Gems. She is the last known Gem manufactured on Earth as a part of the Gem Homeworld''s Kindergarten project, and one of the last surviving Gems on Earth. After being found by [[Rose Quartz Universe|Rose Quartz]] and the other Crystal Gems, Amethyst helped her friends protect the Earth over the next four millennia, and often aids in the shenanigans of [[Steven Quartz Universe|Steven Universe]], Rose Quartz''s son.'),
+        ('tight_clothing', 'thumb #3113084 thumb #2592926  thumb #4062850 thumb #3189992  thumb #3436082
+
+Clothing that clings tightly to the wearer''s body, revealing the body''s forms, curves, and muscle tone.  
+
+[[Athletic wear]] items are frequently tight — sometimes inherently so, such as [[leotard|leotards]], [[spandex shorts]]/[[bike shorts]], or [[yoga pants]].  
+
+[quote]
+
+h6. [i]Tight clothing can apply to...[/i]
+* clothing that is visibly "too small", but seemingly without being uncomfortable (e.g. a shirt that is visibly stretched across the character''s chest and/or breasts)
+* comfortable, intentionally form-fitting clothing, such as a [[skinsuit]] or leggings
+* clothing that is far too small for the wearer, showing signs of [[torn clothing|tearing]], or [[straining buttons]], sometimes with the character being unable to fully put the item on, or the character may be partially "bursting out" of the clothing, causing a [[wardrobe malfunction]] — this may be seen due to [[growth]], rapid [[weight gain]], [[expansion]] or [[inflation]].
+
+[/quote]
+
+h3. Tight Clothing Tags
+
+h5. Categories of Tight Clothing
+* [[tight armwear]]
+* [[tight bottomwear]]
+* [[tight footwear]]
+* [[tight headwear]]
+* [[tight legwear]]
+
+h5. Specific Tight_(Item) Tags
+
+Note: not all of the tags below have wiki pages, some tags are rarely used
+
+h6. Full Body
+* [[tight dress]]
+* [[tight overalls]]
+* [[tight underwear]]
+
+h6. Topwear
+* [[tight bandeau]]
+* [[tight bra]]
+* [[tight shirt]]
+
+h6. Bottomwear
+* [[tight pants]]
+* [[tight shorts]]
+* [[tight skirt]]
+
+h5. Often Seen With Tight Clothing
+
+* [[bulge]]
+** [[detailed bulge]]
+* [[bulging breasts]]
+* [[camel toe]]
+* [[navel outline]]
+* [[nipple outline]]
+** [[areola outline]]
+* [[skindentation]]'),
+        ('minigoat', 'My Own Draws'),
+        ('kendo_men_mask', 'https://en.wikipedia.org/wiki/Men_(kendo)
+Men, written with the kanji (面) means "face" or "helmet".'),
+        ('minerva_mink', 'Thumb #2877199
+
+https://en.wikipedia.org/wiki/List_of_Animaniacs_characters#Minerva_Mink
+
+"Minerva Mink – An attractive anthropomorphic mink, voiced by Julie Brown, with the ability to seduce and charm any and every male creature around her into the state of a babbling idiot, often inducing Tex Avery-esque wild takes. Just as every male creature lusts after Minerva, she lusts after every handsome looking male she sees and goes crazy when she sees one. She has a loose attitude and behaves like a primadonna. She was named Marilyn Mink in pre-production.
+
+She starred in the least number of shorts of all the ensemble cast, allegedly because the content of her episodes was so overtly sexual that it was decided that it would be inappropriate for the intended predominantly young audience.
+
+Both Minerva and Newt appeared in several issues of the Animaniacs comic book (with Minerva''s sexuality a bit watered down, but Newt still his ever-blundering self). She also appears in Wakko''s Wish as an ensemble member, but has a couple solo lines to herself."
+
+In fan art, Minerva is sometimes seen in a romantic/sexual relationship with [[wilford_wolf|Wilford Wolf]].
+
+"Minerva Mink - Animaniacs Wiki":http://animaniacs.wikia.com/wiki/Minerva_Mink
+"Minerva Mink - WikiFur":http://en.wikifur.com/wiki/Minerva_Mink
+"IMDB":http://www.imdb.com/character/ch0107689/'),
+        ('sliver_(magic:_the_gathering)', 'A species of creature from the card game Magic: The Gathering. Slivers come in 2 general forms, a serpentine form, and a humanoid form. The vast majority of sliver are serpent-like, but there are some that are humanoid. The serpent-like slivers always have at least one arm that ends in a long sharp claw and have a head with a similar shape. In addition, the bodies of these sliver split into multiple tail like tentacles at the base, which allows them to move how they do. The humanoid slivers can be distinguished from other humanoid by the presence of tentacle like appendages on the body. These are most commonly located on the head, resembling hair, but can be located in other places.'),
+        ('seigaiha', '
+
+
+A traditional Japanese pattern of stylized waves.
+
+h4. External:
+
+* http://www.aisf.or.jp/~jaanus/deta/s/seigaiha.htm'),
+        ('yolk_(artist)', 'Posts nsfw content to http://www.furaffinity.net/user/yucky'),
+        ('nippleless_(disambiguation)', 'h4. Were you looking for:
+* [[featureless_breasts]]
+* [[featureless_chest]]
+* [[nipple_tuft]]'),
+        ('roa_(nightmareroa)', 'An imp-like character owned by "nightmareroa":/artists/72392'),
+        ('eldritch_abomination', 'A being of ambiguous morality and inscrutiable goals, several orders of magnitude more powerful than human beings. Usually, they exist in an alternate dimension with radically different physical laws, allowing them to ignore the physics of any other dimension they visit.'),
+        ('winky_(dragon_quest)', 'https://dragonquest.fandom.com/wiki/Winky'),
+        ('little.sparrow', '"Weebly":http://little-sparrow.weebly.com/
+"Weasyl":https://www.weasyl.com/~littlesparrow
+"Furaffinity":http://www.furaffinity.net/user/little.sparrow/
+"Other Furaffinity":http://www.furaffinity.net/user/soferny/'),
+        ('blue_speech_bubble', 'thumb #4462845
+
+Used when a character''s speech bubble is blue in color.
+
+https://en.wikipedia.org/wiki/Blue
+
+h4. Tags About Speech Bubbles
+
+* [[speech_bubble]]
+
+[section=Colors]
+
+h4. Speech Bubble [[tag_group:colors|Colors]]
+
+* [[black_speech_bubble]]
+* [b]blue_speech_bubble[/b]
+* [[brown_speech_bubble]]
+* [[green_speech_bubble]]
+* [[grey_speech_bubble]]
+* [[orange_speech_bubble]]
+* [[pink_speech_bubble]]
+* [[purple_speech_bubble]]
+* [[red_speech_bubble]]
+* [[tan_speech_bubble]]
+* [[teal_speech_bubble]]
+* [[white_speech_bubble]]
+* [[yellow_speech_bubble]]
+
+* [[dark_speech_bubble]]
+* [[light_speech_bubble]]
+
+[/section]
+
+h4. See also
+
+* [[tag_group:narrative_elements]]
+
+* [[dialogue]]
+* [[inner_monologue]]
+* [[thought_bubble]]'),
+        ('captain_jaypeg', '-A humble Space Pirate that draws stuff
+-You can call me Cap
+-He/Him
+-Formerly known as "Cictor.jpeg"'),
+        ('luvjeordie_studios', 'Site: http://www.caseyaffleck.com/ls/lsmain.html'),
+        ('mutual_tail_insertion', 'When two characters have their tails in each other''s body. The tags [[tail_insertion]] and [[mutual_penetration]] would also apply.'),
+        ('rex_freight_fur_hire', 'thumb #3953900
+
+"[b]Beat, Bladesman Fur Hire[/b]":https://yugipedia.com/wiki/Beat,_Bladesman_Fur_Hire (くうがだんのけんし ビート "Kūgadan no Kenshi Bīto", "Beat, Swordsman of the Skyfang Brigade" in Japanese) is a level two dinosaur effect monster, and part of the "[[Fur Hire]]" card archetype in the [[Yu-Gi-Oh!]] trading card game. Appears to be an [[ambiguous gender]] yellow dinosaur, freshly hatched during transport.
+
+[quote]If this card is Normal or Special Summoned: You can add 1 Spell/Trap "Fur Hire" from your Deck to your hand. During the Main Phase, if you control a monster "Fur Hire" (Quick Effect): You can banish this card from your GY, then target 1 card "Fur Hire" in your GY; either add it to your hand, or Special Summon it if it was a monster. You can only use each effect of "Rex, Freight Fur Hire" once per turn.[/quote]'),
+        ('fuzebox', 'incorrect tag for the artist "Fuze". 
+Statement from him:
+[quote]I think I’d rather go with Fuze, since that’s what most folks refer to me as.[/quote]'),
+        ('raised_clothing', 'When a character''s [[clothing]] is lifted up in a way that leaves them [[exposed]], but without anyone actually [i]trying[/i] to lift it.
+
+h4. Related tags
+
+* [[flashing]]
+* [[presenting]]
+* [[clothing_lift]]
+** [[dress_lift]]
+** [[shirt_lift]]
+** [[skirt_lift]]
+* [b]raised_clothing[/b]
+** [[raised_dress]]
+** [[raised_shirt]]
+** [[raised_skirt]]'),
+        ('oni', '[[Oni]] are a kind of yōkai from Japanese folklore, variously translated as Japanese type [[demon]]s and devils. 
+
+Depictions of oni vary widely but usually portray them as hideous, gigantic ogre-like creatures with sharp claws, wild hair, and two long horns growing from their heads. They are humanoid for the most part, but occasionally, they are shown with unnatural features such as odd numbers of eyes or extra fingers, toes or horns on their head. Their skin may be any number of colors, but red, blue and black are particularly common. They are often depicted wearing tiger-skin loincloths and carrying iron clubs, called [[kanabō]]
+
+
+They are popular characters in Japanese art, literature and theatre.
+
+h4. Related tags:
+
+* [[humanoid]]
+* [[tiger_print]]
+
+h4. Not to be confused with:
+
+* [[oni_(artist)]]'),
+        ('ikarooz', '"Deviantart":http://ikarooz.deviantart.com/'),
+        ('shag_(artist)', 'Not the same person as [[kd_(artist)]].'),
+        ('huge_butt', '[b]Huge Butt[/b] describes characters with rear ends that are [i]remarkably large[/i], beyond what would generally be seen as a "[[Big Butt]]"
+
+"Huge Butt" - [i]in comparison with [[Hyper Butt]][/i] - implies that the character''s buttocks, while very large, are still [i]proportionate to the rest of the character''s body[/i], and typically remain within the realm of realism, or at least, believability.
+
+Because of tag implications, if an image is tagged both "hyper butt" and "huge butt", then it is a Hyper Butt - barring a mistag or multiple characters with varying sizes of rear end.
+
+h4.Examples:
+
+thumb #1642293 thumb #1134559 thumb #2077935 thumb #798736 thumb #1209063
+
+h4.See also:
+
+* [[Butt]]
+** [[Big_butt]]
+*** Huge_butt
+**** [[Hyper_butt]]
+* [[Presenting_hindquarters]]'),
+        ('lounging', 'Characters that are lounging tend to to be laying against an object that provides back support. This position is designed to be comfortable.'),
+        ('teal_highlights', 'A character who has teal [[hair_highlights]].
+
+h4.[[hair_highlights|Hair Highlights]]:
+
+[section=Highlight Colors]
+* [[black_highlights]]
+* [[blonde_highlights]]
+* [[blue_highlights]]
+* [[brown_highlights]]
+* [[green_highlights]]
+* [[grey_highlights]]
+* [[orange_highlights]]
+* [[pink_highlights]]
+* [[purple_highlights]]
+* [[red_highlights]]
+* [[tan_highlights]]
+* [b]teal_highlights[/b]
+* [[white_highlights]]
+
+* [[multicolored_highlights]]
+** [[rainbow_highlights]]
+** [[two_tone_highlights]]
+[/section]'),
+        ('reidrea', 'Name and/or Last name: Reidréa
+Surname: Rei
+Gender: Hermaphrodite
+Age: Approximately 25 Years Old
+Species: Hybride Humen(Dragon)-Human
+Height: 1m83
+Weight: 90kg
+Behaviour: Kind and generous, Friendly with a bit of egocentrism. Got a vicious side.
+Background Story: Reidréa is the result of a fusion between Rei and Adréa. Calua did it to save the lives (indirectly) of his friends. (it would take far too long to explain this background, see in the Trinity of the Creator trilogy)
+Others: Loves pancakes. Got the Trinity of the Creator.
+Relationship: Likes everyone, except Subconscious (But not Calua)
+Sexual orientation: Pansexual
+
+
+[b]Reidréa isn''t a Charizard and he/she''s not affiliate with Nintendo[/b]
+
+
+Find all of "Reidréa''s":https://www.furaffinity.net/user/reidrea/ characters here: https://drive.google.com/file/d/1L0Sf2ofWGx1PJ0EwY7DIoQn-ssKvsMRx/view?usp=sharing'),
+        ('destroy_all_humans!', 'Destroy All Humans! is an open world action-adventure video game franchise that is designed as a parody of Cold War-era alien invasion films.'),
+        ('dryad_(warcraft)', '[b]"Dryads":https://wowpedia.fandom.com/wiki/Dryad [/b] are the female offspring of the [[demigod]] [[cenarius_(warcraft)|Cenarius]], and the sibling-race to the [[keeper_of_the_grove_(warcraft)|Keepers of the Grove]] who are the male offspring. Dryads call Moonglade their home as it was where their father would seclude himself.
+Dryads can shift their form between the planes to enter the emerald dream at will, allowing them to visit their slain brethren.
+In Warcraft, nymph is just another word for dryad, referring to dryads that have gone "a little wild". Usually due to living their whole lives in untamed wilderness like the howling Fjord and Mount Hyjal. 
+
+The most notable Dryads are probably [[lunara_(warcraft)]] [i]" "First Daughter of Cenarius":https://wowpedia.fandom.com/wiki/Lunara "[/i] who features also in [[Heroes_of_the_Storm]] and [[Hearthstone]], being the outward face of all Warcraft dryads. And "Taryndrella":https://wowpedia.fandom.com/wiki/Taryndrella, who suffered a grisly fate.
+
+[section=Notable Dryads]
+* Anilia
+* Cavindra
+* Daranelle
+* Faradrella
+* Illiyana
+* Kelnir Leafsong
+* [[lunara_(warcraft)|Lunara]]
+* Rynthariel the Keymaster
+* Selendra
+* Seraphine
+* Shael''dryn
+* Tarindrella
+* Taryndrella
+* Therysil
+* Therylune
+[/section]'),
+        ('julius_(aetos)', 'Character owner: https://www.furaffinity.net/user/aetos/
+
+Julius Adult Ref Sheet:
+https://www.furaffinity.net/user/aetos/
+https://www.furaffinity.net/view/42390388/
+https://d.furaffinity.net/art/aetos/1624032599/1624032599.aetos_quagga_s.jpg
+'),
+        ('baruji_tsuki', 'Not 100% sure that it is the artist. The site calls them the ''architect.'' It doesn''t exactly give me a site name for any of the artists and I haven''t been very fruitful at finding the artist through google. Either way, better to have a source that contains some information than none at all.'),
+        ('permagrin', 'Having a permanent smile, no matter the situation. This is mainly seen on inflatables.'),
+        ('sign_graphic', 'A [[sign]] with a [[pictogram]] on it.'),
+        ('cum_on_arm', 'This tag is used when there is [[cum]] visible on the arm of a character.
+
+Examples:
+
+thumb #678022 thumb #675916 thumb #701467'),
+        ('theyiff', 'Formely thefurryking1.
+
+Argentinian artist. Often draws both SFW and NSFW cute characters.
+
+h4. Links:
+* "[b]FurAffinity[/b]":https://www.furaffinity.net/user/tfk1/
+* "[b]Inkbunny[/b]":https://inkbunny.net/theyiff
+* "[b]Ko-Fi[/b]":https://ko-fi.com/zaclime
+* "Twitter":https://twitter.com/TheYiff (Suspended)
+
+h6. Support the artist!
+* https://www.paypal.com/paypalme/zaclime'),
+        ('gorgoroth', 'Gorgoroth is a white furred minotaur. It is Thrakos''s secondary character. '),
+        ('hikka-fin', 'This is a Oc belonging to [[Cydonia_Xia]], whom is a hybrid of a [[guardian_spirit]] from the Ori series and a shark.'),
+        ('piebald', 'thumb #1129797
+
+[b]Piebaldism[/b] is an animal skin pattern, in which the animal has an unpigmented background of [[fur]], [[hair]], [[feathers]], [[scales]], etc that is covered with pigmented [[spots]]. Common spot colors include [[black spots|black]], [[yellow spots|yellow]], and [[brown spots|brown]].
+
+Piebaldism is common and well known in species such as [[horse|horses]] and [[cattle]], but it is found in almost every species of animal.
+
+h4. Related tags
+
+* [[fur]]
+* [[piebald_body]]
+** [[piebald_exoskeleton]]
+** [[piebald_feathers]]
+** [[piebald_fur]]
+** [[piebald_scales]]
+** [[piebald_skin]]
+* [[scales]]
+* [[spotted skin]]
+** [[vitiligo]]
+
+h4. See also
+
+* [[albino|Albinism]]
+* [[Amelanism]]
+* [[leucistic|Leucism]]
+* [[melanistic|Melanism]]
+* [[Mottled]]
+** [[Mottled penis]]
+** [[Mottled pussy]]
+** [[Mottled skin]]
+* [[Spots]]'),
+        ('young_intersex', 'An [[intersex]] character that appears [[young|visibly underage]].
+
+h4. Not To Be Confused With
+* [[younger_intersex]]
+
+h4. See Also
+* [[young_ambiguous]]
+* [[young_female]]
+* [[young_male]]
+* [b]young_intersex[/b]
+** [[young andromorph]]
+** [[young_gynomorph]]
+** [[young_herm]]
+** [[young_maleherm]]'),
+        ('party_favor_(mlp)', '"Party Favor":http://mlp.wikia.com/wiki/Party_Favor is a male [[unicorn]] pony who appears in the season five two-part premiere [I]The Cutie Map - Part 1 and Part 2[/I]. He is a resident of a village, led by [[Starlight_Glimmer_(mlp)|Starlight Glimmer]], in which its inhabitants have all given up their [[cutie_mark|cutie marks]]. '),
+        ('acid_burns', 'A wound caused by a character coming into contact with caustic [[acid]].  
+
+An acid burn can be shown as a reddening of the skin (or red patches on the skin), bleaching (whitening) of the skin, blistering, patches of missing skin (and fur/feathers/hair), up to exposure of muscles, organs or bone, depending on the depth and severity of the wound.
+
+Acid burns are often most seen in [[vore]] involving [[graphic digestion]]. 
+
+h4. Related Tags
+* [[gore]]
+* [[death]]
+** [[grotesque death]]
+* [[exposed bone]]
+* [[exposed muscle]]
+* [[acid pool]]
+* [[stomach acid]]
+'),
+        ('feral_to_human', 'When a [[feral]] character [[transformation|transforms]] into a [[human]] being. This is much rarer than its reverse version, [[human_to_feral]].'),
+        ('molding', 'An object or character being shaped.
+
+h4. See Also
+* [[sculpting]]
+* [[casting_mold]]'),
+        ('val_(darthsin)', 'character owned by Darthsin'),
+        ('cropped_jacket', 'thumb #3184812 thumb #3313627 thumb #3144088 thumb #3560481
+
+A [b]cropped jacket[/b] describes any kind of [[jacket]] that is made to only cover the wearer''s chest or upper torso, revealing their [[midriff]], typically worn with other [[topwear]] underneath. 
+
+Cropped jackets are [[open jacket|frequently worn open]], and usually paired with a [[t-shirt]], [[tube top]], [[bandeau]], a [[bikini top]] or [[bra]]; they may also be worn with [[high waisted bottomwear|pants or shorts with a high waistline]].
+
+h4. Related Tags
+* [[crop top]]
+* [[cropped hoodie]] 
+* [[cropped sweater]]
+'),
+        ('galeo_(icma)', 'Age: 20 (Human years)
+Sex: Male
+Species: Aggron
+Class: 6 (VI) // Ultra Class
+Moveset: Metal Burst'),
+        ('the_hierophant_(tarot)', 'One of the Major Arcana defined in [[tarot]]. In typical portrayals, the Hierophant is a person seated before a temple marked by two columns, with an intricate crown, robes, and scepter. A pair of crossed keys is at the hierophant''s feet, in addition to a pair seeking the hierophant''s guidance. The hierophant''s free hand gestures towards the earth and the heavens with two fingers each.
+
+In cartomancy, the upright Hierophant arcanum is interpreted as spiritual wisdom, religious belief, conformity, tradition, and institutions.
+The reversed Hierophant arcanum is interpreted as personal belief, freedom, and challenging the status quo.
+
+[table][thead][tr][th][[Major Arcana]][/th][/tr][/thead]
+[tr][th]thumb #1736269
+[[the fool (tarot)|The Fool]][/th][/tr][/table]
+[table]
+[tr][th]thumb #1734614
+[[the magician (tarot)|The Magician]][/th]
+[th]thumb #1734586
+[[the high priestess (tarot)|The High Priestess]][/th]
+[th]thumb #1736287
+[[the empress (tarot)|The Empress]][/th]
+[th]thumb #143001
+[[the emperor (tarot)|The Emperor]][/th][/tr]
+[tr][th]thumb #1734615
+[[the hierophant (tarot)|The Hierophant]][/th]
+[th]thumb #1736286
+[[the lovers (tarot)|The Lovers]][/th]
+[th]thumb #1736796
+[[the chariot (tarot)|The Chariot]][/th]
+[th]thumb #1736234
+[[strength (tarot)|Strength]][/th][/tr]
+[tr][th]thumb #142998
+[[the hermit (tarot)|The Hermit]][/th]
+[th]thumb #1734622
+[[wheel_of_fortune (tarot)|Wheel of Fortune]][/th]
+[th]thumb #1735423
+[[justice (tarot)|Justice]][/th]
+[th]thumb #1734582
+[[the hanged man (tarot)|The Hanged Man]][/th][/tr]
+[tr][th]thumb #1736298
+[[death (tarot)|Death]][/th]
+[th]thumb #1735421
+[[temperance (tarot)|Temperance]][/th]
+[th]thumb #1735428
+[[the devil (tarot)|The Devil]][/th]
+[th]thumb #1736801
+[[the tower (tarot)|The Tower]][/th][/tr]
+[tr][th]thumb #1734583
+[[the star (tarot)|The Star]][/th]
+[th]thumb #1734584
+[[the moon (tarot)|The Moon]][/th]
+[th]thumb #1734585
+[[the sun (tarot)|The Sun]][/th]
+[th]thumb #1736799
+[[judgement (tarot)|Judgement]][/th][/tr]
+[/table]
+[table][tr][th]thumb #1736798 
+[[the world (tarot)|The World]][/th][/tr][/table]
+[table]'),
+        ('towel_snap', 'The action of using a towel (usually wet) to act as a whip.'),
+        ('butterfly_(accessory)', 'A [b]butterfly accessory[/b] is a clip-on [[accessory]] resembling a [[butterfly]]. This should probably not be tagged as a species.
+
+h4. Related tags
+
+* [[clip_accessory]]
+** [[hairclip]]
+
+h4. See also
+
+* [[accessory]]
+** [[bell_accessory]]
+** [[bow_accessory]]
+** [b]butterfly_(accessory)[/b]
+** [[flower_accessory]]
+** [[heart_accessory]]
+** [[star_accessory]]'),
+        ('assisted_fellatio', 'A situation where a third party assists with the act of one character performing [[fellatio]] on another, frequently without directly participating in the act of fellatio (although they may also be directly participating while also assisting another character, in which case it would also be tagged with [[collaborative_fellatio]]).
+
+Like with [[assisted_sex]], this could be either willing or [[forced]].
+
+Usually done by directing or controlling the head of the character performing fellatio.
+
+h4. See also:
+* [[oral]]
+** [[fellatio]], [[cunnilingus]]
+* [[assisted_sex]]
+** [[assisted_oral]], [[assisted_cunnilingus]]
+* [[collaborative_sex]]
+** [[collaborative_oral]], [[collaborative_fellatio]], [[collaborative_cunnilingus]]
+* [[forced]]
+** [[forced_partners]]
+** [[forced_oral]], [[reverse_forced_oral]], [[forced_fellatio]]
+** [[assisted_rape]]'),
+        ('sound_effects', 'In visual entertainment, sound effects are used as a method of storytelling or making a creative point without dialogue.
+
+h4. Table of contents [#top]
+
+* [i][[#taghelp|I. Tagging guide]][/i]
+** [i][[#formintro|Introduction to forms]][/i]
+** [i][[#identification|Identification]][/i]
+*** [i][[#onomatopoeia|Onomatopoeia, and vocalizations]][/i]
+** [i][[#howtotag|Finding the right tag]][/i]
+** [i][[#actiontagging|Action tagging]][/i]
+** [i][[#newtags|New tag creation]][/i]
+** [i][[#lettershiftintro|Introduction to letter shifting]][/i]
+* [i][[#tagformat|II. Formats]][/i]
+* [i][[#taggroup|III. Sound effect tags]][/i]
+* [i][[#foreign|IV. Foreign sound effects]][/i]
+* [i][[#soundgroup|V. Sound groups]][/i]
+* [i][[#faq|VI. F.A.Q.]][/i]
+
+h4. What are sound effects?
+
+* A type of effect that represents an event, or action through sound, or a representation of sound. [sub]A sound effect can represent an action, even if that action is not known to produce a sound.[/sub]
+
+[section=Textual sound effects]
+
+A sound effects represented through [[text]], and the primary focus of the `sound_effects` tag.
+
+h4. Categories
+
+* [[onomatopoeia]] - Sounds represented through words (e.g. "Honk", "Boom", "Meow").
+
+h5. Approximated sound effects
+
+Sounds represented through approximated, or generic spellings (e.g. "Bzzzt", "Kerploosh", "Krrsh", "Splsh")
+
+* [[vowelless_sound_effect]] - There is not a single tag to represent all approximated sounds. The best way to access approximated sounds is through this tag, or a modified form tag.
+
+[/section]
+[section=Audible sound effects]
+
+Audible sound effects are not yet supported through this tag, but could be supported in the future. Many common sounds can be represented in both text, and audible forms.
+
+* Sound effects represented through an audio track. A sound effect should be more than a character speaking.
+* These should never be tagged as [[onomatopoeia]], or an approximated sound effect tag.
+
+h4. Audible tags
+
+[i]Not all of these are actual sound effects.[/i]
+
+* [[audible_creampie]]
+
+[/section]
+
+h4. Tagging guide [[#top|^]][#taghelp]
+
+[section,expanded=Tagging guide]
+
+* Sound effects are tagged based on their form, or their related common theme.
+* Always try to tag more specifically than `sound_effects`, or `onomatopoeia` if possible. Use the context as a guide.
+
+
+[section=Tagging methods]
+
+h6. Less helpful tagging
+
+[quote]
+Using `licking sound_effects` to describe licking as a sound effect. 
+[/quote]
+
+h6. More helpful tagging
+
+[quote]
+Using `licking licking_sound_effect` to describe licking as a sound effect. 
+[/quote]
+
+h6. Most helpful tagging
+
+[quote]
+Using `licking licking_sound_effect`and `onomatopoeia` ("Lick"), or `vowelless_sound_effect` ("Lk") to describe licking as a sound effect. 
+[/quote]
+
+[/section]
+
+h4. Introduction to forms [[#top|^]][#formintro]
+
+The default, or standardized spelling of a sound effect is known as the base form for that sound effect. An alternate spelling of a base form is known as a modified form.
+
+Modified form tags may be found [[#forms|here]]. Detailed explanations on usage may be found in their respective wikis.
+
+h4. How to identify sound effects [[#top|^]][#identification]
+
+Sound effects represent actions, sounds, and often both.
+
+* Look for isolated text near characters or objects, and determine its purpose.
+* Artists will often format sound effects, and vocalizations differently than [[dialogue]]. Look for differences in how the text looks.
+* Sound effects may also be [[sound_effects_in_dialogue|embedded in the dialogue itself]]. It does not matter where the artist puts the sound effect, this tag can still be used. 
+
+[section=Onomatopoeia identification] [[#top|^]][#onomatopoeia]
+
+[[Onomatopoeia]] are sound effects that resemble or are based on words.
+
+For tagging purposes, a word includes dictionary words ("Buzz", "Huff", "Lick", "Twitch"), slang words ("Plap", "Shlick"), constructed or modified words ("Glorp", "Shlop", "Splurt", "Thoom"), and multiple word sound effects ("Horny squeak"). The subject matter of the word doesn''t matter (though be careful with tagging vocalizations). Most words can theoretically function as an onomatopoeia.
+
+h4. Tagging criteria
+
+Use the following criteria to determine if a sound effect is an onomatopoeia.
+
+* Many vocalizations do not count as sound effects. For exceptions, see [i]Vocalizations[/i] section.
+* Most [[animal noises]], and [[breathing noises]] in their proper forms count as onomatopoeia.
+* [[Vowelless]] forms are [u]never[/u] onomatopoeia.
+** They may not always qualify as sound effects either. The ones that do fall under [[vowelless_sound_effect]].
+* The form is not excessively garbled (contains random, non-sensible letters).
+* The form is a fully formed word, formed with [[multi-word_onomatopoeia|multiple words]], or appears like it could pass off as a word.
+** Onomatopoeia may contain [[extended_sound_effect|extra letters than it should have]] ("Mooo", "Riiip", "Sluurrrp"), but should not be tagged when the form is missing letters that it should have ("Bzzz", "Gurgl", "Swsh").
+** Alternate spellings are usually okay to tag as onomatopoeia ("Slurk", "Shlurk", and "Schlurk" are all onomatopoeia).
+
+[/section]
+
+[section=Vocalization identification]
+
+A [[vocalization]] is a sound, or representation of a sound, that is vocalized (produced by vocal chords), but does not form proper words (would not fit into a speech theme such as [[dialogue]], or [[inner_monologue]]). 
+
+* By default vocalizations [u]do not[/u] qualify as sound effects, with the exception being those that are represented by onomatopoeic words.
+** If the term is better described as a [[grunting|grunt]], [[laugh]], or [[moan]], the `sound_effects` tag probably doesn''t apply. Literal representation of vocalizations count as both (such as "Giggle" in the example below).
+
+h4. Example
+
+thumb #3465882
+
+* Most [[animal noises]] ("Chirp", "Meow", "Woof", etc) function the same way being both onomatopoeia, and vocalizations.
+
+[/section]
+
+h4. How to tag sound effects [[#top|^]][#howtotag]
+
+h6. Knowing common synonyms can be helpful
+
+* Action sound effects are often stored in umbrella tags for a common action. See [[pulling_sound_effect]]
+** Actions that do not have their own dedicated sound effect tag (i.e. [[throbbing]]) are usually stored in a sound effect umbrella category based on the nature of the sound.
+
+For a list of examples, see [[#categories|Sound categories]]
+
+h6. Use the site''s tag autocomplete to make finding tags easy
+
+* The common form can often be found by typing the unknown sound effect into the tag box and seeing what pops up.
+** Modified spellings are usually still stored in the base form. Do not worry too much if there are extra, or missing letters.
+** Vowel shifts are often stored in a single tag for simplicity.
+
+h4. Examples
+
+[quote]
+* Use [[splurt]] to represent both "Splrt", and "Splurrt".
+* Use [[bwomp]] to represent both "Bwump" and "Bwomph". Do note that [[fwomp]] is a different form.
+[/quote]
+
+h6. Check the tag group
+
+For a mostly complete list, see [[tag_group:sound_effects]].
+
+h4. Action tagging [[#top|^]][#actiontagging]
+
+[i]This section describes how to tag actions when there are sound effects present.[/i]
+
+h6. Identify the purpose
+
+* Ask yourself if the form represents contact, movement, or something else, and determine what action is being represented.
+
+h6. Tagging guidelines
+
+* Action tags may be tagged based on sound effect usage in most cases.
+** Complex actions such as [[sex]] are not taggable if they are offscreen, but most lewd noises can be tagged in any situation.
+
+* A sound effect can be associated with several action concepts that are related in an artistic sense, but not a tagging sense.
+
+h4. Example
+
+This image shows a kissing, and a swallowing sound effect being used as an interpretive mechanic. For the sake of simplicity, sound effect concepts can be used in a literal, or interpretive application.
+
+thumb #2390655 This should neither be tagged as [[kissing]], or [[swallowing]], but it still contains a [[kissing_sound_effect|kissing]], and [[swallowing sound effect]].
+
+h4. Creating new tags [[#top|^]][#newtags]
+
+Factors that should be considered before starting a new sound effect tag:
+
+* Does a tag already exist? 
+** Keep in mind that the tag used to store a sound effect may not be spelled the same as it appears in an image. Lookup tables are provided in the [[tag_group:sound_effects|tag group]] if unsure.
+
+[section=Tag name criteria]
+ 
+* Choose an appropriate tag format. See [[#tagformat|Tag formats]] 
+* Avoid using a non-standardized spelling as the tag name.
+
+[/section]
+
+[section,expanded=General guidelines]
+
+A sound effect form may receive a dedicated tag if:
+
+* It consists of a form that does not seem like a one-off usage for a particular image, or used exclusively by a single artist, who is likely intentionally trying to be unique through their sound effect usage. Try to identify relevant base  forms that have a more common usage instead.
+* It is a dictionary word. Artists cannot claim sole usage to a word they didn''t invent. It is generally okay to create tags for sound effects based on real words even if the subject matter is obscure or not drawn very often.
+** If it is a verb, or closely related to a verb or action, consider if it should be part of an action sound effect tag. One may already exist!
+** An action sound effect of the form `<verb>ing_sound_effect` has the added benefit of including synonyms to that action in the tag that would not be included if the base form was used instead.
+** Some sound effect forms get stored in action tags instead for convenience, this is especially true for pure onomatopoeic concepts such as [[clicking]] and [[buzzing]].
+
+Avoid creating new tags that are too similar to existing sound effects tags. You may be dealing with a derived form, and derived forms are usually stored in the tag for the base form. Dedicated tags for derived forms should be created sparingly.
+
+It is recommended that you try to fill in a new tag with at least a few entries if you are going to make one.
+
+[/section]
+
+h4. Advanced techniques [[#top|^]][#lettershiftintro]
+
+[section=Introduction to Letter shifting]
+
+[b]Letter shifting[/b] refers to a phenomena where the base spelling of a sound effect is modified to produce a different phonetic sound while the usage of the sound effect remains identical. Vowel shifts tend to end up stored under a common tag, while consonant shifts tend to be stored as separate tags. Whether or not similarly spelled terms should be kept separate, or combined depends on several factors including how each sound effect tends to be used. A shift in this context refers to one letter, being swapped out for another letter.
+
+h4. How to handle letter shifts
+
+* The best method of handling letter shifts is to use the site''s autocomplete. Most of these letter shifted terms have preexisting tags.
+* If it looks like a sound is a variation of another form, it probably is.
+
+h4. Lookup table (Under construction)
+
+This table contains established tags for various letter shift forms.
+
+[table]
+[thead][tr][th]Sound effect[/th][th] Sound effect combinations[/th][th] Similar sound effects[/th][/tr][/thead]
+[tbody]
+
+[tr][td] [[blorp]] [/td][td]  "Blurp" (when not used for [[burping]]) [/td][td]"Blort", "Glorp"[/td][/tr]
+[tr][td] [[blort]] [/td][td]  "Blurt"  [/td][td]  [/td][/tr]
+[tr][td] [[glomp_(sound_effect)]] [/td][td]  "Glump", "Glomf" [/td][td]  [/td][/tr]
+[tr][td] [[glorp]] [/td][td]  "Glurp" [/td][td]  [/td][/tr]
+[tr][td] [[glunk_(sound_effect)]] [/td][td] "Glonk" [/td][td]  [/td][/tr]
+[tr][td] [[glurb]] [/td][td] "Glorb" [/td][td] "Blorb" [/td][/tr]
+[tr][td] [[glurt]] [/td][td]  "Glort" [/td][td]  [/td][/tr]
+[tr][td] [[slurk]] [/td][td] "Shlerk", "Shlurk", "Slork" [/td][td]  [/td][/tr]
+[tr][td] [[slosh]] [/td][td]  "Shlosh", "Slish", "Slush" [/td][td]  [/td][/tr]
+[tr][td] [[splash]] [/td][td] "Splish", "Splosh", "Sploosh" [/td][td]  [/td][/tr]
+
+[/tbody]
+[/table]
+
+[/section]
+[/section]
+
+h4. Tag Formats [[#top|^]][#tagformat]
+
+[section=Tag formats]
+
+[table][thead][tr][th]Format[/th][th]Format information[/th][/tr][/thead]
+[tbody]
+
+[tr][td]Unformatted[/td][td]Sound effect tags that don''t end in -ing, if not functioning also as an action tag, shall be treated as if they have the `_(sound_effect)` suffix. It is recommended that a sound effect tag have a suffix.[/td][/tr]
+[tr][td]Ends in `-ing`[/td][td]These are verbs, whether they refer to sounds, actions, or both.[/td][/tr]
+[tr][td]`_(sound_effect)`[/td][td]The base form is the same as the tag name (e.g. `squeeze_(sound_effect)` is only used for "Squeeze", or a very similar form). [/td][/tr]
+[tr][td]`_sound_effect`[/td][td]A group of sound effects pertaining to a particular action, or concept (e.g. `kissing_sound_effect` is used for any synonym for kissing including "Kiss", "Chu", and "Smooch").[/td][/tr]
+[tr][td]`_noises`[/td][td]A group of sounds pertaining to a particular event, or common theme. These tags support both audible and textual sound effects.[/td][/tr]
+[tr][td]`_onomatopoeia`[/td][td]This format refers to groups (usually large) of [[onomatopoeia]] that share a common theme.[/td][/tr]
+
+[/tbody]
+[/table]
+
+[/section]
+
+[#taggroup]
+[section,expanded=Sound effect tags]
+
+For a more complete list, see [[tag_group:sound_effects]].
+
+h4. Sound effect forms [[#top|^]][#forms]
+
+[See: [[#formintro|Introduction to forms]]]
+
+* [[onomatopoeia]]
+* [[vowelless_sound_effect]]
+
+h5. Modifier tags [[#top|^]]
+
+[i]These tags describe some aspect of the sound effect form. These tags are useful for finding sound effects that are different than their expected spelling.[/i]
+
+* [[derived_sound_effect]] - Spelling variations that are more than adding extra repeated letters, or removing letters. 
+* [[sound_effect_variant]]
+** [[extended_sound_effect]] - Sound effects emphasized to have a longer sound than expected.
+** [[shortened_sound_effect]] - Sound effects emphasized to have a shorter sound than expected.
+
+h4. Basic sounds [[#top|^]]
+
+[i]Basic sounds are sounds that exclusively refer to their respective sounds. These may be used whenever some variation of the sound term is present in the image.[/i]
+
+* [[beep|beeping]]
+* [[buzzing]]
+* [[clacking]]
+* [[clanging]]
+* [[clattering]]
+* [[clicking]]
+* [[clinking]]
+* [[crackling]]
+* [[creaking]]
+* [[ding|dinging]]
+* [[jingling]]
+* [[pinging]]
+* [[rattling]]
+* [[ringing]]
+* [[rustling]]
+* [[sizzling]]
+* [[squeaking]]
+* [[squelching]] - Wet suctioning sound similar to pulling something out of mud.
+* [[thumping]]
+
+h4. Sound categories  [[#top|^]][#categories]
+
+* [[contact_onomatopoeia]] - Terms related to physical contact (rubbing, gripping, squeezing)
+** [[impact_onomatopoeia]] - Terms related to hitting / striking.
+* [[motion_onomatopoeia]] - Terms related to physical motion (twitching, throbbing, wiggling, wagging, swishing)
+
+The list of known sound effects associated with a verb. Keep in mind that not all usages will be consistent with the verb, and some verbs may have several tags associated with them.
+
+[section=General purpose verbs]
+
+Sound effect tags of the format `<verb>_sound_effect` refer to words that are representative of the verb, and include synonyms of those terms. These tags should always use verbs that end in the present tense `-ing` if possible.
+
+[table][thead][tr][th] Sound effect tag[/th][th] Sound effects under this tag[/th][th]Extra information[/th][/tr][/thead]
+[tbody]
+
+[tr][td] [[biting_sound_effect]] [/td][td]  bite, chomp, nom, nibble, om nom nom  [/td][td] [/td][/tr]
+[tr][td] [[expansion_sound_effect]] [/td][td]  bloat, bwomp (sometimes), fwomp (sometimes), swell  [/td][td] [/td][/tr]
+[tr][td] [[gripping_sound_effect]] [/td][td]  hold, grab, grip, grope [/td][td] General grabbing / holding themes [/td][/tr]
+[tr][td] [[kissing_sound_effect]] [/td][td]  kiss, smooch, chu [/td][td] This is sometimes used for light touching, or [[frottage]] [/td][/tr]
+[tr][td] [[licking_sound_effect]] [/td][td]  lick, lap [/td][td] [[licking]] [/td][/tr]
+[tr][td] [[pulling_sound_effect]] [/td][td]  pull, tug, yank, drag? [/td][td] Various pulling themes [/td][/tr]
+[tr][td] [[rubbing_sound_effect]] [/td][td]  rub, grind [/td][td] [[rubbing]], [[grinding]] [/td][/tr]
+[tr][td] [[scratching_sound_effect]] [/td][td]  claw, scratch, scritch [/td][td] [[scratching]] [/td][/tr]
+
+[/tbody][/table]
+
+[/section]
+
+[section=Special themes]
+
+Special theme tags are sound effect categories that are better represented by adjectives, or nouns instead of verbs. 
+
+[table][thead][tr][th] Sound effect tag[/th][th] Sound effects under this tag[/th][/tr][/thead]
+[tbody]
+
+[tr][td] [[atmospheric_sound_effect]] [/td][td]  Words associated with the general mood, or ambiance of the scene (doom, [[menacing_(meme)]]) [/td][/tr]
+[tr][td] [[expressive_sound_effect]] [/td][td]  Words associated with emotions, or highlight a facial action. (blink?, blush, grin, smile, wink) [/td][/tr]
+[tr][td] [[frictional_sound_effect]] [/td][td]  Words associated with friction, or the effects of friction (fap, rubbing group (grind, rub), sliding group (shlick, shlip, slick, slide, slip)).[/td][/tr]
+[tr][td] [[rotational_sound_effect]] [/td][td]  Words associated with turning, or rotating (rotate, spin, twirl, twist) [/td][/tr]
+[tr][td] [[thickness_sound_effect]] [/td][td]  Words associated with mass, thickness, or fat (bulk, chub, fat, plump, thicc) [/td][/tr]
+[tr][td] [[velocity_sound_effect]] [/td][td]  Words associated with moving quickly, or slowly (woosh, fwoosh, zoom, zip (in certain situations)[/td][/tr]
+
+[/tbody][/table]
+
+[/section]
+[/section]
+
+h4. Foreign sound effects [[#top|^]][#foreign]
+
+[i]Include here information on how to translate sounds effects in different languages into their English equivalent tags.[/i]
+
+
+[section,expanded=Japanese sound effects]
+
+This section is intended to show text used for commonly appearing sound effects, and their probable meaning. 
+
+[table][thead][tr][th] Katakana [/th][th]Hiragana[/th][th] Text meaning [/th][th] Extra information[/th][/tr][/thead]
+[tbody]
+[tr][td] ドキドキ [/td][td] どきどき [/td][td]  [[heartbeat]] [/td][td] [/td][/tr]
+[tr][td] チュ [/td][td] ちゅ [/td][td]  [[kissing]] ([[kissing_sound_effect]]) [/td][td] [/td][/tr]
+[tr][td] パンパン [/td][td] ぱんぱん [/td][td]  [[plap]], pap, slap, etc. [/td][td] [/td][/tr]
+[tr][td] クチュ/グチュ [/td][td] くちゅ/ぐちゅ [/td][td]  [[shlick]] ([[vaginal_masturbation]])  [/td][td] [/td][/tr]
+[tr][td] スー/スーッ [/td][td] すー/すーっ [/td][td]  [[sleeping]]  [/td][td] Refers to a soft [[breathing_noises|breathing noise]] similar to a [[sigh]] associated with sleeping. [/td][/tr]
+[tr][td] ビクビク [/td][td] びくびく [/td][td]  twitch, tremble, shiver [/td][td] [/td]This is more of a sudden twitch or shudder.[/tr]
+[tr][td] フル/プル/ブルッ [/td][td] ふる/ぷる/ぶるっ [/td][td]  [[shaking|shake]], tremble, shiver, [[nodding|nod]], shaking head [/td][td][/td][/tr]
+[tr][td] ビュル [/td][td] びゅる [/td][td]  spurt, splurt [/td][td] [/td][/tr]
+
+[/tbody][/table]
+
+[/section]
+
+[#soundgroup]
+[section=Sound groups]
+
+h5. Action sound group
+
+The largest sound group containing most verbs and onomatopoeia.
+
+h6. Active sound group
+
+Contains the active verbs (verbs that relate to a visual, or physical change in state).
+
+* Pull, Tug, Grab
+* Shake (Shiver, Tremble)
+* Slap (Shlap, Smack)
+* Twitch (Throb)
+* Wag
+
+h6. Passive sound group
+
+Contains the passive verbs (verbs that relate to a passive state).
+
+* Loom
+* Stare (Glare)
+
+h5. Animal sound group
+
+Contains all of the animal vocalizations. These are almost always an [[onomatopoeia]].
+
+* [[animal_noises]]
+
+h5. Bodily sound group
+
+Contains most sounds related to consumption, digestion, and the natural release of gas ([[burping]] / [[fart]]).
+
+* [[bodily_noises]]
+** [[rumbling_stomach]]
+
+h5. Breathing sound group
+
+Contains sounds related to breathing (inhale and exhale). These are sometimes present inside a [[speech bubble]], or in between [[dialogue]].
+
+* [[breathing_noises]]
+
+* Gasp
+* Huff (Pant)
+* Phew
+* Sigh
+* Wheeze
+
+h5. Fluidic sound group 
+
+Contains sounds related to liquids, and behaviors of liquids. This will contain most ejaculate sounds.
+
+* Bleed
+* Drip (Dribble)
+* Drool
+* Schlick (Schluk, Schlk, Shlk, Shlorp)
+* Splash (Splish, Sploosh)
+* Splurt (Splrt, Spurt, Sprt)
+* Squirt
+* Squish (in the context of a fluid)
+
+h5. Sexual sound group
+
+Contains sounds related to [[sex]], and [[masturbation]].
+
+* Fap (Fp)
+* Plap (and its many variants)
+* Shlick (and its many variants)
+
+h5. Vocalization
+
+Vocalizations may not necessarily fall under [[sound effects]], but they often don''t fit the concept of [[dialogue]] either. They are sounds that are produced by the voice. Some examples may be more consistent with a sound effect, and others may be more consistent with dialogue.
+
+* Animal vocalizations (Woof, Bark, Chirp)
+* Coughs, grunts, clearing one''s throat
+* Groan (if produced with a voice)
+* Interjections (Ah, Oh, Yip, Eek, Ugh)
+* [[laugh|Laughing sounds]]
+* [[moan|Moaning]]
+* [[Muffled]] or [[vowelless_reaction|vowelless sounds]] (Mmph, Mmm, Ngh, Pfft)
+
+[/section]
+
+[#faq]
+[section=Frequently Asked Questions]
+
+[quote]
+[i]Q. Why is sound effect tagging important?[/i]
+
+[i]A. There are two methods artists use to depict actions in a static image. An action may be depicted using visual details, or by using effects (such as motion, and sound effects). Sound effect tags allow users to find actions that are based on visual details, based on sound effects, or a mixture of both. Often just pairing an action tag with the sound effects base tag will produce unpredictable results.[/i]
+
+[i]There are more reasons than that:[/i]
+
+[i]- Sound effects are a major form of narrative element that influences how images are tagged.
+- Tag navigation is improved when organization is improved. Not all sound effects are created equal, and some hide the presence of other sound effects quite effectively.
+- Some users love images with lots of sound effects in them, while others prefer to keep things simple, and uncluttered. People are different.
+
+[/i]
+
+[/quote]
+
+[quote]
+[i]Q. Why vowelless?[/i]
+
+[i]A. Vowelless is a distinct form of sound effect, and the most recognizable example of approximated sounds. There are sound effects that are exclusively vowelless, and many forms are too inconsistent to have dedicated sound effect tags on their own, so it only makes sense to have a place for these tags. Additionally, there is a lesser known theme known as a vocalization that also commonly produces vowelless forms. These forms rarely get treated as sound effects, and users should know how to tell vowelless forms apart. See [[vowelless]] for more information.[/i]
+
+[/quote]
+
+[/section]
+
+h4. See also [[#top|^]]
+
+* [[tag_group:narrative_elements]]
+
+* [[vocalization]]
+** [[grunting]]
+** [[laugh]]
+** [[moan]]'),
+        ('trinity_aegis', '"The Draconic Shield of Ice"
+
+Trinity is the name of a dragon who gave her soul to be used to enchant a shield of draconic make. The process made the shield and her soul near indestructible, and empowered it with morphing and the elemental control of ice. 
+
+The most notable image though, is the physical manifestation the shield forms in the shape of a female dragon. With this disposable and modifiable form, it interacts with others.
+
+Created by: [[wolfy_wet_furr|Wolfy Wet Furr]]'),
+        ('freya_crescent', 'Freya Crescent is one of the main characters and party members appearing in Final Fantasy IX. She is a Dragon Knight from the Kingdom of Burmecia, wields various polearms throughout the game, and her abilities most closely resemble those of the Final Fantasy series'' famous Dragoon class. 
+
+Though a long-time friend of Zidane, Freya is in love with her mentor and fellow Burmecian, Sir Fratley. After Sir Fratley''s disappearance several years prior to the events of the game, Freya left Burmecia in search of him.
+
+The player first discovers Freya in Lindblum, a city-state neighboring Burmecia, shortly before the local Festival of the Hunt.'),
+        ('faceless_human', 'thumb #2396 thumb #29144
+
+Tagged for characters whose face is hidden or out-of-frame but there is sufficient evidence that they are [[human]].
+
+Note that this should only be tagged if the torso is partially visible. Tag either this or [[disembodied penis]] for the character, not both. [sup](Unless it is a [[multiple_images|multi-image]], [[comic]], [[sequence]], etc where both might be applicable.)[/sup]
+
+h4. See also
+* [[faceless character]]
+'),
+        ('romantic_era', 'Romanticism (also known as the Romantic era) was an artistic, literary, musical and intellectual movement that originated in Europe toward the end of the 18th century, and in most areas was at its peak in the approximate period from 1800 to 1850.'),
+        ('miyu_lynx', 'Thumb #3354652 thumb #2741115 
+A pilot and member of the Star Fox team from the SNES Classic game [i]Star Fox 2[/i]. Like her comrade, [[fay_spaniel|Fay]], she pilots an interceptor variant of the Arwing with high firepower and agility, but little armor.'),
+        ('flaring', 'When the [[glans]] of an [[equine_penis]], a [[turtle_penis]], or any other [[flared]] [[penis]] is in an engorged state or [[becoming_erect]] in an [[animated]] image or a [[sequence]] of images within a single page.
+
+See also [[flare_swelling]] and [[knot_swelling]]'),
+        ('erilaz', 'Erilaz Helrunareiks (𐌴𐌺𐌹𐌻𐌰𐌶 𐌷𐌰𐌻𐌾𐍉𐍂𐌿𐌽𐌰𐍂𐌴𐌹𐌺𐍃) is an abra from the Seithberendr, an abrakin community of rune masters and seiðr users. He''s 18''s and the only disciple of Zener.'),
+        ('in_bubble', 'Images in which a character or creature is inside a bubble of some kind.'),
+        ('inorog', 'Unicorn with blue hair, an eye patch on left eye; often appears in spanking art.
+
+Owner''s socials:
+https://twitter.com/TheManlyUnicorn
+https://www.furaffinity.net/user/croup/'),
+        ('tan_arms', 'thumb #3732473 thumb #3373360
+
+Used when a character has arms that are beige in color.
+
+https://en.wikipedia.org/wiki/Beige
+
+[section=Colors]
+h4. Arms [[tag_group:colors|Colors]]
+
+* [[black_arms]]
+* [[blue_arms]]
+* [[brown_arms]]
+* [[green_arms]]
+* [[grey_arms]]
+* [[orange_arms]]
+* [[pink_arms]]
+* [[purple_arms]]
+* [[red_arms]]
+* tan_arms
+* [[teal_arms]]
+* [[white_arms]]
+* [[yellow_arms]]
+
+* [[monotone_arms]]
+* [[multicolored_arms]]
+** [[two_tone_arms]]
+
+* [[dark_arms]]
+* [[light_arms]]
+
+[/section]'),
+        ('cracky', 'Bestiality and cub content is DNP'),
+        ('leg_glider_position', 'thumb #312681 thumb #730001 thumb #4351272
+
+A sex position where the Top is upright and the Bottom is usually on their side (or less commonly on back), with [b]one leg raised up[/b] and the other leg either spread out or straddled by the Top.
+
+If the penetrated partner is upright, and it is not a [[tribadism]] scenario, this position becomes [[reverse leg glider position]] instead.
+
+[section=Leg glider position examples]
+
+h4. [[scissored_leg_glider_position|Scissored Leg Glider]]
+
+thumb #2592600 thumb #1985777 thumb #1167446
+
+h5. Unusual variants
+
+These are related to leg glider, but may be better placed in another position tag.
+thumb #2258799 thumb #2269844 thumb #2219586
+
+h4. [[platform_leg_glider_position|Platform Leg Glider]]
+
+thumb #312681 thumb #1132732 thumb #2002741
+
+h5. Unusual variants
+
+These are related to leg glider, but may be better placed in another position tag.
+thumb #1293649 thumb #448742 thumb #339809
+
+h4. Leg Away
+
+thumb #2839718 thumb #2532803 thumb #2822412
+
+h5. Unusual variants
+
+These are related to leg glider, but may be better placed in another position tag.
+thumb #1755894 thumb #2780217 thumb #1510460
+
+h4. Size Difference
+
+There are many ways to depict the leg glider position when the size of the characters varies.
+
+thumb #2134248 thumb #2854472 thumb #988454 thumb #2019463
+
+[/section]
+
+h4. Not to be confused with
+
+* [[anvil_position]]
+* [[ballerina_position]]
+* [[spoon_position]]
+
+h4. Related tags
+
+* [[hand_on_leg]]
+* [[hands_on_leg]]
+* [[raised_leg_grab]]
+
+h4. See also
+
+* [[tag group:sex positions]]
+* [[table lotus position]]
+** [[twisted table lotus]]
+
+* [[one_leg_up]]'),
+        ('inkling_girl', 'Inkling Girl is the default design of the Inkling girl of the Splatoon series. The poster girl, if you will.
+She is also the character played in Super Smash Bros Ultimate.
+
+She will generally look like this (from Splatoon 1, 2, and 3)
+thumb #2616572 thumb #2749850 thumb #2622654
+
+of course, she can wear different outfits, have different skin tones, and have different hair colors. 
+But the design in the face area (facial features and hairstyle) will usually stay [i]the same[/i]
+
+The moment the style of her face or hair is changed is no longer Inkling Girl but should just be tagged "Inkling"://e621.net/posts?tags=inkling'),
+        ('pluto_(disney)', 'thumb #2913445
+
+[b]Pluto[/b], also known as [b]Pluto the Pup[/b], is a [[dog]] character owned by [[Disney|The Walt Disney Company]]. He is [[Mickey Mouse]]''s loyal pet. Unlike fellow Disney dog character [[Goofy (Disney)|Goofy]], Pluto is [[feral|not anthropomorphic]]; he is the only member of Disney''s "Sensational Six" leads who isn''t an anthro character.'),
+        ('collaborative_bellyjob', 'thumb #1731473
+
+
+A [b]collaborative bellyjob[/b] involves two or more characters using their [[belly|bellies]] to stimulate the [[penis]] of another character. The character''s penis is rubbed between the bellies. 
+
+The two characters performing the collaborative bellyjob almost always have [[big belly|big bellies]], they may be [[slightly chubby|chubby]], [[overweight]], [[pregnant]], or [[bloated]] (involving [[inflation]], [[stuffing]] or [[vore]])  
+
+h4. Related Tags
+* [[bellyjob]]
+* [[big belly]]
+** [[huge belly]]
+** [[hyper belly]]
+* [[cum on belly]]
+* [[penis on belly]]
+
+h4. See Also
+* [[collaborative sex]]
+* [[belly to belly]]'),
+        ('synced_to_music', 'When elements of a video or animation (e.g., character motion, patterns) are syncronized with the rhythm or beat of accompanying music.'),
+        ('multiple_(disambiguation)', '"[b]Multiple[/b]" is a vague term here, and can refer to a many of various things. Any post with this tag should be corrected to have the more fitting tag instead of this tag.
+
+For a list of "multiple" tags, see [[tag_group:multiple_tags]]. See also "all tags with the word ''multiple''":/tag?name=*multiple*&type=&order=count in the tag index.'),
+        ('urinal', 'A plumbing fixture used for [[peeing|urinating]] into while [[standing]], found in men''s public bathrooms. 
+
+Urinals are typically wall mounted units, but may take the form of a floor length unit, or a shared trough.
+
+h4. Related Tags
+* [[toilet use]] — if the character is shown or implied to be urinating into a urinal
+
+h4. See Also
+* [[toilet]]
+** [[squat toilet]]
+'),
+        ('schizoid', 'Only first two links are still active/working.'),
+        ('them''s_fightin''_herds', 'https://en.wikipedia.org/wiki/Them%27s_Fightin%27_Herds
+
+"Them''s Fightin'' Herds is an indie fighting game developed by Mane6 and published by Maximum Games. Atypical of most side-scrolling fighting games, it features a cast of all-female ungulate characters fighting each other to find a champion worthy of gaining a magical key that will protect their world from predators. First released into early access in February 2018, the full release was on April 30, 2020 for Microsoft Windows, followed by Linux on March 25, 2021 and a beta macOS version was added on October 27, 2021. The game was released for [[Nintendo Switch]], [[PlayStation 4]], [[PlayStation 5]], [[Xbox One]], and Xbox Series X/S on October 18, 2022.
+
+The project is a spiritual successor to Mane6''s original planned fighting game Fighting Is Magic based on the animated television show My Little Pony: Friendship Is Magic. Mane6 was a team of nine developers and part of the adult fandom of the show. Fighting Is Magic featured the six main pony characters from that show. Early versions of this game were released in 2012, drawing attention from both players in the Evolution Championship Series due to the unique moves associated with non-bipedal characters in fighting games, as well as from Hasbro which owned the intellectual property to My Little Pony. After Hasbro sent Mane6 a cease and desist letter, Mane6 discarded the assets tied to the show, while keeping some of the fundamental gameplay factors to create the new title Them''s Fightin'' Herds. The creator of My Little Pony: Friendship Is Magic, Lauren Faust, offered to help with designing the new characters for the game. The development of the game was completed with crowdfunding through Indiegogo.
+
+Them''s Fightin'' Herds is a fighting game based on sapient four-legged hoofed creatures from the world of Fœnum, which is being threatened by the return of carnivorous beasts known as the Predators. The Predators were locked away in a separate realm, but they have found a way to escape it. To put an end to the threat, selected champions of the various Fœnum races are chosen as "Key Seekers" by their tribes to find the key that will lock the Predators away again. The Key Seekers must face each other in a friendly competition to determine which one will be the Key Keeper who will face the champion of the Predators.
+
+There are six playable characters—[[Arizona_cow_(tfh)|Arizona the cow]] (voiced by Tara Strong), [[Velvet_reindeer_(tfh)|Velvet the reindeer]] (Tia Ballard), [[Paprika_paca_(tfh)|Paprika the alpaca]] (Marieve Herington), [[Oleander_(tfh)|Oleander the unicorn]] (Alexa Kahn) who can summon a demonic being known as [[fhtng_the_unspeakable|"Fred"]] (Keith Ferguson), [[Pom_(tfh)|Pom the sheep]] (Allie Moreno) and [[Tianhuo_(tfh)|Tianhuo the longma]] (Kay Bess)—each with different fighting move sets and unique movement options such as flight, short hops, double jumps, or air dashes. Jessica Gee voices the game''s announcer. A seventh playable character, pirate goat [[Shanty_(tfh)|Shanty]] (Afi Ekulona), was also released as downloadable content due to the crowdfunding campaign reaching its stretch goals; she was later included in the base roster for the console versions. Additional characters are planned for release via a season pass, including Arizona''s bull father [[Texas_(tfh)|Texas]] (Patrick Seitz) and three others.
+
+h4.Additional links:
+
+* "Official website":http://www.mane6.com/
+* "Official YouTube":https://www.youtube.com/user/ManeSixDev
+* "Official Twitter":https://twitter.com/ManeSix
+* "Indiegogo":https://www.indiegogo.com/projects/them-s-fightin-herds
+* "Steam":http://steamcommunity.com/sharedfiles/filedetails/?id=523129840
+'),
+        ('houkuko', 'Twitter is not being updated (last tweet at 07/2013)'),
+        ('gearkulaas', 'belongs to http://www.furaffinity.net/user/omeganeep/'),
+        ('momo_(creepypasta)', 'Momo is the nickname given to a sculpture created by a Japanese special effects company. ("Link Factory")
+The spread of Momo as a creepypasta icon seems to stem from rumors of a mysterious "WhatsApp" number sending disturbing images to those who try to contact it.
+[section=Momo''s Avian Features]
+1) Her mouth seems to come to a point, somewhat resembling a beak.
+2) Her arms/hands are covered in rough skin like that of many birds'' feet.
+3) Her long nails look like talons.
+4) Since the sculpture only has half of a body, she is shown to walk with her bird-like arms/hands, making the resemblance to a bird even more obvious.[/section]'),
+        ('spitfiremlp', 'Character Owner: "SpitfireMLP":https://www.furaffinity.net/user/spitfiremlp'),
+        ('hauntzor', 'artist may be inactive, pages are deactivated or inactive'),
+        ('blue_chest_tuft', 'Used when a character has a [[chest tuft]] colored in blue.
+
+https://en.wikipedia.org/wiki/Blue
+
+h4. Tags About Chest Tuft
+
+* [[chest_tuft]]
+
+[section=Colors]
+
+h4. Chest Tuft [[tag_group:colors|Colors]]
+
+* [[black_chest_tuft]]
+* [b]blue_chest_tuft[/b]
+* [[grey_chest_tuft]]
+* [[orange_chest_tuft]]
+* [[pink_chest_tuft]]
+* [[tan_chest_tuft]]
+* [[white_chest_tuft]]
+
+* [[light_chest_tuft]]
+
+[/section]'),
+        ('tall', 'Tall characters are normally over 5''5", but it can vary due to regional height averages and context. Refer to the article linked below to learn more:
+https://en.wikipedia.org/wiki/Human_height
+
+These characters are not to be confused with [[macro|macros]], as they are usually related to fetishes like [[growth]].
+
+This tag should only be used when there is another character or an appropriate background to compare who is the taller one.
+
+h4. See also
+* [[height_chart]]
+* [[short]] - The complete opposite of this tag.
+* [[size_difference]]'),
+        ('rollwulf', '"Deviantart":http://rollwulf.deviantart.com/
+"Furaffinity":http://www.furaffinity.net/user/rollwulf/'),
+        ('rusty_(rustytheorangehusky)', 'Rusty is an OC of [[rustytheorangehusky]]'),
+        ('colored_pencil_(artwork)', 'For artwork which has been made using colored pencils as an art medium in at least part of the image.
+
+Note: If used in combination with another art medium, also tag it with [[mixed_media]].
+
+h4.Traditional media materials:
+
+* [[traditional_media_(artwork)]]
+** colored_pencil_(artwork)
+** [[crayon_(artwork)]]
+** [[marker_(artwork)]]
+** [[painting_(artwork)]]
+** [[pastel_(artwork)]]
+** [[pen_(artwork)]]
+** [[pencil_(artwork)]]
+** [[sculpture_(artwork)]]
+** [[watercolor_(artwork)]]
+
+h4.Media types:
+
+* [[digital_media_(artwork)]]
+** [[3d_(artwork)]]
+** [[digital_drawing_(artwork)]]
+** [[digital_painting_(artwork)]]
+** [[pixel_(artwork)]]
+* [[mixed_media]]
+* [[photography_(artwork)]]
+* [[traditional_media_(artwork)]]
+
+See also: [[tag_group:art]]'),
+        ('suruga_(xsurugax)', 'Not to be confused with the other "suruga":/artists/4733.'),
+        ('michelle_rayer', 'Mike Rayers female/herm version
+Owned by https://www.furaffinity.net/user/coolboy01/'),
+        ('peddles', 'Peddles is a genderbent version of [[flowey the flower]] from the erotic parody comic [[under(her)tail]] by [[thewill]].'),
+        ('potion_nova_(mlp)', 'Potion Nova is a [[unicorn]] from the TV show [[My Little Pony: Pony Life]]. She is the potion maker of all silliest potions.
+
+She has a pastel mane with purple, pink and blue highlights. Her coat is white, her eyes are blue, and her cutie mark is a pink bubbling potion in a beaker. '),
+        ('hairless_butt', 'When a character otherwise covered by fur, hair, or plumage has a butt that is bare. Often depicted on [[primate]] characters.'),
+        ('human_edit', 'thumb #3840596  thumb #3859756
+
+A third-party edit of an image that changes an [[anthro]] or otherwise non-human character into a [[human]]. 
+
+* This is almost always seen done to posts that feature a [[faceless male]] or [[disembodied penis]]
+* Rarely involves doing more than recolouring character to a human skin tones, and removing fur tufts or claws when necessary
+
+
+h4. See Also
+* [b][[third-party edit]][/b]
+** [[color edit]]
+** [[comic edit]]
+** [[expression edit]]
+** [b]human edit[/b]
+** [[nude edit]]
+** [[screencap edit]]
+** [[translation edit]]'),
+        ('planche', 'a fitness maneuver in [[calisthenics]], similar to a [[push up]], where one lifts their whole body airborne using their arms while holding the body horizontally flat'),
+        ('miratheshark', 'Reference: https://www.furaffinity.net/view/44223476/'),
+        ('mistakes_into_miracles', 'http://knowyourmeme.com/memes/mistakes-into-miracles'),
+        ('gargomon', '"Gargomon":http://digimon.wikia.com/wiki/Gargomon is an Animal [[Digimon]] whose name and design are derived from the Galgo [[dog]] breed. It digivolved from [[Terriermon]], and is a Hunter Digimon skilled in hunting. Despite its outward appearance, it uses attacks of unparalleled accuracy to reliably bring down the opponent with its nimble movements. Its leg strength is strong enough for it to jump sky high, and it is also able to spread out its ears to glide. Although it usually has a cheerful personality, once it is angered it gets out of hand. Its cherished "D-VI''S 503xx" [[jeans]] are its obsession.
+
+h4.See Also:
+
+* [[Gummymon]]
+** [[Terriermon]]
+*** Gargomon
+**** [[Rapidmon]]
+***** [[MegaGargomon]]'),
+        ('amazon_weasel', 'h4. Taxonomy
+
+* [[musteline|mustelinae]]
+** ([i][[weasel|Mustela]][/i])
+*** [b]amazon_weasel[/b]
+
+h4. More information
+
+* https://en.wikipedia.org/wiki/Amazon_weasel'),
+        ('digi', 'For the snow leopard see -> [[digi_(character)]]'),
+        ('safe_vore', 'This tag describes vore scenarios where the prey is consumed (often willingly) and is not digested or otherwise harmed. 
+
+This is an umbrella tag, so please use with other tags to describe how the character is unharmed. Also, to follow TWYS, do not use this tag if a reasonable viewer could see [[imminent_digestion]] in the image instead.
+
+h4. See also
+* [[Vore]]
+** [b]Safe_Vore[/b]
+*** [[Endosoma]] - The prey lives safely and indefinitely within the pred''s body, the character isn''t implied or shown to be leaving the pred''s body
+*** [[Full Tour]] - The prey is ingested or inserted at one end of the digestive tract, and travels through to the other end unharmed
+*** [[Regurgitation]] - The prey is swallowed, and then "spat back up" unharmed, from the same orifice. Not [i]inherently[/i] a vore tag, but often is used for vore.
+* [[reformation]] - Not safe vore because the prey is still digested, but also ends with the prey alive.'),
+        ('kikkachu_(commissioner)', 'Commissions art of their characters due to their self-professed "no artistic talent whatsoever".
+
+https://www.furaffinity.net/gallery/comradekikkachu/
+https://twitter.com/KikkachuActual/media'),
+        ('gowiththeflow', 'They take requests. Rules about requests "here.":http://riolewd.tumblr.com/requests'),
+        ('outline_heart', 'thumb #3001527 thumb #2818686 thumb #2615238
+
+An [b]outline heart[/b] is a [[<3|heart symbol]] consisting of only an outline. This means that the background should be fully visible through the center of the heart shape. Outline hearts do not inherit the color of the background, the outline is the heart''s primary color. A heart can be assumed to be an outline heart if its middle is indistinguishable from the background.
+
+h4. See also
+
+* [[<3]]
+** [[layered_heart]]'),
+        ('mr._mime', '[b]Mr. Mime[/b] (Japanese: バリヤード Barrierd).  #122 in the National Pokédex, classified as the Barrier [[Pokémon (species)|Pokémon]].  It is a dual-type Psychic/Fairy Pokémon introduced in Generation I: [i]Pokémon Red[/i] and [i]Blue[/i]. Prior to Generation VI, it was a pure Psychic-type Pokémon.
+
+It evolves from [[Mime Jr]]. when leveled up while knowing Mimic.
+
+In Galar, [[Galarian_Mr._Mime|Mr. Mime has an Ice/Psychic-type regional form]]. It evolves into [[Mr. Rime]] starting at level 42. All Mime Jr. in Galar evolve into this form regardless of their origin.
+
+Mr. Mime is a [[bipedal]], [[humanoid]] [[Pokémon]]. Blue growths resembling [[clown]] hair extend from the sides of its pale pink head, and there is a magenta circle on each cheek. Its jaw is curved inward, resembling the mouth of a wooden dummy. It has a round, white body with a magenta spot in the middle, light pink arms and legs that connect to its body via magenta spheres, and small white coverings over its knees. Its white hands resemble gloves with magenta pads on the tips of its white fingers and its dark blue feet curl upward at the tips.
+
+From birth, this Pokémon is an excellent pantomime. As it matures, it gains the ability to solidify air molecules by vibrating its fingertips. This ability allows it to create invisible objects with its gestures. It punishes those who interrupt its act or are not impressed by slapping them. Mr. Mime is usually very rare, but can be found in suburban areas. In the past, Substitute was its signature move.
+
+h4. See Also:
+
+* [[pokémon]]
+** [[mime_jr.]]
+*** mr._mime'),
+        ('tennis_ball', 'thumb #2463582 thumb #2467087
+
+A type of [[ball]] typically used in a game of [[tennis]]. It can be any color but is usually a greenish color and has a furry texture.
+
+h4. See also:
+
+* [[Ball]]
+* [[Tennis]]
+* [[tag_group:sports|Tag Group: Sports]][[tag_group:sports#equip| - Equipment]]'),
+        ('human_on_anthro', 'thumb #429296 thumb #226371 thumb #1520132
+
+When a [[human]] character is depicted romantically or sexually with an [[anthro]] character.
+
+* Note that although this will always be [[interspecies]], it should never be tagged with [[bestiality]] because this requires interaction with a [[feral]] and non-feral character.
+
+h4. See also:
+
+* [[anthro_on_anthro]]
+** [[anthro_penetrating_anthro]]
+* [[bestiality]]
+** [[anthro_on_feral]]
+*** [[anthro_penetrating_feral]]
+*** [[feral_penetrating_anthro]]
+** [[human_on_feral]]
+*** [[feral_penetrating_human]]
+*** [[human_penetrating_feral]]
+* [[feral_on_feral]]
+** [[feral_penetrating_feral]]
+* human on anthro
+** [[anthro_penetrating_human]]
+** [[human_penetrating_anthro]]
+* [[humanoid_on_anthro]]
+** [[anthro_penetrating_humanoid]]
+** [[humanoid_penetrating_anthro]]
+* [[interspecies]]'),
+        ('higgsbozo', 'I do loud brap sound edits, 18+, don’t ask to RP, minors DO NOT INTERACT.'),
+        ('spinalthewickerbean', 'This tag should be removed along with [[check_tag_type]]. Be sure to check for any artist tags that are the wrong type (e.g., alice123 as a general tag) before you do.
+
+h4.See also:
+
+* [[check_source]]
+* [[invalid_color]]
+* [[invalid_tag]]'),
+        ('herm_penetrating_human', 'Used for posts depicting a [[herm]] character (such as [[anthro]], [[feral]], [[humanoid]] or [[taur]]) penetrating a [[human]] character.
+
+However, this does not apply if both involved are of the same form, such as [[human_penetrating_human]].
+
+h4. Tags About Penetration:
+
+* [[penetration]]
+
+[section=Tags About Penetration:]
+
+h4. Form:
+[section=Form:]
+
+[section=<Form>_penetrated:]
+* [[anthro_penetrated]]
+* [[feral_penetrated]]
+* [[human_penetrated]]
+* [[humanoid_penetrated]]
+* [[taur_penetrated]]
+
+[/section]
+
+[section=<Form>_penetrating:]
+* [[anthro_penetrating]]
+* [[feral_penetrating]]
+* [[human_penetrating]]
+* [[humanoid_penetrating]]
+* [[taur_penetrating]]
+
+[/section]
+
+[section=<Form>_penetrating_<Form>:]
+* [[anthro_penetrating_anthro]]
+* [[anthro_penetrating_feral]]
+* [[anthro_penetrating_human]]
+* [[anthro_penetrating_humanoid]]
+* [[anthro_penetrating_taur]]
+
+* [[feral_penetrating_anthro]]
+* [[feral_penetrating_feral]]
+* [[feral_penetrating_human]]
+* [[feral_penetrating_humanoid]]
+* [[feral_penetrating_taur]]
+
+* [[human_penetrating_anthro]]
+* [[human_penetrating_feral]]
+* [[human_penetrating_human]]
+* [[human_penetrating_humanoid]]
+* [[human_penetrating_taur]]
+
+* [[humanoid_penetrating_anthro]]
+* [[humanoid_penetrating_feral]]
+* [[humanoid_penetrating_human]]
+* [[humanoid_penetrating_humanoid]]
+* [[humanoid_penetrating_taur]]
+
+* [[taur_penetrating_anthro]]
+* [[taur_penetrating_feral]]
+* [[taur_penetrating_human]]
+* [[taur_penetrating_humanoid]]
+* [[taur_penetrating_taur]]
+
+[/section]
+
+[section=<Form>_penetrating_<Gender>:]
+
+* [[anthro_penetrating_ambiguous]]
+* [[anthro_penetrating_female]]
+* [[anthro_penetrating_intersex]]
+** [[anthro_penetrating_andromorph]]
+** [[anthro_penetrating_gynomorph]]
+** [[anthro_penetrating_herm]]
+** [[anthro_penetrating_maleherm]]
+* [[anthro_penetrating_male]]
+
+* [[feral_penetrating_ambiguous]]
+* [[feral_penetrating_female]]
+* [[feral_penetrating_intersex]]
+** [[feral_penetrating_andromorph]]
+** [[feral_penetrating_gynomorph]]
+** [[feral_penetrating_herm]]
+** [[feral_penetrating_maleherm]]
+* [[feral_penetrating_male]]
+
+* [[human_penetrating_ambiguous]]
+* [[human_penetrating_female]]
+* [[human_penetrating_intersex]]
+** [[human_penetrating_andromorph]]
+** [[human_penetrating_gynomorph]]
+** [[human_penetrating_herm]]
+** [[human_penetrating_maleherm]]
+* [[human_penetrating_male]]
+
+* [[humanoid_penetrating_ambiguous]]
+* [[humanoid_penetrating_female]]
+* [[humanoid_penetrating_intersex]]
+** [[humanoid_penetrating_andromorph]]
+** [[humanoid_penetrating_gynomorph]]
+** [[humanoid_penetrating_herm]]
+** [[humanoid_penetrating_maleherm]]
+* [[humanoid_penetrating_male]]
+
+* [[taur_penetrating_ambiguous]]
+* [[taur_penetrating_female]]
+* [[taur_penetrating_intersex]]
+** [[taur_penetrating_andromorph]]
+** [[taur_penetrating_gynomorph]]
+** [[taur_penetrating_herm]]
+** [[taur_penetrating_maleherm]]
+* [[taur_penetrating_male]]
+
+[/section]
+[/section]
+
+h4. Gender:
+[section=Gender:]
+
+[section=<Gender>_penetrating Tags:]
+* [[ambiguous_penetrating]]
+* [[female_penetrating]]
+* [[intersex_penetrating]]
+** [[andromorph_penetrating]]
+** [[gynomorph_penetrating]]
+** [[herm_penetrating]]
+** [[maleherm_penetrating]]
+* [[male_penetrating]]
+
+[/section]
+
+[section=<Gender>_penetrated Tags:]
+* [[ambiguous_penetrated]]
+* [[female_penetrated]]
+* [[intersex_penetrated]]
+** [[andromorph_penetrated]]
+** [[gynomorph_penetrated]]
+** [[herm_penetrated]]
+** [[maleherm_penetrated]]
+* [[male_penetrated]]
+
+[/section]
+
+[section=<Gender>_penetrating_<Gender> Tags:]
+
+* [[ambiguous_penetrating_ambiguous]]
+* [[ambiguous_penetrating_female]]
+* [[ambiguous_penetrating_intersex]]
+** [[ambiguous_penetrating_andromorph]]
+** [[ambiguous_penetrating_gynomorph]]
+** [[ambiguous_penetrating_herm]]
+** [[ambiguous_penetrating_maleherm]]
+* [[ambiguous_penetrating_male]]
+
+* [[female_penetrating_ambiguous]]
+* [[female_penetrating_female]]
+* [[female_penetrating_intersex]]
+** [[female_penetrating_andromorph]]
+** [[female_penetrating_gynomorph]]
+** [[female_penetrating_herm]]
+** [[female_penetrating_maleherm]]
+* [[female_penetrating_male]]
+
+* [[intersex_penetrating_ambiguous]]
+* [[intersex_penetrating_female]]
+* [[intersex_penetrating_intersex]]
+** [[intersex_penetrating_andromorph]]
+** [[intersex_penetrating_gynomorph]]
+** [[intersex_penetrating_herm]]
+** [[intersex_penetrating_maleherm]]
+* [[intersex_penetrating_male]]
+
+* [[andromorph_penetrating_ambiguous]]
+* [[andromorph_penetrating_female]]
+* [[andromorph_penetrating_intersex]]
+** [[andromorph_penetrating_andromorph]]
+** [[andromorph_penetrating_gynomorph]]
+** [[andromorph_penetrating_herm]]
+** [[andromorph_penetrating_maleherm]]
+* [[andromorph_penetrating_male]]
+
+* [[gynomorph_penetrating_ambiguous]]
+* [[gynomorph_penetrating_female]]
+* [[gynomorph_penetrating_intersex]]
+** [[gynomorph_penetrating_andromorph]]
+** [[gynomorph_penetrating_gynomorph]]
+** [[gynomorph_penetrating_herm]]
+** [[gynomorph_penetrating_maleherm]]
+* [[gynomorph_penetrating_male]]
+
+* [[herm_penetrating_ambiguous]]
+* [[herm_penetrating_female]]
+* [[herm_penetrating_intersex]]
+** [[herm_penetrating_andromorph]]
+** [[herm_penetrating_gynomorph]]
+** [[herm_penetrating_herm]]
+** [[herm_penetrating_maleherm]]
+* [[herm_penetrating_male]]
+
+* [[maleherm_penetrating_ambiguous]]
+* [[maleherm_penetrating_female]]
+* [[maleherm_penetrating_intersex]]
+** [[maleherm_penetrating_andromorph]]
+** [[maleherm_penetrating_gynomorph]]
+** [[maleherm_penetrating_herm]]
+** [[maleherm_penetrating_maleherm]]
+* [[maleherm_penetrating_male]]
+
+* [[male_penetrating_ambiguous]]
+* [[male_penetrating_female]]
+* [[male_penetrating_intersex]]
+** [[male_penetrating_andromorph]]
+** [[male_penetrating_gynomorph]]
+** [[male_penetrating_herm]]
+** [[male_penetrating_maleherm]]
+* [[male_penetrating_male]]
+
+[/section]
+
+[section=<Gender>_penetrating_<Form> Tags:]
+
+* [[ambiguous_penetrating_anthro]]
+* [[ambiguous_penetrating_feral]]
+* [[ambiguous_penetrating_human]]
+* [[ambiguous_penetrating_humanoid]]
+* [[ambiguous_penetrating_taur]]
+
+* [[female_penetrating_anthro]]
+* [[female_penetrating_feral]]
+* [[female_penetrating_human]]
+* [[female_penetrating_humanoid]]
+* [[female_penetrating_taur]]
+
+* [[intersex_penetrating_anthro]]
+* [[intersex_penetrating_feral]]
+* [[intersex_penetrating_human]]
+* [[intersex_penetrating_humanoid]]
+* [[intersex_penetrating_taur]]
+
+* [[andromorph_penetrating_anthro]]
+* [[andromorph_penetrating_feral]]
+* [[andromorph_penetrating_human]]
+* [[andromorph_penetrating_humanoid]]
+* [[andromorph_penetrating_taur]]
+
+* [[gynomorph_penetrating_anthro]]
+* [[gynomorph_penetrating_feral]]
+* [[gynomorph_penetrating_human]]
+* [[gynomorph_penetrating_humanoid]]
+* [[gynomorph_penetrating_taur]]
+
+* [[herm_penetrating_anthro]]
+* [[herm_penetrating_feral]]
+* [b]herm_penetrating_human[/b]
+* [[herm_penetrating_humanoid]]
+* [[herm_penetrating_taur]]
+
+* [[maleherm_penetrating_anthro]]
+* [[maleherm_penetrating_feral]]
+* [[maleherm_penetrating_human]]
+* [[maleherm_penetrating_humanoid]]
+* [[maleherm_penetrating_taur]]
+
+* [[male_penetrating_anthro]]
+* [[male_penetrating_feral]]
+* [[male_penetrating_human]]
+* [[male_penetrating_humanoid]]
+* [[male_penetrating_taur]]
+
+[/section]
+[/section]
+
+h4. Object / Orifice penetration:
+[section=<Object/Orifice>_penetration:]
+
+[section=<Orifice>_penetration:]
+* [[ambiguous_penetration]]
+* [[anal_penetration]]
+** [[dildo_in_ass]]
+** [[double_anal]]
+** [[pegging]]
+** [[triple_anal]]
+* [[arthropod_abdomen_penetration]]
+* [[cloacal_penetration]]
+** [[dildo_in_cloaca]]
+** [[double_cloacal]]
+** [[triple_cloacal]]
+* [[ear_penetration]]
+* [[hair_penetration]]
+* [[nasal_penetration]]
+* [[navel_penetration]]
+* [[nipple_penetration]]
+* [[oral_penetration]]
+** [[double_oral]]
+** [[triple_oral]]
+* [[pouch_penetration]]
+* [[sheath_penetration]]
+* [[slit_penetration]]
+* [[unusual_penetration]]
+* [[urethral_penetration]]
+** [[penis_in_penis]]
+* [[vaginal_penetration]]
+** [[cervical_penetration]]
+** [[dildo_in_pussy]]
+** [[double_vaginal]]
+** [[triple_vaginal]]
+
+[/section]
+
+[section=<Object>_penetration:]
+* [[building_penetration]]
+* [[food_penetration]]
+* [[sex_toy_penetration]]
+** [[dildo_penetration]]
+*** [[dildo_in_ass]]
+*** [[dildo_in_cloaca]]
+*** [[dildo_in_pussy]]
+* [[penile_penetration]]
+** [[penis_in_penis]]
+* [[tentacle_penetration]]
+* [[tongue_penetration]]
+
+[/section]
+[/section]
+
+h4. Quantity:
+[section=<Quantity>_penetration:]
+* [[double_penetration]]
+** [[double_anal]]
+** [[double_cloacal]]
+** [[double_oral]]
+** [[double_vaginal]]
+* [[multi_penetration]]
+* [[multiple_insertions]]
+* [[multiple_penetration]]
+* [[quadruple_penetration]]
+* [[quintuple_penetration]]
+* [[triple_penetration]]
+** [[triple_anal]]
+** [[triple_cloacal]]
+** [[triple_oral]]
+** [[triple_vaginal]]
+
+[/section]
+
+h4. Size / Depth:
+[section=Size / Depth:]
+* [[balls_deep]]
+* [[deep_penetration]]
+* [[extreme_penetration]]
+* [[huge_penetration]]
+* [[large_penetration]]
+* [[macro_penetration]]
+* [[ridiculous_fit]]
+* [[shallow_penetration]]
+* [[tight_fit]]
+
+[/section]
+
+h4. Other:
+[section=Other:]
+* [[bilateral_penetration]]
+* [[cum_while_penetrated]]
+* [[guided_penetration]]
+* [[oral_while_penetrating]]
+* [[penetrating_pov]]
+* [[receiving_pov]]
+* [[suspended_via_penetration]]
+* [[trilateral_penetration]]
+* [[u-turn_penetration]]
+
+[/section]
+[/section]'),
+        ('coatlicue', '[b]Coatlicue[/b] is the Aztec goddess who gave birth to the moon, stars, and Huītzilōpōchtli, the god of the sun and war. She is depicted with two snake heads and a skirt made out of snakes.'),
+        ('leorina', 'First introduced as an antagonist in Klonoa 2, with Tat as her loyal sidekick. She is referred to as a sky pirate and a clever thief.'),
+        ('himitsu_no_cocotama', 'Kamisama Minarai: Himitsu no Cocotama is a fantasy comedy anime series produced by OLM, Inc., based on the Cocotama House Series of toys created by Bandai.
+Next generation''s "kirakira happy★ hirake! cocotama":/wiki/show?title=kirakira_happy★_hirake%21_cocotama'),
+        ('sleepysuccubusstudios', '"Artist''s Carrd & Commission Info":https://sleepysuccubusstudios.carrd.co'),
+        ('thornbane', 'www.furaffinity.net/user/thornbane'),
+        ('lynncore', 'Artist
+
+* "Furaffinity":https://www.furaffinity.net/user/lynncore/'),
+        ('dark_natasha', '* "Deviantart":http://darknatasha.deviantart.com
+"Furaffinity":http://www.furaffinity.net/user/darknatasha/
+"Website":http://www.darknatasha.com/
+"Wikifur":http://en.wikifur.com/wiki/Dark_Natasha'),
+        ('quayshaun', 'Quayshaun, professor Q''s cabbit oc.
+https://turbine.fandom.com/wiki/Quayshaun'),
+        ('1549', 'This tag applies to images made in the year 1549.
+
+<-- [[1548]] | [b]1549[/b] | [[1550]] -->'),
+        ('weiblu', 'Mostly feral artist
+
+* "Furaffinity":https://www.furaffinity.net/user/weiblu/'),
+        ('nightsnagger', 'A species of wyvern ridden by the Phantom class in the game [i]Century: Age of Ashes[/i]. Known for their ability to render themselves and their riders completely invisible. Characterized as looking frailer than the other two available species of wyvern, with scrawny legs, thin tails, and overall more lithe build. They possess the longest wings of the three classes with two ''toes'' and three ''fingers''; their hindlegs only possess two toes. Though covered in spines, most Nightsnaggers possess no horns on their heads, instead having a pair of frilly ''ears'' on each side; ''Legendary'' Nightsnaggers like Venfir and Hräll are exceptions to the rule.'),
+        ('warning_(fluff-kevlar)', '"Short stack":/wiki_pages/8990 android character created by "fluff-kevlar":/artists/2553. Implied to be a cat (or at least a feline) in post #3381927.'),
+        ('jailor_eckman', 'Artist specializing in female omorashi.'),
+        ('thomasmink', '[[Thomasmink]] is the owner of the brother/sister duo fursonae characters [[Thomas_(thomasmink)|Thomas]] and [[Theresa_(thomasmink)|Theresa]], and also of the "FA account":https://www.furaffinity.net/user/thomasmink which showcases his commissions of such characters. They seem to generally go by Thomas/Thomasmink in general furry affairs.
+
+https://www.furaffinity.net/user/thomasmink'),
+        ('hand_on_pussy', 'thumb #1855949 thumb #1414095 thumb #1161800
+
+When a character has one or both hands on their own or another character''s [[pussy]]. Often for [[presenting]] / [[covering_self]] or vaginal [[exploration]].
+
+If this is the result of ongoing [[masturbation]] or [[fingering]], please tag it as such instead.
+
+h4. See also
+
+* [[tag_group:touching]]
+'),
+        ('patreon_exclusive', 'For content that was released on Patreon primarily, first or only. While Patreon is largely a paysite and most posts are behind a paywall, many of the images under this tag are often uploaded here by the artist themselves, or were otherwise released for free later on their other free galleries. Also sometimes this may contain the free version while also referring to another version (like the uncensored or higher res version) which is only available on their Patreon. So it is, or it was, or it also additionally has, a patreon exclusive version. Also, not all posts on Patreon are behind a paywall, because some artists use a mixture of free and paid posts on their Patreon as a business strategy. 
+
+Admin note: Many of these are allowed to be here for various reasons. Please try to check whether it is actually unauthorized pay content before reporting it or bothering any uploaders about it. Thank you. '),
+        ('dakotha_(cordicedraw)', 'a character from CordiceDraw'),
+        ('shrapnel_wound', 'An injury caused by a piece of shrapnel or metal penetrating the body.
+
+h4. See Also:
+* [[wounded]]'),
+        ('new_moomin', '[b][i]New Moomin[/i][/b] (新ムーミン, [i]Shin Mūmin[/i]) is the second of three [[anime]] series based on Tove Jansson''s [i][[the_moomins|Moomin]][/i] books. It is a remake of the first [i]Moomin[/i] anime, aired from 1969 to 1970
+
+Like its predecessor series, it was produced without the involvement of Tove Jansson, who did not approve of its production; on her request, the series was broadcasted exclusively in Japan and Taiwan and has never been released elsewhere. It is more faithful to the [i]Moomin[/i] books than the 1969 series, but takes certain liberties with character designs that are not reflected in future official media (e.g. [[Snufkin]] wearing a yellow shirt and orange hat instead of his official green shirt and hat).
+
+[i]New Moomin[/i] would be followed in 1990 by another anime simply titled [i][[moomin_(1990_anime)|Moomin]][/i], produced with Tove Jansson''s involvement and broadcasted worldwide.'),
+        ('waving_at_viewer', 'thumb #2705508 thumb #1512259 thumb #3063546
+
+When a character is [[waving]] directly at [i]you[/i], the viewer.
+
+This is opposed to the character waving to another visible in the scene, or waving while facing away from the viewer at a potentially off screen, or entirely [[unseen character]] out of frame.  Waving at the viewer almost inherently also involves [[looking at viewer]], and may also involve [[talking to the viewer]]. 
+
+Waving at viewer [b]SHOULD NOT[/b] be applied to a "shot/reverse shot":https://en.wikipedia.org/wiki/Shot/reverse_shot - where the character is shown, followed by a panel (in a comic) or shot (in an animation), where a second character is shown waving towards the fourth wall, at that now unseen first character, and so is only indirectly waving at the viewer. 
+
+h4. Related Tags:
+* [[waving]]
+* [[greeting]]
+
+h4. See Also:
+* [[looking at viewer]]
+* [[talking to viewer]]
+* [[reaching towards viewer]]
+* [[holding viewer]]
+* [[pointing at viewer]]'),
+        ('jessy_figthers', 'Female fox. Mother of [[Jully Figthers]]. Female form of [[Jonhs Figthers]]. Belongs to jonhs-kitsune.'),
+        ('veldora_tempest', 'Veldora Tempest is a character from [[That Time I Got Reincarnated as a Slime]].'),
+        ('jojo''s_bizarre_adventure', '"[b][i]JoJo''s Bizarre Adventure[/i][/b] (ジョジョの奇妙な冒険 JoJo no Kimyō na Bōken) is a Japanese manga series written and illustrated by [[Hirohiko Araki]]. It was originally serialized in Shueisha''s [i]shōnen[/i] manga magazine [i]Weekly Shōnen Jump[/i] from 1987 to 2004, and was transferred to the monthly [i]seinen[/i] manga magazine [i]Ultra Jump[/i] in 2005. The series is divided into nine story arcs, each following a new protagonist bearing the "JoJo" nickname. The first six parts form a saga detailing the supernatural conflicts between members of the Joestar family and various villains, while the latter parts follow a continuity reboot, taking place in an alternate universe with plot parallels to the original. [i]JoJo''s Bizarre Adventure[/i] is Shueisha''s largest ongoing manga series by volume count, with its chapters collected in 131 [i]tankōbon[/i] volumes as of September 2021.
+
+A 13-episode original video animation series adapting the manga''s third part, [i]Stardust Crusaders[/i], was produced by A.P.P.P. and released from 1993 to 2002. The studio later produced an anime film adapting the first part, [i]Phantom Blood[/i], which was released in theaters in Japan in 2007. In October 2012, an anime television series produced by David Production adapting [i]Phantom Blood[/i] and [i]Battle Tendency[/i] began broadcast on Tokyo MX. As of December 2021, the studio has produced five seasons adapting through the manga''s sixth part, [i]Stone Ocean[/i]. A live-action film based on the fourth part, [i]Diamond Is Unbreakable[/i], was released in Japan in 2017.
+
+[i]JoJo''s Bizarre Adventure[/i] is well-known for its art style and poses; frequent references to Western popular music and fashion; and battles centered around [[stand_(jjba)|Stands]], psycho-spiritual manifestations with unique supernatural abilities. The series had over 120 million copies in circulation as of December 2021, making it one of the best-selling manga series in history, and it has spawned a media franchise including one-shot manga, light novels, video games, action figures, and lines of apparel. The manga, TV anime, and live-action film are licensed in North America by Viz Media, which has produced various English-language releases of the series since 2005."
+
+h4. Quotes / memes
+
+* [[jojo_quote]] - General quote variations
+
+* [[duwang]]
+* [[it_was_me_dio]]
+* [[menacing_(meme)]]
+* [[menacing_approach]] - Not the same thing as [[menacing (meme)]].
+* [[road_roller_(meme)]]
+* [[this_taste_is_the_taste_of_a_liar]]
+* [[to_be_continued]]
+* [[yare_yare_daze]]
+* [[za_warudo]]
+
+[b]Source:[/b] "Wikipedia":https://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure'),
+        ('latex_creature', 'thumb #3982580 thumb #4204993 thumb #4182376 thumb #3790735
+
+Any living creature which appears to be made from a [[latex]] material. This species tag is usually applied alongside other species tags. 
+
+If the creature is made of liquid or goo-like latex then also add [[liquid_latex]]. 
+
+h4. Not to be confused with...
+* [[living_latex]]: If animate latex appears in an image but does [b]NOT[/b] count as a character (see the discussion on "What Counts as a Character" in the [[solo]] wiki page). Then do not apply the latex_creature tag to that image, instead apply ONLY [[living_latex]], unless a character made of latex also appears in the same image. For examples see below:
+
+thumb #4173201
+Living_latex ONLY'),
+        ('building_insertion', 'thumb #2809775 thumb #1497473 thumb #4038263
+
+[b]Building insertion[/b] describes scenes where a [[macro]] sized character is shown inserting a [[building]] into an orifice — typically the vagina or anus — for the purposes of [[masturbation]]. 
+
+This often involves the character [[kneeling]] or [[crouching]] over an appropriately phallic building and lowering themselves onto it; alternatively, the character may uproot the building entirely, and use it as an [[improvised sex toy]]. In either case, these scenes usually involve [[building destruction]] of the inserted structure, and result in the destruction of the immediate surroundings, [[city destruction|potentially the entire city]] if the character is large enough. Building insertion can also apply to rare cases of buildings being used as improvised [[sounding rod|sounding rods]] for [[urethral masturbation]]. 
+
+h6. For the reverse of this tag, see [[building penetrated]]
+
+h5. Subcategories
+
+* [[building in anus]]
+* [[building in pussy]]
+* [[building in urethra]]
+
+
+h4. Related Tags
+* [[building destruction]]
+* [[building sex]]
+** [[building penetrated]]
+* [[macro]]
+* [[masturbation]]
+
+h4. See Also
+* [[improvised sex toy]]
+* [[building]]'),
+        ('ear_ring', 'A type of [[ear piercing]] with the shape of a ring.
+
+h4. See also:
+
+* [[piercing]]
+** [[ear_piercing]]
+*** ear_ring
+*** [[gauged_ear]]
+*** [[industrial_piercing]]'),
+        ('autofellatio_while_penetrated', 'When a character performs [[autofellatio]] on themselves while also being penetrated "anally":https://e621.net/wiki/show/anal_penetration or "vaginally":https://e621.net/wiki/show/vaginal_penetration by another character.
+'),
+        ('taiyaki', 'https://en.wikipedia.org/wiki/Taiyaki
+
+Taiyaki (鯛焼き, lit. ''baked sea bream'') is a Japanese fish-shaped cake, commonly sold as street food. It imitates the shape of tai (鯛 red seabream), which it is named after. The most common filling is red bean paste that is made from sweetened azuki beans. Other common fillings may be custard, chocolate, cheese, or sweet potato. Some shops even sell taiyaki with okonomiyaki, gyoza filling, or a sausage inside. Smaller, differently shaped versions called kingyoyaki (金魚焼き, lit. ''baked goldfish'') are also available and often sold in bags of five, ten, or more.
+
+'),
+        ('peregryphon_(falcrus)', 'Character Owner: "Falcrus":https://www.furaffinity.net/user/falcrus/'),
+        ('blue_fingers', 'thumb #4404856 thumb #3932341
+
+Tag used when a character has [[fingers]] that are blue in color.
+
+https://en.wikipedia.org/wiki/Blue
+
+h4. Tags About Fingers
+
+* [[fingers]]
+
+[section=Colors]
+
+h4. Fingers [[tag_group:colors|Colors]]
+
+* [[black_fingers]]
+* [b]blue_fingers[/b]
+* [[brown_fingers]]
+* [[green_fingers]]
+* [[grey_fingers]]
+* [[orange_fingers]]
+* [[pink_fingers]]
+* [[purple_fingers]]
+* [[red_fingers]]
+* [[tan_fingers]]
+* [[teal_fingers]]
+* [[white_fingers]]
+* [[yellow_fingers]]
+
+* [[monotone_fingers]]
+* [[multicolored_fingers]]
+** [[two_tone_fingers]]
+
+* [[dark_fingers]]
+* [[light_fingers]]
+
+[/section]
+
+[section=Traits]
+
+* [[fingernails]] - [[Nails]] located on the tips of fingers.
+* [[finger_claws]] - [[Claws]] located on the tips of fingers.
+* [[hooved_fingers]] - [[hooves|Hoof-like]] structures on the tips of fingers. Not the same as [[hoof hands]].
+
+[/section]
+
+[section=Actions]
+
+* [[beckoning]] - A come-hither gesture that can be made with finger(s), hand, arm, or head.
+* [[finger_wag]] - A disapproving gesture
+* [[index_to_index]]
+* [[interlocked_fingers]]
+* [[pointing]]
+* [[steepled_fingers]]
+* More examples: at [[gesture]]
+
+[/section]
+
+h4. See also
+
+[section=Number of Fingers]
+* [[1_finger]], [[2_fingers]], [[3_fingers]], [[4_fingers]], [[5_fingers]], [[6_fingers]]
+
+[/section]
+
+* [[claws]]
+* [[fin]]
+* [[frill]]
+* [[humanoid_hands]]
+* [[paws]]'),
+        ('stirrup_(marking)', 'A marking on the body near the foot area that gives off the impression that they''re wearing stirrup_socks and/or stirrup_stockings despite it just being a certain pattern of their fur, skin, or humanoid appendage. '),
+        ('proxythehusky', 'I tend to differ in style, depending on my mood'),
+        ('the_great_gonzales_jr', 'While Mario, Goombella, Koops and Flurrie are competing as pro fighters in Glitzville''s Glitz Pit, they find that one of the fighting teams, the Armored Harriers, seem to be impervious to any attack they use. At an earlier time, Mario had found a Yoshi Egg bouncing around, being chased by the owner of the Hot Dog Stand, Mr. Hoggle (who had hopes of making a Southern Fried Egg Dog of Tastiness with it). Mario eventually caught it, and Mr. Hoggle allowed him to keep it as most people "don''t like to eat things that move". 
+
+After Mario returns from his problematic battle with the Armored Harriers, the egg hatches into a spunky Yoshi child who thanks Mario. He then joins Mario (who he knows as [b]The Great Gonzales[/b]; his fighter alias), who proceeds to name him. The Yoshi kid can defeat the Armored Harriers by eating them and spitting them at each other. He travels with Mario for the rest of the game.
+
+At the end of the adventure, he goes solo at the Glitz Pit, going under the name "[b]The Great Gonzales Jr.[/b]", and is stated to be getting close to the title match. In Goombella''s letter, the Yoshi challenges The Great Gonzales by saying "I could totally take you in the ring now, so bring it!". 
+
+He is notable for calling Mario "Gonzales" throughout the entire course of Paper Mario: The Thousand-Year Door (in a manner similar to other non-player characters such as Goldbob and his family); his odd familiarity with this name is only due to the fact that Mario took up the pseudonym (upon Grubba''s insistence) while fighting in the Glitz Pit. By the end of the game, though, Yoshi would appear to have slowly realized that Gonzales'' real name was Mario, but he states that Mario will always be Gonzales to him.'),
+        ('jason_xiaojie', 'Taiwan Furry. Email is a0960595028@gmail.com'),
+        ('harvett_fox', '[b]Harvett Fox[/b] is an anthropomorphic orange fox that he wears in his green shirt. He was originally created by [[harvettfox96|Jayvee Enaguas (HarvettFox96)]] on August 22, 2015.'),
+        ('object_gag', 'a non-standard gag resembling an iconic object
+
+Not to be confused with [[ball gag]]
+
+h5. Examples
+
+* [[food gag]]
+** [[apple gag]]
+** [[carrot gag]]'),
+        ('present_balloon_(animal_crossing)', 'Mysterious floating [[gift|presents]] attached to [[balloon|balloons]] that appear in [i][[Animal Crossing]][/i] videogames. Contents may include material, bells (Animal crossing currency), furniture, and recipes. These presents sometimes get caught up in trees. '),
+        ('iblys', 'artificial plush creatures with a gem that gives them will, one focused on pleasing their owners with all kinds of pleasure they desire.'),
+        ('kagayaki_blightscale', '[b]Kagayaki Blightscale[/b] is a dragon character belonging to "YoruWolf666":http://www.furaffinity.net/user/yoruwolf666/.
+
+h4.External links
+* "Reference sheet":http://www.furaffinity.net/view/18236820/'),
+        ('ellie_cooper', 'Sherri Mayim’s mom'),
+        ('blue_(blue''s_clues)', 'thumb #1813665
+
+[b]Blue[/b] is the title character of [i][[Blue''s Clues]][/i], [i]Blue''s Room[/i], and the upcoming reboot [i]Blue''s Clues & You![/i]. She is a [[female]] [[dog|puppy]] who communicates to [[steve_(blue''s_clues)|Steve]], [[joe_(blue''s_clues)|Joe]], and Josh through barks, which they understand.
+
+Blue is a [[blue_fur|blue]] [[dog|puppy]] with darker blue spots and a dark blue nose. Her eyes are white with black pupils. When Blue opens her mouth, her tongue is pink. She has big, floppy ears. 
+
+h4.External link:
+* "Blue":https://bluesclues.fandom.com/wiki/Blue on Fandom''s [i]Blue''s Clues[/i] Wiki'),
+        ('lisa_simpson', 'Lisa Marie Simpson is a fictional character in the animated television series The Simpsons. She is the middle child and most accomplished of the Simpson family. Voiced by Yeardley Smith, Lisa was born as a character in The Tracey Ullman Show short "Good Night" on April 19, 1987. Cartoonist Matt Groening created and designed her while waiting to meet James L. Brooks. Groening had been invited to pitch a series of shorts based on his comic Life in Hell, but instead decided to create a new set of characters. He named the older Simpson daughter after his younger sister Lisa Groening Bartlett. After appearing on The Tracey Ullman Show for three years, the Simpson family were moved to their own series on Fox, which debuted on December 17, 1989.
+
+'),
+        ('flynn_(flynndafox)', '"Flynndafox", the character''s owner, appears to have left the fandom.
+
+"According to this post''s description":https://www.furaffinity.net/view/36119776/ , the owner left their oc, Flynn, in the care of "Luskfoxx":https://www.furaffinity.net/user/luskfoxx/'),
+        ('liz_art', '* "Conditional DNP":/wiki_pages/85#conditional_dnp: Only MLP stuff is DNP'),
+        ('kuya_(nu:_carnival)', 'Kuya is a character from the game [i][[Nu: Carnival]][/i], voiced by Yotsuya Cider.
+Official description from the game’s website:
+[quote]Revered by the beasts of the forest, Kuya is a magical fox who through years and years of exposure to essence gradually gained a human form. A lover of all things new and exciting, he loathes nothing more than being bored. Specialized in creating illusions, he utilizes them to toy with others for his own personal pleasure.[/quote]'),
+        ('wtf_already?', 'For when rule 34 does its thing in less than an hour.'),
+        ('purple_exoskeleton', 'Used for posts depicting a character with a purple-colored [[exoskeleton]].
+
+h4. Tags About Exoskeletons
+
+* [[exoskeleton]]
+
+[section=Colors]
+h4. Exoskeleton [[tag_group_colors|Colors]]
+
+* [[black_exoskeleton]]
+* [[blue_exoskeleton]]
+* [[brown_exoskeleton]]
+* [[green_exoskeleton]]
+* [[grey_exoskeleton]]
+* [[orange_exoskeleton]]
+* [[pink_exoskeleton]]
+* [b]purple_exoskeleton[/b]
+* [[red_exoskeleton]]
+* [[tan_exoskeleton]]
+* [[white_exoskeleton]]
+* [[yellow_exoskeleton]]
+
+* [[monotone_exoskeleton]]
+* [[multicolored_exoskeleton]]
+** [[rainbow_exoskeleton]]
+** [[two_tone_exoskeleton]]
+
+* [[dark_exoskeleton]]
+* [[light_exoskeleton]]
+
+[/section]
+
+[section=General]
+* [[glistening_exoskeleton]]
+* [[glowing_exoskeleton]]
+* [[gradient_exoskeleton]]
+* [[spotted_exoskeleton]]
+* [[striped_exoskeleton]]
+
+[/section]
+
+h4. See also
+
+[section=General Anatomy]
+* [[tag_group:anatomy]]
+** [[tag_group:feral anatomy]]
+
+* [[body]] - A fallback for when the body texture is difficult to decipher.
+** [[exoskeleton]] - An external skeleton often made of chitin, seen in [[insect|insects]] and [[crustacean|crustaceans]].
+** [[feathers]] - A complex texture, seen in [[bird|birds]], and most [[gryphon|gryphons]]. Often applied to [[feathered_wings|wings]] of such species.
+** [[fur]] - A furry texture, seen in most [[mammal|mammals]]. Even a single [[tuft]] will influence this.
+** [[scales]] - A squamous texture, seen in  [[reptile|reptiles]], [[scalie|scalies]], and most [[dragon|dragons]].
+** [[skin]] - A smooth texture, seen in [[human|humans]], [[dolphin|dolphins]], and [[amphibian|amphibians]].
+[/section]'),
+        ('dark_daxter', 'Dark Daxter is a mutated form of [[daxter]]. He appears in the game, Jak & Daxter: The Lost Frontier after being exposed to large amounts of dark eco waste.'),
+        ('xbox_360', 'A game console created by Microsoft in 2005
+
+h4. See Also
+
+* [[xbox_one]]
+* [[xbox]]'),
+        ('torture', '[b]Torture[/b] is the infliction of great physical [[pain]], or [[suffering]] of a character by another character typically for reasons such as [[sadism]], or [[extortion]]. Common forms of torture such as waterboarding (water torture) can directly use this tag as long as a character is experiencing it. Although [[imminent_torture]] may sometimes apply.
+
+Not all acts of extreme trauma should be considered as torture, as the theme involves a deliberate act to cause suffering. Situations that are incidental, or otherwise, where a character experiences intense pain should be tagged as [[suffering]].
+
+Some forms of torture, especially those involving [[peril]], can evoke mental suffering. Situations that involve extreme fear, and risk of dying may also qualify as torture even if the character hasn''t experienced any pain yet.
+
+A character who receives pleasure from causing the suffering of others is known as a [[sadism|sadist]]. Conversely, a character who receives pleasure from suffering is known as a [[masochism|masochist]].
+
+h4. Not to be confused with
+
+These tags are for general trauma, or painful activity involving a certain body part. It might be considered torture, or it might just be an extreme [[BDSM]] theme.
+
+* [[breast_torture]]
+* [[genital_torture]]
+* [[nipple_torture]]
+
+h4. Methods
+
+Methods of torture may involve extreme pain, repeated [[rape|rapes]], [[starvation]], slow [[asphyxiation]], and may ultimately result in a [[grotesque death]]. In most cases, this tag should [i]not[/i] be tagged with [[BDSM]].
+
+- TODO - Add
+
+* [[bamboo_torture]]
+* [[burning_alive]]
+* [[cooked_alive]]
+* [[crucifixion]]
+* [[disembowelment]]
+* [[dismemberment]]
+* [[drawn_and_quartered]]
+* [[impalement]]
+* [[skinning]]
+* [[strappado]]
+* [[water_torture]]
+* [[whipping]]
+
+h5. Other methods
+
+These should probably be kept separate from the `torture` tag.
+
+* [[overstimulation]]
+* [[sexual_torture]]
+* [[tickle_torture]]
+
+h4. Torture devices
+
+* [[brazen_bull]]
+* [[iron_maiden]]
+* [[judas_cradle]]
+* [[stake]]
+* [[torture_rack]]
+* [[wooden_horse_(device)]]
+
+h4. Related tags
+
+* [[bound]], [[restrained]]
+* [[extortion]]
+* [[forced]]
+** [[rape]]
+* [[gore]]
+* [[interrogation]]
+* [[killing]]
+* [[mutilation]]
+** [[breast_mutilation]]
+** [[facial_mutilation]]
+** [[genital_mutilation]]
+* [[pain]]
+* [[sadism]]
+* [[snuff]]
+* [[suffering]]
+* [[threat]]
+
+h4. See also
+
+* [[desperation]]'),
+        ('crocalor', 'thumb #3807491 thumb #3707293
+
+[b]Crocalor[/b] ([b]アチゲータ[/b] [i]Achigator[/i]) is a Fire-type Pokémon introduced in [[generation_9_pokemon|Generation IX]]. This Pokémon is also classified as the `Fire Croc Pokémon`.
+
+It is the first evolution of [[Fuecoco]] starting at level 16 and it evolves into [[Skeledirge]] starting at level 36.
+
+h4.Physical appareance:
+Like its [[Fuecoco|pre-evolution]], [b]Crocalor[/b] resembles a "chili-red":https://en.wikipedia.org/wiki/Chili_pepper [[crocodile]] (As its name suggests). It has three pairs of [[teeth]] on its "lower jaw":https://en.wikipedia.org/wiki/jaw. It has two red [[diamond]]-shaped "cheekbones":https://en.wikipedia.org/wiki/cheekbones, and two red triangular patterns for [[nostrills]].
+
+[b]Crocalor[/b]''s back has several rectangular yellow patches, which extend down to its [[tail]]. It can be recognized by its "[[hat]]": embers surrounding an ovoid [[fireball]], reminiscent of a [[nest]] but also of a [[sombrero]]. Finally, [b]Crocalor[/b]''s [[short legs]] are [[red_legs|red]] and [[black_legs|black]].
+
+h4.Related tags:
+* [[black_hands]]
+* [[black_feet]]
+* [[crocodilian]]
+* [[egg]]
+* [[gloves_(marking)]]
+* [[hat]]
+* [[headgear]]
+* [[headwear]]
+* [[markings]]
+* [[multicolored_body]]
+* [[multicolored_scales]]
+* [[red_body]]
+* [[red_scales]]
+* [[reptile]]
+* [[scalie]]
+* [[sharp_teeth]]
+* [[white_body]]
+* [[white_scales]]
+
+h4.See also:
+* [[pokemon_(species)|Pokémon_(species)]]
+** [[Fuecoco]]
+*** [b]Crocalor[/b]
+**** [[Skeledirge]]'),
+        ('bluejuicyjuice', '3D modeler
+
+h4.External links: [sup](for their models)[/sup]
+* "[i]BlueJuicyJuice on [b]Patreon[/b][/i]":https://www.patreon.com/Bluejuicyjuice
+* "[i]BlueJuicyJuice on [b]Gumroad[/b][/i]":https://bluejuicyjuice.gumroad.com'),
+        ('rayman_eating_sushi', 'A [[meme]] format originating from [i][[Captain Laserhawk: A Blood Dragon Remix]][/i]. The original image depicts [[cream and chocolate (captain laserhawk)|Cream and Chocolate]] lying naked on her stomach on a table, sucking on a lollipop with the back of her legs up, while [[Rayman]] eats sushi off her back.'),
+        ('beihuh', 'made by artist beihuh'),
+        ('lustysheep', '[b]The Dropbox link contains scat.[/b]
+
+Not to be confused with [[lustylamb]].
+
+All tumblrs are dead now, as is the Weebly page.'),
+        ('hutago', 'Japanese artist. Likes monster and muscle girls.'),
+        ('bakemonogatari', 'h4.Ghoststory, 化物語
+
+A Japanese light novel series and animated series created by writer Nisio Isin and art by Taiwanese illustrator Vofan.
+
+The story revolves around the exploits of Koyomi Araragi, a third year high school student who is almost human again after becoming a vampire briefly. After discovering that he is not the only student afflicted by the paranormal Koyomi begins to assist his fellow students in curing their inflictions with the help of his savior Meme Oshino and later with the help of the vampire who attacked him, Shinobu.
+
+h5.See Also
+
+* [[Hanekawa Tsubasa]]
+* [[Black Hanekawa]]
+
+h5.Related Tags
+
+* {{hanekawa_tsubasa}}
+* {{black_hanekawa}}'),
+        ('nick_bougas', '[b]Nick Bougas[/b] (born 1955) is an American cult filmmaker, illustrator, and record producer. He drew racist, sexist and white supremacist cartoons in the 1980s and 1990s, collaborating with Jim Goad in the social pathology magazine [i]Answer Me![/i] under the pseudonym [b]A. Wyatt Mann[/b] (A White Man). Bougas'' cartoons were indexed online by neo-Nazi and ex-KKKer Tom Metzger, and gained widespread circulation via Stormfront and 4chan''s /pol/ board. Perhaps his best-known caricature is the "Happy Merchant", a smirking, hunchbacked, stereotypically large-nosed Jewish man rubbing his hands.'),
+        ('vamp_(owenkuznetsov)', 'Vamp is a furry Discord bot created by Owen Kuznetsov. 
+Vamp is Male'),
+        ('shaded_line_art', 'This tag is used for images and animations that feature line art with shading applied to them.
+
+h4. See also
+* [[colored_line_art]]'),
+        ('corrosive', 'The chemical property of a substance to violently react with another more stable substance or compound; as a common household example, old degraded batteries (battery rot), which will cause painful chemical burns on the skin if in contact. Often, an acid such as vinegar or soda can be used to counter these effects, though acids may also [i]cause[/i] corrosion in the first place.
+
+*Examples: 
+[[corrosive_pussy_juice]]
+[[corrosive_bodily_fluids]]
+
+*Implies or implied by: 
+[[acid]]
+[[acid_burn]]
+[[acid_burns]]
+[[acidic]]
+[[acidic_saliva]]
+[[acidic_blood]]
+[[burn]]
+[[damage]]
+[[chemicals]]
+[[chemistry]]
+[[science]]'),
+        ('video_game_sampling', 'This tag is used for animations that [[https://en.wikipedia.org/wiki/Sampling_(music)page|sample]] music, sound effects, and/or voice clips from video games. These animations often have little to no original audio in them.  '),
+        ('jynx_kitten', 'feline version of [[Jynx (Jynx92)]]'),
+        ('sasami', 'h1.Sasami Masaki Jurai, 柾木 砂沙美 樹雷, Masaki Sasami Jurai, Sasami Masaki, Masaki Sasami, Magical Girl Pretty Sammy, Pretty Sammy
+
+A fictional character from the anime series [i]Tenchi Muyo![/i] and its subsequent spinoffs.  Human in appearance, Sasami is actually a member of a race of powerful beings known as the Jurai and is a princess of her people along with her older sister Ayeka.  Sasamii has teal-colored hair usually tied in long pigtails with melon pink eyes. In the [i]Tenchi[/i] continuities, Sasami also has a upside down triangle birthmarked on her forehead, as a symbol of her status as Juraian royalty.   While adolescent in appearance, chronologically Sasami is over 700 years old, she was kept in a suspended animation during her sister''s long search for Lord Yosho.
+
+Sasami is an amazing cook and generally takes on the role of "mother" for other characters in the series, often caring for them and doing the majority of housework (especially the cooking).  Sasami is generous, sweet, caring, and always willing to put aside her needs for the needs of others.
+
+Sasami holds a dark secret within her, in the fact that as a small child she was actually killed in an attack (by Ryoko) on the Royal Palace of Jurai.  There she was assimilated by the Goddess Tsunami (one of the three creator beings of the Universe).  Though the two are separate beings, they share the same life-force and are therefore bound integrally to each other.  This assimilation gives Sasami the ability to command the greatest ship in the Juraian Fleet, the flagship [i]Tsunami-fune[/i] which is an aspect or representation of the Goddess Tsunami herself.
+
+In the [i]Magical Girl[/i] continuity Sasami adopts the persona of a human girl, Sasami Kawai, who is granted special powers by Tsunami, the Queen of Juraihelm, so that she may act as her representative on Earth.  With the blessings from Tsunami, Sasami is able to transform herself into Magical Girl Pretty Sammy who can use a variety of magical attacks and skills, a key factor of this power is the emotion of love.
+
+h4.More Information
+
+* "Wikipedia":http://en.wikipedia.org/wiki/Sasami_Masaki_Jurai
+* "Tenchi Muyo Wiki":http://tenchi.wikia.com/wiki/Sasami
+
+h4.Related Tags
+
+* {{tenchi_muyo}}'),
+        ('elvira:_mistress_of_the_dark', 'Elvira: Mistress of the Dark is a 1988 American comedy horror film directed by James Signorelli. Cassandra Peterson plays the role of horror hostess Elvira in the character''s feature film debut. The screenplay was written by Peterson, John Paragon and Sam Egan.'),
+        ('silver_body', 'A character or animal with a silver [[body]] texture, This is a blanket term that implicates to all characters or animals with tags such as [[silver_feathers]], [[silver_fur]] etc.
+
+If you can not tell what type of body the character has, simply putting `silver_body` is the answer.
+
+https://en.wikipedia.org/wiki/Silver_(color)
+
+h4. Tags About Body
+
+* [[body]]
+
+[section=Colors]
+
+h4. Body [[tag_group:colors|Colors]]
+
+* [[black_body]]
+* [[blue_body]]
+* [[brown_body]]
+* [[gold_body]]
+* [[green_body]]
+* [[grey_body]]
+* [[orange_body]]
+* [[pink_body]]
+* [[purple_body]]
+* [[red_body]]
+* [b]silver_body[/b]
+* [[tan_body]]
+* [[teal_body]]
+* [[white_body]]
+* [[yellow_body]]
+
+* [[monotone_body]]
+* [[multicolored_body]]
+** [[rainbow_body]]
+** [[two_tone_body]]
+
+* [[dark_body]]
+* [[light_body]]
+
+[/section]
+
+[section=General]
+
+h4. Body Anatomy
+
+* [[body_hair]]
+* [[body_zipper]]
+* [[multi_body]]
+
+h4. Body Maintenance
+
+* [[drying_body]]
+
+h4. Body Traits
+
+* [[glistening_body]]
+* [[glowing_body]]
+* [[metallic_body]]
+* [[mottled_body]]
+** [[piebald_body]]
+* [[night_sky_body]]
+* [[spotted_body]]
+* [[striped_body]]
+* [[translucent_body]]
+
+h4. Other
+
+* [[body_armor]]
+* [[body_blush]]
+* [[body_jewelry]]
+* [[body_writing]]
+* [[bodyjob]]
+* [[bodypaint]]
+* [[cum_on_body]]
+
+[/section]
+
+h4. See also
+
+[section=General Anatomy]
+* [[tag_group:anatomy]]
+** [[tag_group:feral anatomy]]
+
+* [[body]] - A fallback for when the body texture is difficult to decipher.
+** [[exoskeleton]] - An external skeleton often made of chitin, seen in [[insect|insects]] and [[crustacean|crustaceans]].
+** [[feathers]] - A complex texture, seen in [[bird|birds]], and most [[gryphon|gryphons]]. Often applied to [[feathered_wings|wings]] of such species.
+** [[fur]] - A furry texture, seen in most [[mammal|mammals]]. Even a single [[tuft]] will influence this.
+** [[scales]] - A squamous texture, seen in  [[reptile|reptiles]], [[scalie|scalies]], and most [[dragon|dragons]].
+** [[skin]] - A smooth texture, seen in [[human|humans]], [[dolphin|dolphins]], and [[amphibian|amphibians]].
+[/section]'),
+        ('conqista', 'Russian artist.
+
+h5. Support the artist:
+* "Ko-fi":https://ko-fi.com/conqista
+
+h5. Sources:
+* "Deviantart":https://www.deviantart.com/conqista
+* "FurAffinity":https://www.furaffinity.net/user/conqista/
+* "FurNation":http://conqista.furnation.ru/
+* "Furry Network":https://furrynetwork.com/conqista/
+* "Instagram":https://www.instagram.com/conqista_ru/
+* "Tumblr":http://conqista.tumblr.com/
+* "Twitter":https://twitter.com/Conqista1
+* "Virink":https://virink.com/91831
+* "VK":https://vk.com/conqista
+* "Weasyl":https://www.weasyl.com/~conqista
+
+h5. Steams:
+* "Picarto":https://picarto.tv/Conqista
+* "Twitch":https://www.twitch.tv/conqista'),
+        ('autocockjob', 'When a [[prehensile_penis|prehensile penis]] is used to stimulate one''s own male organ in a fashion like that of a handjob
+
+h1. See also
+[[cockjob]]'),
+        ('phuufy', 'Dead links:
+http://phuufy.tumblr.com/'),
+        ('tai_(sileo)', '"From Sileo: Tales of a New Dawn":http://sileo.vn/
+
+http://sileo.vn/
+http://twitter.sileo.vn/
+http://patreon.sileo.vn/'),
+        ('hand_bikini', 'The act of covering one''s body with an arm across the chest and the other hand covering the crotch. '),
+        ('skarmory', 'thumb #85197 thumb #1390469
+
+[b]Skarmory[/b] (エアームド) is a Steel/Flying-type [[Pokémon (species)|Pokémon]]. It does not evolve, and it is in the [i]Flying[/i] egg group.
+
+Shiny Skarmory has light brass sheen, and its wing-blades are green.
+
+Skarmory is [[feral]] in its canon form.
+
+h4. Related tags:
+
+* [[avian]]
+* [[metallic_body]]
+* [[talons]]
+* [[wings]]
+
+h4. See also:
+
+* [[pokémon]]
+* "Bulbapedia: Skarmory":https://bulbapedia.bulbagarden.net/wiki/Skarmory'),
+        ('mean-motor-scooter', 'A person which we can''t find any photos from, except this glorious picture of a Pacman show fanfiction. Mean-Motor-Scooter will only be remembered for this and nothing else.'),
+        ('flowers_(character)', 'http://www.furaffinity.net/user/-flowers-'),
+        ('flashing', 'A character exposing themselves, typically in situations where it is not expected, and typically only for a few seconds. This can be done as an act of sexual foreplay or a simple act of [[exhibitionism]].
+
+This can technically consist of any sexualized body part being exposed, but the [[breasts]] and [[penis]] happen to be the most common. 
+
+h4. Related tags
+
+* [[clothing_lift]]
+* [[clothing_pull]]
+* [[presenting]]
+* [[flashing_breasts]]
+* [[flashing_pussy]]
+* [[exclusive_flashing]]
+
+h4. See also
+
+[section=Exhibitionism Related Tags]
+* [[audience]]/[[crowd]]
+* [[being_watched]]
+* [[cuckold]]/[[cuckquean]]
+* [[enhibitionism]]
+* [[exhibitionism]]
+* [b]flashing[/b]
+* [[hiding]]
+* [[mooning]]
+* [[public]]
+** [[public_exposure]]
+** [[public_masturbation]]
+** [[public_nudity]]
+** [[public_sex]]
+* [[stealth_masturbation]]
+* [[stealth_sex]]
+* [[streaking]]
+* [[voyeur]]
+* [[walk-in]]
+[/section]'),
+        ('photocopying_butt', 'thumb #3525111
+
+A character sitting on the glass scanning surface of a [[photocopier]], and creating a photocopy of their [[butt]]. 
+
+
+h4. See Also
+* [[photocopying breasts]]
+* [[photocopying self]]'),
+        ('oof', '[b]Oof[/b] (also spelled as [b]uff[/b]) is a vocalization, usually an [[exclamation]] of discomfort, hurt (usually physical, or for the effect of comedy). Oof can also be a reaction to someone else''s discomfort, like "Dang".
+
+h4. See also
+
+* [[eee]]
+* [[eek]] - Fear / Surprise
+* [[eep]] - Fear / Surprise'),
+        ('laura_weiss', 'Female arctic wolf. Belongs to fizzy-dog. Reference: http://jizzy-dog.tumblr.com/post/172470704087/full-name-laura-weiss-species-arctic-wolf-age'),
+        ('tan_feathers', 'A character or animal, that has its body covered in [[feathers]] that are the color tan, or sections of feathers that are dyed tan. (can be lighter or darker shades of tan)
+
+thumb #934281 thumb #580928 thumb #949479 thumb #934285 thumb #711237
+
+https://en.wikipedia.org/wiki/Tan_(color)
+
+h4. Related colors
+
+These colors are either nearby the color in the color spectrum, or serve as a sub color group to this color. Unless it is a sub color, these colors should be treated as distinct colors.
+
+* [[brown_feathers]]
+* [[burlywood_feathers]]
+* [[orange_feathers]]
+* [[red_feathers]]
+* [[yellow_feathers]]
+
+h4. Tags About Feathers
+
+* [[feathers]]
+
+[section=Feather Colors]
+
+h6. [[tag group:colors|Colors]]
+
+* [[black_feathers]]
+* [[blue_feathers]]
+* [[brown_feathers]]
+* [[green_feathers]]
+* [[grey_feathers]]
+* [[orange_feathers]]
+* [[pink_feathers]]
+* [[purple_feathers]]
+* [[red_feathers]]
+* [b]tan_feathers[/b]
+* [[teal_feathers]]
+* [[white_feathers]]
+* [[yellow_feathers]]
+
+* [[multicolored_feathers]]
+** [[rainbow_feathers]]
+** [[two_tone_feathers]]
+[/section]
+
+[section=Feather Maintenance]
+* [[brushing_feathers]]
+* [[drying_feathers]]
+* [[feather_preening]]
+** [[allopreening]]
+[/section]
+
+[section=Feather Accessories]
+* [[feather_in_hair]]
+* [[feather_in_hat]]
+* [[feather_brooch]]
+* [[feather_necklace]]
+* [[feathered_headdress]]
+[/section]
+
+[section=Feather Traits]
+* [[cosmic_feathers]]
+* [[crystal_feathers]]
+* [[detailed_feathers]]
+* [[feather_hair]]
+* [[feather_hands]]
+* [[feather_mane]]
+* [[feather_tuft]]
+* [[feathered_arms]]
+* [[feathered_crest]]
+* [[feathered_ears]]
+* [[feathered_penis]]
+* [[feathered_tail]]
+* [[feathered_wings]]
+* [[fire_feathers]]
+* [[glistening_feathers]]
+* [[glowing_feathers]]
+* [[gradient_feathers]]
+* [[leaf_feathers]]
+* [[metal_feathers]]
+* [[peacock_feather]]
+* [[pubic_feathers]]
+* [[ruffled_feathers]]
+* [[spotted_feathers]]
+* [[striped_feathers]]
+* [[tail_feathers]]
+* [[translucent_feathers]]
+[/section]
+
+[section=Other]
+* [[cum_on_feathers]]
+* [[holding_feather]]
+* [[loose_feather]]
+** [[quill]]
+[/section]
+
+h4. See also
+
+[section=General Anatomy]
+* [[tag_group:anatomy]]
+** [[tag_group:feral anatomy]]
+
+* [[body]] - A fallback for when the body texture is difficult to decipher.
+** [[exoskeleton]] - An external skeleton often made of chitin, seen in [[insect|insects]] and [[crustacean|crustaceans]].
+** [[feathers]] - A complex texture, seen in [[bird|birds]], and most [[gryphon|gryphons]]. Often applied to [[feathered_wings|wings]] of such species.
+** [[fur]] - A furry texture, seen in most [[mammal|mammals]]. Even a single [[tuft]] will influence this.
+** [[scales]] - A squamous texture, seen in  [[reptile|reptiles]], [[scalie|scalies]], and most [[dragon|dragons]].
+** [[skin]] - A smooth texture, seen in [[human|humans]], [[dolphin|dolphins]], and [[amphibian|amphibians]].
+[/section]'),
+        ('/delicious/', 'This tag covers the artist group of anyone who delivers requests on the /delicious/ drawthreads, intended only to apply to deliveries on those drawthreads and not their art in general which might be delivered outside of it.
+
+The drawthreads are currently hosted on the redchannit.com TOR version of 8chan.moe
+
+Previously it was hosted on 8ch.net before it converted into 8kuntop.'),
+        ('yellow_areola', 'Visible [[areola]] that is yellow in color, regardless of the color of surrounding [[breasts|breast]] or the [[nipples|nipple]] within.
+
+h4. See also
+* [[black_areola]]
+* [[blue_areola]]
+* [[brown_areola]]
+* [[glowing_areola]]
+* [[green_areola]]
+* [[grey_areola]]
+* [[orange_areola]]
+* [[pink_areola]]
+* [[purple_areola]]
+* [[red_areola]]
+* [[tan_areola]]
+* [[white_areola]]
+* yellow_areola
+'),
+        ('apollo_(diminish)', 'Apollo is the playable character for the Unfiction video game project known as Diminish, which can be found on this channel: https://youtube.com/channel/UCAQ9IeyeprRKx0zq5QAJV8Q'),
+        ('spanish_text', 'A tag given to posts that contain text written in Spanish.'),
+        ('hooda', 'An alien species of [[anthro]] [[fox|foxes]] from [[style_wager|Style Wager''s]] "Dela the Hooda" comic. The feature that primarily sets them apart from regular anthro foxes is that their breasts and the undersides of their hands have no fur on them.'),
+        ('mutual_slit_play', 'Two characters doing sexual things to each other involving each other''s [[genital_slit]]s.'),
+        ('weight_gain', '[b]Weight Gain[/b] describes images where a character is shown to have gotten fatter in some way. 
+
+Weight gain can be explicitly depicted in a sequence of images, a comic, or an animation where a character becomes fatter, it can also be implied by dialogue, a character showing surprise, pleasure or dismay at an apparently sudden/rapid change in weight. Weight gain can also be implied, for example, by an [[overweight]] character wearing tight/ripped clothing surrounded by empty food containers or half-eaten food. Weight Gain is oftentimes depicted as the result of [[stuffing]] or [[vore]] scenarios.
+
+Not to be confused with [[expansion]], where specific parts of a character''s body usually expands through unexplained or supernatural means. However, if weight gain involves specific parts of the character''s body gaining noticeably more mass alongside the rest of the body tags such as [[breast_expansion]] or [[butt_expansion]] can be applied. 
+
+
+h4. Examples:
+
+thumb #1948211 thumb #1700740 thumb #1700741 thumb #1240418
+
+h4. Related Tags:
+
+* [[slightly_chubby]]
+* [[overweight]]
+** [[overweight_female]]
+** [[overweight_male]]
+* [[obese]]
+* [[stuffing]]
+* [[vore]]
+* [[expansion]]
+* [[inflation]]
+* [[weight_loss]]'),
+        ('split', 'Should probably be aliased to splits'),
+        ('duneflower', 'FurAffinity:
+https://www.furaffinity.net/user/lrespawnl/
+
+Patreon:
+https://www.patreon.com/Duneflower'),
+        ('cajón', 'thumb #952262
+
+A [b]cajón[/b] is nominally a box-shaped percussion [[musical_instrument|instrument]] originally from Peru, played by slapping the front or rear faces (generally thin plywood) with the hands, fingers, or sometimes various implements such as brushes, mallets, or sticks.
+
+https://en.wikipedia.org/wiki/Caj%C3%B3n'),
+        ('darcticst', '| Bisexual bottom bunny | Furries, traps, size differences, inflations, & futas |'),
+        ('benji_(bng)', 'Big [[muscular]] [[horse]] [[boy]] (he/him). 
+
+[""He''s a big lascivious male with tits":https://www.furaffinity.net/view/30088127/ "]
+
+Has light skin, [[hyper balls]], hyper [[equine penis]] and long red mane.
+
+Belongs to [[bng]].'),
+        ('dinky_hooves_(mlp)', '"Dinky Doo":http://mlp.wikia.com/wiki/Dinky_Doo is the placeholder name given to a filly [[unicorn]] seen in several episodes engaging in activities with other foals. Dinky Doo has a pale purple coat color, a blonde mane, and yellow eyes. She has sported many [[cutie_mark|cutie marks]] including a pillow, an archer''s bow, a horseshoe, a pair of dolphins, and sometimes no cutie mark at all.'),
+        ('juan_carlos_paz', 'Website: http://www.behance.net/bakea'),
+        ('menstruation', 'The periodic discharge of [[blood]] and mucosal tissue from the inner lining of the [[uterus]]. It begins with the onset of menarche at or before sexual maturity and ends at menopause. Menstruation is commonly nicknamed [[period]].'),
+        ('ancient_fox_princess_coyanpatra', 'A fox that appears in [[Concon-Collector]].
+This character was designed by [[no3512]].
+
+See: http://c4.concon-collector.com/view/default/2673'),
+        ('unbirthing', 'A type of [[vore]] in which one character absorbs or forces another character into the [[pussy|vagina]] and possibly the [[uterus]]. Unbirthing sometimes involves [[rebirth]], [[transformation]], [[age_regression]], or the unbirthed character may be "digested" and turned into [[pussy_juice|vaginal secretions]], also known as [[pussy_juice_vore]].
+
+Compare with [[cock_vore]].
+
+h4. See also
+
+* [[vore]]
+** [[anal_vore]]
+** [[cloacal_vore]]
+** [[cock_vore]]
+** [[oral_vore]]
+'),
+        ('sith', 'Sith refers to any member of the Sith Order, a faction of Force-sensitive beings that draw upon the darker aspects of the metaphysical energy known as the Force. Though once referring to a species of red-skinned humanoids that were generally Force-sensitive, the name and culture was appropriated by a group of exiled Dark Jedi. They are primarily the antagonists of the Star Wars universe, often behind acts of tyranny, genocide and war; usually, though not always, working behind the scenes of the destruction they cause. Like the [[Jedi]], they are capable of using the Force to perform superhuman feats, which tend to be more destructive in nature and include, but are not limited to; draining life, telepathic pain, conjuring lightning, increasing strength and dexterity, or performing alchemical experiments to produce warped and tortured life forms. They also utilize [[lightsabers]] as melee weapons.
+
+Unlike the Jedi, the Sith immerse themselves in stronger and darker emotions to fuel their connection to the Force, which generally causes them to make choices that are destructive, both to others and themselves. While numerous wars against the Jedi have forced the Sith to enact a two-member system (referred to as the Rule of Two), the Sith nevertheless employ other Force-sensitives that they do not totally train in order to have servants to quell their opposition. '),
+        ('hand_between_breasts', 'thumb #138725 thumb #3438770
+
+A character with a hand between their own breasts, or with their hand between another character''s breasts.
+
+This may involve reaching into their [[cleavage]] to retrieve [[object_between_breasts|something being "stored"]] between their breasts, their hand resting between the breasts, with the [[arm_under_breasts|arm under their breasts]]. 
+
+h4. Related Tags
+* [[between breasts]]
+** [[arm between breasts]]'),
+        ('kylar_mclaughlin', 'Male raccoon. Belongs to Skidd & Phsuke. About: http://uberquest.katbox.net/cast/#kylar'),
+        ('tan_ears', 'Used when a character has tan colored [[ears]].
+
+This [b]does not[/b] include the color of the [[tan_inner_ear|inner part of the ear]].
+
+[section,expanded=Ear colors:]
+
+* [[black_ears]]
+* [[blue_ears]]
+* [[brown_ears]]
+* [[green_ears]]
+* [[grey_ears]]
+* [[orange_ears]]
+* [[pink_ears]]
+* [[purple_ears]]
+* [[red_ears]]
+* [b]tan_ears[/b]
+* [[white_ears]]
+* [[yellow_ears]]
+
+* [[monotone_ears]] - only one distinct color.
+* [[two_tone_ears]] - only two distinct colors.
+* [[multi_tone_ears]] - more than two distinct colors.
+* [[multicolored_ears]] - at least two distinct colors.
+** [[rainbow_ears]]
+[/section]'),
+        ('deimos', 'Deimos is the tritagonist of the Madness Combat series who first appeared alongside Sanford in Madness Depredation. He has a bandaged head, wears a headset and visor and has been seen wearing a vest with a white tank-top underneath. His first chronological appearance in the series is in Madness Combat 5: Depredation. He appeared again in Madness Combat 5.5 as one of the protagonists. Deimos makes his last appearance alive so far in DedmosRebuilt.fla, the final part of the canonical spin-off series, Dedmos Adventure. There''s also a Greek god of terror under the same name, and the name of one of the two moons of the planet Mars.
+
+More info can be found for the Madness Combat Deimos "here.":https://madnesscombat.fandom.com/wiki/Deimos
+More info can be found for the Greek god Deimos "here.":https://www.greekmythology.com/Other_Gods/Deimos/deimos.html
+More info can be found for one of the moons of Mars "here.":https://solarsystem.nasa.gov/moons/mars-moons/deimos/in-depth/'),
+        ('purple_thigh_highs', 'Self-explanatory, for when a character is wearing thigh highs in the color purple.
+
+h4. Colors:
+* [[green_thigh_highs]]
+* [[black_thigh_highs]]
+* [[yellow_thigh_highs]]
+* [[grey_thigh_highs]]
+* [[tan_thigh_highs]]
+* [[brown_thigh_highs]]
+* [[white_thigh_highs]]
+* [[blue_thigh_highs]]
+* [[orange_thigh_highs]]
+* [[red_thigh_highs]]
+* [[pink_thigh_highs]]
+* [[rainbow_thigh_highs]]
+
+h4. Patterns / Designs
+* [[striped_thigh_highs]]
+* [[pattern_thigh_highs]]
+
+h4. See also:
+* [[thigh_highs]]'),
+        ('white_wings', 'Used when a character has white-colored [[wings]].
+
+h4.Wing colors:
+
+* [b]Basic[/b]
+** [[black_wings]]
+** [[blue_wings]]
+** [[brown_wings]]
+** [[green_wings]]
+** [[grey_wings]]
+** [[orange_wings]]
+** [[pink_wings]]
+** [[purple_wings]]
+** [[red_wings]]
+** white_wings
+** [[yellow_wings]]
+* [b]Uncommon[/b]
+** [[rainbow_wings]]
+** [[translucent_wings]]
+* [b]Add-ons[/b]
+** [[multicolored_wings]]
+** [[two_tone_wings]]'),
+        ('mottled_nipples', 'Nipples that are mottled, or have spots of a different color than the main one. Common in [[hybrid|hybrids]] and creatures with irregular color patterns in their fur, but not restricted to those.
+Implies [[multicolored_nipples]]
+Also see [[mottled]], [[mottled_penis]], [[mottled_pussy]], and [[mottled_skin]].'),
+        ('kremling', 'thumb #718707 thumb #1450574 thumb #1138394
+
+[i]Kremlings[/i] are a race of reptilian/crocodilian species from the [i][[Donkey Kong Country]][/i] franchise that are the primary antagonists of the series. The most well-known Kremling is none other than the leader of the Kremlings, [[King K. Rool]], who has become a beloved staple of the series to the point where many rejoiced when he was finally joining the [i][[Super Smash Bros.]][/i] series.'),
+        ('poison_lilly', 'A grey [[tiger]] anthro with long blue hair owned by "creamsickle":https://www.furaffinity.net/user/creamsickle/.'),
+        ('heart_in_signature', 'Use this tag when there is a [[<3|heart symbol]] that is part of an artist''s [[signature]], watermark, or associated [[logo]]. This includes examples of [[heart font]].
+
+Please do not tag this using the standard `text_with_heart` relationship tags. Use the signature specific relationship tags instead (e.g., use [[heart_after_signature]] instead of [[heart_after_text]]).
+
+h4. Subtags
+
+* [[heart_after_signature]]
+* [[heart_before_signature]]
+* [[heart_between_signature]]
+* [[heart_font_signature]]
+* [[hearts_around_signature]]
+
+h4. Related tags
+
+* [[heart_in_logo]]
+* [[text_with_heart]] - Most concepts will base under this tag.'),
+        ('baseball_bat', 'A long wooden or metal object, with founded sides. It has a blunt tip, and a tapering handle with a knob upon the end. This tool is often used in the game of [[baseball_(sport)|baseball]]. A bat is used to hit a [[baseball_(ball)|baseball]] thrown at the player. Then the player runs around a diamond of [[baseball_base|bases]] to score a point for their team. In short.  
+
+However, it''s somewhat phallic shape makes it a popular object to [[insertion|insert]] into one''s [[vaginal_insertion|pussy]] or [[anal_insertion|anus]].
+
+This is also a popular [[improvised weapon]] and may be seen being wielded by any number of people who seek to do damage, intimidate, or [[vandalism|vandalize]].
+
+h4.See Also:
+
+* [[Baseball (Sport)]]
+* [[Improvised Sex Toy]]
+* [[tag_group:sports|Tag Group: Sports]][[tag_group:sports#equip| - Equipment]]'),
+        ('2011', 'This tag applies to images made in the year 2011.
+
+<-- [[2010]] | [b]2011[/b] | [[2012]] -->'),
+        ('paw_day', '[b]May 20[/b] is [b]Paw Day[/b], an unofficial furry holiday created by Furaffinity user "Herro":https://www.furaffinity.net/journal/3474947/ in 2008.
+
+On Paw Day, any furry artist who is into [[foot_fetish|foot fetishism]] will say/write "Happy Paw Day!" that day.  They will also draw more foot-centric art, offer commissions and YCHs with foot themes, and/or reduce their prices on this type of art.  Their artwork will often add "Happy Paw Day!" or "Have a happy Paw Day!" to the description.
+
+Not to be confused with [[PawPaw Day]].
+
+
+h4. See also
+* [[May (month)]]
+
+'),
+        ('tongue_scarf', 'Used for posts depicting a character wearing someone''s [[tongue]] (their own or another character''s) like a [[scarf]].
+
+h4. Tags About Scarfs
+
+* [[scarf]]
+
+[section=Tags About Scarfs]
+
+[section=Scarf Colors]
+h4. Scarf [[tag_group:colors|Colors]]
+
+* [[black_scarf]]
+* [[blue_scarf]]
+* [[brown_scarf]]
+* [[green_scarf]]
+* [[grey_scarf]]
+* [[orange_scarf]]
+* [[pink_scarf]]
+* [[purple_scarf]]
+* [[red_scarf]]
+* [[tan_scarf]]
+* [[white_scarf]]
+* [[yellow_scarf]]
+
+* [[monotone_scarf]]
+* [[multicolored_scarf]]
+** [[rainbow_scarf]]
+** [[two_tone_scarf]]
+
+[/section]
+
+[section=General]
+* [[cum_on_scarf]]
+* [[headscarf]]
+* [[pattern_scarf]]
+** [[checkered_scarf]]
+** [[plaid_scarf]]
+** [[spotted_scarf]]
+** [[striped_scarf]]
+* [[pseudo_scarf]]
+** [[tail_scarf]]
+** [[tentacle_scarf]]
+** [b]tongue_scarf[/b]
+* [[scarf_only]]
+* [[shared_scarf]]
+
+[/section]
+[/section]'),
+        ('kumonga', 'A black and gold spider kaiju. It can shoot webbing and has a stinger located in its mandibles.'),
+        ('adreea', '[color=character]Adreea[/color] is a fictional character created by [color=artist]Tchaikovsky2[/color]. 
+
+She is a [color=species]Laenei[/color], a fictional [color=species]reptilian[/color] species.
+
+Adreea, quite young in appearance, is approximately 20 years old, in late 2019, Tchaikovsky2 upgraded Adreea''s character model to look a bit older.
+"The Laenei''s body temperature is 24°C (75°F)."~Tchaikovsky2
+
+Tchaikovsky2 has said she lives in Hawaii, O''ahu island along with [color=character]Jinjing-Yu[/color], and [color=character]Pekelo Pele[/color]. Additionally, Tchai doesn''t keep them confined there for creative freedom. Jinjing-Yu and Adreea are best friends. Adreea interests are exploring and practicing yoga, many-a-time at the same time.  Adreea has a fun personality often developing friendships through physical contact. In some images, Adreea can be seen giving hugs and licking feet to gain trust with Tchaikovsky2''s other characters. Through this engagement, Adreea has a childish approach to communication.
+'),
+        ('bionic_wing', 'A [[cybernetic]] wing that is intended to be attached to a character''s body. Must look and move like a natural wing in order to be [[bionic]], otherwise it is just a [[cybernetic wing]]. This tag does NOT apply if the character is a [[robot]], [[android]], or other synthetic being.
+
+h4.See also:
+* [[machine]]
+** [[Cyborg]]
+*** [[Prosthetic]]
+**** [[Cybernetics]]
+***** [[Bionic]]
+****** [[Bionic Eye]]
+****** [[Bionic Ear]]
+****** [[Bionic Limb]]
+******* [[Bionic Arm]]
+******** [[Bionic Hand]]
+******* [[Bionic Leg]]
+******* Bionic Wing
+******* [[Bionic Tentacles]]
+****** [[Bionic Tail]]'),
+        ('tunkarainbow', 'Персик'),
+        ('molina''s_hog-nosed_skunk', 'h4. See also
+
+* [[mammal]]
+** [[mephitid]]
+*** [[skunk]]
+**** [[hog-nosed_skunk]]
+***** molina''s_hog-nosed_skunk'),
+        ('izen_puppyfox', 'a sfw furry artist and slight musican, he goes by izen or alzer depending on his form, he mostly posts his nsfw artwork that he owns from gifts or commissions'),
+        ('oricorio', 'Oricorio is an [[avian]] [[Pokémon]] that can change between four markedly different forms.
+
+thumb #958943
+
+[[Baile Oricorio]] is covered in red feathers with two lines of black feathers across each of its wings and tail. Its plumage resembles a frilly, flamenco dress. On the back of its head is a white ball with thin, spiraled extensions on either side that resemble earrings. Its eyelids are purple, and it has a long tail. It uses flamenco dancing.
+
+thumb #958946
+
+[[Pom-Pom Oricorio]] is primarily yellow. Fluffy balls of yellow feathers cover the end of its wings like pom-poms.  It uses cheerleader dancing.
+
+thumb #958948
+
+[[Pa''u Oricorio]] has pink feathers.  On top of its head is an arrangement of feathers resembling a headdress.  There is a larger, similar group of feathers around its waist like a skirt.  It uses hula dancing (pāʻū being a Hawaiian word for skirt, especially ones that may be used in hula).
+
+thumb #958950
+
+[[Sensu Oricorio]]''s feathers are mainly purple. The tips of its wings broaden into a fan shape, and it has a fan-shaped crest on top of its head.  It uses Japanese dancing (扇子 sensu being the Japanese word for a folding fan as may be used in such dances).
+
+
+See: http://bulbapedia.bulbagarden.net/wiki/Oricorio_(Pok%C3%A9mon)
+http://www.pokemon-sunmoon.com/en-us/pokemon/oricorio-baile-style/
+http://www.pokemon-sunmoon.com/en-us/pokemon/oricorio-pom-pom-style/
+http://www.pokemon-sunmoon.com/en-us/pokemon/oricorio-pau-style/
+http://www.pokemon-sunmoon.com/en-us/pokemon/oricorio-sensu-style/'),
+        ('lizardman', 'thumb #3851981 thumb #3454615  thumb #3740432 thumb #1823276 
+
+The lizardman is a creature appearing variously in folklore, fiction, and urban legend. Modern legends include [[cryptid|cryptids]] such as the "Lizard Man of Scape Ore Swamp":https://en.wikipedia.org/wiki/Lizard_Man_of_Scape_Ore_Swamp and conspiracy theories that world leaders are "shapeshifting reptilian aliens.":https://en.wikipedia.org/wiki/Reptilian_conspiracy_theory
+
+The origin of the lizardman is unknown, but it is likely an amalgamation of various mythological reptilian humanoids, such as the Nagas of Hindu and Buddhist mythology, the Dragon Kings of Chinese mythology, and the Egyptian crocodile god [[Sobek]].
+
+Lizardmen have since become a popular feature of modern fantasy and science fiction literature, games, and movies. Specific examples of this species in modern fiction include: 
+* the [[Argonian|Argonians]] of [[The Elder Scrolls]] series.
+* the [[lizardman_(warhammer)|Lizardmen]] of [[warhammer_(franchise)|Warhammer]], also known as the Seraphon.
+* the [[lizardman_(overlord)|Lizardmen]] of the [[overlord (series)|Overlord series]].
+* the [[lizardfolk_(dnd)|Lizardfolk]] of [[Dungeons and Dragons]] (D&D). 
+* the [[lizard_(divinity)|Lizards]] of [[Divinity: Original Sin 2]].
+* the [[lizardman_(that_time_i_got_reincarnated_as_a_slime)|Lizardmen]] of [[That time I got Reincarnated as a Slime]] that evolve into [[dragonewt|Dragonewts]].
+* the [[Iksar]] from [[Everquest]].
+* the [[Gorn]] from [[Star Trek]].
+* the [[silurian|Silurians]] from [[Doctor Who]].
+
+H4. Tagging guidelines
+As "lizardman" is a generic term referring to various discrete but related fantasy creatures, akin to [[dragon]] and [[werewolf]], it should not be confused with real-life species.
+
+A lizardman is not, strictly speaking, a [[lizard]]. It’s a vaguely reptilian creature with a humanoid or anthropomorphic appearance. As such, it may not be appropriate to tag them as lizards, and likewise most {{anthro lizard}} characters should not be tagged as lizardmen. In particular, most depictions of lizardmen across folklore and franchises lack the physical characteristics that would identify them as lizard anthros. Instead, they are typically seen with an amalgamation of characteristics borrowed from many species besides lizards, most commonly [[snake|snakes]], [[crocodilian|crocodiles]], [[dinosaur|dinosaurs]], and [[dragons]], and may even include characteristics from entirely non-reptilian species.
+
+Lizardmen in fantasy are often associated with primitive or tribal cultures. In particular, Mayan and Aztec culture features prominently, as seen in the dress and architecture of [[Argonian|Argonians]] and [[lizardman_(warhammer)|Warhammer’s Lizardmen]].
+
+Lizardmen may sometimes be [[humanoid]] rather than [[anthro]]. [[the_lizard_(marvel)|The Lizard]] from [[Marvel|Marvel Comics]] is sometimes depicted as a humanoid in official media, as well as the [[silurian|Silurians]] from [[Doctor Who]].
+
+The key distinction to remember is that lizardmen are always [[anthro]], [[humanoid]], or [[semi-anthro]], and are not based on nor resemble any real-life [[lizard]] species. Rather, they are vaguely reptilian or reptile amalgam creatures that do not evoke any particular species.
+
+More info:
+"Reptilian Humanoid":https://en.wikipedia.org/wiki/Reptilian_humanoid on Wikipedia
+"List of Reptilian Humanoids":https://en.wikipedia.org/wiki/List_of_reptilian_humanoids on Wikipedia'),
+        ('urosteges', 'Dictionary: "a scale on the underside of the tail of a snake" But for the purposes of this site we''ll apply that to reptiles in general. "Scutes":https://en.wikipedia.org/wiki/Scute are similar, though perhaps thicker/bonier.'),
+        ('flip_bunny', 'Rabbit fursona of "Flipbunny":https://inkbunny.net/flipbunny.
+
+Used to be known as SmileeTiger.'),
+        ('splattershot', 'The "Splattershot":https://splatoonwiki.org/wiki/Splattershot is a main weapon in the [i]Splatoon[/i] series, and is one of the most iconic in the franchise. '),
+        ('nika_(foxyghost)', 'Corgy OC'),
+        ('jurmongrandour_(allakai)', 'Jürmongrandour Reference SWF 2022
+https://www.furaffinity.net/user/allakai/
+https://www.furaffinity.net/view/47009391/
+https://d.furaffinity.net/art/allakai/1651367566/1651367566.allakai_ref_jurmond_3_swf_2022.jpg
+
+Jürmongrandour Reference NSWF 2022
+https://www.furaffinity.net/user/allakai/
+https://www.furaffinity.net/view/47009421/
+https://d.furaffinity.net/art/allakai/1651367772/1651367772.allakai_ref_jurmond_1_nswf_2022.jpg'),
+        ('spread_knees', '[b]Spread knees[/b] is a form of leg spreading that requires a character''s knees to be bent, and spread apart. This posture is commonly seen in [[wide stance]] variations of body positions such as [[sitting]], [[kneeling]], and [[crouching]]. Since spreading naturally tends to involve spreading the knees anyways, postures that involve extended or moderately bent legs should not use this tag.
+
+h4. Subtags
+
+* [[feet_together_knees_apart]] - A leg posture involving the knees apart and the feet prominently pointed inwards.
+
+h4. See also
+
+* [[spread_legs]]'),
+        ('missing_a_finger', 'The character is missing a finger.'),
+        ('alter_ego_passionlip', 'A character in Fate/Extra CCC that greatly resembles Matou Sakura, but has longer hair, gigantic breasts, and wields a giant pair of talons. She can be summoned as an Alter Ego-class Servant in Fate/Grand Order.'),
+        ('zombie_salmon', 'After [[spawning]], most [[salmon]] deteriorate rapidly and die. Some of them remain alive for a while, but their bodies have already begun the process of rotting, and these are sometimes colloquially called [b]zombie salmon[/b].
+
+"Salmon run - From Wikipedia, the free encyclopedia":https://en.wikipedia.org/wiki/Salmon_run#Deterioration'),
+        ('chirros', '[b]Chirros[/b] (also known as Kidrhinoboy), is an Indonesian furry artist and animator best known for muscle art.  '),
+        ('selis', 'Selis is a custom species made by [[lezified]] for their world called Néracus. Their physique is varied, but they mostly have vulpine, canine and cervine facial features mixed together. They have leafy-cut ears, long tufted tails and have pawpads on their feet. Their fur is fine and can range from short to medium length. Their fur and skin color range from natural all the way to vivid and luminescent colors.
+
+There is little difference between male and female Selis, but their body types cannot be strictly defined. Their build can range from slim and fit to curvy and chubby, short or tall.
+
+In the dark, their eyes and skin can emit a faint light.
+
+Selis have a natural affinity towards magic.'),
+        ('tamari', 'Male lion. Belongs to Tamari. Reference: http://www.furaffinity.net/view/15898084/'),
+        ('yozora', 'thumb #3246254 thumb #2832509 thumb #2978376
+
+[b]Yozora[/b] is the fursona of FurAffinity user "[b]Yozora_Cutie[/b]":https://www.furaffinity.net/user/yozoracutie/. She is an [[anthropomorphic]] [[female]] [[wolf]] with a [[curvy figure]], [[pink eyes]], [[blue hair|blue]] and [[black hair]], and [[multicolored fur]] consisting of [[white fur|white]], [[grey fur|grey]], [[black fur|black]], [[blue fur|light blue]], and [[pink fur|pink]] fur in patterns over her body. Her flesh is mostly light blue in color, including her [[blue nose|nose]], [[blue tongue|tongue]], and [[blue genitals|genitals]], with the only exception being her black [[pawpads]]. 
+
+Yozora is an introverted and nerdy girl who loves video games, monsters and other scary things, and horror games. She is sweet and friendly and enjoys spending quality time with her friends. She is in a romantic relationship with [[Brickzero|Brick]], with their relationship being open to including other sexual partners. She has been in several [[threesome|threesomes]], [[group sex|group sex sessions]], [[orgy|orgies]], and one-on-one encounters where she is usually the [[submissive]] to a [[dominant]] partner. She is also very close with [[Logyn]], a monstrous [[werewolf]] alter ego who sometimes exists separate from her. '),
+        ('y_anus', 'thumb #553384 thumb #2723805 thumb #2435940
+
+An [[anus]] that resembles the letter "Y" or "y", usually upside-down.
+
+h4. See Also:
+* [[anus]]
+** [[x anus]] '),
+        ('emtinesst6', 'An artists.
+
+https://www.furaffinity.net/user/tea.pot/'),
+        ('side_butt', 'When a butt is seen from the side or mostly from the side, including when the contour is clearly visible from the side through clothing.  '),
+        ('pushing', 'When a character is pushing another character. For objects being pushed, use [[pushing_object]] instead.'),
+        ('button_pop', 'thumb #2100350 thumb #1691783 thumb #2173848 thumb #2609130
+
+When a [[button (fastener)|fastened button]] snaps and flies off due to body of the wearer stretching the clothing and straining the buttons to their breaking point. In most cases, this involves some sort of stress from the character''s chest, breasts, or belly. 
+
+An impending button pop may be indicated by [[straining buttons]].
+
+Note: Due to the lack of a more general concept, this tag tends to be used for several types of clothing fasteners such as [[buckle|buckles]], and [[zipper|zippers]].
+
+[quote]
+
+[b]Button popping can be caused by...[/b]
+* [[weight gain]]
+* [[expansion]], especially [[breast expansion]]
+* [[stuffing]]
+* [[inflation]]
+* [[growth]] in general 
+** [[body size growth]], in this case the button popping usually occurs along with [[torn clothing]]
+** [[muscle growth]]
+* a [[muscular]] character flexing their chest, causing an undersized shirt to burst its buttons
+* a character with large breasts wearing undersized clothing
+
+[/quote]
+
+h4. Related Tags
+* [[wardrobe malfunction]]
+* [[straining buttons]]
+
+h4. See Also
+* [[damaged clothing]]
+** [[torn clothing]]
+** [[broken zipper]]
+* [[open clothing]]
+* [[unbuckled]]
+* [[unbuttoned]]
+* [[unzipped]] 
+'),
+        ('ramidafemby', 'A femboy artist from mexico :3'),
+        ('crocodylid', 'The entirety of the [[crocodile]] family. Everything from [[crocodile]]s to [[crocodylid taur]]s and [[crocodylid humanoid]]s.
+
+An alligator has a u-shaped snout and webbed feet. A crocodile, by comparison, has a v-shaped snout and feet which are not webbed, but possess a jagged fringe.
+
+h4. See also
+* [[crocodilian]]
+** [[alligatorid]]
+*** [[caiman]]
+** [b]crocodylid[/b]
+*** [[crocodile]]
+** [[gharial]]
+** [[sarcosuchus]]'),
+        ('picking_nose', 'Cleaning out one''s nose by putting something, usually a finger, up a nostril and picking out dried mucus from them. Usually seen as an uncivilized and gross action, it can also lead to a [[nosebleed]] if one''s not careful.'),
+        ('floppi_(valorlynz)', 'a 3d rendered model of floppi_(mentle_xd) sculpted by valorlynz'),
+        ('un0wned', 'FA Page- https://www.furaffinity.net/user/un0wned/
+Kenzato Booru Profile- https://kenzato.uk/booru/un0wned
+Koi-Anthro Discord- https://discord.com/invite/q57Ftgp'),
+        ('lich_king', 'The Lich King is a character from [[world of warcraft]]
+Once the mortal prince Arthas Menethel, the Lich King is the lord of the Undead Scourge. Arthas led an expedition to the frozen continent of Northrend in search of the legendary sword Frostmourne; a cursed blade that consumed it''s bearers soul. Infused with the disembodied spirit of the [[orc]] [[lich]] Nez''ul, Arthas betrayed his kingdom and overthrew it. He moved the capital to Northrend, where he now sits, brooding over all he has lost.'),
+        ('pink_beard', 'thumb #4304309
+
+Used when a character has a [[beard]] that is "pink":https://en.m.wikipedia.org/wiki/Pink in color.
+
+[i](Generally, by using this tag, the character''s [[eyebrows]] and [[hair]] are also pinkish~)[/i]
+
+h4. Tags About Beard
+[section,expanded=Tags About Beard]
+[section,expanded=Beard Styles]
+* [[big_beard]]
+* [[beard_ponytail]]
+* [[braided_beard]]
+* [[chinstrap_beard]]
+* [[dreadlock_beard]]
+* [[long_beard]]
+[/section]
+[section,expanded=Colors of Beard]
+* [[black_beard]]
+* [[blonde_beard]]
+* [[blue_beard]]
+* [[brown_beard]]
+* [[green_beard]]
+* [[grey_beard]]
+* [[orange_beard]]
+* [b]pink_beard[/b]
+* [[purple_beard]]
+* [[red_beard]]
+* [[tan_beard]]
+* [[white_beard]]
+
+* [[monotone_beard]]
+* [[multicolored_beard]]
+** [[two_tone_beard]]
+
+* [[dark_beard]]
+* [[light_beard]]
+[/section]
+[section,expanded=Accessories]
+* [[beard_ring]]
+* [[fake_beard]]
+* [[postiche_beard]]
+[/section]
+[section,expanded=Other]
+* [[cum_on_beard]]
+* [[flaming_beard]]
+* [[neckbeard]]
+* [[tentacle_beard]]
+[/section]
+[/section]
+
+h4. Tags About Facial Hair
+
+* [[facial_hair]]
+
+[section,expanded=Types of Facial Hair]
+
+* [[beard]]
+* [[goatee]]
+* [[mustache]]
+* [[sideburns]]
+* [[soul_patch]]
+
+[/section]'),
+        ('less_(artist)', 'An extremely prolific Filipino artist, who first gained popularity doing requests and commissions for the MGG/MGE threads on 4chan''s /jp/ board. Radically changed his style around 2016 to be more similar to Martian, a friend and fellow MGE artist. No longer Draws MGE content, though his new characters were originally based on MGE. '),
+        ('dialga', 'h4. See Also:
+
+* [[pokémon]]
+** [[legendary_pokémon]]
+*** [b]Generation IV[/b]
+**** Lake trio
+***** [[uxie]]
+***** [[mesprit]]
+***** [[azelf]]
+**** Creation trio
+***** dialga
+***** [[palkia]]
+***** [[giratina]]
+**** Lunar duo
+***** [[cresselia]]
+***** [[darkrai]]
+**** Sea Guardians
+***** [[manaphy]]
+***** [[phione]]
+**** [[arceus]]
+**** [[heatran]]
+**** [[regigigas]]
+**** [[shaymin]]'),
+        ('presenting_teats', 'When a character, usually an [[equine]] species and almost always [[female]], presents their [[teats]].'),
+        ('zagiir', 'Digital Artist
+
+* "Deviantart":https://www.deviantart.com/zagiir'),
+        ('upov', '[section,expanded=From source:]Hello! I''m UPOV and I draw NSFW pictures and animation :)
+❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
+❤ «««««««««« "CURRENT AUCTIONS HERE":https://ych.commishes.com/user/UPOV »»»»»»»»»» ❤
+❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
+❤«««««««««««««««««« "TWITTER":https://twitter.com/_UPOV »»»»»»»»»»»»»»»»»»❤
+❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
+
+
+❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
+❤«««««« "example of my ANIMATION in stages":https://www.furaffinity.net/gallery/upov/folder/697619/Animation-example-in-stages »»»»»»❤
+❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
+❤ "monochrome animation":https://www.furaffinity.net/gallery/upov/folder/698028/Monochrome-animation ❤❤❤❤ "full color animation":https://www.furaffinity.net/gallery/upov/folder/702284/Finished-Animations ❤
+❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
+❤ « "example of FINISHED DRAWINGS (full render)":https://www.furaffinity.net/gallery/upov/folder/697621/Finished-work » ❤
+❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
+❤"drawings at stages :sketch, line, flat colors, shading":https://www.furaffinity.net/gallery/upov/folder/635866/request-art ❤
+❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
+❤«««««««««««««««««« "PRICE list":https://www.furaffinity.net/journal/9257792/ »»»»»»»»»»»»»»»»»»❤
+❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤[/section]
+'),
+        ('unconscious', 'When a character is not responsive, knocked out, or [[dazed]]. This is typically the result of non-lethal trauma, or poison. Be careful not to get it mixed up with death, but it might not always be possible to tell from the image itself.
+
+h4. See also
+
+* [[death]]
+* [[sleeping]]'),
+        ('nose_kiss', 'thumb #2034618 thumb #2191142 thumb #2075661
+
+When one character kisses another on the nose.
+
+h4.See also:
+* [[nose_to_nose]]
+* [[nose_boop]]'),
+        ('acora', 'Humanoid species from the game [[Eville]]. Goblin-like with green skin, pointy ears, and a long tufted tail.'),
+        ('mr._tail', '"Mr. Tail" was a character owned by a troll on Instagram that became a target of criticism as a result of his posting suggestive and explicit images involving animals.'),
+        ('snow_(stripey-butt)', 'Tiger character of "FA account stripey-butt":https://www.furaffinity.net/user/stripey-butt (person previously at "FA account streakthetiger":https://www.furaffinity.net/user/streakthetiger 
+(source: https://www.furaffinity.net/user/stripey-butt says "Formerly "streakthetiger":https://www.furaffinity.net/user/streakthetiger "
+
+'),
+        ('mo23', 'https://twitter.com/mogomogo23x - NSFW Twitter
+https://twitter.com/mgmg23kmf - SFW Twitter'),
+        ('ketel_one', '[b]Ketel One[/b] is a brand of alcohol produced in the Netherlands.
+
+h4.External links
+* "Ketel One":https://en.wikipedia.org/wiki/Ketel_One on Wikipedia'),
+        ('kat_shadow', 'Female snow leopard. Belongs to blue_snow_leopard. Reference: http://www.furaffinity.net/view/3221708/'),
+        ('imperial_guard', '[b]The Astra Militarum[/b] (Also known as the [b]"Imperial Guard"[/b]) are a military organization within the fictional universe of [[warhammer 40000]], and the main ground forces of the Imperium Of Man.
+
+The Imperial Guard can "vastly":http://i.pinimg.com/originals/20/4b/25/204b25f8f7c7175e288a8928e331ec33.jpg "differ":https://vignette.wikia.nocookie.net/warhammer40k/images/d/d0/Praetorian_sgt_by_diegogisbertllorens.jpg/revision/latest?cb=20140619031051 "in":http://wh40k.lexicanum.com/mediawiki/images/thumb/5/50/Krieg6th.jpg/220px-Krieg6th.jpg "appearance":http://i0.kym-cdn.com/photos/images/original/000/546/153/1b1.jpg. However, guardsmen are mostly portrayed as contemporary soldiers with olive green uniforms, at least one Aquila (two headed eagle symbol) which is usually located on the front of their helmet, metal flak armor, and their iconic lasguns.
+
+Thumb #477340   Thumb #1390917   Thumb #1551152
+
+Aside from infantry, the Imperial Guard is known to field a large variety of combat vehicles, mostly comprising of armored transports and combat tanks. Their vehicles, just like their infantry, tend to have an olive green/steel grey color palette along with a semi contemporary visual design.'),
+        ('yoshimister', 'For full resolution, see tumblr images caption. '),
+        ('blitz_(road_rovers)', 'A Doberman from Germany. Unlike Hunter, Blitz is shown to have arrogant, selfish, and cowardly tendencies. Blitz has a short temper, and is quick to anger. His super powers are his sharp claws and strong jaws, which allow him to bite and claw through most things. He also loves peppermint milkshakes and biting rear ends. He sometimes has a strained relationship with the other Rovers, with many of them teasing him. He has a crush on Colleen, but only returns this by playing around with Blitz, and giving him unwanted nicknames. Colleen has been known to resort to physical violence when Blitz attempts to lay a finger on her. Blitz formerly was a guard dog for thieves, but now lives with the chancellor of Germany, Helmut Kohl. His personality is a parody of Arnold Schwarzenegger.'),
+        ('land_forme_shaymin', 'thumb #101456 thumb #1087224 thumb #914527
+
+[b]Shaymin[/b] is a small, white hedgehog-like Pokémon. In Land Forme, it has green grass-like fur on its back and a pink flower with two leaves on each side of its head, which resembles the Gracidea flower. Several Gracidea-like flowers also appear on its back whenever it feels comfortable, but when it senses an impending danger, it rapidly hides it back. Its legs are short and its underside is plump. Shaymin is the smallest Mythical Pokémon to date, and one of the shortest Grass-type Pokémon.
+
+h4. See Also:
+* [[pokémon_(species)]]
+** [[shaymin]]
+*** [b]land_forme_shaymin[/b]
+*** [[sky_forme_shaymin]]'),
+        ('gukimagone_(artist)', 'h4. External Links:
+
+* "Twitter (NSFW)":https://twitter.com/pinknhot
+* "Twitter (SFW)":https://twitter.com/GukiMagone'),
+        ('cervical_kiss', 'When a penis or object is in contact with the cervix, but the cervix suckles on said object as if to kiss or smooch for further stimulation '),
+        ('symbiont', 'Symbiosis (from Greek συμβίωσις, symbíōsis, "living together", from σύν, sýn, "together", and βίωσις, bíōsis, "living") is any type of a close and long-term biological interaction between two different biological organisms, be it mutualistic, commensalistic, or parasitic.
+[b]The organisms, each termed a symbiont[/b], must be of different species
+https://en.wikipedia.org/wiki/Symbiosis'),
+        ('horizon_(fursona)', 'This is the fursona of Steampunk_Fish'),
+        ('inflatable_ride', 'A character riding on top of an [[inflatable]]. Do not tag as [[riding]], unless the inflatable is living.
+
+h4. Related tags
+
+* [[inflatable_support]]
+** [[balloon_support]]
+*** [[on_balloon]]
+
+h4. See also
+
+* [[balloon_fetish]]'),
+        ('horizontal_diclitorism', 'thumb #212004
+A form of [[diclitorism]] in which the two clitores appear side-by-side, usually with two separate [[clitoral_hood|clitoral hoods]].
+
+H4. See also:
+* [[vertical_diclitorism]]
+* [[hemiclitores]]
+* [[multi_pussy]]'),
+        ('cock_warming', 'The act of putting or keeping one''s [[penis]] inside someone else and keeping it there [i]without[/i] the intent of thrusting or otherwise moving in a way to stimulate either partner. Sometimes known as "soaking". It can be a form of dominance or affection and may last a relatively long time, possibly taking hours or even lasting over night.
+
+[b]Not to be confused with:[/b] [[cock_warmer]] (a sleeve or similar form of [[penis_clothing]])
+
+h5. See Also:
+* [[casual_sex]]
+** [[casual_cocksleeve]]
+* [[sleeping]]
+** [[sleep_sex]]
+* [[spoon_position]]'),
+        ('dreamcatcher', 'A dreamcatcher is a handmade willow hoop, on which is woven a net or web. The dreamcatcher may also include sacred items such as certain feathers or beads.'),
+        ('hoard', 'A hoard is a large collection of items gathered compulsively. The items may be anything. A person who engages in this behaviour is called a "Hoarder." It is usually associated with [[Dragon]]s.'),
+        ('yora_(radixpanther)', 'Yora is a leopard cub in schoolmates mates serie by RadixPanther.'),
+        ('juxtapositian', 'source does not exist anymore
+references on the name can only be found on other hosting sites
+artist may have left or changed name'),
+        ('lilith_calah', 'thumb #205817'),
+        ('dizzydreadful', 'Previously went by DragonWhiskerss
+
+"FurAffinity":https://www.furaffinity.net/user/dizzydreadful
+"Twitter":https://twitter.com/DizzyDreadful'),
+        ('alan_moore', '[b]Alan Moore[/b] (born 18 November 1953) is an English writer known primarily for his work in comic books including [[Watchmen]], [[V for Vendetta]], [[The Ballad of Halo Jones]], [[Swamp Thing]], [[Batman: The Killing Joke]], and [[From Hell]].'),
+        ('scissor-tailed_flycatcher', 'The [b]scissor-tailed flycatcher[/b] ([i]Tyrannus forficatus[/i]) is a long-tailed bird in the family Tyrannus, primarily consisting of [[kingbird|kingbirds]].
+
+h4. External links
+
+* https://en.wikipedia.org/wiki/Scissor-tailed_flycatcher
+
+h4. See also
+
+* [[avian]]
+** [[bird]]
+*** Psittacopasserae
+**** [[passerine]]
+***** [[suboscine]]
+****** [[new_world_suboscine]]
+******* [[tyrant_flycatcher]] (Tyrannidae)
+******** [[kingbird]] (Tyrannus)
+********* [b]scissor-tailed flycatcher[/b]'),
+        ('wing_claws', 'thumb #4161033 thumb #3951222 thumb #3789701 thumb #3664423
+
+The [[claws]] found on a character''s (usually [[membranous_wings|membranous]]) [[wings]].
+
+h4. Tags About Claws
+
+* [[claws]]
+
+[section=Tags About Claws]
+
+[section=Claw Colors]
+h4. Claw [[tag_group:colors|Colors]]
+
+* [[black_claws]]
+* [[blue_claws]]
+* [[brown_claws]]
+* [[gold_claws]]
+* [[green_claws]]
+* [[grey_claws]]
+* [[orange_claws]]
+* [[pink_claws]]
+* [[purple_claws]]
+* [[red_claws]]
+* [[silver_claws]]
+* [[tan_claws]]
+* [[teal_claws]]
+* [[white_claws]]
+* [[yellow_claws]]
+
+* [[multicolored_claws]]
+** [[rainbow_claws]]
+** [[two_tone_claws]]
+
+* [[dark_claws]]
+* [[light_claws]]
+
+[/section]
+
+[section=Claw Traits]
+* [[big_claws]]
+* [[claw_piercing]]
+* [[curved_claws]]
+* [[dewclaw]]
+* [[finger_claws]]
+* [[glistening_claws]]
+* [[glowing_claws]]
+* [[heel_claw]]
+* [[long_claws]]
+* [[metal_claws]]
+* [[painted_claws]]
+* [[raptor_claws]]
+* [[retractable_claws]]
+* [[sharp_claws]]
+* [[small_claws]]
+* [[toe_claws]]
+* [b]wing_claws[/b]
+
+[/section]
+
+[section=Other]
+* [[claw_(weapon)]]
+* [[claw_marks]]
+* [[claw_gloves]]
+* [[claw_pose]]
+* [[clawing]]
+* [[cum_on_claws]]
+
+[/section]
+[/section]'),
+        ('armchair', 'thumb #2553827 thumb #2561606 thumb #2631737
+
+A chair with arm supports, fitting one person.
+
+h4. See also:
+
+* [[chair]]
+* [[recliner]]'),
+        ('balls_in_ass', '[[anal_penetration|Penetration]] involving the insertion of a character''s [[balls]] inside the [[anus]] or anal cavity.
+
+h4. Not to be confused with
+
+* [[ball_in_ass]] - A [[ball]] object inside the anus or anal cavity.
+
+h4. Related tags
+
+* [[penetration]]
+** [[anal_penetration]]
+** [[ball_penetration]]
+* [[body_part_in_ass]]
+
+h4. See also
+
+* [[penile_penetration]]
+** [[balls_deep]]'),
+        ('blue_wolf_(ty_arashi)', 'A character that reappears in ty_arashi''s artwork he is a wolf with blue fur hence the name, he doesn''t have an actual name from what I know'),
+        ('grey_pussy', 'Use this tag when some element of a character''s [[pussy]] (vulva) is grey in color.
+
+h4. Tagging guidelines
+
+[quote]
+This tag cumulatively includes the following anatomy:
+
+* [[Clitoris]] - One that belongs to a pussy. Most do.
+* [[Clitoral hood]] - One that belongs to a pussy.
+* Labia - Both the outer (labia majora), and inner (labia minora) folds.
+* Pubic mound
+
+Individual color tags exist for specific regions of the vulva, and should be used along with this tag.
+
+h6. Exclusions
+
+* Pubic hair - Use [[grey_pubes]] instead. Fur over the pussy is not [[pubes|pubic hair]]. 
+* [[Pussy blush]] - Flushed areas of skin are sometimes not treated as an actual body color.
+
+[/quote]
+
+[section,expanded=Grey color examples]
+
+It is not uncommon for anatomy regions of the pussy to have similar, or complementary colors. Even if all regions contain a shade of the same color, the color tag for each applicable region should still be used. Anatomy that is not visible should not get a color tag. 
+
+h4. Pussy/Vulva ([b]grey_pussy[/b])
+
+The color of the [[pussy]] itself, or in the case of anatomy with outer, and inner labia folds visible, this refers to the color of the outer labia folds (also known as the labia majora, or vaginal lips).
+
+h4. Labia Minora ([[grey_inner_pussy]])
+
+The color of the inner region of the [[pussy]], usually the inner labia folds, the region that contains the [[clitoris]]. This region is sometimes called the vestibule (entrance) into the vagina.
+
+h4. Clitoris ([[grey_clitoris]])
+
+The color of the erogenous nub nestled between, or above the labia, situated near the top of the [[pussy]] (or the bottom if the character is viewed from behind). Sometimes the clitoris will be hidden inside the pussy itself. 
+
+h4. Clitoral Hood ([[grey_clitoral_hood]])
+
+The color of the [[clitoral hood]], the skin that surrounds the [[clitoris]].
+
+[/section]
+
+h4. Pussy colors
+
+* [b]Basic[/b]
+** [[black_pussy]]
+** [[blue_pussy]]
+** [[brown_pussy]]
+** [[green_pussy]]
+** [b]grey_pussy[/b]
+** [[orange_pussy]]
+** [[pink_pussy]]
+** [[purple_pussy]]
+** [[red_pussy]]
+** [[white_pussy]]
+** [[yellow_pussy]]
+* [b]Uncommon[/b]
+** [[rainbow_pussy]]
+** [[tan_pussy]]
+** [[teal_pussy]]'),
+        ('spitting', 'To forcibly eject [[saliva]], liquid, or less commonly an object from one''s mouth.
+
+h4. Not to be confused with
+
+* [[spitted]] - Being skewered by a roasting spit
+
+h4. Categories
+
+* [[spitting_out]] - Use for objects, and characters.
+
+h4. Related themes
+
+* [[blowing_raspberries]]
+* [[spit-take]] - Spitting out a beverage.
+* [[spitting_sound_effect]]'),
+        ('whitney_(animal_crossing)', 'Whitney from the [[Nintendo]] game [[Animal Crossing]] is a [[white]], [[female]] [[wolf]]. Has a notoriously big head, like all characters in the game do.'),
+        ('begging_pose', 'A kneeling position with the hands up, either pressed together or in a "doggie beg" position. "Rewards" can vary from a simple treat to something sexual in nature.
+
+h4.See Also:
+* [[paw_pose]]
+* [[tag group:pose]]'),
+        ('unwanted_cumshot', 'thumb #1611590 thumb #716140 thumb #2186111 thumb #1564892
+
+A condition where a character...
+* has no desire to [i]actively[/i] spray [[cum]] for their willing partner.
+* does not want to be [i]actively[/i] sprayed by cum from their [[ejaculation|ejaculating]] partner.
+
+Reasons may be that the character either wanted the cum inside their [[cum_in_mouth|mouth]], [[cum_in_ass|anus]] or [[cum_in_pussy|vagina]], or liked to be [[impregnation|impregnated]] by their partner. They may also want the cum stain away from their belongings (such as [[clothing]] and [[bed]]) and some, if not all other, parts of their own body.
+
+[b]For external use only. Do not tag on posts where no cumshots can be seen.[/b] If there''s only a scene involving [[cum_inside|cumming inside]], use [[unwanted_ejaculation]] instead.
+
+h4. Related tags:
+* [[cumshot]]
+
+h4. See also:
+* [[unwanted_ejaculation]]
+** [[unwanted_cloaca_ejaculation]]
+** [b]unwanted_cumshot[/b]
+** [[unwanted_pussy_ejaculation]]'),
+        ('wolf_nanaki_(artist)', 'Wolf Nanaki is an American writer and colorist who occasionally does art. Some of his writing can be found at his DeviantArt account.
+
+[b]Fursona:[/b] - [[wolf_nanaki]]
+
+If you see this artist as the only artist tag on a post, check the sources. The actual artwork was most likely drawn by someone else.'),
+        ('kokoha', 'Artist that does a lot of lalafell stuff'),
+        ('bonnie_zacherle', 'thumb #439038
+"Bonnie Zacherle":http://en.wikipedia.org/wiki/Bonnie_Zacherle is the [[original character]] of the person of the same name who created the original My Little Pony toy line in the 1980s.
+
+While she does not have an official OC fans have created ones based on her.'),
+        ('the_ferryman_(ultrakill)', 'The Ferryman is a Supreme Husk fought at the end of [ 5-2: WAVES OF THE STARLESS SEA ]. It can also be encountered in later waves of Cyber Grind as a special enemy.  
+
+The Ferryman is a skeletal humanoid figure with blue bones, and a small, white robe covering his torso. He wears gold, ring-like artifacts around his limbs, and on the top of his hood is a figure that resembles a crescent moon. He also wields a large white boat oar.
+
+Ferrymen are rare husks whose powerful bodies, trained skills and blind faith have granted them the chance of becoming the transporters of souls between the layers of Hell.
+
+They have each been given a holy cloth by Heaven as a symbol of their devotion to God''s order, which they wear over their bodies to hide the human form that they''ve grown to despise as a reminder of their sins in life stopping them from becoming angels.
+
+Due to the holy power emanating from the cloth, Ferrymen''s skeletal bodies have slowly been colored bright and radiant, and their skulls have enough latent energy to open the gates that otherwise stop Husks from exiting their places of torment.
+
+Each ferry can only have one Ferryman at a time, so when a new Ferryman is formed, it will fight another to death in order to take their place and inherit their cloth. The loser''s skull is taken as a trophy and used to grant the winner passage across the layers in order to transport the souls of the damned to their destinations.
+
+Ferrymen will often use the knowledge from their past life to improve their ferries, growing past the need for oars, which are now used by the Ferrymen only as weapons.
+
+As the influx of souls has ended with death of mankind, the Ferrymen have lost their purpose and now wander aimlessly, hoping that the angels would grant them passage into Heaven, despite Gabriel being the only one who cares about their efforts.
+
+Throwing a coin from the Marksman Revolver at the Ferryman will allow you to skip his fight, which is how you complete the challenge of 5-2.'),
+        ('sdx3', '・old school aliasing line works(known as oekaki style)
+・3DCG modeling, animating.
+・creating avatars.'),
+        ('tom_(animal_crossing)', 'h5. Not to be confused with [[tom_nook_(animal_crossing)|Tom Nook]], the tanuki shop proprietor.
+
+[b]Tom[/b] (バンタム Bantamu, Bantam) is a cranky [[domestic_cat|cat]] villager in the [i][[Animal Crossing]][/i] series, appearing in nearly all the games except for  [i]Animal Crossing: Wild World[/i]. His name comes from "tomcat," another name for male cats. His Japanese name, Bantam, is short for "bantamweight," a weight division in sports such as boxing.
+
+Tom is a [[blue_fur|blue]] tabby cat with a white-tipped tail and muzzle. His face pattern is similar to that of [[rover_(animal_crossing)|Rover]], [[punchy_(animal_crossing)|Punchy]], and [[moe_(animal_crossing)|Moe]]. His ears are straight and blue with a strawberry pink interior. His [[yellow eyes]] are ovalish and are pointed, with a black iris. Tom''s initial clothing is a black shirt with the white letters "BB" on.'),
+        ('ayukawataur', 'Wife of Miyagami Kacey'),
+        ('pussy_stacking', 'thumb #3708192 thumb #2522119 thumb #3405116 
+
+When two or more pussies are stacked on top of one another.  Characters doing this are often [[face to face]], but not always.
+
+If there is a [[penis]] between them, then the image should be tagged as [[tribadism on penis]] or [[collaborative pussyjob]] instead.
+
+h4. See also
+* [[ass to ass]] -- when two asses are similarly in direct contact
+** [[collaborative hot dogging]] -- when two asses are stimulating a penis between them
+* [[tribadism]] -- done for pleasure; doesn''t always involve stacking pussies on top of each other
+
+'),
+        ('fredina_(cally3d)', 'Alternative name: Frenni Fazclaire'),
+        ('barboach', 'h4. See Also:
+
+* [[pokémon]]
+** barboach
+*** [[whiscash]]'),
+        ('skinsuit', 'thumb #1313931 thumb #2216085 thumb #2721527
+
+[b]Skinsuit[/b], in general, is a skin-tight garment held to the skin, usually by elastic tension using some type of stretch fabric such as spandex or elastane. Usually implies covering of most of the skin or a set of skin-tight clothes. 
+
+h4. See also
+* [[bodysuit]], skin-tight garment covering the torso, crotch and sometimes limbs
+* [[zentai]], skin-tight garment covering the entire body
+* [[unitard]], skin-tight one-piece garment with long legs and usually long sleeves
+* [[tight_clothing]], any type of skin-tight clothing
+* [[Tag Group:Clothes]]'),
+        ('ready_player_one', 'In the 2040s, the world has been gripped by an energy crisis from the depletion of fossil fuels and the consequences of global warming and overpopulation, causing widespread social problems and economic stagnation. To escape the decline their world is facing, people turn to the OASIS, a virtual reality simulator accessible by players using visors and haptic technology such as gloves. It functions both as an MMORPG and as a virtual society, with its currency being the most stable in the real world. It was created by James Halliday who, when he died, had announced in his will to the public that he had left an Easter egg inside OASIS, and the first person to find it would inherit his entire fortune and the corporation. The story follows the adventures of Wade Watts, starting about five years after the announcement when he discovers one of the three keys pointing to the treasure.'),
+        ('trip_the_sungazer', 'thumb #4615108
+
+[b]Trip the Sungazer[/b] is a character from the [b][i][[sonic_the_hedgehog_(series)|Sonic the Hedgehog]][/i][/b] franchise, making her debut in "[[Sonic Superstars]]". She''s a clumsy and shy native to the [i]Northstar Islands[/i], who is one day (forcefully) recruited by [[Fang the Hunter]] and [[Dr. Eggman]] to guide them through the archipelago''s areas. After numerous scoldings and abuse from Fang, she soon decides to stand up to herself and fight for good along with [[classic_sonic|Sonic]] [[classic_tails|and]] [[classic_knuckles|his]] [[classic_amy_rose|friends]].
+
+Trip is a brown and orange-scaled [[anthro|anthropomorphic]] [[sungazer_(lizard)|Sungazer Lizard]] with black eyes and tan skin. For attire, she wears a spikey brown and yellow zigzag-layered dress, white gloves, black tights and orange shoes. She can also be seen wearing her trusty bronze armor.
+
+'),
+        ('pear_butter_(mlp)', 'thumb #1257460
+
+Pear Butter (also known as Buttercup) is the mother of [[applejack_(mlp)|Applejack]], [[big_macintosh_(mlp)|Big Macintosh]], and [[apple_bloom_(mlp)|Apple Bloom]]. She first appeared in the 13th Episode of Season 7 of My Little Pony: Friendship Is Magic, "The Perfect Pear".
+
+h4.See Also:
+
+* [[apple_bloom_(mlp)|Apple Bloom]] - Daughter
+* [[applejack_(mlp)|Applejack]] - Daughter
+* [[big_macintosh_(mlp)|Big Macintosh]] - Son
+* [[bright_mac_(mlp)|Bright Mac]] - Husband
+* [[grand_pear_(mlp)|Grand Pear]] - Father'),
+        ('slim', 'thumb #1750580 thumb #479275 thumb #1630719 thumb #2577636
+
+Possessing a naturally petite, narrow body frame that is neither [[muscular]] nor [[overweight]]. 
+
+Slim [[female|females]] tend toward either [[flat_chested|flat chests]] or noticeably [[small breasts]].
+
+Do [b]not[/b] use this tag to mark an unnaturally bony or scrawny body type. Consider using the [[anorexia]] tag for this situation if applicable.
+
+h4.Related Tags:
+* [[Skinny]]
+* [[Anorexia]]
+
+h4. See Also:
+* [[athletic]]
+* [[muscular]]
+* [[slightly_chubby]]
+* [[stocky]]
+* [[tag group:figures]]'),
+        ('shek', 'A warrior society that values strength and hardiness above more intellectual pursuits. They are sometimes a little humourless and have a reputation as dumb brutes, but this is not always the case. Their external skeletal plates provide a natural armour but hinders more dexterous pursuits like sneaking around.'),
+        ('dancer_of_the_boreal_valley', 'Dancer of the Boreal Valley is a boss in [[Dark Souls 3]].'),
+        ('sheeron', 'Male cheetah. Reference: https://www.furaffinity.net/view/38480348/'),
+        ('abstract_background', 'thumb #604718 thumb #2100645 thumb #530258 thumb #379247 thumb #317405
+
+Use this for images or animations that don''t feature a distinct background. It usually entails having a solid color background with a formless, artistic design or possibly some kind of abstract imagery. Note that this can also apply additional tags in some cases, like when these images have [[spiral background|spirals]] and/or [[gradient background|color gradients]].
+
+h4. Not to be confused with
+* [[geometric_background]]
+* [[gradient_background]] - A gradient by itself isn''t abstract.
+* [[monotone_background]] - Solid color backgrounds.
+* [[pattern_background]]
+** [[grid_background]] - A more specific version.
+
+h4. See also
+* [[tag_group:background]]
+
+* [b]abstract_background[/b]
+** [[spiral_background]]
+* [[simple_background]]'),
+        ('tympole', 'h4. See Also:
+
+* [[pokémon]]
+** tympole
+*** [[palpitoad]]
+**** [[seismitoad]]'),
+        ('<3_censor', 'h4. See [[heart_censor]]
+[section=Previous Description]
+A censorship technique which uses heart shapes to cover parts of the image (usually the genitalia), instead of other methods like a [[censor bar]] or [[mosaic censorship]]. Censorship is common in art from Japan, where genitals must be censored by law.
+
+h4.See Also:
+
+* [[censored]]
+** [b]<3_censor[/b]
+** [[censor_bar]]
+** [[convenient_censorship]]
+*** [[hair_covering_breasts]]
+*** [[tail_censorship]]
+** [[creative_censorship]]
+** [[ineffective_censorship]]
+** [[mosaic_censorship]]
+** [[naturally_censored]]
+*** [[nipple_tuft]]
+** [[pokéball_censor]]
+* [[uncensored]]
+* [[uncensor_request]]'),
+        ('x-wing', '
+
+
+The [b]T-65B X-wing starfighter[/b] is a [[spaceship|starfighter]] from the [[Star Wars]] franchise. They are depicted as the primary interceptor and dogfighter of the Rebel Alliance and the New Republic.
+
+h4. External:
+
+* "Wikipedia - X-wing fighter":https://en.wikipedia.org/wiki/X-wing_fighter'),
+        ('yonic_chastity_device', 'Yonic counterpart to [[phallic chastity device]]. Intended to apply to any [[chastity device]] with the apparent intent to restrict a subject''s access to a sexual orifice (most typically a [[vagina]]) of the subject when the device is in use.
+
+More simply: Does it seem like a present device is there to do [[chastity device]] things to a [[vagina]]? (or other hole based sexual cavity) (regardless of if that device is currently in a position to perform that function)'),
+        ('greenland', '[i][b]Greenland[/b][/i], known as [i]Kalaallit Nunaat[/i] in Greenlandic, is an island country in North America — it is the largest island on [[Earth]], and the northernmost country in North America, located east of the [[canada|Canadian arctic archipelago]]. Greenland''s capital and largest city is Nuuk.
+
+Greenland is a "constituent country":https://en.wiktionary.org/wiki/constituent_country of the [[denmark|Kingdom of Denmark]], meaning it is a self-governing territory of Denmark. 
+
+
+h4. See Also
+* [[tag group:countries]]'),
+        ('leblanc_(lol)', 'LeBlanc - the Deceiver
+
+[[league_of_legends|League of Legends]] Character
+
+"Picture":http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_0.jpg'),
+        ('tantra', 'from sanskrit [i]tan[/i] ''to weave''/''to compose'' ; it is a way to ''weave'' the physical and spiritual together. it is to achieve spiritual and/or energetic contact. 
+
+taken from webmd. '),
+        ('bloated', 'thumb #2506985 thumb #2975079 thumb #3837985 thumb #3147323 
+
+[b]Bloated[/b] describes a character with a [[belly]] that is [i]temporarily enlarged[/i] due to being full of something - this could be food, liquids, gases, or even another character. 
+
+A bloated character may describe the fullness of their [[stomach]], express or show discomfort, they are often shown [[burping]]. A character''s bloated belly will usually make [[digestion noises]] or [[sloshing belly|sloshing noises]]. Visual clues in the scene can help determine what exactly is causing their belly to bloat, but this tag is especially helpful when the nature of the character''s enlarged belly isn''t entirely clear from size or shape, but is obviously not fat or pregnancy.
+
+h5. Bloating Causes
+* [[inflation]] — belly full of air, water, cum or other gases/liquids [i](see page for variants)[/i]
+* [[stuffing]] — when the character''s belly is full of food
+* [[vore]] — belly full of one or more characters, bloated is more likely to be tagged with size difference between the predator and prey, or [[after vore]] with a smaller belly
+
+h5. Common Elements
+* [[burping]]
+* [[rumbling stomach]]
+* [[digestion noises]]
+* [[sloshing belly]]
+* [[holding belly]]
+* [[belly blush]]
+* [[outie navel]]
+
+h4. Related Tags
+* [[belly expansion]]
+* [[belly inflation]]
+* [[big belly]]
+** [[huge belly]]
+** [[hyper belly]]'),
+        ('pillarbox', 'Similar to [[letterbox]], but instead of having edge above and below content, there''s edges on both sides of the content. 
+
+Where [[letterbox]]ing can be artistic choise, pillarboxing is more often caused by technical issues. Most often caused by incorrect aspect ratio where non-widescreen content was rendered in widescreen or image being [[screencap]]ped on mobile device instead of saving the image. 
+
+Not to be confused with bright red post box, pillar box, from england. 
+
+h4. See also
+
+* [[Border]]
+* [[Letterbox]]
+* [[mailbox]]'),
+        ('fall_of_eden', 'Fall of Eden is an open world text adventure similar to [[Corruption of Champions]] and developed by [[aldergames]].
+
+h4. External links:
+
+* https://wiki.smutosaur.us/FoE/Main_Page'),
+        ('sayu_(nsr)', 'Sayu is a virtual [[mermaid]] idol working for the record label NSR from the [[video game]] [i]"[[No Straight Roads]]"[/i].
+
+thumb #2397170
+
+Behind the scenes she is in reality a [[robot]] controlled and developed by a group of [[teenagers]] comprising of Tila (voice actor/singer), Remi (graphics designer), Dodo (motion capture specialist) and Sofa (director/film editor).'),
+        ('yissachar', 'A dark red and yellow dragon character owned by "Wehf":https://www.furaffinity.net/user/wehf/.'),
+        ('lifting', 'Used where a character is [b]partially[/b] supporting the weight of another character ([u]not an object[/u]).
+
+Examples
+
+h4. Not to be confused with
+
+* [b]Objects[/b] - Objects being held should use the [[holding object]] tag instead, and certain lifting activities have their own separate tags such as [[weightlifting]].
+* [[Carrying]] - Used where a character is supporting [b]all[/b] of the weight of another character.
+* [[Riding]] - A concept that is distinct from carrying and lifting that involves riding on the backs of animals.
+
+H4. Types
+* [[Wheelbarrow Position]]
+
+h4. See also
+
+* [[tag_group:touching]]
+
+* [[dragging]]
+* [[grabbing]]
+* [[holding_(disambiguation)]]
+* [[lifted]]
+* [[pulling_(disambiguation)]]
+* [[straddling]]
+* [[suspension]] - When being lifted/suspended off groud by mechanisms.'),
+        ('incase', '[b]Safe-mode blocked URLs:[/b]
+https://incaseart.tumblr.com/
+https://buttsmithy.tumblr.com/
+
+https://www.dropbox.com/s/12c7ph4x3c5wu4p/InCase%20Tumblr%20Archive.rar?dl=0
+Tumblr pre-purge archived dropbox '),
+        ('banding', 'Banding is a medical or veterinary procedure involving the use of an elastic band to constrict blood flow to a particular part of the body. Source: https://en.wikipedia.org/wiki/Banding_(medical)
+
+On this site, it most commonly takes the form of either [[penile_banding]] or [[elastration]].'),
+        ('kaye_devin', 'This tag should refer to the character Kaye Devin, though it was used as an artist name before "It''s a Trap!".'),
+        ('higglytownhero', 'Commissioning information: "[Link]":http://higglytownhero.deviantart.com/journal/COMMISSION-INFO-657803827
+
+h5. Sources:
+* "DeviantArt":https://www.deviantart.com/higglytownhero
+* "FurAffinity":https://www.furaffinity.net/user/higgly.town.hero/
+* "Pixiv":https://www.pixiv.net/en/users/7946845
+* "Tumblr":https://higburger.tumblr.com/
+* "Twitter":https://twitter.com/HigglyTH
+* "Weasyl":https://www.weasyl.com/~higgly
+
+h5. Streams:
+* "Picarto":https://picarto.tv/higglytownhero'),
+        ('recolor_(disambiguation)', 'Please consider one of the following, more specific tags.
+
+* [[alternate color]]: Characters (and fictional species) depicted with a different color scheme than normal.
+* [[color edit]]: [[Third-party edit|Third-party edits]] that adjust a (usually uncolored) parent post to add or revise colors.
+* [[fan character]]: Characters based on existing media with no official affiliation.'),
+        ('mcro', 'I''m an artist with spanish roots and my style are digital watercolor drawings.
+Macro. Anthro. Non-Anthro. Bestiality.
+
+McRo'),
+        ('fellatio_sandwich', 'Known usually as a blowjob sandwich, it is a position where two partners suck on on both sides of the penis simultaneously. This is usually seen in the third-person perspective in many scenarios.'),
+        ('anzu_haga', 'Tanuki/Wolf Shapeshifter. Owned by CommissarSpuddy.'),
+        ('butt_wings', 'thumb #14712 thumb #422607 thumb #19058
+
+Wings that, for whatever reason, originate from or around the butt. Usually not designed with practicality in mind.
+
+h4.See also:
+
+* [[wings]]
+** [[bat_wings]]
+** butt_wings
+** [[butterfly_wings]]
+** [[feathered_wings]]
+** [[head_wings]]
+** [[membranous_wings]]
+** [[realistic_wings]]
+** [[spread_wings]]
+** [[winged_arms]]'),
+        ('jake_cottontail', 'A character belonging to the artist [[Amarimasi]], Jake is a [[cub|preteen]] [[male]] [[rabbit]] who has been described by the artist as being ''inexplicably irresistible'', as seemingly everyone who comes in contact with Jake ends up [[sex|having sex]] with him, with his most notable relationship being with [[otter]] [[female|girl]] [[Katie_kirster|Katie Kirster]], whom he seems to have genuine feelings for.
+
+Note that initiating a sexual encounter is rarely his idea, and that such encounters tend to have the characters aggressively seducing Jake at best and [[rape|forcing themselves on him]] at worst. Jake appears to be [[bisexual]], as he has had agreeable sexual encounters with characters of both genders, but it is difficult to tell since much of his sex life is non-consensual.'),
+        ('yenza', '"Commission info.":https://www.furaffinity.net/view/18975715/ '),
+        ('nude_modelling', 'thumb #192494 thumb #694786 thumb #820238 thumb #1775069
+
+When a character is [[modelling]] while [[nude]] or [[mostly_nude]] for another character(s), either as a model (on a runway or stage) or as an [[artist|artist''s]] muse for the purpose of [[creating_art]] of the modelling character.
+
+* Not to be confused with [[pinup]].
+
+h4.See Also:
+* [[artist]]
+** [[camera]]
+*** [[photo]]
+** [[paintbrush]]
+** [[paper]]
+** [[pen]]
+** [[pencil_(object)]]
+** [[sculpture]]
+*** [[statue]]
+* [[creating_art]]
+** [[drawing]]
+** [[painting]]
+** [[recording]]
+** [[sculpting]]
+* [[modelling]]
+** [b]nude_modelling[/b]
+* [[pinup]]
+* [[pose]]'),
+        ('fumigating', 'disinfect or purify (an area) with the fumes of certain chemicals.'),
+        ('rivalry', 'Images or animations depicting two separate differences against each other '),
+        ('pussy_katt_(character)', 'Pussy Katt is a [[pregnant]] [[lion]] who enjoys acting lewdly and lounging about in the [[nude]]. She was created by the artist [[Xela_(artist)|Xela]].'),
+        ('winter_solstice', 'The [b]winter solstice[/b] is the moment when one of the Earth''s poles is at its maximum tilt away from the Sun as recognized in the corresponding hemisphere.  At this time, the Sun''s maximum elevation in the sky is at its lowest.  In the Northern Hemisphere, this occurs on either [b]December 21[/b] or [b]22[/b], while in the Southern Hemisphere, this occurs on either [b]June 20[/b] or [b]21[/b].  It has commonly been recognized as the middle of the winter in temperate climates or, alternately as the official beginning of winter.
+
+Many cultures throughout the world have interpreted this as the death and rebirth of the Sun or a Sun god, which stopped the Sun from continuing its trek south- or northward until it disappeared forever.  As such, festivals at the winter solstice are commonly celebrated.
+
+
+h4. More Information
+"Winter solstice (Wikipedia)":https://en.wikipedia.org/wiki/Winter_solstice
+
+
+h4. Also see
+* [[June (month)]]
+* [[December (month)]]
+'),
+        ('dr._wondertainment', 'thumb #4330600
+
+[b]SCP-001-NORTH[/b], aka, [i]Dr. Wondertainment[/i] is one of the many proposals for SCP-001 in the SCP Foundation Mythos.
+
+Dr. Wondertainment is [i]A Simple Toymaker[/i] of unknown origin. They are the founder and CEO of Dr. Wondertainment ©️ and the creator of countless anomalous children''s toys. Most notably, 20 anomalous humanoid entities know as The Little Misters.
+
+Dr. Wondertainment is one of if not the most powerful reality benders in the entire Mythos, having been alive for hundreds of years and personally creating many of his anomalous products. 
+
+Out of universe, Dr. Wondertainment is one of the oldest GoI''s in the mythos and has ties and history with most other GoI''s including The Factory, MC&D Ltd., The Sarkicks, The Church of the Broken God, and AWCY?.
+
+He is heavily inspired by the character of Roahld Dahl''s Willy Wonka.
+
+Despite his immense power and elusiveness, Dr. Wondertainment is relatively benign and is classified as Safe.'),
+        ('kingpin_(species)', 'The [b]Kingpin[/b] is an [[alien]] enemy that was cut from [i][[Half-Life]][/i]. While it lacked convincing AI and gameplay goals, it was scripted nevertheless. It can be found in the game files.
+
+Twice the height of an average person, it was to have a massive brain filling its entire body, with four eyestalks spaced evenly around it. An early version was to walk on three chitinous legs with a clicking sound; a later version, called Sactildiae Nefariousium, traded the rear leg for a thick, worm-like "tail". Its psionic attacks and psionic defenses would have made it immune to missile weapons.
+
+h4. Further reading:
+"Combine OverWiki page":https://combineoverwiki.net/wiki/Kingpin'),
+        ('blue_pawpads', 'Self-explanatory.
+
+This tag is used when a character''s [[pawpads]] are blue in color.
+
+h4.Examples:
+thumb #710444 thumb #2741793 thumb #2809770
+
+h4.Colors:
+* [[pink_pawpads]]
+* [[black_pawpads]]
+* [b]blue_pawpads[/b]
+* [[brown_pawpads]]
+* [[green_pawpads]]
+* [[purple_pawpads]]
+* [[yellow_pawpads]]
+* [[red_pawpads]]
+* [[white_pawpads]]
+* [[orange_pawpads]]
+
+h4.See also:
+* [[paws]]
+** [[hindpaw]]
+** [[pawprint]]
+** [[paw_gloves]]'),
+        ('text_on_bra', 'Writing or typography in any language located on a [[bra]].
+
+h6. Types of bras with text
+* [[text_on_sports_bra]]
+
+h4. See also
+* [[bra]]
+* [[text]]
+* [[text_on_clothing]]
+** [[text_on_underwear]]'),
+        ('douglas_(iceleung)', 'Some useful info on my fluffy scaley boy:
+
+[b]Name:[/b] Douglas "Doug" Frostwind
+[b]Species:[/b] Eastern Dragon
+[b]Age:[/b] 26
+[b]Height:[/b] 4''3", tail is apprx. 3'' long and can be magically extended
+[b]Occupation:[/b] Crafter of magical focuses and spell books
+[b]Likes:[/b] Sushi, ramen, comedy/superhero/sci-fi movies, working with his hands, having his fur brushed, and hot drinks on cold days
+[b]Dislikes:[/b] Green veggies, hot weather, low-quality hairbrushes, and disruptions in his daily schedule
+[b]Sexuality:[/b] Bisexual, leaning male
+[b]Kinks:[/b] Small dom/big sub, bondage, tickling, feet/paws, spanking, humiliation, gags, blindfolds, and pet play (master role)
+
+A few quick facts about Doug:
+* Being an ice dragon, his scales are naturally cool to the touch. A bit ironically, his favorite drink is hot cocoa.
+* His tail is completely prehensile, able to be controlled by him at will. It is also quite strong, able to support his entire body and lift it off the ground to make him taller, a skill which has come in handy at many points in his life due to his short height. He can also use it to wrap up folks he feels may need a lesson or two about picking on the small.~
+* He wears prescription glasses; without them his vision is quite bad, and he can only see clearly a few feet in front of him. Still, he can make people and places out fairly well even if he has to squint to do so.
+* His favorite clothing items are hoodies and cargo shorts; the former for their comfort, and the latter for their extra storage space.
+* He has a boyfriend, a lion by the name of Mars. He loves to steal the bigger fur''s sweatshirts for himself sometimes. Mars is also the only person around allowed to call Douglas "Dougie".
+* His job leaves him well off financially, but a good amount of that money goes into... Personal items (Read; bondage gear and other adult toys) and he prefers to keep his looks and home decor casual.
+* Being a mage, Douglas has access to many forms of magic, but his strongest suit is undoubtedly ice magic thanks to his frost dragon heritage. He can cast magic without the need of a focus, but use of a wand he made for himself makes it that much more powerful and allows him to expand the length of his tail if he desires.
+* If there''s anything else you wanna know, feel free to ask!
+
+(written by IceLeung, source: https://www.furaffinity.net/view/40363967/)'),
+        ('jorm', 'A green and white Sergal with gold bands and small red markings near his eyes'),
+        ('cum_in_toes', 'When there is [[cum]] in-between a character''s toes.
+
+h4. See also:
+
+* [[cum_on_feet]]
+* [[bukkake]]
+* [[cum_in_mouth]]
+* [[cumshot]]
+* [[fellatio]]'),
+        ('engrid', 'A female [[doberman]] character belonging to artist [[jeremy_bernal|Jeremy Bernal]]. Notable features include wearing a black SS officer cap, a [[riding_crop|riding crop]], a [[monocle]], and [[dominatrix_gear|dominatrix]] gear.
+
+[ltable]
+Descriptum                        |Descriptor
+[[tag_group:body_types|Body Type]]|[[anthro]]
+[[howto:tag_genders|Gender]]      |[[female]]
+[[tag_group:species|Species]]     |[[doberman]]
+Body Covering                     |[[brown_fur]]
+└                                 |[[countershading]]
+[[Hair]]                          |[[brown_hair]]
+└                                 |[[short_hair]]
+Eyes                              |[[blue_eyes]]
+Accessories                       |[[monocle]]
+├                                 |[[riding_crop]]
+├                                 |[[spiked_collar]]
+├                                 |SS Officer [[peaked_cap]]
+└                                 |[[dominatrix]] gear
+[/ltable]'),
+        ('lucardo_cruz', 'Hello , My name is Lucardo Cruz !
+
+Im here to share my work with you.
+Im still learning a few things about drawing , and my work is not perfect , but I hope to get better with time ^^
+
+I post some of my work on my social acconts.
+
+'),
+        ('grove_(game)', 'thumb #2939394
+
+h4. NOTE: This game is in active development. Features will be incomplete.
+
+[b][i]GROVE[/i][/b] is a (currently) free gay-focused NSFW RPG following the journey of an adventurer as he attempts to venture into the far north of an unexplored land. You play as [[grove_(regalbuster)|Grove]], a skilled [[dragon]] explorer and [[cartographer]] assisting in the main island colonization efforts known as the "central expanse."
+
+As parties disperse, individuals begin to disappear further towards the cusp of the north. Soon, rumors of [color=pink]curses[/color] and monstrous entities encroaching from the northern expanse begin to spread among your ranks. As you near the end of your allocated survey areas, you are given a strange contraption with a marked map, the only guide to its function.
+
+Your interest piqued, you set off and begin your journey into the northern expanse.
+
+h5. The following is a list of kinks and fetishes featured in the game:
+* [[Male/Male]]
+* [[Hypnosis]]/[[Brainwashing]]/[[Mind Control]]
+* [[Tentacles]]
+* [[Bondage]]
+* [[Slime]]
+* [[Dronification]]
+* [[Corrupion]]
+* [[Latex]]
+* [[Symbiosis]]
+* [[Penis Milking]]
+
+h5. Associated websites:
+* "GroveDev (Fur Affinity Page)":https://www.furaffinity.net/user/grovedev/
+* "@regalbuster (Twitter Page)":https://www.twitter.com/regalbuster
+* "GROVE Development Woes (Discord Server)":https://discord.com/invite/TfHstyJYCB
+* "groverpgnsfw (Official itch.io Page)":https://grovedev.itch.io/groverpgnsfw'),
+        ('international_beaver_day', '[b]April 7[/b] is [b]International Beaver Day[/b], created in 2008 by the environmental group Beavers: Wetlands & Wildlife in order to raise awareness about the declining population of [[beaver|beavers]] across the world as well as the role they play in nature and the environment.
+
+h4. More Information
+"International Beaver Day (Days of the Year)":https://www.daysoftheyear.com/days/beaver-day/
+
+
+h4. See also
+* [[April (month)]]
+
+'),
+        ('ball_markings', 'Add this tag when a character has distinctive markings on their balls.
+
+h4.See also:
+* [b][[Markings]][/b]
+* [b]Marking placements[/b]
+** [[arm_markings]]
+*** [[shoulder_markings]]
+*** [[wrist_markings]]
+** [[back_markings]]
+** [[breast_markings]]
+** [[butt_markings]]
+** [[chest_markings]]
+** [[belly_markings]]
+** [[ear_markings]]
+** [[eye_markings]]
+** [[head_markings]]
+*** [[facial_markings]]
+*** [[forehead_markings]]
+*** [[occipital_markings]]
+** [[leg_markings]]
+*** [[thigh_markings]]
+** [[tail_markings]]
+** [[genital_markings]]
+*** [[penis_markings]]
+*** ball_markings
+*** [[pussy_markings]]
+*** [[sheath_markings]]'),
+        ('neversoft', 'Neversoft is a writer
+
+"About posting to e621 / R34 by [Past Sponsor] Neversoft":https://inkbunny.net/j/492175
+[quote]Just wanted to say that anyone is completly free to post to e621 and rule34. We think its really nice for both archival and getting our art out there.
+
+"XanOdice":https://inkbunny.net/XanOdice and I are not great at posting on those sites so we very much appreciate it a lot! Thank you! <3
+
+Just make sure to give people proper credit. ^^[/quote]
+'),
+        ('humanoid_to_feral', 'When a [[humanoid]] character [[transformation|transforms]] into a [[feral]] being.'),
+        ('grison', '[i]Galictis[/i], or grisons, is a small genus of [[Mustelid]] containing two species: the [[greater_grison]] and [[lesser_grison]].  These animals are also known as "South American wolverines" though there is no direct relation to the [[grison]] and the [[wolverine]].
+
+h4. Taxonomy:
+* [[mustelid|mustelidae]]
+** [[musteline|mustelinae]]
+*** ([i][[grison|Galictis]][/i])
+**** [[greater_grison]]
+**** [[lesser_grison]]
+
+h4. More information:
+https://en.wikipedia.org/wiki/Galictis'),
+        ('miranda_(plantedpot)', 'thumb #3701517   thumb #3720693   thumb #3762891   thumb #4014517   thumb #4014518   
+
+[b]Miranda[/b] is a [[female]] [[Serperior]] character created and owned by the artist [[PlantedPot]].
+
+A [[royalty|royal]] who inherited great wealth as a [[teenager|teenage]] [[Snivy]], Miranda and her pampered [[stomach]] were enabled to a life of pride and gluttony, having since grown into an [[obese]] Serperior with a [[apode|lack of legs]] or shame for her size.'),
+        ('echodoll', 'An Echodoll is any of the four members of the "Echodolls.":/wiki_pages/51395'),
+        ('ak-12', 'thumb #2921607 thumb #3383763
+
+The AK-12, "Avtomat Kalashnikova, 2012" (GRAU index 6P70) is a Russian assault rifle chambered in 5.45×39mm designed and manufactured by the Kalashnikov Concern (formerly Izhmash), making it the fifth generation of Kalashnikov rifles.
+
+h4. See also
+* [[ranged_weapon]]
+** [[assault_rifle]]
+* [[kalashnikov]]'),
+        ('ticket', 'A [b]ticket[/b] is a strip of cardboard, or paper used to gain admission into events, or traded in for prizes. Tickets may also be given out as a punishment for violating laws or regulations. For those kinds of tickets, use the [[citation]] tag instead.'),
+        ('graphite_(artwork)', 'Traditional artwork made with a graphite pencil.'),
+        ('elizabeth_(ghostbusters)', 'https://ghostbusters.fandom.com/wiki/Elizabeth'),
+        ('chipmunk_humanoid', 'Characters that appear almost entirely [[human]], but have ears or tail like a [[chipmunk]].
+
+* Note that animal humanoids should never be tagged [[anthro]] or [[human]].
+* If the ears seem fake, use [[fake ears]] instead.
+
+h4.See also:
+
+* [[humanoid]]
+** [[animal_humanoid]]
+*** [[rodent_humanoid]]
+**** [[beaver_humanoid]]
+**** [[capybara_humanoid]]
+**** [[chinchilla_humanoid]]
+**** chipmunk_humanoid
+**** [[degu_humanoid]]
+**** [[hamster_humanoid]]
+**** [[jerboa_humanoid]]
+**** [[mouse_humanoid]]
+**** [[prairie_dog_humanoid]]
+**** [[rat_humanoid]]
+**** [[squirrel_humanoid]]
+* [[anthro]]
+* [[feral]]
+* [[human]]
+* [[not_furry]]
+* [[taur]]'),
+        ('submission_hold', 'In combat sports, a [b]submission hold[/b] is a [[grappling]] hold that is applied with the purpose of forcing an opponent to submit out of either extreme pain or fear of injury.
+
+Submission holds are used primarily in ground fighting and can be separated into [i]constrictions[/i] (chokeholds, compression locks, suffocation locks) and [i]manipulations[/i] (joint locks, leverages, pain compliance holds). When used, these techniques may cause dislocation, torn ligaments, bone fractures, unconsciousness, or even death.
+
+"Submission hold - From Wikipedia, the free encyclopedia":https://en.wikipedia.org/wiki/Grappling_hold#Submission_hold'),
+        ('arm_grab', 'thumb #866434
+
+Used to denote a character grabbing the arm(s) of another character.
+
+h4. See also
+* [[tag_group:touching]]
+* [[hand_on_arm]] - When a character has their hand on their own or another character arm(s).
+* [[holding_arm]] - When a character is holding their own arm(s).'),
+        ('tatarian_aster_(flower)', 'Tatarian aster, or [i]aster tataricus[/i], is a type of [[aster_(flower)|aster flower]] with a pale purple color https://en.wikipedia.org/wiki/Aster_tataricus'),
+        ('negativetheory', 'added new twitter link'),
+        ('rainbow_boa', 'The [b]rainbow boa[/b] ([i]Epicrates cenchria[/i]), also known as a [b]slender boa[/b], is a [[boa_(snake)|boa]] species endemic to Central and South America.
+
+Rainbow boas may feature body colors in the reds, oranges, or browns and contain splotch like markings along its body.
+
+h4. External links
+
+* https://en.wikipedia.org/wiki/Rainbow_boa
+
+h4. See also
+
+* [[reptile]]
+** [[snake]]
+*** [[alethinophidian]]
+**** [[afrophidian]]
+***** [[booid]]
+****** [[boa_(snake)]]
+******* [[boinae]]
+******** [b]rainbow_boa[/b]'),
+        ('linkwolf', 'Dang, their art is much improved now!'),
+        ('cold_shoulder_leotard', 'A sleeved leotard with the shoulders cut out, but the sleeves are still attached.'),
+        ('herm_penetrating', 'Used for posts depicting a [[herm]] character penetrating another character, regardless of the gender or the body form of the latter.
+
+h4. Tags About Penetration:
+
+* [[penetration]]
+
+[section=Tags About Penetration:]
+
+h4. Form:
+[section=Form:]
+
+[section=<Form>_penetrated:]
+* [[anthro_penetrated]]
+* [[feral_penetrated]]
+* [[human_penetrated]]
+* [[humanoid_penetrated]]
+* [[taur_penetrated]]
+
+[/section]
+
+[section=<Form>_penetrating:]
+* [[anthro_penetrating]]
+* [[feral_penetrating]]
+* [[human_penetrating]]
+* [[humanoid_penetrating]]
+* [[taur_penetrating]]
+
+[/section]
+
+[section=<Form>_penetrating_<Form>:]
+* [[anthro_penetrating_anthro]]
+* [[anthro_penetrating_feral]]
+* [[anthro_penetrating_human]]
+* [[anthro_penetrating_humanoid]]
+* [[anthro_penetrating_taur]]
+* [[feral_penetrating_anthro]]
+* [[feral_penetrating_feral]]
+* [[feral_penetrating_human]]
+* [[feral_penetrating_humanoid]]
+* [[feral_penetrating_taur]]
+* [[human_penetrating_anthro]]
+* [[human_penetrating_feral]]
+* [[human_penetrating_human]]
+* [[human_penetrating_humanoid]]
+* [[human_penetrating_taur]]
+* [[humanoid_penetrating_anthro]]
+* [[humanoid_penetrating_feral]]
+* [[humanoid_penetrating_human]]
+* [[humanoid_penetrating_humanoid]]
+* [[humanoid_penetrating_taur]]
+* [[taur_penetrating_anthro]]
+* [[taur_penetrating_feral]]
+* [[taur_penetrating_human]]
+* [[taur_penetrating_humanoid]]
+* [[taur_penetrating_taur]]
+
+[/section]
+[/section]
+
+h4. Gender:
+[section=Gender:]
+
+[section=<Gender>_penetrating Tags:]
+* [[ambiguous_penetrating]]
+* [[female_penetrating]]
+* [[intersex_penetrating]]
+** [[andromorph_penetrating]]
+** [[gynomorph_penetrating]]
+** [b]herm_penetrating[/b]
+** [[maleherm_penetrating]]
+* [[male_penetrating]]
+
+[/section]
+
+[section=<Gender>_penetrated Tags:]
+* [[ambiguous_penetrated]]
+* [[female_penetrated]]
+* [[intersex_penetrated]]
+** [[andromorph_penetrated]]
+** [[gynomorph_penetrated]]
+** [[herm_penetrated]]
+** [[maleherm_penetrated]]
+* [[male_penetrated]]
+
+[/section]
+
+[section=<Gender>_penetrating_<Gender> Tags:]
+[section=ambiguous_penetrating:]
+* [[ambiguous_penetrating_ambiguous]]
+* [[ambiguous_penetrating_female]]
+* [[ambiguous_penetrating_intersex]]
+** [[ambiguous_penetrating_andromorph]]
+** [[ambiguous_penetrating_gynomorph]]
+** [[ambiguous_penetrating_herm]]
+** [[ambiguous_penetrating_maleherm]]
+* [[ambiguous_penetrating_male]]
+
+[/section]
+
+[section=female_penetrating:]
+* [[female_penetrating_ambiguous]]
+* [[female_penetrating_female]]
+* [[female_penetrating_intersex]]
+** [[female_penetrating_andromorph]]
+** [[female_penetrating_gynomorph]]
+** [[female_penetrating_herm]]
+** [[female_penetrating_maleherm]]
+* [[female_penetrating_male]]
+
+[/section]
+
+[section=intersex_penetrating:]
+* [[intersex_penetrating_ambiguous]]
+* [[intersex_penetrating_female]]
+* [[intersex_penetrating_intersex]]
+** [[intersex_penetrating_andromorph]]
+** [[intersex_penetrating_gynomorph]]
+** [[intersex_penetrating_herm]]
+** [[intersex_penetrating_maleherm]]
+* [[intersex_penetrating_male]]
+
+[section=andromorph_penetrating:]
+* [[andromorph_penetrating_ambiguous]]
+* [[andromorph_penetrating_female]]
+* [[andromorph_penetrating_intersex]]
+** [[andromorph_penetrating_andromorph]]
+** [[andromorph_penetrating_gynomorph]]
+** [[andromorph_penetrating_herm]]
+** [[andromorph_penetrating_maleherm]]
+* [[andromorph_penetrating_male]]
+
+[/section]
+
+[section=gynomorph_penetrating:]
+* [[gynomorph_penetrating_ambiguous]]
+* [[gynomorph_penetrating_female]]
+* [[gynomorph_penetrating_intersex]]
+** [[gynomorph_penetrating_andromorph]]
+** [[gynomorph_penetrating_gynomorph]]
+** [[gynomorph_penetrating_herm]]
+** [[gynomorph_penetrating_maleherm]]
+* [[gynomorph_penetrating_male]]
+
+[/section]
+
+[section=herm_penetrating:]
+* [[herm_penetrating_ambiguous]]
+* [[herm_penetrating_female]]
+* [[herm_penetrating_intersex]]
+** [[herm_penetrating_andromorph]]
+** [[herm_penetrating_gynomorph]]
+** [[herm_penetrating_herm]]
+** [[herm_penetrating_maleherm]]
+* [[herm_penetrating_male]]
+
+[/section]
+
+[section=maleherm_penetrating:]
+* [[maleherm_penetrating_ambiguous]]
+* [[maleherm_penetrating_female]]
+* [[maleherm_penetrating_intersex]]
+** [[maleherm_penetrating_andromorph]]
+** [[maleherm_penetrating_gynomorph]]
+** [[maleherm_penetrating_herm]]
+** [[maleherm_penetrating_maleherm]]
+* [[maleherm_penetrating_male]]
+
+[/section]
+[/section]
+
+[section=male_penetrating:]
+* [[male_penetrating_ambiguous]]
+* [[male_penetrating_female]]
+* [[male_penetrating_intersex]]
+** [[male_penetrating_andromorph]]
+** [[male_penetrating_gynomorph]]
+** [[male_penetrating_herm]]
+** [[male_penetrating_maleherm]]
+* [[male_penetrating_male]]
+
+[/section]
+[/section]
+[/section]
+
+h4. Object / Orifice penetration:
+[section=<Object/Orifice>_penetration:]
+
+[section=<Orifice>_penetration:]
+* [[ambiguous_penetration]]
+* [[anal_penetration]]
+** [[dildo_in_ass]]
+** [[double_anal]]
+** [[pegging]]
+** [[triple_anal]]
+* [[arthropod_abdomen_penetration]]
+* [[cloacal_penetration]]
+** [[dildo_in_cloaca]]
+** [[double_cloacal]]
+** [[triple_cloacal]]
+* [[ear_penetration]]
+* [[hair_penetration]]
+* [[nasal_penetration]]
+* [[navel_penetration]]
+* [[nipple_penetration]]
+* [[oral_penetration]]
+** [[double_oral]]
+** [[triple_oral]]
+* [[pouch_penetration]]
+* [[sheath_penetration]]
+* [[slit_penetration]]
+* [[unusual_penetration]]
+* [[urethral_penetration]]
+** [[penis_in_penis]]
+* [[vaginal_penetration]]
+** [[cervical_penetration]]
+** [[dildo_in_pussy]]
+** [[double_vaginal]]
+** [[triple_vaginal]]
+
+[/section]
+
+[section=<Object>_penetration:]
+* [[building_penetration]]
+* [[food_penetration]]
+* [[sex_toy_penetration]]
+** [[dildo_penetration]]
+*** [[dildo_in_ass]]
+*** [[dildo_in_cloaca]]
+*** [[dildo_in_pussy]]
+* [[penile_penetration]]
+** [[penis_in_penis]]
+* [[tentacle_penetration]]
+* [[tongue_penetration]]
+
+[/section]
+[/section]
+
+h4. Quantity:
+[section=<Quantity>_penetration:]
+* [[double_penetration]]
+** [[double_anal]]
+** [[double_cloacal]]
+** [[double_oral]]
+** [[double_vaginal]]
+* [[multi_penetration]]
+* [[multiple_insertions]]
+* [[multiple_penetration]]
+* [[quadruple_penetration]]
+* [[quintuple_penetration]]
+* [[triple_penetration]]
+** [[triple_anal]]
+** [[triple_cloacal]]
+** [[triple_oral]]
+** [[triple_vaginal]]
+
+[/section]
+
+h4. Size / Depth:
+[section=Size / Depth:]
+* [[balls_deep]]
+* [[deep_penetration]]
+* [[extreme_penetration]]
+* [[huge_penetration]]
+* [[large_penetration]]
+* [[macro_penetration]]
+* [[ridiculous_fit]]
+* [[shallow_penetration]]
+* [[tight_fit]]
+
+[/section]
+
+h4. Other:
+[section=Other:]
+* [[bilateral_penetration]]
+* [[cum_while_penetrated]]
+* [[guided_penetration]]
+* [[oral_while_penetrating]]
+* [[penetrating_pov]]
+* [[receiving_pov]]
+* [[suspended_via_penetration]]
+* [[trilateral_penetration]]
+* [[u-turn_penetration]]
+
+[/section]
+[/section]'),
+        ('chicken_nugget', 'A chicken nugget is a food product consisting of a small piece of deboned chicken meat that is breaded or battered, then deep-fried or baked.
+
+Chicken nuggets have become a very popular fast food restaurant item, as well as widely sold frozen for home use.
+
+Not to be confused with the popular web series [[chikn nuggit]] by [[kyrakupetsky]].'),
+        ('magnetiorchid', 'Artist prefers their NSFW & other fetish artwork be tagged under this artist tag, SFW non-fetish artwork should be tagged as [[cathodegaytube]]'),
+        ('mitzi_(dreamymitzi)', 'A character by the artist DreamyMitzi. Originally created in 2019.'),
+        ('jamila_(gt_evolution)', '[b]Jamila[/b] is a super villain goddess in "PREY The Devil Within''":https://e621.net/wiki_pages/show_or_new?title=prey_the_devil_within%27 produced by "GT Evolution":https://e621.net/wiki_pages/show_or_new?title=gt_evolution. She''s probably the worst villain of them all. Jamila is an anthropomorphic jackal with black fur, golden tattoos that goes over her right side torso like a strap bag with The Eyes of Horus sideways next to her belly button, wears golden arm rings, golden leg straps, short tail and doesn''t wear any clothes. 
+
+Jamila is a sexually attractive Anubis in Egypt who was abused by her father Jackal when she was younger. When she was gifted with goddess powers from Remana (the demoness goat), she began to misuse it. She ended up commiting parricide and took over her father''s throne. Jamila never felt such power and proceed to use it for evil deeds. She is thousands of years old, became a dictator and a ruthless goddess who seeks domination and watch the world burn. She has a son named Abdullah (his father was a slave that Jamila ended killing after mating), which she takes advantage of, even forcefully perform incest ever since he was young for her sick pleasures (Abdullah now 21). Arch enemy towards Tevelski, however Jamila''s arch nemesis would have to be "La Llorona":https://e621.net/wiki_pages/show_or_new?title=la_llorona_%28gt_evolution%29 who is suprisenly a strong enemy to take on. La Llorona isn''t exactly a killable person who is already dead. 
+Jamila killed every gods and goddesses in Egypt. Sobek, Sekhmet, Hathor and obtained all of their powers. Any that she kills, she harness the previous wielder and builds up power. Jamila seeks the angelic stone to become even more powerful than a god. However, she stumbles Makaria who was responsible turning Sabrina into "Hellena":https://e621.net/wiki_pages/47683. Makaria is a corrupted goddess who wants to eliminate mortals by transforming them into celestial beings. Guarding the angelic stone, Makaria doesn''t allow Jamila to obtain such source as she knows she''ll be an unstoppable goddess. Jamila isn''t the only PREY character that seeks for the Angelic Stone. Her rival Zalina, a clouded leopard from Brunei also wants it for her jewelry collection. She doesn''t really care about the power it has. Zalina is already powerful. She just likes how it looks and is determine to get it
+
+Birth and location:
+[Unknown birth date] Northern Egypt
+
+Height: 5" 9'' 
+
+Ability: Hyper strength, mind control necromancer (became useless after mind controlling La Llorona for the first time), eternal youth, absorb powers from others when she kills them, water bender, healer (but doesn''t have healing factor herself), manipulation, Hellena''s powers (for a short amount of time before she was killed by Tevelski)
+
+Arch enemy: Tevelski
+
+Arch nemesis: "La Llorona":https://e621.net/wiki_pages/show_or_new?title=la_llorona_%28gt_evolution%29
+
+Rival: Zalina
+
+Relative: Abdullah (son)'),
+        ('titan_a.e.', 'h1. Titan A.E.
+
+A sci-fi movie by Don Bluth.
+
+(A.E. stands for After Earth.)
+
+h3. Characters:
+
+* [[Cale Tucker]]
+* [[Akima (Titan A.E.)|Akima]]
+* [[Joseph Korso]] (the evil human)
+* [[Preed]]
+* [[Stith]]
+* [[Gune]] (the insane scientist thing)
+
+h3. Creatures/Species:
+
+* [[Drej]] (the energy thingies)
+* [[Mantrin]] (such as Stith; fanon?)
+* [[Akrennian]] (such as Preed)
+
+h3. See also:
+* "Wikipedia":http://en.wikipedia.org/wiki/Titan_A.E.'),
+        ('ryan_(river_city_ransom)', '[b]Ryan[/b] is one of two playable characters appearing in the first [i][[River City Ransom]][/i] game, and following sequel [i]River City Ransom: Underground[/i]. In the broader [[Kunio-kun]] series, this character goes by the name [[Riki Samejima]].
+
+The other playable character is [[alex_(river_city_ransom)|Alex]] (known as [[Kunio]] in the broader series). The two characters look nearly identical in the original game sprites. For references and cosplays, Alex wears a white t-shirt, and blue pants, and Ryan wears a blue t-shirt, and white pants. Appearances in box art, revamped sprites in the sequel, and port releases reveal additional design characteristics, and outfit changes from the original game. However the trend of Alex having a white theme (white shirt), and Ryan having a blue or dark theme (blue shirt, or blue hair) remains a consistent means of distinguishing the characters.
+
+h4. See also
+
+* [[video_games]]
+** [[kunio-kun]]
+*** [[river_city_ransom]]'),
+        ('cumlube', 'Personal lubricant that is designed to act and feel like real cum.
+
+h4. See also:
+
+* https://bad-dragon.com/products/cumlube
+* https://bad-dragon.com/products/cumlubeclear'),
+        ('morsyr', 'They have a nsfw alias, but have requested to please keep their names separate.'),
+        ('cupid_(lavendoe)', 'Cupid’s Arrow:
+https://www.furaffinity.net/user/lavendoe/
+https://www.furaffinity.net/view/55463690/
+https://d.furaffinity.net/art/lavendoe/1707385796/1707385796.lavendoe_71c3631e-c5cc-4cfb-91f6-840a5e5e7d2f_jpeg.jpg'),
+        ('mitzi_(luryry)', '[b]Mitzi[/b] is a female musk deer character belonging to "Luryry":https://www.furaffinity.net/user/luryry/
+
+h4.External links
+* "Mitzi''s reference":https://www.furaffinity.net/view/43608820/ on Fur Affinity'),
+        ('princess_(lemondude)', '“Princess” or “The Princess” OC created by Lemondude'),
+        ('bristol_type_2', '[[Feces]] that fall under type 2 on the Bristol Scale: "lumpy and sausage-like."
+
+https://www.verywellhealth.com/bristol-stool-chart-4174964'),
+        ('gustave_le_grand_(mlp)', '"Gustave le Grand":http://mlp.wikia.com/wiki/Gustave_le_Grand is a male [[griffon]] baker who appears in the episodes [I]MMMystery on the Friendship Express, Equestria Games[/I], and [I]Princess Spike[/I]. He is the second griffon to appear in the series, after [[Gilda_(mlp)|Gilda]]. '),
+        ('everleigh_darkfang', 'Deep in the depths of space lies a rift between our dimension and the Aether.'),
+        ('butter-t', 'Thai artist.'),
+        ('grey_legs', 'thumb #3426514
+
+Used when a character''s legs are grey in color.
+
+h4. Tags About Legs
+
+[section=Colors]
+h4. [[tag_group:colors|Colors]] of Legs
+
+* [[black_legs]]
+* [[blue_legs]]
+* [[brown_legs]]
+* [[cream_legs]]
+* [[green_legs]]
+* [b]grey_legs[/b]
+* [[orange_legs]]
+* [[pink_legs]]
+* [[purple_legs]]
+* [[red_legs]]
+* [[tan_legs]]
+* [[teal_legs]]
+* [[white_legs]]
+
+* [[monotone_legs]]
+* [[multicolored_legs]]
+** [[two_tone_legs]]
+
+* [[dark_legs]]
+* [[light_legs]]
+
+[/section]'),
+        ('mihari', 'A female [[cheetah]] character belonging to the user known as Yuki Anno.
+
+http://www.furaffinity.net/user/mihari
+
+thumb #689601 thumb #514521'),
+        ('gerusyu', 'つぶやきモンスター！！
+主にデジモンお絵描きするモン。
+かっこいいのとかかわいいのとかたまにちょっとスケベなのを描くから気を付けろ!!
+'),
+        ('war_crime', 'The act of committing crimes that violate wartime laws or the Geneva Convention. Intentionally killing civilians, unlawful experimentation, rape of non combatants, child soldiers, taking hostages and pillaging are some examples.
+
+Only apply this tag if there is both a war context and said action.'),
+        ('czech_republic', '[b][i]The Czech Republic[/i][/b], also known as [b]Czechia[/b], is a landlocked country in Central Europe. Historically known as [b]Bohemia[/b], it is bordered by Austria to the south, Germany to the west, Poland to the northeast, and Slovakia to the southeast. The Czech Republic has a hilly landscape that covers an area of 78,871 square kilometers (30,452 sq mi) with a mostly temperate continental and oceanic climate. The capital and largest city is Prague; other major cities and urban areas include Brno, Ostrava, Plzeň and Liberec.
+
+Use this tag if an image or video references the Czech Republic.'),
+        ('susie_(reathe)', 'Susie is a character of Reathe. She is a very thicc shortstack squirrel with a huge obsession with inflation. She is also in a relationship with Reathe. Other forms are sunflower, inkling, and pikachu libre'),
+        ('worship_request', 'For when some character is asking or inviting another to worship some part of them.'),
+        ('trainer_aliyah', 'OC pokemon trainer from Pixelvally
+https://www.furaffinity.net/user/pixelvally/'),
+        ('jumba_jookiba', 'thumb #1473865 thumb #1812214 thumb #1241681
+
+[b]Dr. Jumba Jookiba[/b] is a [[4 eyes|four-eyed]], [[purple skin|purple-skinned]], [[obese]], [[alien]] [[mad scientist]] from the [i][[Lilo and Stitch|Lilo & Stitch]][/i] franchise. He is the creator of [[Stitch (Lilo and Stitch)|Stitch]] and the other 628 genetic [[experiment (Lilo and Stitch)|experiments]]. He loves doing "evil" things, such as making new illegal genetic experiments, but he''s not exactly an evil person. In the time of the franchise after the first film, he plays the role of [[Lilo Pelekai|Lilo]] and [[Nani Pelekai]]''s "uncle" in their ''ohana (family) on [[Earth]]. His best friend is [[Wendy Pleakley|Pleakley]], who he was originally forcibly partnered with in capturing Experiment 626 (Stitch). His former partner-in-crime is [[Dr. Hämsterviel|Dr. Jacques von Hämsterviel]], who funded the creation of the experiments. Jumba''s species is called "[[Kweltikwan]]", which is also one of two spellings for the name of his home planet (the other spelling being "Quelte Quan").'),
+        ('bachi', 'https://en.wikipedia.org/wiki/Bachi
+
+
+Bachi (桴, 枹) (also batchi) is the name for the straight, wooden sticks used to play Japanese taiko drums, and also (written 撥) the plectrum for stringed instruments such as the shamisen and biwa.
+
+Bachi used for stringed instruments are actually picks. They are very distinct in form and use from Western-style picks, which are usually smaller in order to be held between or mounted to fingers. In shape, bachi are similar to an ice scraper or a putty knife.
+
+'),
+        ('dominant', 'Dominance is a set of behaviors, customs and rituals involving the giving by one individual to another individual of control over them in an erotic episode or as a lifestyle.
+
+Physical contact is not a necessity, and it can even be conducted anonymously over the telephone, email or other messaging system. In other cases, it can be intensely physical, sometimes traversing into sadomasochism. In D/s, both parties take pleasure or erotic enjoyment from either dominating or being dominated. Those who take the superior position are called dominants, doms (male) or dommes (female), while those who take the subordinate position are called submissives or subs (male or female). A switch is an individual who plays in either role. Two switches together may negotiate and exchange roles several times in a session. "Dominatrix" is a term usually reserved for a female professional dominant who dominates others for pay.
+
+A general test for domination/submission is whether there is an imbalance of power, whether it be real (held at spear point) or permitted (holding a leash).
+
+
+Tag also applies if the theme of domination is present in the image.
+
+h4. Related tags:
+* [[bdsm]]
+* [[bullying]]
+* [b]dominant[/b]
+** [[dominant_ambiguous]]
+** [[dominant_female]]
+** [[dominant_intersex]]
+*** [[dominant_andromorph]]
+*** [[dominant_gynomorph]]
+*** [[dominant_herm]]
+*** [[dominant_maleherm]]
+** [[dominant_male]]
+* [[submissive]]
+** [[submissive_ambiguous]]
+** [[submissive_female]]
+** [[submissive_intersex]]
+*** [[submissive_andromorph]]
+*** [[submissive_gynomorph]]
+*** [[submissive_herm]]
+*** [[submissive_maleherm]]
+** [[submissive_male]]
+
+* [[dominant_anthro]]
+* [[dominant_feral]]
+* [[dominant_human]]
+* [[dominant_humanoid]]
+* [[dominant_pokemon]]
+* [[dominant_taur]]
+* [[submissive_anthro]]
+* [[submissive_feral]]
+* [[submissive_human]]
+* [[submissive_humanoid]]
+* [[submissive_taur]]
+
+* [[dominant_pov]]
+* [[submissive_pov]]'),
+        ('gail_(badsheep)', '[b][color=character]Gail[/color][/b] is an [[anthro]] [[sheep]] that belongs to [[BadSheep]] and serves as their main OC.'),
+        ('lawachurl', 'Lawachurls are similar to Mitachurls from Genshin Impact, except Lawachurls are able to use elemental abilities. '),
+        ('lucius_(tanrowolf)', 'Tanrowolf’s german shepherd knight:
+http://www.furaffinity.net/gallery/tanrowolf/folder/709899/Lucius/'),
+        ('furry_things_(webcomic)', 'https://www.furaffinity.net/gallery/oneeyewolf/folder/752379/Furry-Things'),
+        ('flexing', 'thumb #4253939 thumb #3205655 thumb #3686060 thumb #2784670 thumb #2835347 thumb #1861556 thumb #1247573
+
+[b]"Flexing"[/b] is a word referring to the individual bending of the "elbow":https://en.wikipedia.org/wiki/Elbow by a character [i](often a [[muscular]] one)[/i], allowing the size of their [[biceps]] to be demonstrated.
+
+"[b]Flexing[/b]" is a way of showing off one''s muscularity to others, or for personal satisfaction.
+
+This tag designates [b][u]a general "flexion":https://en.wikipedia.org/wiki/Anatomical_terms_of_motion#Flexion_and_extension [/u][/b]
+[i](Use this tag whether the character flexes both arms or just one, the direction in which the arm is bent is irrelevant.)[/i]
+
+[table]
+  [thead]
+    [tr]
+      [th] Singular [/th]
+      [th] Plural [/th]
+    [/tr]
+  [/thead]
+  [tbody]
+    [tr]
+      [td] [[flexing_bicep]] [/td]
+      [td] [[flexing_biceps]] / [[flexing_both_biceps]] [/td]
+    [/tr]
+  [/tbody]
+[/table]
+
+h4.Related tags
+* [[biceps]]
+** [[big_biceps]]
+* [[flexing_muscles]]
+* [[muscular]]
+* [[pose]]'),
+        ('atomicbraven', 'French VTuber, Wolf Godess, Horny girl, but can ba a futa or a femboy.
+
+Character belongs to : 
+ 
+SFW : https://linktr.ee/atomicbraven
+NSFW : https://linktr.ee/braven_nsfw'),
+        ('kuron', 'http://metokuron.tumblr.com/
+
+http://jkproj.blogspot.ca/
+
+https://twitter.com/metokuron'),
+        ('exotico', 'a registered trademark brand of liquor spirits, specifically tequila.
+
+The Exotico logo is a wildly colored skull design reminiscent of the Mexican holiday, [[Day of the Dead]].'),
+        ('tentacle_around_tail', 'Used for posts depicting [[tentacles]] wrapped around a character''s tail.
+
+h4. Tentacle Tags
+
+* [[tentacles]]
+
+[section=Tentacle Tags]
+[section=Colors of Tentacles]
+h4. Tentacle [[tag_group:colors|Colors]]
+
+* [[black_tentacles]]
+* [[blue_tentacles]]
+* [[brown_tentacles]]
+* [[green_tentacles]]
+* [[grey_tentacles]]
+* [[orange_tentacles]]
+* [[pink_tentacles]]
+* [[purple_tentacles]]
+* [[red_tentacles]]
+* [[tan_tentacles]]
+* [[white_tentacles]]
+* [[yellow_tentacles]]
+
+* [[monotone_tentacles]]
+* [[multicolored_tentacles]]
+** [[rainbow_tentacles]]
+** [[two_tone_tentacles]]
+
+* [[dark_tentacles]]
+* [[light_tentacles]]
+
+[/section]
+
+[section=Tentacle Anatomy]
+* [[back_tentacles]] - When tentacles are protruding from the back.
+* [[crotch_tentacles]] - When the genitalia is replaced by tentacles.
+* [[dipstick_tentacles]] - When the tip of the tentacles are colored differently than the rest of the tentacles.
+* [[face_tentacles]] - When tentacles are protruding from the face.
+* [[glistening_tentacles]] - Tentacles that are glistening.
+* [[glowing_tentacles]] - Tentacles that glow.
+* [[goo_tentacles]] - A tentacle that is made of goo.
+* [[metallic_tentacles]]/[[metal_tentacles]]/[[robotic_tentacles]] - A tentacle that is made of metal.
+* [[nipple_tentacles]] - Nipples that are literally made out of tentacles.
+* [[nubbed_tentacles]] - A tentacles covered with nubs and bumps.
+* [[penis_tentacles]] - Tentacles that are shaped like penises.
+* [[spiked_tentacles]] - A tentacle with spikes.
+* [[spotted_tentacles]] - A tentacle with spots.
+* [[striped_tentacles]] - A tentacle with stripes.
+* [[tapering_tentacles]] - A tentacle that is thicker at the base, and gradually becomes thinner towards the tip.
+* [[tentacle_arms]] - When a character has tentacles for arms.
+* [[tentacle_cilia]] - When a tentacle appendage ends in a mass of other, smaller, shorter tentacles.
+* [[tentacle_eye]] - A tentacle with one or more eyes.
+* [[tentacle_hair]] - Hair that is literally made out of tentacles.
+* [[tentacle_maw]] - A tentacle with triangular petals on the end of it, which looks like a starfish or flower when opened.
+* [[tentacle_mouth]] - A tentacle with a regular mouth-like opening on the end of a tentacle.
+* [[tentacle_ovipositor]] - A tentacle that lays eggs.
+* [[tentacle_piercing]] - A tentacle with one or more piercings.
+* [[tentacle_pubes]] - Pubes that are literally made out of tentacles.
+* [[tentacle_pussy]] - A tentacle that is shaped more/less like a pussy.
+* [[tentacle_tail]] - A tentacle for a tail.
+* [[tentacle_tongue]] - A tentacle for a tongue.
+* [[tentacle_wings]] - When a character has wings comprised of tentacles.
+* [[translucent_tentacles]] - Semi-transparent tentacles.
+* [[veiny_tentacles]] - Tentacles with veins.
+* [[water_tentacles]] - A tentacle that is made of water.
+* [[webbed_tentacles]] - Tentacles that have webbing between them.
+* [[wet_tentacles]] - Tentacles that are soaked in water, or other liquids.
+
+[/section]
+
+[section=Tentacle Actions]
+* [[consentacles]] - A tentacle interacting with a consented character.
+* [[milking_tentacles]] - When a tentacle is milking a character''s nipples or penis.
+* [[tentacle_around_arm]] - When a tentacle is wrapped around a character''s arm.
+** [[tentacle_around_wrist]] - When a tentacle is wrapped around a character''s wrist.
+* [[tentacle_around_breast]] - When a tentacle is wrapped around a character''s breast.
+* [[tentacle_around_horn]] - When a tentacle is wrapped around a character''s horn.
+* [[tentacle_around_leg]] - When a tentacle is wrapped around a character''s leg.
+* [[tentacle_around_neck]] - When a tentacle is wrapped around a character''s neck.
+* [[tentacle_around_penis]] - When a tentacle is wrapped around a character''s penis.
+* [[tentacle_around_snout]] - When a tentacle is wrapped around a character''s snout.
+* [b]tentacle_around_tail[/b] - When a tentacle is wrapped around a character''s tail.
+* [[tentacle_around_waist]] - When a tentacle is wrapped around a character''s waist.
+* [[tentacle_bondage]]/[[bound_by_tentacles]] - When tentacles are involved with bondage.
+* [[tentacle_grab]] - When a tentacle is being grabbed by a character.
+* [[tentacle_lick]] - When a character is licking a tentacle.
+* [[tentacle_rape]] - Self-explanatory; a character being raped by tentacles.
+** [[imminent_tentacle_rape]] - The idea or suspicion that tentacle rape is about to occur.
+* [[tentacle_sex]] - Sex involving tentacles.
+** [[cum_in_tentacles]] - When a character cums inside a tentacle; often used with [[tentacle fellatio]].
+** [[cum_on_tentacle]] - When a character cums on the surface of a tentacle.
+** [[imminent_tentacle_sex]] - The idea or suspicion that tentacle sex is about to occur.
+** [[pussy_juice_on_tentacle]] - When a character''s pussy juice covers the surface of a tentacle.
+** [[tentaclejob]] - Like a [[handjob]] but with tentacles.
+** [[tentacle_fellatio]] - When a tentacle is performing oral sex on a character.
+** [[tentacle_penetration]] - When tentacles are involved in sexual penetration.
+*** [[tentacle_in_ass]] - When a tentacle is anally penetrating a character.
+*** [[tentacle_in_ear]] - When a tentacle is penetrating a character''s ear.
+*** [[tentacle_in_mouth]] - When a tentacle is orally penetrating a character.
+*** [[tentacle_in_navel]] - When a tentacle is penetrating a character''s navel.
+*** [[tentacle_in_nipple]] - When a tentacle is penetrating a character''s nipple.
+*** [[tentacle_in_penis]] - When a tentacle is penetrating a character''s penis.
+*** [[tentacle_in_pussy]] - When a tentacle is vaginally penetrating a character.
+*** [[tentacle in_urethra]] - When a tentacle is penetrating a character''s urethra.
+
+* See also: [[tag_group:touching]]
+
+[/section]
+
+[section=Miscellaneous]
+* [[disembodied_tentacle]] - When a tentacle is not attached to a body.
+* [[tentacle_bulge]] - When a bulge is created by a tentacle penetrating a character.
+* [[tentacle_dildo]] - A dildo shaped like a tentacle.
+* [[tentacle_dog]] - An original species.
+* [[tentacle_growth]] - When a character grows a new tentacle.
+* [[tentacle_link]] - When multiple characters are connected via one or more tentacles.
+* [[tentacle_monster]] - A monster with multiple tentacles coming out from it.
+* [[tentacle_pit]] - A pit filled with tentacles and/or with multiple tentacles coming out of it.
+* [[tentacle_plant]]/[[plant_tentacles]] - A plant made of tentacles.
+* [[tentacle_room]] - A room with walls and floors comprised of tentacles.
+* [[tentacle_scarf]] - When a character wears a tentacle like a scarf.
+* [[tentacle_wall]] - A wall comprised of tentacles.
+* [[tentacles_everywhere]] - When tentacles are coming from every direction.
+* [[tentacles_from_penis]]/[[tentacle_from_penis]] - When tentacles are coming out from a character''s penis.
+* [[tentacles_from_pussy]] - When tentacles are coming out from a character''s pussy.
+* [[tentacles_under_clothing]] - Depictions of tentacles under a character''s clothing.
+* [[tentaclothes]]/[[tentacle_clothing]]/[[tentacle_suit]] - Clothing comprised of tentacles.
+
+[/section]
+[/section]'),
+        ('showing_leg', 'This is for characters with a long outfit, usually past the knee, having one leg exposed via a slit in the garment or just by hiking up their hemline.
+
+thumb #1650714'),
+        ('purple_bra', 'Self-explanatory, for when a character is wearing a [[bra]] in the color purple.
+
+h4.Colors
+* [[black_bra]]
+* [[blue_bra]]
+* [[brown_bra]]
+* [[green_bra]]
+* [[grey_bra]]
+* [[orange_bra]]
+* [[pink_bra]]
+* [[red_bra]]
+* [[tan_bra]]
+* [[white_bra]]
+* [[yellow_bra]]
+* [[multicolored_bra]]
+** [[rainbow_bra]]
+** [[two_tone_bra]]
+
+h4. See also
+* [[underwear]]
+** [[purple_underwear]]'),
+        ('stoki', '"Yo, what''s up, my name''s Stoki and I''m an artist who enjoys drawing furry stuff from time to time. 
+I don''t upload very often mainly due to lack of time/speed rather than laziness, but I hope to use this account to kind of chronicle my adventures into learning to paint, as well as to just post whatever (probably) gay shit I draw.
+
+
+Anyways, I hope you end up enjoying whatever I draw, and I''m always very welcoming of critique!
+
+Also, if you''d like to, feel free to follow me on my twitter!"
+-"Source":https://twitter.com/ArtStoki?s=20&t=HVzmTOpXAHCbN2peXUC9-w'),
+        ('eurasian_tree_sparrow', 'The [b]Eurasian tree sparrow[/b] ([i]Passer montanus[/i]) is a [[passerine]] bird in the sparrow family with a rich chestnut crown and nape, and a black patch on each pure white cheek. The sexes are similarly plumaged, and young birds are a duller version of the adult. 
+
+h4. External links
+
+* https://en.wikipedia.org/wiki/Eurasian_tree_sparrow
+
+h4. See also
+
+* [[avian]]
+** [[bird]]
+*** Psittacopasserae
+**** [[passerine]]
+***** [[oscine]]
+****** [[sparrow]]
+******* [b]eurasian_tree_sparrow[/b]'),
+        ('zoe_orimoto', '"Zoe Orimoto":http://digimon.wikia.com/wiki/Zoe_Orimoto (織本 泉 Orimoto Izumi?) is a fictional character in the anime series [[Digimon]] Frontier. She is one of the "DigiDestined", children who were chosen to receive the ability to transform into Digimon in order to save the Digital World.
+
+[spoiler]Zoe is the only [[female]] member of the team and was chosen to wield the Spirits of Wind which hold the power of AncientKazemon. She was born in Japan but moved to Italy at a young age. She recently moved back to Japan but had problems making friends due to the culture barrier and because of her shyness. Because of her attractiveness, she tends to get a lot of male attention throughout the series. J.P. Shibayama has a huge crush on her which she sometimes uses to her advantage, and most of her other fellow DigiDestined have shown interest in her too, as have some [[male]] Digimon. She is scared of the dark.[/spoiler]
+
+[spoiler]In the [[Italian]] dub, she moved to United States of America Friends in danger!, rather than Italy.[/spoiler]'),
+        ('belt_pouch', 'A small [[pouch]] that is attached to a [[belt]] (often a [[utility belt]]). Commonly used by [[police|law enforcement]], military personnel and [[Batman]].
+
+Not to be confused with [[fanny_pack]].
+
+h4. See also
+* [[arm_pouch]]
+* [b]belt_pouch[/b]
+* [[tail_pouch]]
+* [[thigh_pouch]]
+* [[utility_belt]]
+'),
+        ('low_cut_shirt', 'A piece of topwear where the neck dips lower than a normal shirt, typically worn by women to expose their cleavage.
+This description is not exclusive, but covers a majority of it''s typical usage.'),
+        ('gayoku_midara', 'Bio: 我欲みだらじゃよ！[quote]You''re a selfish slut![/quote]'),
+        ('felinesyndr0me', 'Dead links:
+`https://parts-and-services.tumblr.com/`
+`http://felinesyndr0me.tumblr.com/`'),
+        ('ankle_grab', 'thumb #2314774 thumb #2518235 thumb #2275127
+
+A character grabbing the ankle of another character. Grabbing can be defined as applying pressure to something, usually while gripping it with their fingers. Although this tag also applies to characters who lack fingers that happen to be simulating a grabbing action.
+
+For a character grabbing more than one ankle belonging to a single character, use [[grabbing both ankles]] instead.
+
+h4. Not to be confused with
+
+* [[holding_ankle]] - A character holding / grabbing their own ankle.
+
+h4. Related tags
+
+* [[hand_on_ankle]] - A character with their ankle being touched by themselves or someone else.
+
+h4. See also
+
+* [[tag_group:touching]]
+
+[section=Leg anatomy terms]
+
+* [b]Leg[/b] - A limb designed to support a character''s weight.
+
+* [b]Fore leg[/b] - The front leg of a character with more than two legs, usually a [[quadruped]]. 
+* [b]Hind leg[/b] - The rear leg of a character with more than two legs, usually a [[quadruped]].
+
+* [b]Joints[/b] - A flexible pivot point between two anatomical regions.
+** [b]Ankle[/b] - The joint between the lower leg, and the foot.
+** [b]Knee[/b] - The joint between the thigh and the lower leg.
+
+* [b]Upper leg[/b] - The part of the leg above the knee (if one exists).
+** [b]Thigh[/b] - The thigh represents the entire area of the upper leg.
+
+* [b]Lower leg[/b] - The part of the leg below the knee.
+** [b]Shin[/b] - The anterior (front) side of the lower leg.
+** [b]Calf / Calves[/b] - The posterior (rear) side of the lower leg.
+
+h5. [b]Related anatomy[/b]
+
+* [b]Foot / Feet[/b] - An anatomical structure that is attached to the end of the leg via the ankle joint.
+
+[/section]
+
+[section,expanded=Singular tags]
+
+* [[leg_grab]]
+** Mid leg
+*** [[knee_grab]]
+** Upper leg
+*** [[thigh_grab]]
+** Lower leg
+*** [b]ankle_grab[/b] - The area in between the leg and foot
+*** [[calf_grab]]
+*** [[shin_grab]]
+
+h5. Related anatomy
+
+* [[foot_grab]] - Currently used for both singular and plural grabs.
+
+[/section]
+
+[section=Plural tags]
+
+* [[grabbing_both_legs]]
+** Mid leg
+*** [[grabbing_both_knees]]
+** Upper leg
+*** [[grabbing_both_thighs]]
+** Lower leg
+*** [[grabbing_both_ankles]] - The area in between the leg and foot.
+*** [[grabbing_both_calves]]
+*** [[grabbing_both_shins]]
+
+h5. Related anatomy
+
+* [[foot_grab]] - Currently used for both singular and plural grabs.
+
+[/section]'),
+        ('rao_(artist)', 'OAROIR twitter account is locked'),
+        ('orange_bottomwear', 'Any article of [[bottomwear]] ([[pants]], [[shorts]], [[skirt]], etc.) that is orange in color.
+
+thumb #2193251 thumb #1302063 thumb #3566328
+
+h4. Categories
+
+* [[orange_hakama]]
+* [[orange_loincloth]]
+* [[orange_kilt]]
+* [[orange_pants]]
+* [[orange_sarong]]
+* [[orange_shorts]]
+* [[orange_skirt]]
+
+h4. Bottomwear colors
+
+* [[black_bottomwear]]
+* [[blue_bottomwear]]
+* [[brown_bottomwear]]
+* [[green_bottomwear]]
+* [[grey_bottomwear]]
+* [b]orange_bottomwear[/b]
+* [[pink_bottomwear]]
+* [[purple_bottomwear]]
+* [[red_bottomwear]]
+* [[tan_bottomwear]]
+* [[teal_bottomwear]]
+* [[white_bottomwear]]
+* [[yellow_bottomwear]]
+
+* [[rainbow_bottomwear]]
+
+h5. Color attributes
+
+* [[translucent_bottomwear]]
+
+h5. Color counts
+
+* [[monotone_bottomwear]]
+* [[multicolored_bottomwear]]
+** [[two_tone_bottomwear]]
+** [[multi_tone_bottomwear]]'),
+        ('skye_chancellor', 'Subby bunny boy with a penchant for video games and bass guitar.
+
+Owned by (and basically the fursona of): "Voltscream":https://www.furaffinity.net/user/xrizuxzekken/'),
+        ('pharuaz-katjie', 'Character Tag'),
+        ('riggy_the_runkey', 'Rigmond R. "Riggy" Runkey is a Rabbit Monkey hybrid (Runkey for short) who is Danno''s worker/friend and stars alongside him in DannoDraws videos as well as being a "creator" of his own channel. His hobbies include skateboarding, committing crimes, and hanging out with his love interest Rosey.
+Riggy was replaced by a clone during the clone wars arg until he retaliated and absolutely demolished his clone.
+Riggy was likely inspired by characters like Oswald the rabbit. '),
+        ('dark_guardian_corporation', '"Furaffinity":https://www.furaffinity.net/user/darkguardiancorporation/
+"Weasyl":https://www.weasyl.com/~darkguardiancorporation
+"Deviantart":http://isaak-schwarze.deviantart.com/
+'),
+        ('nft_monkey', 'Those ugly monkey nfts from [[bored ape yacht club]].'),
+        ('phaedra_(ortiz)', 'Character Owner: "Ortiz":https://www.furaffinity.net/user/ortiz/'),
+        ('jester_(deblaria)', 'Jester is an original character created by artist nicknamed Deblaria. 
+Reference: https://toyhou.se/10620091.jester-nea/gallery#58426125
+
+Characteristics and abilities of Jester are for example ability of shape-shifting into any race, species or forms [u](but cannot change color palette)[/u]. 
+Jester is non-binary alien with ambivert personality.
+Canonically is in relationship with *[[Mondi]] 
+
+
+h4. Related tags:
+
+* [[Deblaria]]
+* [[jester_(deblaria)]]
+* [[Alien]]
+* [[shape_shifter]]
+* [[Mondi]]'),
+        ('mutton_chop_(comic)', 'An action-comedy comic following Mutton Chop, the "World''s Strongest Sheep", as he and a group of companions deal with various villains, ranging from gangs, sentient plant monsters, and even a country-conquering pig empire. '),
+        ('belly_rolls', 'thumb #3010056 thumb #2439952 thumb #2895577 thumb #345654
+
+[b]Belly Rolls[/b] describes characters with abdominal [[fat rolls]]. They are most often seen on [[obese]] and [[morbidly obese]] characters, but even [[slightly chubby]] characters with fat concentrated on their belly can have them. Avoid tagging on images where the character''s belly is fat, but smooth or with minimal rolls.
+
+h4. Related Tags:
+* [[Belly]]
+** [[Big Belly]]
+** [[Belly Overhang]]
+** [[Hanging Belly]]
+* [[Overweight]]
+
+h4. See Also:
+* [[Fat Rolls]]
+** [[Back Rolls]]
+** [[Belly Rolls]]
+* [[Double Chin]]'),
+        ('ethan_(disambiguation)', 'Ethan is an overly generic character name.  Consider suffixing it with the name of the character owner in parentheses, or with a surname if available.
+
+"Click here":/tags?commit=Search&search[hide_empty]=1&search[name_matches]=ethan_*&search[order]=count for a list of all currently known tags starting with `ethan_*`.  Some popular tags include:
+
+* [[ethan_(pokemon)]]
+* [[ethan_(grinn3r)]]
+* [[ethan_bedlam]]
+* [[ethan_white]]
+* [[ethan_(teckly)]]
+* [[ethan_(zourik)]]
+* [[ethan_(pklucario)]]
+* [[ethan_(bastion)]]
+* [[ethan_(arknights)]]
+* [[ethan_(thaine)]]
+* [[ethan_blade]]
+* [[ethan_(roof_legs)]]
+* [[ethan_coyote]]
+* [[ethan_the_lizard]]
+* [[ethan_(chubbyfurries)]]
+* [[ethan_striker_(hunterx90)]]'),
+        ('venezuela', '[b][i]Venezuela[/i][/b], officially the [b]Bolivarian Republic of Venezuela[/b], is a country on the northern coast of South America, consisting of a continental landmass and many islands and islets in the Caribbean Sea. It has a territorial extension of 916,445 km2 (353,841 sq mi), and its population was estimated at 29 million in 2022. The capital and largest urban agglomeration is the city of Caracas.
+
+The continental territory is bordered on the north by the Caribbean Sea and the Atlantic Ocean, on the west by Colombia, Brazil on the south, Trinidad and Tobago to the north-east and on the east by Guyana. The Venezuelan government maintains a claim against Guyana to Guayana Esequiba. [b][i]Venezuela[/i][/b] is a federal presidential republic consisting of 23 states, the Capital District and federal dependencies covering Venezuela''s offshore islands. [b][i]Venezuela[/i][/b] is among the most urbanized countries in Latin America; the vast majority of Venezuelans live in the cities of the north and in the capital. Venezuela’s official language is Spanish.
+
+Use this tag if an image or video references the nation of Venezuela.'),
+        ('moge', '[b]Moge[/b] is a character belonging to "Warg":https://furaffinity.net/user/warg.'),
+        ('maririn', 'Japanese anthro artist. Also can be found under the name: ''まりりん''. 
+
+h1.Related links
+
+"Pixiv":http://www.pixiv.net/member.php?id=6057870
+"FurAffinity":http://www.furaffinity.net/user/maririn/'),
+        ('lasgun', 'The Lasgun is an energy based weapon, and is the most common and widely used type of laser weapon in the Imperium. It is standard issue for all Imperial Guard infantry and most lower-ranked officers.
+Lasguns are reliable, easy to maintain and produce, and are readily available on most Imperial worlds. They have longer range and higher ammunition capacity than a Laspistol (the laspistol power packs having roughly 80 shots before depletion, compared to roughly 150 shots for a lasgun), but are nowhere near as powerful as a Lascannon. They also lack the rapid-fire quality of the Multi-laser or the Hellgun.
+The lasgun uses the same basic technology and operates along the same lines as other laser weapons, emitting a beam of focused light. The high amount of energy in the beam causes the immediate surface area of a target to be vaporized in a small explosion.  It is a relatively unimpressive weapon when compared to other weapons in the Imperium, but is still capable of cleanly severing limbs or piercing the power armour of a Space Marine (but only through a vulnerable spot in the armour). Most designs have iron sights mounted along the top of the weapon. It is powered by a small, rechargeable power pack located beneath the weapon, in front of the trigger guard.
+
+Source:  https://wh40k.lexicanum.com/wiki/Lasgun
+'),
+        ('damage_numbers', 'A [[video_games|video game]] [[user interface]] element which shows the amount of [[damage]] that a character is taking, often in the form of floating red [[number|numbers]], and usually with a corresponding decrease in the character''s [[health bar]]. The opposite counterpart of [[healing numbers]].
+
+h4. Related tags
+
+* [[critical_hit]]
+* [[fight]]
+* [[gameplay_mechanics]]'),
+        ('zephyr_(rubberbutt)', 'Zephyr is a rubbery creature owned by http://furaffinity.net/user/rubberbutt.exe (@onerubberbutt on twitter).'),
+        ('game_boy', 'thumb #480628
+
+The [b]Nintendo Game Boy[/b] (often spelled as Gameboy and abbreviated as GB), is [[Nintendo]]''s second handheld system after the [[Game and Watch]]. Following the success of the [[Nintendo Entertainment System]], Nintendo decided to make a handheld gaming system to capitalize on the success. Using tech similar to the NES, Nintendo released the Game Boy in 1989 in Japan and the United States, Europe in 1990, and Brazil in 1994. The console was praised for having a quality library of games, including Super Mario Land 1 and 2, The Legend of Zelda: Link''s Awakening, [[Pokemon]] Red and Blue, and Tetris. The console''s competitors were the [[Atari Lynx]], and the [[Game Gear]]. The system sold over 119 million units worldwide, making it the third best selling console of all time, behind the [[Nintendo DS]] and [[PlayStation 2]]. The system was discontinued in 2003, with the last releases being [i]Shikakei Atama o Kore Kusuru: Kanji no Tatsujin and Shikakei Atama o Kore Kusuru: Keisan no Tatsujin[/i], released in Japan on March 30, 2001, and the last release in America being Pokemon Yellow. The successor would be the [[Game Boy Color]].
+
+[section,expanded=Model differences]
+
+It is easy to confuse this model with the Game Boy Color. In most cases it should be possible to tell which model it is.
+
+h5. Highly distinguishable features
+
+These features should be given high priority when it comes to console identification, especially when presented with conflicting console designs.
+
+* Face buttons on the Game Boy are positioned at a slant. All models following featured horizontally aligned face buttons.
+* The cartridge port on the back is embedded into the original Game Boy. It extends outwards on the Game Boy Color and other models.
+* The bottom right of the console is where the speaker is. It has a distinctive curved edge, and slanted grooves over the speaker. The curves are uniform and the grooves were replaced with holes on the Game Boy Color.
+
+h5. Less distinguishable features
+
+* The logo is usually distinctive when present. The logo appears below the screen in both models. The original Game Boy logo is left aligned, and the Game Boy Color logo is center aligned.
+* Screen may have a greenish tinting. This should not be present on the Game Boy Color and later models.
+* The power switch is on top of the original Game Boy, and on the right side on the Game Boy Color. The power switch replaces a volume slider and an [[game link cable]] extension port.
+* There are grooves on the right side on both the original Game Boy and the Game Boy Color. However the original Game Boy has the grooves underneath the volume slider, and extension port, and the grooves are above the power switch on the Game Boy Color. These grooves may not be present on other Game Boy models such as the Game Boy Pocket.
+* It is far more common for the Game Boy Color to be drawn in bright colors such as yellow, while the original Game Boy taking on more muted grey tones. This may not always be true, so pay attention to the details.
+
+The Game Boy Pocket is distinctive in that it is smaller than the original Game Boy, but still resembling the Game Boy construction. While its shape is consistent with the original model, its buttons are aligned horizontally like the Game Boy Color.
+
+[/section]
+
+h4. External links
+
+* https://gametrog.com/nintendo-game-boy-information-specs/
+
+h4. Nintendo consoles
+
+* [[Nintendo Entertainment System]]
+* [[Super Nintendo]]
+* [[Virtual Boy]]
+* [[Nintendo 64]]
+* [[GameCube]]
+* [[Wii]]
+* [[Wii U]]
+* [[Nintendo Switch]]
+
+h4. Nintendo handhelds
+
+* [[Game & Watch]]
+* [b]Game Boy[/b]
+* [[Game Boy Color]]
+* [[Game Boy Advance]]
+* [[Nintendo DS]]
+* [[Nintendo 3DS]]
+* [[Nintendo Switch]]'),
+        ('love_for_my_cute', '1'),
+        ('akella', 'SFW account, same person drawing NSFW and NSFW adjacent art is akoshak'),
+        ('gununu_face', 'Japanese art meme based on a facial expression scene from Strawberry Marshmallow.
+
+http://knowyourmeme.com/memes/gununu-%E3%81%90%E3%81%AC%E3%81%AC'),
+        ('sibling_(lore)', 'thumb #4554646 thumb #4428563 thumb #3777040
+
+The depiction of two or more characters who have the same [[parent_(lore)|parents]].
+
+A [b]sibling[/b] is a relative that shares at least one [[parent_(lore)|parent]] with the subject.
+* A [[male]] (or an [[intersex]] equivalent: an [[andromorph]], [[maleherm]]) [b]sibling[/b] is a [[brother_(lore)|brother]].
+* A [[female]] (or an [[intersex]] equivalent: a [[gynomorph]], a [[herm]]) [b]sibling[/b] is a [[sister_(lore)|sister]].
+
+A person with no siblings is an only child.
+
+
+[section=For more details...]
+* An "[b]adoptive sibling[/b]" is a brother or sister who has been [[adopted_(lore)|adopted]].
+
+* A "[b]biological sibling[/b]" is a brother or sister who owns the same blood as their sibling.
+
+* A "[b][[half-siblings|half-sibling]][/b]" is a brother or sister sharing the same [[father_(lore)|father]] or [[mother_(lore)|mother]] with their sibling but not the other parent.
+
+* An "[b][[older sibling]][/b]" is a brother or sister who is older than one of their sibling ; it''s an individual who was born [b]BEFORE[/b] their sibling.
+
+* A "[b][[stepsibling_(lore)|stepsibling]][/b]" is a brother or sister born of a different family united by marriage.
+
+* A "[b][[younger sibling]][/b]" is a brother or sister who is younger than one of their sibling ; it''s an individual who was born [b]AFTER[/b] their sibling.
+
+[/section]
+h4. See also
+
+* [[tag_group:character_relations]]
+
+[section=Feminine family roles]
+
+Feminine roles should be used for characters who are [[female]], or an [[intersex]] equivalent ([[gynomorph]], [[herm]]) gender.
+
+h5. Family roles
+
+* [[daughter_(lore)|daughter]]
+* [[mother_(lore)|mother]]
+* [[sister_(lore)|sister]]
+
+h5. Extended family roles
+
+* [[aunt_(lore)|aunt]]
+* [[granddaughter_(lore)|granddaughter]]
+* [[grandmother_(lore)|grandmother]]
+* [[niece_(lore)|niece]]
+
+[/section]
+
+[section=Masculine family roles]
+
+Masculine roles should be used for characters who are [[male]], or an [[intersex]] equivalent ([[andromorph]], [[maleherm]]) gender.
+
+h5. Family roles
+
+* [[brother_(lore)|brother]]
+* [[father_(lore)|father]]
+* [[son_(lore)|son]]
+
+h5. Extended family roles
+
+* [[grandfather_(lore)|grandfather]]
+* [[grandson_(lore)|grandson]]
+* [[nephew_(lore)|nephew]]
+* [[uncle_(lore)|uncle]]
+
+[/section]
+
+* [[parent_(lore)|parent]]
+** [[father_(lore)|father]]
+*** [[father_and_son_(lore)|father_and_son]]
+*** [[father_and_daughter_(lore)|father_and_daughter]]
+** [[mother_(lore)|mother]]
+*** [[mother_and_son_(lore)|mother_and_son]]
+*** [[mother_and_daughter_(lore)|mother_and_daughter]]
+** [[son_(lore)|son]], [[daughter_(lore)|daughter]]
+* [b]sibling[/b]
+** [[brother_and_sister_(lore)|brother_and_sister]]
+*** [[brother_(lore)|brother]], [[brothers_(lore)|brothers]]
+*** [[sister_(lore)|sister]], [[sisters_(lore)|sisters]]
+** [[twins_(lore)|twins]], [[triplets_(lore)|triplets]]
+
+[section=Extended family]
+
+Extended family refers to family relations outside of a basic family structure: mother, father, and their children.
+
+* [[aunt_(lore)|aunt]], [[uncle_(lore)|uncle]]
+* [[cousins_(lore)|cousins]]
+* [[grandchild_(lore)|grandchild]]
+** [[granddaughter_(lore)|granddaughter]]
+** [[grandson_(lore)|grandson]]
+* [[grandparent_(lore)|grandparent]]
+** [[grandfather_(lore)|grandfather]]
+** [[grandmother_(lore)|grandmother]]
+* [[nephew_(lore)|nephew]], [[niece_(lore)|niece]]
+
+[/section]
+
+* [[incest_(lore)|incest]]
+** [[semi_incest]]
+** [[twincest_(lore)|twincest]]
+
+h4.Related Tags
+* [[looking_at_sibling]]
+* [[older_sibling]]
+* [[sibling_lust]]
+* [[sibling_rivalry]]
+* [[sibling_romance]]
+* [[sibling_swap]]
+* [[younger_sibling]]'),
+        ('ball_fondling', 'thumb #3184653 thumb #2663828
+
+[b]Ball fondling[/b] describes gentle handling of the [[balls]] — such caressing, rubbing, massaging, and/or manipulating/playing with the balls (e.g. gently shifting the balls around). This may be done as simple playful sexual interaction, foreplay before, or as a part of [[fellatio]] or [[rimming]], or intercourse, or as part of [[ball worship]]. While most often done with the hands, [[fondling]] may be done with feet/toes, breasts, a prehensile tail, or tentacles. 
+
+[b]Note[/b]  this tag shouldn''t be used for rough or forceful handling of the balls - [[ball grab]], [[ball squeeze]], and [[cock and ball torture]] should be used instead, and not used in combination with [[ball fondling]].
+
+
+h5. May Involve:
+* [[hand on balls]]
+** [[hand on another''s balls]]
+** [[hand on own balls]]
+* [[foot on balls]]
+
+h4. Related Tags:
+* [[Balls]]
+** [[Ball Suck]]
+** [[Ball Lick]]
+** [[Ball Squish]]
+** [[Ball Worship]]
+
+h4. See Also:
+* [[balls]]
+** [[ballbusting]]
+** [b]ball_fondling[/b]
+** [[ball_grab]] / [[holding_balls]]
+** [[ball_squeeze]]
+** [[ball_tugging]]'),
+        ('zaro_draxen', 'Owner: https://www.furaffinity.net/user/zero-pro/
+Ref sheet: https://www.furaffinity.net/view/11220090/'),
+        ('hathy', '[b]Hathy[/b] is a support enemy that first appears in the Field and later Card Castle in her Head Hathy variant. They are based off the [[<3|heart]] [[suit_symbol|card suit]]. Similarly to [[Rudinn]], they have a green color scheme which is the polar opposite color to red, the color of the suit they are based on.
+
+h4. See also
+
+* "wikia page":http://deltarune.wikia.com/wiki/Hathy
+* [[deltarune]]
+** hathy'),
+        ('rayas', 'Rayas is a male Tasmanian Devil characters and romantic partner of [[Elliot_Mallius]].
+
+Created and owned by [[Phrostbite]] '),
+        ('night_light_(mlp)', 'thumb #1256192
+
+"Night Light":http://mlp.wikia.com/wiki/Night_Light and [[twilight_velvet_(mlp)|Twilight Velvet]] are the married [[unicorn]] parents of [[Twilight_Sparkle_(mlp)|Twilight Sparkle]] and [[Shining_Armor_(mlp)|Shining Armor]] and paternal grandparents of Baby [[Flurry_Heart_(mlp)|Flurry Heart]] who live in Canterlot. They first appear in [I]The Cutie Mark Chronicles[/I], and have made very few appearances in the show since. They are not named in the show, but they are named in merchandise and other depictions. 
+
+h4. Family:
+* Wife: [[Twilight_Velvet_(mlp)|Twilight Velvet]]
+* Son: [[shining_armor_(mlp)|Shining Armor]]
+* Daughter: [[twilight_sparkle_(mlp)|Twilight Sparkle]]
+* Daughter-in-law: [[Princess_Cadance_(mlp)|Princess Cadance]]
+* Paternal granddaughter: [[Flurry_Heart_(mlp)|Flurry Heart]]'),
+        ('galacticmichi', 'Quick links:
+* "Twitter":https://twitter.com/GalacticMichi
+* "Patreon":https://www.patreon.com/GalacticMichi
+* "Allmylinks":https://allmylinks.com/galacticmichi'),
+        ('kahlua', 'See [[kahlua_caribou]].'),
+        ('fritos', '[b]Fritos[/b] is a brand of [[corn chips]] owned by [[Frito-Lay]].'),
+        ('babe_please_stop', 'https://knowyourmeme.com/memes/babe-please-stop'),
+        ('zhishaa', 'Zhishaa is the last [[Reiosian]], and one of the main characters of the [[Black Nova]] universe. During a mission to use time travel to study a potential astronomical event that could threaten the future of her planet, her time machine malfunctioned and sent her exponentially farther than she intended to go. Trying to survive in what may be the last remaining inhabited star system in the cosmos, she hopes to enlist the help of the different sapient species on each of the surrounding planets in order to return home, only to be wrapped up in the problems of interplanetary politics and a potential war — particularly since some in power have realized she may possibly be able to give them exactly the technological edge they need to start a long-planned invasion of the other planets.'),
+        ('classic_colors_(software)', '[b]Classic Colors[/b] is a free simple image drawing and editing program for Unix-like developed by Justin Mieners in C and is available with source code under the GNU General Public License version 2. It uses the Motif toolkit and looks similar to the classic version of [[ms_paint|Microsoft Paint]].
+
+Official website: https://github.com/justinmeiners/classic-colors/'),
+        ('level_drain', 'thumb #2755161 thumb #3793405 thumb #3935577 thumb #4129185
+
+This tag is used when an image or animation features a character whose levels are being drained through or lowered by either another character, some type of creature or [[monster]], or an object. This is usually indicated through text or visual effects.
+
+h4. Related tag:
+* [[experience_drain]]
+* [[gameplay_mechanics]]
+
+H4. See also
+* [[level_up]]'),
+        ('gabriel_(plushtrapboyuwu)', 'Plushtrapboyuwu''s Gabriel is a charcter often seen with other demon ocs of the same artist
+
+His name is derived from an archangel with the power to announce God''s will to mankind in the Hebrew Bible
+the New Testament, the Quran and the Kitáb-i-Aqdas
+
+We don''t know much about him compared to the demons due to him not being used too often by the artist
+
+This has led to the user pipopapupupewebghost with the help of the original artist of Gabriel to make a series of stories based on the charcter to try to expand his lore based on the artists original artwork
+
+(Note that these stories aren''t directly canon to the original artists lore)
+
+These stories can be seen here: https://www.furaffinity.net/gallery/pipopapupupewebghost/folder/1348911/Main-story-of-gabriel'),
+        ('roxy_(catfromdream)', 'Owner: http://www.furaffinity.net/user/catfromdream/
+Reference sheet: http://www.furaffinity.net/view/21192203/'),
+        ('gnu', 'h4.See also:
+
+* [[mammal]]
+** [[antelope]]
+*** gnu (wildebeest)
+'),
+        ('reach_around', 'A practice most commonly applied to characters engaging in [[anal_penetration|anal sex]], in which the penetrating character "reaches around" the body and gives the other character a [[handjob]]. However, this can also apply to [[vaginal fingering]] or stimulating the [[clitoris]].
+
+For convenience, this also applies to the [[handjob]] + [[rimjob]] combination seen in the [[rusty trombone]].
+
+h4. See also
+* [[tag_group:touching]]'),
+        ('sphygmomanometer', 'A [b]sphygmomanometer[/b], [b]blood pressure meter[/b], [b]blood pressure monitor[/b], or [b]blood pressure gauge[/b] is a device used to measure blood pressure, composed of an inflatable cuff to collapse and then release the artery under the cuff in a controlled manner, and a mercury or mechanical manometer to measure the pressure. It is always used in conjunction with a means to determine at what pressure blood flow is just starting, and at what pressure it is unimpeded. Manual sphygmomanometers are used in conjunction with a [[stethoscope]].
+
+h4. See also
+
+* [[inflation_bulb]] - Commonly used to manually inflate blood pressure cuffs
+* [[otoscope]] - A medical tool used for looking in ears
+* [[ophthalmoscope]] - A medical tool used for looking in eyes
+
+h4. External:
+
+* "Wikipedia - Sphygmomanometer":https://en.wikipedia.org/wiki/Sphygmomanometer'),
+        ('shiina_mashiro', 'https://myanimelist.net/character/61371/Mashiro_Shiina
+
+From the anime [[sakura-sou no pet na kanojo]]
+
+[b]Mashiro Shiina[/b] (椎名 ましろ)
+Age: 17
+Birthday: June 13
+Zodiac sign: Gemini
+Blood type: A
+
+Mashiro is the female protagonist of the story. She is the resident of room 202. She is a world famous artist who transferred into Suiko as a second-year to learn how to draw manga. Although her artworks are widely admired by the world in spite of her young age, she knows nothing other than drawing, and has an extreme lack of common sense and living ability. Due to this, Sorata is forced to handle Mashiro''s living chores, to the point that he even has to pick out underwear for her, or she will go out without them.
+
+She has very bad grades, since she cannot pay attention to the class, but she can still pass the make-up exams by remembering all of the answers with her art talent.
+
+[spoiler]In the third volume, Mashiro starts to grow feelings for Sorata, and she even claims that she cannot live without him.
+
+In eighth volume, Sorata confesses his feelings for her.
+
+In the ninth volume, they are officially a couple.
+
+In the end of volume 10, they break up.
+
+In the next chapter, there is a 4 year gap and they get back together again.[/spoiler]'),
+        ('tu-22', 'The Tupolev Tu-22 (NATO reporting name: Blinder) was the first supersonic bomber to enter production in the Soviet Union. Manufactured by Tupolev, the Tu-22 entered service with the Soviet military in the 1960s. The last examples were retired during the early 2000s. Produced in comparatively small numbers, the aircraft was a disappointment, lacking the intercontinental range that had been expected. Later in their service life, Tu-22s were used as launch platforms for the Soviet Kh-22 standoff missile, and as reconnaissance aircraft. Tu-22s were sold to other nations, including Libya and Iraq. The Tu-22 was one of the few Soviet bombers to see combat; Libyan Tu-22s were used against Tanzania and Chad, and Iraqi Tu-22s were used during the Iran–Iraq War.'),
+        ('elijah_summers', 'A salt-of-the-earth kinda guy with a friendly demeanor and a mean streak. May do things you might not approve of; you might even find those things hot.'),
+        ('braille_text', 'A tag given to posts that contain text written in Braille.'),
+        ('butt_shot', 'thumb #3320344 thumb #3355270 thumb #3251404 thumb #1906504 thumb #1659953 thumb #3042592 
+
+[b]Butt shot[/b] describes a close-up, cropped view of a character''s [[butt]], usually also showing the thighs and lower back. 
+
+A butt shot usually fills the entire image, but it can be shown using a smaller [[cutaway]] panel in a larger image, a single panel in a [[comic]], or as an angle in an animation. 
+
+[quote]
+h5. Notes
+
+* A butt shot can range from just an image of the character''s buttocks alone, to showing their thighs and some of their upper body
+* A butt shot should not show the character''s entire lower body or entire upper body
+** Depending on pose and angle, a character''s upper back or shoulders may be seen
+* A butt shot should not depict the character''s head in the same shot as their butt
+** The character''s face may be shown in a [[cutaway]] panel, or a second shot showing a different angle 
+** If the character''s head is visible in the same shot, the post should be probably tagged as [[butt focus]] instead
+
+[/quote]
+
+[section,expanded= Not to be confused with...]
+h6. [[Butt Focus]]
+
+thumb #2806689 thumb #3021947
+
+Butt focus depicts most, or all, of a character, in a way that focuses on their butt through pose, angles or lighting.
+If most of the character is visible, especially their head, the image is butt focus, not butt shot.
+
+h6. [[Butt Pose]]
+
+thumb #1458017 thumb #2966939
+
+"Butt pose" describes a character viewed from behind, with their upper body turned back towards the viewer.  
+
+h6. [[Rear View]]
+
+thumb #1477566 thumb #3346895
+
+Rear view simply describes a character viewed from behind, as opposed to a [[front view]]. While this tag doesn''t imply any focus or pose by itself, butt shot, butt pose, and butt focus images all almost inherently involve a rear view, but there are some exceptions.
+
+[/section]
+
+h4. Related Tags
+* [[close-up]] - if the butt shot is especially closely cropped
+* [[low angle view]] - if the butt is viewed from below
+* [[upskirt]] - if the butt shot is a low angle view of a character wearing a skirt
+
+h6. Common Poses
+* [[hand on butt]]
+** [[hand on own butt]]
+** [[holding butt]]
+* [[leaning forward]]
+* [[bent over]]
+* [[raised tail]]
+* [[spreading]]
+** [[spread butt]]
+
+h6. Focus Tags
+* [[anus focus]]
+* [[genital focus]]
+** [[penis focus]]
+** [[balls focus]]
+** [[pussy focus]]
+
+h6. Body Tags
+* [[butt]]
+* [[anus]]
+* [[balls]]
+** [[backsack]]
+* [[pussy]]
+
+h6. Common Clothing
+* [[bikini bottom]]
+* [[panties]]
+* [[shorts]]
+* [[underwear]]
+
+h4. See Also
+* [[butt focus]]
+* [[butt pose]]
+* [[rear view]]
+
+h6. Crop Shots
+* [[breast shot]]
+* [[crotch shot]]
+* [[foot shot]]
+* [[eye shot]]
+* [[headshot_portrait|head shot]]
+* [[mouth shot]]
+* [[torso shot]]'),
+        ('huge_knot', 'Images that depict a character as having a very large knot at the base of their penis.
+
+
+h4. Related Tags
+*[[canine_penis]]
+**[[knot]]
+**[[knotted_penis]]'),
+        ('dudou', 'A [b][i]dudou[/i][/b] (肚兜) is a traditional Chinese [[bodice]], originally worn as an [[undershirt]].
+
+The typical design of a dudou consists of a single rectangular piece of fabric which covers the breasts and belly, tied to the neck and waist with attached strings.
+
+"[i]Dudou[/i] - From Wikipedia, the free encyclopedia":https://en.wikipedia.org/wiki/Dudou'),
+        ('lifted_by_tail', 'When a character is being held up off the ground by another character hoisting them by their tail.
+
+h4. Related tags
+
+* [[hand_on_tail]]
+* [[tail_grab]]
+* [[tail_pull]]
+
+h4. See also
+* [[tag_group:touching]]
+* [[hanging_by_tail]] - A character has their tail bound or is otherwise hanging from a surface by their tail.'),
+        ('keytar', 'thumb #1963737 
+
+A [b]keytar[/b] is a relatively lightweight electronic keyboard (with or without a built-in synthesizer) that is supported by a strap around the neck and shoulders, similar to the way a [[guitar]] is supported by a strap. Keytars allow players a greater range of movement onstage, compared to conventional keyboards, which are placed on stationary stands or which are part of heavy, floor-mounted structures. The instrument has a musical keyboard for triggering musical notes and sounds. Controls are placed on the instrument''s "neck", including those for pitch bends, vibrato, portamento, and sustain.
+
+h4. See also:
+
+* [[Musical Instrument]]
+
+h4. External:
+
+* "Wikipedia - Keytar":https://en.wikipedia.org/wiki/Keytar'),
+        ('ikeyni_(james_cameron''s_avatar)', 'https://james-camerons-avatar.fandom.com/wiki/Ikeyni'),
+        ('terria_(narley)', 'https://e621.net/artists/49017'),
+        ('fan_character', 'thumb #3322296 thumb #317559 thumb #3576776 thumb #2240063
+
+A [b]fan character[/b] (sometimes called "[b]original characters[/b]" or "[b]OCs[/b]") is a character that is based off of a franchise, series, or other piece of existing media property, [i]but is not a canon character[/i]. Fan characters are usually of a species unique to that property''s universe, and/or they may be designed in a way that is similar to canonical characters, or drawn in a style specific to that media.  
+
+[quote]
+h5. Tagging Notes
+
+* [b]Important: "Original Character" is aliased to this tag, which may create some confusion:[/b]
+** [i]Wholly original characters[/i] — that is, most "traditional" furry characters that are not explicitly linked to an existing piece of media, should [i]NOT[/i] be tagged as `fan_character`. Even if a "traditional" original character is interacting with characters of a media property, they should not be tagged as a fan character.
+* A post containing a fan character should always include the franchise they are based off of.
+* A character [[cosplay|cosplaying]] as a character from a media property (and is not intended to be a character in that property''s universe), should not be tagged as `fan_character`.
+
+[/quote]
+
+Fan characters can range in how "close" to the source material they are — they may be characters that are very faithful to the visual style of the media, they may be explicitly shown inhabiting the setting of the world they are based off of, possibly drawn interacting with canonical characters, and/or engaging in activities that are part of that media (e.g. a [i]Pokémon[/i] fan character who engages in battles similar to that of the [i]Pokémon[/i] franchise). 
+
+In other cases, fan characters may have designs or be drawn in styles that diverge from the source material (this is especially the case with fan characters who are [[anthrofied]] versions of canonically [[feral]] species), and of be shown in settings entirely unrelated to the canon material while still clearly appearing to be a fan character. 
+
+Fan characters may be fandom interpretations of canonical characters (fan canon, or "fanon" characters), or fan characters that have taken on a life beyond their initial creator and become a popular subject of fan art and media (this is especially common within the [i]My Little Pony[/i] fandom).
+
+[quote]
+
+h5. Popular Sources of Fan Characters
+
+[sup]Fan characters are commonly based on these popular media properties[/sup]
+
+* [i][[My Little Pony]][/i] 
+** While most MLP fan characters are specifically based off of [i][[Friendship is Magic]][/i], that tag is reserved for canon characters
+* [i][[Pokemon|Pokémon]][/i] 
+** See [[Fakemon]] for entirely fan made Pokémon species that are designed to resemble canonical Pokémon
+* [i][[Animal Crossing]][/i]
+* [i][[Digimon]][/i]
+* [i][[Lilo and Stitch|Lilo & Stitch]][/i]
+* [i][[Sonic the Hedgehog (series)|Sonic the Hedgehog]]
+* [i][[Splatoon]][/i]
+* [i][[Undertale (series)|Undertale]][/i]
+* [i][[Zootopia]][/i]
+
+'),
+        ('airalin', '[b]Airalin[/b] is [[RakkuGuy]]''s [[Gardevoir]] [[fan character]]. She has a [[shiny Pokémon|shiny]] [[Kirlia]] sister named [[Serene (RakkuGuy)|Serene]].'),
+        ('fist', 'The form a hand takes when clenched about itself or a small object, with the fingertips pressed against the palm.  A punch is a blow delivered with the knuckles of a closed fist  Often used as part of a display of anger, owing to the that. The fist is also a rudimentary (single hand) [[gesture]].
+
+If used to penetrate sexually, also tag with [[fisting]] of the appropriate type.  If being used to punch, also tag with [[fight]].'),
+        ('puppy_eyes', 'thumb #1299744 thumb #1237877 thumb #1189561
+
+When a character has a pleading look on their face as if they are saying "Pretty please?".
+
+h4.See also:
+* [[begging]]
+* [[tears]]'),
+        ('datpicklez', 'They no longer appear to be active as their Tumblr account was deactivated on 2017 03 03, however a greater collecting of their art work is still available on rule34paheal "here":https://rule34.paheal.net/post/list/DatPicklez/1
+
+'),
+        ('sheath_markings', 'Use this tag when a character has distinctive markings on their [[sheath]].
+
+h4.See also:
+* [b][[Markings]][/b]
+* [b]Marking placements[/b]
+** [[arm_markings]]
+*** [[shoulder_markings]]
+*** [[wrist_markings]]
+*** [[hand_markings]]
+** [[back_markings]]
+** [[breast_markings]]
+** [[butt_markings]]
+** [[chest_markings]]
+** [[belly_markings]]
+** [[ear_markings]]
+** [[eye_markings]]
+** [[head_markings]]
+*** [[facial_markings]]
+*** [[forehead_markings]]
+*** [[occipital_markings]]
+** [[neck_markings]]
+** [[leg_markings]]
+*** [[thigh_markings]]
+*** [[foot_markings]]
+** [[tail_markings]]
+** [[wing_markings]]
+** [[genital_markings]]
+*** [[penis_markings]]
+*** [[ball_markings]]
+*** [[pussy_markings]]
+*** sheath_markings'),
+        ('unusual_genitalia_placement', 'Characters with genitalia located somewhere on their body other than their crotch.
+
+h4.Scenarios
+* In cases of characters with [[multi genitalia|multiple genitalia]], they may still have their genitals where they should be. It''s just that they have another one or more somewhere on their body.
+* Other times they may have a [[featureless crotch]] but they still have genitals. It''s just that they''re somewhere else.
+
+h4.See Also
+* [b]Unusual genitalia placement[/b]
+** [[Unusual sheath placement]]
+** [[Unusual penis placement]]
+*** [[Head penis]]
+*** [[Dicknipples]]
+** [[Unusual balls placement]]
+** [[Unusual pussy placement]]
+*** [[Head pussy]]
+*** [[Pussy nipples]]
+** [[Unusual clitoris placement]]'),
+        ('webbed_hands', 'Webbed hands are hands or forepaws that have webbing between their digits, aiding in aquatic propulsion(swimming) by enlarging the surface area, akin to a paddle. 
+Almost always found in [[amphibian|amphibians]], other species that live primarily on the water, for example most [[duck|ducks]] and [[otter|otters]] may also have webbed hands.
+
+thumb #919735
+
+h4.Related:
+* [[webbing]]
+** [[webbed_feet]]
+** webbed_hands
+* [[membranous_crest]]
+* [[membranous_ruff]]
+* [[membranous_wings]]
+
+h4.See also:
+* "wikipedia entry":https://en.wikipedia.org/wiki/Interdigital_webbing
+
+* [[tag group:anatomy]]
+* [[tag group:feral anatomy]]'),
+        ('mentioned_character', 'When a "character":/tags?page=&search%5Bcategory%5D=4&search%5Border%5D=count is mentioned by name (but not pronoun) in the [[dialogue]] or in the [[text]] in the image.
+
+'),
+        ('mailchimp', 'MailChimp is a marketing automation platform and an email marketing service and a trading name of its operator, Rocket Science Group, an American company founded in 2001. MailChimp began as a paid service and added a freemium option in 2009. '),
+        ('naked_mole-rat', 'thumb #449720
+
+The Naked Mole-Rat, also known as the Sand Puppy or Desert Mole Rat, is an African species of burying rodent. It has an unusual, [[hairless]] and [[wrinkles|wrinkled]] appearance, which helps it survive in extreme conditions and gives it its distinctive look.
+
+h4. Characters
+
+* [[disney]]
+** [[kim possible]]
+*** [[rufus (kim possible)|rufus]]
+
+h4. See Also
+
+* [[mammal]]
+** [[rodent]]
+*** naked mole rat'),
+        ('stantler', 'thumb #104959
+
+Stantler (オドシシ) is a Normal-type Pokémon. It has no evolutions, and is in the `Field` egg group.
+
+Shiny Stantler is bright green.
+
+Usually depicted as [[feral]].
+
+h4. Related tags:
+
+* [[brown_fur]]
+* [[quadruped]]
+* [[hooves]]
+* [[horns]]
+
+h4. See also:
+
+* [[pokémon]]'),
+        ('yoshis_taxes', 'I should’ve made myself an artist first before posting '),
+        ('adolf_hitler', '[b]Adolf Hitler[/b] (20 April 1889 – 30 April 1945) was an [[Austrian]]-born [[German]] politician and the leader of the [[Nazi|Nazi Party]]. He was chancellor of Germany from 1933 to 1945 and dictator of [[tag group:nazi germany|Nazi Germany]] (known as the Leader, or "Führer") from 1934 to 1945. Hitler was at the centre of the fascist ideological movement, spearheading the events of [[world_war_2|World War II]] in Europe and the "Holocaust":https://en.wikipedia.org/wiki/The_Holocaust. During the final days of the war, he and his wife Eva Braun committed suicide, the former shooting himself and the latter using a cyanide pill. Suffice to say, he was not a pleasant man. 
+
+The film [i]Der Untergang[/i] (also known as [i]The Downfall[/i] or just [i]Downfall[/i]) is his most famous portrayal to date. He was portrayed by Swiss actor Bruno Ganz. That production has spawned the famous series of Hitler rant [[parody]] videos.
+
+Hitler was also an amateur artist. Artwork made by him can be found under the tag [[adolf_hitler_(artist)]].'),
+        ('green_highlights', 'A character who has green [[hair_highlights]].
+
+h4.[[hair_highlights|Hair Highlights]]:
+
+[section=Highlight Colors]
+* [[black_highlights]]
+* [[blonde_highlights]]
+* [[blue_highlights]]
+* [[brown_highlights]]
+* [b]green_highlights[/b]
+* [[grey_highlights]]
+* [[orange_highlights]]
+* [[pink_highlights]]
+* [[purple_highlights]]
+* [[red_highlights]]
+* [[tan_highlights]]
+* [[teal_highlights]]
+* [[white_highlights]]
+
+* [[multicolored_highlights]]
+** [[rainbow_highlights]]
+** [[two_tone_highlights]]
+[/section]'),
+        ('sparkles', 'thumb #1411406 thumb #698587 thumb #692005
+
+This tag is used when an element of the post has a glittery effect, like the kind you would see on a [[glistening]] object or surface with light refracting properties. A similar effect to sparkling is [[glare_(lighting)|glare]], a phenomenon in which many light photons are emitted or reflected off a surface causing a bright blinding light.
+
+Sparkles are commonly used for effect, such as when an artist wants to draw attention to some aspect of the scene. This does not necessarily mean that object is [[glistening]], and most of the time the sparkles are merely around the object, and not touching it.
+
+Sparkles are used as a substitute for [[star|stars]], but they should not be confused for stars. Sparkles should be considered as stars if used in a star context. The only exception to this is [[star eyes]] / [[star pupils]], which is used for anything vaguely star-shaped.
+
+h4. Not to be confused with
+
+* [[glint]]
+
+h4. Sparkling tags
+
+* [[sparkling_background]]
+* [[sparkling_eyes]]
+
+h4. See also
+
+* [[bokeh]]
+* [[camera_flash]]
+
+[section=''Glistening'' Tags]
+* [[glistening]]
+** [[glistening_balls]]
+** [[glistening_body]]
+** [[glistening_breasts]]
+** [[glistening_butt]]
+** [[glistening_clothing]]
+*** [[glistening_armwear]]
+*** [[glistening_bottomwear]]
+*** [[glistening_dress]]
+*** [[glistening_footwear]]
+*** [[glistening_gloves]]
+*** [[glistening_headwear]]
+*** [[glistening_legwear]]
+*** [[glistening_swimwear]]
+*** [[glistening_topwear]]
+*** [[glistening_underwear]]
+** [[glistening_exoskeleton]]
+** [[glistening_eyes]]
+** [[glistening_feathers]]
+** [[glistening_fur]]
+** [[glistening_hair]]
+** [[glistening_lips]]
+** [[glistening_nose]]
+** [[glistening_penis]]
+*** [[glistening_glans]]
+** [[glistening_pussy]]
+** [[glistening_scales]]
+** [[glistening_skin]]
+** [[glistening_tail]]
+[/section]'),
+        ('avian-king', 'discord.gg/BawgAvq5RG (Avian and creature design server, Friendly for all ages)
+discord.gg/TJu4nRnP (Adult work and hangout server)
+https://twitter.com/MoaFowl/
+https://twitter.com/FowlRoyal/ (NSFW)
+https://www.furaffinity.net/user/fowlroyalafterdark/ (Caution: mostly scat)'),
+        ('multi_wielding', 'thumb #1444854 thumb #263601 thumb #580393
+
+When a character is wielding more than two [[weapon|weapons]]. This may be achieved by them using their [[prehensile_feet|feet]], [[prehensile_tail|tail]] and/or [[multi_arm|extra arms]] to hold the additional weapons.
+
+h4. See also:
+
+* [[Holding Weapon]]
+** [[Dual Wielding]]
+* [[Prehensile]]
+** [[Prehensile Feet]]
+** [[Prehensile Tail]]'),
+        ('chain', 'A [b]chain[/b] is a connected series of metal links. Commonly used in [[bondage]], a chain can be used to restrain an individual who is wearing [[shackles]] or can also be used as a [[leash]]. Chains are sometimes seen as fashionable objects as well.
+
+h4. Related tags:
+* [b]chain[/b]
+** [[chained]]
+** [[chain_accessory]]
+** [[chain_collar]]
+** [[chain_jewelry]]
+** [[chain_leash]]
+** [[chain_necklace]]
+* [[metal]]
+** [[metal_chain]]
+
+h4. See also
+
+* [[bdsm]]
+** [[bondage]]
+** [[bondage_gear]] 
+*** [[blindfold]]
+*** [[rope]] 
+*** [b]chain[/b]
+*** [[shackles]]
+*** [[harness]]
+*** [[gag]]'),
+        ('fallout:_pca', 'A story series featuring a crossover of the Poké Combat Academy (PCA) and [[fallout|Fallout]] worlds. The majority of chapters involve mature content in some form.
+https://www.furaffinity.net/gallery/swordfox/folder/135848/Fallout-PCA/'),
+        ('gard3nb0y_(artist)', 'Strictly SFW artist.'),
+        ('society_finch', 'The [b]society finch[/b] is the domesticated form of the [[white-rumped munia]] ([i]Lonchura striata[/i]), a member of the [[estridid|estrildid finch]] family.
+
+h4. External links
+
+* https://en.wikipedia.org/wiki/Society_finch
+
+h4. See also
+
+* [[avian]]
+** [[bird]]
+*** Psittacopasserae
+**** [[passerine]]
+***** [[oscine]]
+****** [[white-rumped_munia]]
+******* [b]society_finch[/b]'),
+        ('partially_translated', 'This tag refers to images with [[text]] that need to be fully translated into [[English text]].
+
+h4. See also
+
+* [[translated]]
+* [[translation_check]]
+* [[translation_request]]
+** partially_translated
+'),
+        ('begging', 'Asking (someone) earnestly, humbly, or desperately for something. may be performed verbally or through emphasized gestures.
+
+- Use [[demanding]] instead if the character is [[angry]], or the tone comes off as [[threat|threatening]].
+
+h4. Categories
+
+* [[begging_for_mercy]]
+* [[begging_for_more]]
+* [[begging_pose]]
+
+h4. See also
+
+* [[demanding]]
+* [[dirty talk]]
+* [[inviting]]
+* [[oral invitation]]'),
+        ('elite_four', 'The Elite Four (Japanese: 四天王 The Big Four / "Four Heavenly Kings" literally) are four Pokémon Trainers who are regarded as the toughest in their regional Pokémon League, just short of the Pokémon League Champion. Those who challenge the Elite Four must have won all eight Badges from that region (or, for Trainers in Alola, must have completed all of their island challenge trials). To become Champion, Trainers must face all four and the current Champion consecutively without losing to any of them. Challengers who lose at any time must start their challenge from the beginning. In Paldea, the challenge is named the Elite Test, and is part of the greater Champion Assessment.
+
+Any elite four member applies here.
+
+List of current Elite Four members:
+
+[[lorelei_(pokemon)]]
+[[bruno_(pokemon)]]
+[[agatha_(pokemon)]]
+[[lance_(pokemon)]]
+
+[[will_(pokemon)]]
+[[koga_(pokemon)]]
+[[bruno_(pokemon)]]
+[[karen_(pokemon)]]
+
+[[sidney_(pokemon)]]
+[[phoebe_(pokemon)]]
+[[glacia_(pokemon)]]
+[[drake_(pokemon)]]
+
+[[aaron_(pokemon)]]
+[[bertha_(pokemon)]]
+[[flint_(pokemon)]]
+[[lucian_(pokemon)]]
+
+[[shauntal_(pokemon)]]
+[[marshall_(pokemon)]]
+[[grimsley_(pokemon)]]
+[[caitlin_(pokemon)]]
+
+[[malva_(pokemon)]]
+[[siebold_(pokemon)]]
+[[wikstrom_(pokemon)]]
+[[drasna_(pokemon)]]
+
+[[hala_(pokemon)]]/[[molayne]]
+[[olivia_(pokemon)]]
+[[acerola_(pokemon)]]
+[[kahili_(pokemon)]]
+
+[[rika_(pokemon)]]
+[[poppy_(pokemon)]]
+[[larry_(pokemon)]]
+[[hassel_(pokemon)]]
+
+[[crispin_(pokemon)]]
+[[amarys_(pokemon)]]
+[[lacey_(pokemon)]]
+[[drayton_(pokemon)]]'),
+        ('humanoid_penetrating_female', 'Used for posts depicting a [[humanoid]] character penetrating a [[female]] character (such as [[anthro]], [[feral]], [[human]] or [[taur]]).
+
+However, this does not apply if both involved are of the same form, such as [[humanoid_penetrating_humanoid]].
+
+h4. Tags About Penetration:
+
+* [[penetration]]
+
+[section=Tags About Penetration:]
+
+h4. Form:
+[section=Form:]
+
+[section=<Form>_penetrated:]
+* [[anthro_penetrated]]
+* [[feral_penetrated]]
+* [[human_penetrated]]
+* [[humanoid_penetrated]]
+* [[taur_penetrated]]
+
+[/section]
+
+[section=<Form>_penetrating:]
+* [[anthro_penetrating]]
+* [[feral_penetrating]]
+* [[human_penetrating]]
+* [[humanoid_penetrating]]
+* [[taur_penetrating]]
+
+[/section]
+
+[section=<Form>_penetrating_<Form>:]
+* [[anthro_penetrating_anthro]]
+* [[anthro_penetrating_feral]]
+* [[anthro_penetrating_human]]
+* [[anthro_penetrating_humanoid]]
+* [[anthro_penetrating_taur]]
+
+* [[feral_penetrating_anthro]]
+* [[feral_penetrating_feral]]
+* [[feral_penetrating_human]]
+* [[feral_penetrating_humanoid]]
+* [[feral_penetrating_taur]]
+
+* [[human_penetrating_anthro]]
+* [[human_penetrating_feral]]
+* [[human_penetrating_human]]
+* [[human_penetrating_humanoid]]
+* [[human_penetrating_taur]]
+
+* [[humanoid_penetrating_anthro]]
+* [[humanoid_penetrating_feral]]
+* [[humanoid_penetrating_human]]
+* [[humanoid_penetrating_humanoid]]
+* [[humanoid_penetrating_taur]]
+
+* [[taur_penetrating_anthro]]
+* [[taur_penetrating_feral]]
+* [[taur_penetrating_human]]
+* [[taur_penetrating_humanoid]]
+* [[taur_penetrating_taur]]
+
+[/section]
+
+[section=<Form>_penetrating_<Gender>:]
+
+* [[anthro_penetrating_ambiguous]]
+* [[anthro_penetrating_female]]
+* [[anthro_penetrating_intersex]]
+** [[anthro_penetrating_andromorph]]
+** [[anthro_penetrating_gynomorph]]
+** [[anthro_penetrating_herm]]
+** [[anthro_penetrating_maleherm]]
+* [[anthro_penetrating_male]]
+
+* [[feral_penetrating_ambiguous]]
+* [[feral_penetrating_female]]
+* [[feral_penetrating_intersex]]
+** [[feral_penetrating_andromorph]]
+** [[feral_penetrating_gynomorph]]
+** [[feral_penetrating_herm]]
+** [[feral_penetrating_maleherm]]
+* [[feral_penetrating_male]]
+
+* [[human_penetrating_ambiguous]]
+* [[human_penetrating_female]]
+* [[human_penetrating_intersex]]
+** [[human_penetrating_andromorph]]
+** [[human_penetrating_gynomorph]]
+** [[human_penetrating_herm]]
+** [[human_penetrating_maleherm]]
+* [[human_penetrating_male]]
+
+* [[humanoid_penetrating_ambiguous]]
+* [b]humanoid_penetrating_female[/b]
+* [[humanoid_penetrating_intersex]]
+** [[humanoid_penetrating_andromorph]]
+** [[humanoid_penetrating_gynomorph]]
+** [[humanoid_penetrating_herm]]
+** [[humanoid_penetrating_maleherm]]
+* [[humanoid_penetrating_male]]
+
+* [[taur_penetrating_ambiguous]]
+* [[taur_penetrating_female]]
+* [[taur_penetrating_intersex]]
+** [[taur_penetrating_andromorph]]
+** [[taur_penetrating_gynomorph]]
+** [[taur_penetrating_herm]]
+** [[taur_penetrating_maleherm]]
+* [[taur_penetrating_male]]
+
+[/section]
+[/section]
+
+h4. Gender:
+[section=Gender:]
+
+[section=<Gender>_penetrating Tags:]
+* [[ambiguous_penetrating]]
+* [[female_penetrating]]
+* [[intersex_penetrating]]
+** [[andromorph_penetrating]]
+** [[gynomorph_penetrating]]
+** [[herm_penetrating]]
+** [[maleherm_penetrating]]
+* [[male_penetrating]]
+
+[/section]
+
+[section=<Gender>_penetrated Tags:]
+* [[ambiguous_penetrated]]
+* [[female_penetrated]]
+* [[intersex_penetrated]]
+** [[andromorph_penetrated]]
+** [[gynomorph_penetrated]]
+** [[herm_penetrated]]
+** [[maleherm_penetrated]]
+* [[male_penetrated]]
+
+[/section]
+
+[section=<Gender>_penetrating_<Gender> Tags:]
+
+* [[ambiguous_penetrating_ambiguous]]
+* [[ambiguous_penetrating_female]]
+* [[ambiguous_penetrating_intersex]]
+** [[ambiguous_penetrating_andromorph]]
+** [[ambiguous_penetrating_gynomorph]]
+** [[ambiguous_penetrating_herm]]
+** [[ambiguous_penetrating_maleherm]]
+* [[ambiguous_penetrating_male]]
+
+* [[female_penetrating_ambiguous]]
+* [[female_penetrating_female]]
+* [[female_penetrating_intersex]]
+** [[female_penetrating_andromorph]]
+** [[female_penetrating_gynomorph]]
+** [[female_penetrating_herm]]
+** [[female_penetrating_maleherm]]
+* [[female_penetrating_male]]
+
+* [[intersex_penetrating_ambiguous]]
+* [[intersex_penetrating_female]]
+* [[intersex_penetrating_intersex]]
+** [[intersex_penetrating_andromorph]]
+** [[intersex_penetrating_gynomorph]]
+** [[intersex_penetrating_herm]]
+** [[intersex_penetrating_maleherm]]
+* [[intersex_penetrating_male]]
+
+* [[andromorph_penetrating_ambiguous]]
+* [[andromorph_penetrating_female]]
+* [[andromorph_penetrating_intersex]]
+** [[andromorph_penetrating_andromorph]]
+** [[andromorph_penetrating_gynomorph]]
+** [[andromorph_penetrating_herm]]
+** [[andromorph_penetrating_maleherm]]
+* [[andromorph_penetrating_male]]
+
+* [[gynomorph_penetrating_ambiguous]]
+* [[gynomorph_penetrating_female]]
+* [[gynomorph_penetrating_intersex]]
+** [[gynomorph_penetrating_andromorph]]
+** [[gynomorph_penetrating_gynomorph]]
+** [[gynomorph_penetrating_herm]]
+** [[gynomorph_penetrating_maleherm]]
+* [[gynomorph_penetrating_male]]
+
+* [[herm_penetrating_ambiguous]]
+* [[herm_penetrating_female]]
+* [[herm_penetrating_intersex]]
+** [[herm_penetrating_andromorph]]
+** [[herm_penetrating_gynomorph]]
+** [[herm_penetrating_herm]]
+** [[herm_penetrating_maleherm]]
+* [[herm_penetrating_male]]
+
+* [[maleherm_penetrating_ambiguous]]
+* [[maleherm_penetrating_female]]
+* [[maleherm_penetrating_intersex]]
+** [[maleherm_penetrating_andromorph]]
+** [[maleherm_penetrating_gynomorph]]
+** [[maleherm_penetrating_herm]]
+** [[maleherm_penetrating_maleherm]]
+* [[maleherm_penetrating_male]]
+
+* [[male_penetrating_ambiguous]]
+* [[male_penetrating_female]]
+* [[male_penetrating_intersex]]
+** [[male_penetrating_andromorph]]
+** [[male_penetrating_gynomorph]]
+** [[male_penetrating_herm]]
+** [[male_penetrating_maleherm]]
+* [[male_penetrating_male]]
+
+[/section]
+
+[section=<Gender>_penetrating_<Form> Tags:]
+
+* [[ambiguous_penetrating_anthro]]
+* [[ambiguous_penetrating_feral]]
+* [[ambiguous_penetrating_human]]
+* [[ambiguous_penetrating_humanoid]]
+* [[ambiguous_penetrating_taur]]
+
+* [[female_penetrating_anthro]]
+* [[female_penetrating_feral]]
+* [[female_penetrating_human]]
+* [[female_penetrating_humanoid]]
+* [[female_penetrating_taur]]
+
+* [[intersex_penetrating_anthro]]
+* [[intersex_penetrating_feral]]
+* [[intersex_penetrating_human]]
+* [[intersex_penetrating_humanoid]]
+* [[intersex_penetrating_taur]]
+
+* [[andromorph_penetrating_anthro]]
+* [[andromorph_penetrating_feral]]
+* [[andromorph_penetrating_human]]
+* [[andromorph_penetrating_humanoid]]
+* [[andromorph_penetrating_taur]]
+
+* [[gynomorph_penetrating_anthro]]
+* [[gynomorph_penetrating_feral]]
+* [[gynomorph_penetrating_human]]
+* [[gynomorph_penetrating_humanoid]]
+* [[gynomorph_penetrating_taur]]
+
+* [[herm_penetrating_anthro]]
+* [[herm_penetrating_feral]]
+* [[herm_penetrating_human]]
+* [[herm_penetrating_humanoid]]
+* [[herm_penetrating_taur]]
+
+* [[maleherm_penetrating_anthro]]
+* [[maleherm_penetrating_feral]]
+* [[maleherm_penetrating_human]]
+* [[maleherm_penetrating_humanoid]]
+* [[maleherm_penetrating_taur]]
+
+* [[male_penetrating_anthro]]
+* [[male_penetrating_feral]]
+* [[male_penetrating_human]]
+* [[male_penetrating_humanoid]]
+* [[male_penetrating_taur]]
+
+[/section]
+[/section]
+
+h4. Object / Orifice penetration:
+[section=<Object/Orifice>_penetration:]
+
+[section=<Orifice>_penetration:]
+* [[ambiguous_penetration]]
+* [[anal_penetration]]
+** [[dildo_in_ass]]
+** [[double_anal]]
+** [[pegging]]
+** [[triple_anal]]
+* [[arthropod_abdomen_penetration]]
+* [[cloacal_penetration]]
+** [[dildo_in_cloaca]]
+** [[double_cloacal]]
+** [[triple_cloacal]]
+* [[ear_penetration]]
+* [[hair_penetration]]
+* [[nasal_penetration]]
+* [[navel_penetration]]
+* [[nipple_penetration]]
+* [[oral_penetration]]
+** [[double_oral]]
+** [[triple_oral]]
+* [[pouch_penetration]]
+* [[sheath_penetration]]
+* [[slit_penetration]]
+* [[unusual_penetration]]
+* [[urethral_penetration]]
+** [[penis_in_penis]]
+* [[vaginal_penetration]]
+** [[cervical_penetration]]
+** [[dildo_in_pussy]]
+** [[double_vaginal]]
+** [[triple_vaginal]]
+
+[/section]
+
+[section=<Object>_penetration:]
+* [[building_penetration]]
+* [[food_penetration]]
+* [[sex_toy_penetration]]
+** [[dildo_penetration]]
+*** [[dildo_in_ass]]
+*** [[dildo_in_cloaca]]
+*** [[dildo_in_pussy]]
+* [[penile_penetration]]
+** [[penis_in_penis]]
+* [[tentacle_penetration]]
+* [[tongue_penetration]]
+
+[/section]
+[/section]
+
+h4. Quantity:
+[section=<Quantity>_penetration:]
+* [[double_penetration]]
+** [[double_anal]]
+** [[double_cloacal]]
+** [[double_oral]]
+** [[double_vaginal]]
+* [[multi_penetration]]
+* [[multiple_insertions]]
+* [[multiple_penetration]]
+* [[quadruple_penetration]]
+* [[quintuple_penetration]]
+* [[triple_penetration]]
+** [[triple_anal]]
+** [[triple_cloacal]]
+** [[triple_oral]]
+** [[triple_vaginal]]
+
+[/section]
+
+h4. Size / Depth:
+[section=Size / Depth:]
+* [[balls_deep]]
+* [[deep_penetration]]
+* [[extreme_penetration]]
+* [[huge_penetration]]
+* [[large_penetration]]
+* [[macro_penetration]]
+* [[ridiculous_fit]]
+* [[shallow_penetration]]
+* [[tight_fit]]
+
+[/section]
+
+h4. Other:
+[section=Other:]
+* [[bilateral_penetration]]
+* [[cum_while_penetrated]]
+* [[guided_penetration]]
+* [[oral_while_penetrating]]
+* [[penetrating_pov]]
+* [[receiving_pov]]
+* [[suspended_via_penetration]]
+* [[trilateral_penetration]]
+* [[u-turn_penetration]]
+
+[/section]
+[/section]'),
+        ('new_era', 'New Era is a sportswear brand mainly known for the invention of the fitted hat, ever since the mid 80s they''ve been the main contractor for MLB team hats'),
+        ('subculture_pride_colors', 'An umbrella tag for [[pride_colors|pride flags]] regarding modes of expression and general physical attributes.'),
+        ('tatsu_mckay', 'Artist is mostly active on Twitter '),
+        ('railing', 'thumb #1189605 thumb #1106240 thumb #500720
+
+[b]Railing[/b] refers to the following structures, all of which usually consist of bars of some kind.
+
+* Guard rail, a structure blocking an area from access.
+* Handrail, a structure designed to provide mobile support on or near a staircase.
+* Safety rail, placed on the edge of high platforms, such as peers and catwalks, to prevent people falling off them. ([[Star Wars]] notoriously lacks these. See [[OSHA violation]].)
+
+Please don''t use this tag for sex. We already have a tag for sex. It''s called [[sex]].
+
+h4. See also
+* [[handle]]'),
+        ('sasha_(animal_crossing)', 'Sasha (jp: ミッチェル Mitchell) is a lazy rabbit villager introduced in the New Horizons 2.0 update. He is the first and currently the only male villager to have the fashion hobby.
+
+Sasha is a light seafoam green rabbit. His muzzle, paws, and eartips are white with a gradient. His nose and the insides of his ears are a light orange color. He also has a tuft of blond bangs across his forehead, and his tail is a matching shade of yellow. He has large, reflective eyes with small eyelashes; his eyes typically have large dark pupils with two white reflections in each and no visible irises, but he gains lavender irises when surprised. His default outfit is the blue Letter Jacket.
+As a lazy villager, Sasha will be friendly and easy to get along with due to his laid back lifestyle. Like all lazy villagers, he has a love of food and relaxing. He will enjoy partaking in the usual hobbies, usually for relaxing reasons or for food, like when fishing. Sasha will get along well with other villagers, but may offend or confuse jock villagers, who have a lifestyle of exercise and fitness, which conflicts with the lazy lifestyle of relaxing and food. He will get along with other lazy villagers with whom he will talk about food, comics, or superheroes. He will also get along well with normal, peppy, smug and sisterly villagers, and occasionally cranky villagers, but may from time to time annoy snooty villagers, who disagree with the lazy lifestyle.'),
+        ('angel_kitten', 'A currently unknown entity in the game [[Ookibloks]]. Please edit in the proper info.'),
+        ('lana''s_mother', 'The unnamed mother of [[trial_captain_lana]] in [[pokémon]].'),
+        ('scp-2845', 'thumb #1714910
+[b]SCP-2845[/b], aka The Deer, is a Threat Level-Black, Keter Class Object.  
+
+SCP-2845 is a quadruped entity, measuring 2.9 meters in height at the shoulder and weighing 815 kilograms. A sinuous neck, generally held in an upright position, extends a further .5 m, terminating in a head with humanoid facial features. SCP-2845 possesses antlers, measuring 4.8 meters across: Antlers are white with black marbling in coloration, and have not been observed to shed. SCP-2845 is covered in hair with an average length of 10 cm, with the exception of the face, which is hairless. SCP-2845’s coloration is primarily a pastel green, with a stripe of cream on the underside of the neck and belly.
+
+A ring of ice particles is suspended 15 cm behind SCP-2845’s skull, measuring 1.7 m in diameter, with a ring thickness of 35 cm. This ring is interrupted at regular intervals by seven spheres consisting of metallic hydrogen and metallic helium, each measuring 15 cm in diameter. The ring and spheres rotate clockwise at a speed of 1.6 rpm. The force maintaining the movement of the ring, the physical state of the spheres, and the means by which SCP-2845 is capable of supporting its head under the weight of its antlers are unknown.
+
+SCP-2845 is capable of instantaneous transmutation and reconstruction of matter. No matter is created or destroyed during this process. This property is manifested at will, with an observed range extending to targets within eyesight: maximum range of this ability is unknown. Transmuted matter will remain stable despite the lack of other factors: for example, metallic hydrogen and helium are common results, which will remain in either solid or liquid form despite the surrounding temperature. Altered atmosphere will not mix with unaltered regions, maintaining chemical consistency. The most common transmutation results are the solid or liquid forms of hydrogen, and helium, the conversion of atmosphere into a hydrogen/helium/ammonia mix, and the transmutation of plant life into metalloid-based organisms. SCP-2845 will typically surround itself with a transmuted area with a radius of approximately five meters at all times. SCP-2845 has proven itself completely resistant to physical damage.
+
+The most common forms of offensive transmutation used by SCP-2845 are a column measuring five to seven meters in diameter and sixty to eighty meters in height, or a horizontal cone measuring between one hundred and one hundred and fifty meters in length and ten to thirty meters in width at the furthest end. However, SCP-2845 has been observed to attack single targets at distances of up to 10 kilometers. Early observation of SCP-2845 during recovery indicated that it will generally ignore non-combatants, focusing on retaliation against attackers. However, SCP-2845 was not seen to make any attempts to spare non-combatants within the area of effect of its transmutations, and later recovery accounts indicate pre-emptive attacks against both military and civilian targets.
+
+SCP-2845-1 designates human beings that have been modified by SCP-2845. Instances of SCP-2845-1 are hexagonal columns measuring 2.4 meters in height, with rubbery yellow-green skin. SCP-2845-1 instances do not have any outward sense organs, and autopsy has shown that internal organs are likewise absent, save the brain, which now takes up the entirety of the column and contains the reconstituted mass of the other organs and some additional outside materials. It is unknown how SCP-2845-1 instances derive nutrients, or if any nutrition is required.
+
+SCP-2845 splintered off of a comet and crash landed on earth on December 21st, 2011 (One Year before The End of the World according to the Mayan Calendar).  In order to keep the Deer God contained at a special shrine where a series of 6 elaborate 39 minute rituals must be performed within intervals of 10 hours, to a total of 63 Hours and 54 Minutes.  Failure to complete the ritual cycle correctly may result the Deer God becoming displeased and suddenly going on an unrollable rampage.
+
+SCP-2845 is based on the the Titan King Saturn from Roman mythology.  Its description is also a pun.  It is basically a literal "Deer/Dear God" and due the incredibly long nature of its containment procedure and the fact that it is a Teal Deer, it is also a [[TL;DR]].'),
+        ('yu_chi_i', 'h5.Sources:
+
+* "Personal Website":https://yuuchi.pb.online/Yu_chi_i
+"Pixiv":https://www.pixiv.net/member.php?id=9003077
+"Twitter":https://twitter.com/Yu_chi_i
+"Portal Circle":https://portal.circle.ms/Circle/Index/10370875'),
+        ('geico_gecko', 'The Geico Gecko is the anthropomorphic gecko mascot used in GEICO commercials.
+The company''s reptilian mascot which is a talking Day Gecko was created by The Martin Agency and most recently a CGI creature generated by Animation Director David Hulin.'),
+        ('rubber_duck', 'thumb #61668 thumb #760443 thumb #640003
+
+A [b]rubber duck[/b] is a [[bath toy]] shaped like a stylized [[duck]], generally yellow with a flat base. It may be made of [[rubber]] or rubber-like material such as vinyl plastic. The yellow rubber [[duck]] has achieved an iconic status in Western pop culture and is often symbolically linked to [[bath|bathing]]. Various novelty variations of the bath toy are produced.
+
+Do not tag these with [[duck]], as they are inanimate objects.
+
+If the species is anything other than a duck, consider tagging as [[bath toy]] instead of this tag. 
+
+h4. See also
+
+* [[duck]] 
+* [[bath]]'),
+        ('rufous_sengi', 'h4. See also
+
+* [[mammal]]
+** [[sengi]]
+*** rufous_sengi'),
+        ('1987', 'This tag applies to images made in the year 1987.
+
+<-- [[1986]] | [b]1987[/b] | [[1988]] -->'),
+        ('neck_bulge', 'thumb #3239125
+
+A bulge portrayed in a character''s throat. This is most often caused by the following:
+
+* A large [[penis]], [[tentacles|tentacle]], or [[insertion]] entering through the mouth and going very deep.
+* [[Swallowing]] food, liquid, an object, or another character.
+
+Note that this tag shouldn''t be used for characters that have a prominent "''''Adam''s apple''''":http://i.imgur.com/DYYgGrx.jpg. 
+
+h4.See also: 
+
+* [[abdominal_bulge]]
+* [[cheek_bulge]]
+* [[vore]]'),
+        ('marilith', 'A [[split-form]] [[draconcopode]] creature with exactly [[multi arm|six arms]]. The top half is ordinarily [[humanoid]], but some examples based on other [[anthro]] species exist ([i]e.g.,[/i] pool #16099). As with [[lamia]], a creature with an [[ophidian]] upper body would not be a marilith, but simply a multi-arm [[naga]].
+
+Although mariliths are originally from [[dungeons and dragons|D&D]], the [i][[marilith]][/i] tag does not [i]automatically[/i] imply the [i][[dungeons_and_dragons]][/i] tag. The latter should be reserved for depictions similar to those in official D&D/Pathfinder art – which, in practice, mostly means "[[humanoid]], and [[multi wielding|wielding multiple]] [[melee weapons]]".
+
+Note that the [i][[Final Fantasy I]][/i] character "[[marilith (final fantasy i)|Marilith]]" is considered a specific marilith character, and that tag should not be merged into this one. (And, despite her armament, should not imply the [i][[dungeons_and_dragons]][/i] tag.)
+
+Not to be used for more general [[multi-arm]] [[draconcopode]] creatures. In particular, four-armed characters are not mariliths.
+'),
+        ('snuff', 'thumb #2416753 thumb #2384205
+
+[b][color=tomato]Explicit[/color][/b] tag.
+
+Originally, a term that refers primarily to the recording of real or implied [[torture]], murder, and occassionally, [[rape|raping]] a kidnapped victim on film.
+
+Here, it refers to [u]deriving sexual pleasure out of extreme pain, suffering, torture, rape, and murder.[/u] This goes far beyond the safe realm of [[BDSM]] and may include some forms of [[gore]] ([[disembowelment]], [[decapitation]], [[grotesque death|grotesque deaths]], etc.), and often a [[orgasm|sexual climax]] which peaks just before the moment of death.
+
+[b]Note:[/b] This tag is only applied when there are one or more characters [i]visibly[/i] having sexual pleasure in an extremely deadly situation. [b]Do not tag this simply because the post contains [[gore]] and/or [[death]].[/b]
+
+h4. See also:
+
+* [[necrophilia]] - Sexual attraction to the dead body itself.'),
+        ('cupcake', 'thumb #621463
+
+A [b]cupcake[/b] (also called [b]fairy cake[/b] or [b]patty cake[/b]) is a small [[cake]] designed to serve one person, which may be baked in a small thin paper or aluminum cup. As with larger cakes, icing and other cake decorations, such as candy, may be applied.
+
+h4. See also:
+
+* [[cake]]
+* [[cupcake_(fnaf)]]
+* [[muffin]]
+* "Wikipedia - Cupcake":https://en.wikipedia.org/wiki/Cupcake'),
+        ('bayshore_(artist)', 'Not active since 2012'),
+        ('alternating_focus', 'Use when the prominent focus of a character in one frame / panel changes to the prominent focus of another character in the next/adjacent frame / panel.
+
+This tag primarily targets [[comic|comics]], but it may have applications in non-comic material, especially content that highlights the reaction of two or more characters in separate frames.
+
+h4. General guidelines
+
+* The change in focus is usually deliberate, and meaningful to the scene. There may be arbitrary changes in focus that would not be a great fit for this tag.
+* Consider adding only if the zoom/crop level doesn''t change too drastically between the frames.'),
+        ('pink_male_symbol', 'A male symbol that is colored pink as opposed to the standard black or blue, often used to accentuate a male character''s femininity, their position as a bottom, relating to the fur colour of an character, or simply a stylistic choice.'),
+        ('churn', '[b]Churn[/b] means to mix, or irritate by moving around. This tag should refer to the [[onomatopoeia]] "Churn", use [[mixing]] for other interpretations.
+
+This tag is almost exclusively going to refer to [[digestion]], and should be tagged as a [[digestion_noise|digestion noise]]. It might be seen paired with other digestive sound effects such as "[[Slosh]]", and "[[Glorp]]".
+
+[b]Sound effect forms:[/b] "Churn", "Chrrn", "Chrn", "Gurn", Glurn", "Glrrn", "Glrn"
+
+Vowelless examples of "Churn" should be tagged as [[sound_effects]], not [[onomatopoeia]].
+
+h4. Related tags
+
+* [[digestion]]
+* [[digestion_noises]]
+
+h4. See also
+
+* [[tag_group:sound_effects]]
+
+* [[bodily_noises]]
+* [[slosh]]'),
+        ('white_armpit_hair', 'thumb #1539952
+
+This tag is used when the [[armpit hair]] of a character in the post is "white":https://en.m.wikipedia.org/wiki/White in color.
+
+h4.Tags About Armpit Hair
+* [[armpit_hair]]
+
+[section=Tags About Armpit Hair]
+
+[section=Armpit Hair Colors]
+h4. Armpit Hair [[tag_group:colors|Colors]]
+
+* [[black_armpit_hair]]
+* [[blonde_armpit_hair]]
+* [[blue_armpit_hair]]
+* [[brown_armpit_hair]]
+* [[grey_armpit_hair]]
+* [[pink_armpit_hair]]
+* [[purple_armpit_hair]]
+* [[red_armpit_hair]]
+* [b]white_armpit_hair[/b]
+* [[yellow_armpit_hair]]
+
+* [[dark_armpit_hair]]
+* [[light_armpit_hair]]
+
+[/section]
+
+[section=Other]
+* [[armpit_fetish]]
+** [[armpit_licking]]
+** [[armpit_sex]]
+** [[armpit_sniffing]]
+
+[/section]
+[/section]'),
+        ('yawara_(kiu-wot)', 'Female domestic cat. Owner: "Kiu-Wot":https://e621.net/artists/46313'),
+        ('christmas_is_cancelled', 'Christmas-related epic fail.'),
+        ('kro-gitsune_(kurogi)', 'thumb #3161033  　[b]Kro-Gitsune / 黎狐 / クロギツネ[/b] is a Fox fursona.
+
+His owner is "[b]Kurogi_FoxSIV ( Kurogi / 玄狐 / クロギ ) who''s a Japanese volunteer of e621.[/b]":https://e621.net/users/632383
+
+Male "[i]Japanese[/i]-Red-Fox (※) ":https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%B3%E3%83%89%E3%82%AE%E3%83%84%E3%83%8D wearing glasses, has golden brown fur and Ahoge.　The tips of their hands and feet are not black.
+He can make glow his eyes, his body, and the patterns on his face, in any color he wants.
+
+He and his owner are Traveling together through the Internet-world, even to the oversea. --- and They are one flesh, [i]literally.[/i] 
+While sometimes he is in great trouble -- Admonishing the Poisonous owner (like a run-away locomotive) ... and Being at the mercy of the owner''s whim, etc.
+
+玄狐 (Kurogi) means 玄人 = [b]"Expert"[/b] --- Not just "Black".
+黎狐 (Kro-Gitsune), on the other hand, means 黎明 = [b]"The dawn of a new period".[/b]
+Also, KRO = "Keep Right On going the way".
+
+Actually, His true identity is the "metacognition of the owner" given a body --- That is, He is the owner''s "alter ego".
+So, Be careful, please --- [i]This Fox[/i] too can sometimes give YOU sarcasm that is stronger than poison !!
+
+FYI.　
+Kro-Gitsune is as [b]Friendly[/b] as a Wolf, but,
+Kurogi, on the other hand, is a [b]Tyrant[/b] more than a Tiger --- Beware of Beast ； "To tread on the tiger''s tail" means "To take a great risk"... !
+
+( ※ Note: Jpn-Red-Fox is a subspecies of "red-fox,":https://en.wikipedia.org/wiki/Red_fox , but it''s Not the same as an "Ezo-red-fox.":https://en.wikipedia.org/wiki/Ezo_red_fox ) 
+
+[quote]
+[b]「 黎狐 」[/b]とは、e621の日本人有志である「玄狐」の代理キャラ・アバターである。
+
+眼鏡を掛けた、🦊 アカギツネ / ホンドギツネ (※) の獣人。性別はオス。
+キツネ色の体毛に、頭に伸びるアホ毛が特徴。手と足の先は黒くない。目・体・顔の模様は、好きな色に光らせることが出来るようだ。
+
+飼い主の「玄狐」とアバターの「黎狐」は〝文字通り〟一心同体であり、ネットの世界を海の向こうまでも共に旅する。
+しかし、毒気マシマシで暴れ回る飼い主を諫めたり、逆に振り回されたりと四苦八苦。
+
+「 玄狐 」の〝玄〟が 玄人・達人を意味する (単純に「黒」だけでは無い) のに対し、
+「 黎狐 」の〝黎〟は [b]黎明・新たなる時代の幕開け[/b] を意味する。
+加えて、英語名の「 KRO 」は "Keep Right On going the way" = 「 道を歩み続ける者 」の意味も含む。
+
+その正体とは実の所、オーナーのメタ認知が形として現れた姿。すなわち、「もう一人の自分」なのである。
+だから「こっちの狐」も又、ときどき〝誰彼構わずに〟下手な毒よりキツーイ強烈な皮肉を言ってしまう事があるから、くれぐれも気を付けておくれ！
+
+ちなみに。
+「 黎狐 」は 🐺 狼のように人懐っこいフレンドリーな性格だが、
+「 玄狐 」は 🐯 虎もビックリの暴君っぷり。猛獣注意！；ついウッカリでも「 虎の尾を踏む 」ような真似はしないように。
+
+( ※ホンドギツネはアカギツネの亜種だが、キタキツネとは違う。 )
+[/quote]'),
+        ('reeda', 'thumb #4431119
+
+[b]Reeda[/b] is the name given by the [i][[Snoot Game]][/i] community to a [[mtf crossgender|male-to-female crossgender]] redesign of [[reed_(gvh)|Reed]], a character who is featured in [i][[Goodbye Volcano High]][/i].
+
+Reeda is a pink-scaled velociraptor with long, pink hair and purple eyes. Her tail is covered in feathers of a darker scarlet hue compared to the rest of her body, ending with a tuft of feathers at the very tip. She has often been depicted as wearing torn blue jeans, a black sleeveless shirt with split sides, and wears her hair with two small ponytails at her temples and a black hairband just behind her bangs.'),
+        ('crossbones', 'thumb #3191751 thumb #3148313 
+
+Two, or more [[bone|bones]] that are in a crossed position. This is usually symbolic, or used for decorative effect.
+
+h4. Tagging notes
+
+This tag is useful for images that replace the typical skull theme with something else.
+
+h4. Categories
+
+* [[skull_and_crossbones]]
+
+h4. See also
+
+* [[skull_symbol]]'),
+        ('food_play', 'The use of food in a sensual fashion.
+
+h4. Common examples of food play include:
+* Use of food as an [[improvised_sex_toy]].
+thumb #2152047
+
+* Covering oneself in food.
+thumb #2214891 thumb #1388567
+
+* [[Stuffing]] or [[feeding]] (either during sex, or when it is providing obvious pleasure for the character eating or the character feeding them).
+thumb #1731595 thumb #1436966
+
+h4. See Also
+* [[food]]
+* [[food_fetish]]
+* [[improvised_sex_toy]]
+** [[food_insertion]]
+** [[food_penetration]]
+* [[eating]]
+** [[feeding]]
+** [[stuffing]]
+** [[force_feeding]]
+*** [[domination]]
+** [[weight_gain]]
+* [[nyotaimori]]
+* [[cake_sitting]]'),
+        ('reallynxgirl', 'h5.Sources:
+* "Furaffinity":https://www.furaffinity.net/user/reallynxgirl/
+
+what ever she can''t do in writing, she make up for good drawing.'),
+        ('yourdigimongirl', 'CDNP: only the artist is allowed to post.'),
+        ('djent', 'Female muttasaur. Belongs to Muttasaur. Reference: http://www.furaffinity.net/view/14215086/'),
+        ('dard', 'Male alien (feline-looking) character in {{drakuun}} comics.'),
+        ('merp', 'The natural sound/mating call of a sergal'),
+        ('neon', 'thumb #3386471 thumb #3430881 thumb #3547086
+
+[b]Neon[/b] is brightly colored lighting often used in [[strip club|strip clubs]] and [[nightclub|nightclubs]]. Neon is also seen often on body parts such as penises, and clothing.
+
+h4. Related Tags
+* [[neon lights]]
+* [[neon sign]]'),
+        ('clawitzer', 'h4. See Also:
+
+* [[pokémon]]
+** [[clauncher]]
+*** clawitzer'),
+        ('dameeji', 'Dameeji is a "cat":https://e621.net/wiki/show/felid character created by "Shadowill":https://e621.net/artist/show?name=dragontheshadows. He is very girly in terms of appearance and often dresses up as a girl. 
+
+Dameeji has a fondness for sex toys that he considers to be the best option to satisfy his sexual appetite.'),
+        ('archie_finn', 'h3.About
+[b]Archie Finn[/b] is a male "thresher shark":/post/index/1/thresher_shark character created by "Shiuk":/artists/1. Finn is a bartender employed at his family''s beach resort, and is described by Shiuk as someone who "tries very hard to fight his outward appearance in order to show off what he''s really like." Finn has only appeared in three works – the eponymous solo portrait [i]"Archie Finn":/post/show/979646, [/i] a portrait with "Aurelius":/posts/979633 entitled [i]"Alone in the Beach":/posts/979633, [/i]and an animation entitled [i]"Finn''s Favourite Toy":/posts/936291 [/i]– all published in 2016. It is not clear if Shiuk intends to use this character again in any future artwork.'),
+        ('spot_color', 'thumb #3554247 thumb #4344282 thumb #4479000 thumb #2382318
+
+When a [[monochrome|monochromatic]] or mostly uncoloured (e.g. [[line art]]) image contains an area, or small areas (or "spot(s)") of colour. 
+
+Typically, an image featuring spot colour will only use a single colour other than the monochromatic colour of the image (e.g. a [[sepia]] or blue monochrome, with a spot colour of red), however, there may be multiple [u]small[/u] areas of different colours (e.g. for different character''s eyes).
+
+A character''s eyes, [[blush]], blood splatter, or glowing objects are the most commonly "spot coloured" elements in a scene. Spot colour may be used to highlight a point of interest in an image. 
+
+h5. Note:
+[b]Not to be confused with [[restricted pallete]][/b] — which describes an image that is limited to a small number of [i]distinct[/i] colours (usually 2-4) in a scene, but is [i]fully coloured[/i]. This does not apply to variations in monochromatic values, the second example image above has multiple shades of blue, but they are only variations in the same colour.  
+
+'),
+        ('water_reflection', 'When a mirror-image [[reflection]] of a character/object can be seen in the surface of [[water]]. Not to be confused with [[caustics]] which often occurs due to light reflecting and refracting off of water.'),
+        ('grinding_(extreme_sports)', 'a maneuver where a rider, boarder, or skater slides across a rail or narrow surface
+
+See: [[extreme sports]]'),
+        ('diaper_stuffing', 'A character trapped inside of another character''s [[diaper]]. This should also be tagged as [[diaper_fetish]].'),
+        ('sudonym', 'Furry artist who started around 1998. Originally started with a variety of straight and gay work, his art became more gay-orientated overtime. His fursona was a [[lion]].  He passed away suddenly on March 20th, 2022.
+
+h1.Website links
+
+FurAffinity: http://www.furaffinity.net/user/sudonym
+Old website: http://www.arclight.net/~erikan/ (some pages accessible via http://web.archive.org/web/19991004105242/http://www.arclight.net/~erikan/) 
+VCL: http://us.vclart.net/vcl/Artists/Sudonym/ 
+Wiki Fur: https://en.wikifur.com/wiki/Sudonym
+'),
+        ('tarasque', 'From https://en.wikipedia.org/wiki/Tarasque :
+
+The {{Tarasque}} is a fearsome legendary {{dragon}}-like mythological hybrid from Provence, in southern France, tamed in a story about Saint Martha.
+
+The legend of the Tarasque is reported in several sources, but especially in the story of St. Martha in the Golden Legend.[2] The creature inhabited the area of Nerluc in Provence, France, and devastated the landscape far and wide. The Tarasque was a sort of dragon with a lion''s head, six short legs like a bear''s, an ox-like body covered with a turtle shell, and a scaly tail that ended in a scorpion''s sting. Other legends report it as living on the modern site of the Chateau Tarascon; i.e. on a rock in the midst of the Rhone. According to the Golden Legend "There was, at that time, on the banks of the Rhone, in a marsh between Arles and Avignon, a {{dragon}}, half animal, half {{fish}}, thicker than an {{ox}}, longer than an {{horse}}, with {{teeth}} like {{sword}}s and big as {{horns}}, he hid in the {{river}} where he took the life of all passers-by and submerged vessels." "Sainte Marthe". L''Abbaye Sainte Benoit. Retrieved 28 Jan 2013.
+
+The {{Tarasque}} was said to have come from Galatia which was the home of the legendary Onachus, a {{scaly}}, {{bison}}-like {{beast}} which burned everything it touched (this creature is similar to the Bonnacon). The {{Tarasque}} was the offspring of the Onachus and the {{Leviathan}} of biblical account; disputably a giant {{sea_serpent}}.
+
+The {{king}} of Nerluc had attacked the {{Tarasque}} with {{knight}}s and {{catapult}}s to no avail. But Saint Martha found the {{beast}} and {{charm}}ed it with hymns and {{pray}}ers, and led back the {{tamed}} Tarasque to the city. The people, {{terrified}} by the {{monster}}, attacked it when it drew nigh. The {{monster}} offered no resistance and died there. Martha then preached to the people and converted many of them to Christianity. Sorry for what they had done to the {{tamed}} {{monster}}, the newly Christianized townspeople changed the town''s name to Tarascon.
+
+The story of the Tarasque is also very similar to the story of {{Beauty_and_the_Beast}} and {{King_Kong}}. The {{monster}} is {{charmed}} and {{weakened}} by a {{woman}} and then {{killed}} when brought back to civilization. A similar idea is found in the myths of Enkidu and the {{unicorn}}: both are calmed by sending them a {{woman}}. The description and legend of this creature is curiously similar to other {{dragons}} of French folklore such as {{Gargouille}} and Peluda.'),
+        ('meggiebun', 'only the "artist":/users/1579341 is allowed to post'),
+        ('pistil', 'Female genitals of plants'),
+        ('diesel_(disambiguation)', 'Besides being the name of a [[fuel]], "[b]Diesel[/b]" may refer to the following:
+
+h4.General
+* [[diesel_locomotive]]
+* [[dieselpunk]]
+* [[diesel_(fuel)]]
+
+h4.Artists
+* [[dieselblue]]
+* [[dieselbog]]
+* [[dieselbrain]]
+* [[dieseldoberman]]
+* [[dieselmine]]
+* [[diesel-turbo]]
+* [[diesel_wiesel]]
+* [[rbrdiesel]]
+
+h4.Characters
+* [[denise_"diesel"_reynolds]]
+* [[diesel_(101_dalmatians)]]
+* [[diesel_dobie]]
+* [[diesel_(explicital)]]
+* [[diesel_hyena]]
+* [[diesel_(inklop)]]
+* [[diesel_(itna)]]
+* [[diesel_(johnnyboy1988)]]
+* [[diesel_(komatose)]]
+* [[diesel_(lewdrat)]]
+* [[diesel_(muzz)]]
+* [[diesel_(onefinecaprine)]]
+* [[diesel_(ragin1)]]
+* [[diesel_(ralarare)]]
+* [[diesel_(raven_nz)]]
+* [[diesel_(shaq_fu)]]
+* [[diesel_(sinistervibe)]]
+* [[diesel_(statik)]]
+* [[diesel_(tarasshadowmane)]]
+* [[diesel_(theothefox)]]
+* [[diesel_the_rex]]
+* [[diesel_wolf]]
+* [[vagabonddiesel]]
+* [[vin_diesel]]'),
+        ('amulet_coin', 'An item obtained in the game Pokémon. When held by a pokémon, if that pokémon joins in a battle, the prize money will be doubled.
+'),
+        ('shell_necklace', 'Necklace made from string and seashells.'),
+        ('torn_clothing', 'Images or animations in which one or more character''s clothing is torn.
+
+h4. Types
+* [[torn_headwear]]
+* [[torn_topwear]]
+* [[torn_dress]]
+* [[torn_armwear]]
+* [[torn_handwear]]
+* [[torn_underwear]]
+* [[torn_bottomwear]]
+* [[torn_legwear]]
+* [[torn_footwear]]
+
+h4. Themes
+* [[tearing_clothing]]
+
+h4. Sound effects
+* [[ripping_sound_effect]] - Use whenever "rip", or "tear" is used as a sound effect in the image. '),
+        ('apex_(artist)', 'Posts NSFW at http://www.furaffinity.net/user/apexxx/
+Posts omorashi and watersports at http://www.furaffinity.net/user/semiaquatic/'),
+        ('luna_(term26)', 'Lunaria Blitz is a [[herm]] [[wolf]] [[deity|goddess]] character owned by Term26 https://www.furaffinity.net/user/term26/
+
+Reference sheet: https://www.furaffinity.net/view/21761408/'),
+        ('minigamer351', 'Minigamer351 is a youtuber and streamer from brazil. He start your Youtube channel in 8 of december 2014 and post your first video in 8 june 2018 and start on twitch, his content is for audiences of all ages.
+
+Brazilian channel: https://www.youtube.com/@MiniGamer351
+only PT-BR
+
+'),
+        ('chaos_sorcerer', 'Chaos Sorcerers are powerful spellcasters who use the raw Winds of Magic to cast spells and unleash Chaos Sorcery.
+
+Those Champions of Chaos who seek mastery over the magical arts are known as Chaos Sorcerers, and they are madmen and malcontents all. They are amongst the most awful and depraved of all servants of the Ruinous Powers, for they long ago sold their souls in exchange for the heady elixir of pure power. Where many of the Known World''s wizards, such as those taught by the Colleges of Magic in Altdorf, glean their arcane skill from long years of painstaking research, a Chaos Sorcerer''s understanding of the Winds of Magic is often instant and innate. Without the patience and wisdom that such study brings, an inexorable descent into deformity, mutation and madness is nigh on inevitable.
+
+Chaos Sorcerers are masters of Dark Magic, and there is little beyond their might. They can transport themselves over vast distances, call upon the fires of Tzeentch, slaughter men by the scores, and more. But such magic comes at a terrible price. As they tap the energies of Chaos, their sanity withers whilst their bodies twist and mutate with the invoked energies.
+
+Chaos Sorcerers may be found amongst the savage tribes of the Men of the North, serving as oracles and counsellors, but many also come from the civilised lands of the Empire and beyond. These individuals, finding the limitations on magic within the Imperial Colleges of Magic too restrictive, and lured by the power to be held by dabbling in daemonology, drift north to bring themselves closer to the source of their magic in the Chaos Wastes, learning through trial and error.
+
+What separates Chaos Sorcerers from other spellcasters, namely the Magisters of the Empire, witches, and warlocks, is that these individuals derive their power directly from the Chaos Gods. Thus, only mortal servants of Nurgle, Slaanesh, and Tzeentch may become Chaos Sorcerers. There are no sorcerers of Khorne, for the mortal servants of the Blood God abhor the use of magic as the weapon of cowards, like their divine patron.
+
+According to Magister Patriarch Verspasian Kant, Chaos Sorcerers benefit from the guidance of their chosen Chaos deity, similar to a practictioner of Divine Magic, channeling and focusing the unbridled potentiality of the Aethyr through their Dark God rather than drawing upon the Winds of Magic directly. As such, the magic of a Chaos Sorcerer bears unique traits that are otherwise non-existent or unachievable using more usual methods of spellcasting.
+
+Source: https://warhammerfantasy.fandom.com/wiki/Chaos_Sorcerer
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+A sorcerer or Chaos Sorcerer is the most powerful type of psyker found among the Chaos Space Marines and the other mortal forces of Chaos.
+
+Sorcerers serve the same role as Librarians do for Loyalist Space Marine Chapters and Sanctioned Psykers do for the Astra Militarum, though many powerful sorcerers can also be considered psychically-gifted Champions of Chaos and Sorcerer Lords.
+
+Instead of the subtle psychic manipulation and divination used by the Farseers of the Aeldari or the strength-boosting powers of the Space Marine Librarians, the sorcerers of Chaos wield death, destruction, and mutation, the mightiest powers of the Warp.
+
+Sorcerers of Chaos shape destiny itself with arcane rituals and unspeakable pacts forged with the malefic entities -- the Daemons -- of the Empyrean. In truth, "sorcery" itself differs from other forms of psychic ability because it requires interacting and cutting deals for knowledge and/or power with the entities of the Warp in the pursuit of one''s own selfish gain.
+
+Through the knowledge gained by such pacts, sorcerers channel the soul-blasting energies of the Warp into potent hexes and blasts of wyrdflame, and they mould the fabric of the material universe with little more than a hate-filled curse.
+
+Because of their constant exposure to the power of Chaos, sorcerers are inevitably haunted by the prospect of eventually succumbing to crippling mutation or insanity. Though they believe they are above mortal concerns, the truth is that they, too, are only pawns, raised up and then expended by the Dark Gods for their own amusement.
+
+The line between wielding psychic power and true "sorcery" is a fine one indeed. The Chapters of the Adeptus Astartes may seek to deny it, but every time a Space Marine Librarian calls upon his mental might he risks tainting his soul.
+
+In the heat of battle, even the most capable psyker may overreach his abilities, and instead of recoiling in horror from the resultant carnage, he may feel a forbidden thrill. Such emotions are the first step on a path to limitless evil.
+
+From that moment on, the psyker may endure honeyed whispers in his dreams and visions of immortality. Those who succumb to such temptations and make deals for power with the Daemonic denizens of the Immaterium become true sorcerers, able to channel the malefic power of the Warp to its fullest extent, unconstrained by morality or consequences.
+
+Sorcerers are forever driven to expand their influence and knowledge. They see themselves as having ascended; no longer hindered by blind loyalty to the Corpse-God of the Imperium, they become even more callous and inhuman than those who follow them.
+
+Some are cold-hearted strategists who vent their hatred upon as much of the universe as possible; Ygethmor the Deceiver once orchestrated a doomsday cult that resulted in the depopulation of every inhabited world in the Corriallis System.
+
+Others act as advisors for Chaos Lords, subtly redirecting them to their own ends under the illusion of servitude. A rare few roam the hidden paths of the universe, unlocking the secrets of the ancients to better plunge the galaxy into the embrace of Chaos.
+
+Regardless of their goals, all sorcerers revel in the anarchy of the Long War. It takes only a flicker of resistance to spur them into unleashing the destructive energies of the Immaterium. Their bitterness manifests upon the battlefield as a palpable force; red-hot skulls hammer down from the skies, disease chokes the souls of those nearby, and men are turned into monsters in their wake.
+
+The martial prowess common to all Chaos Space Marines is magnified greatly when combined with the weapons of the sorcerer, baleful artefacts saturated with the energies of Chaos that can rip the soul from the body of their victim.
+
+The Thousand Sons Legion gave rise to the first Space Marine sorcerers during the early days of the Great Crusade. Even before the Horus Heresy, the XVth Legion of Magnus the Red had a thirst for knowledge of the Warp that proved impossible to slake, and ultimately proved their undoing.
+
+In his arrogance and ignorance, Magnus ignored the warnings of his father the Emperor and could not stop himself from dealing with the denizens of the Warp in the search for ever more knowledge about how to enhance and extend his psychic abilities and those of his Astartes.
+
+Without even realising it, he struck a pact with the Chaos God Tzeentch that ultimately resulted in the damnation of himself and his Legion. Most of the Thousand Sons'' number were ultimately reduced to unliving automatons by the Rubric of Ahriman, though the most psychically powerful among them were able to resist the unforeseen consequences of that grand ritual.
+
+Many of these ancient sorcerers have now forged pacts with Abaddon the Despoiler, joining the Warmaster of Chaos in his quest to overthrow the Imperium of Man and adding the strength of their Rubricae bodyguards to that of the Black Legion.
+
+Source: https://warhammer40k.fandom.com/wiki/Sorcerer'),
+        ('fingerless_gloves_(marking)', 'Hybrid tag for [[fingerless_(marking)]] and [[gloves_(marking)]].
+
+h4. See also
+
+* [b][[Markings]][/b]
+* [b]Marking patterns (Common)[/b]
+** [[gloves_(marking)]]
+** [[socks_(marking)]]
+** [[fingerless_(marking)]]
+** [[toeless_(marking)]]
+** [[mask_(marking)]]
+** [[muzzle_(marking)]]
+** [[heart_(marking)]]
+* [b]Marking placements[/b]
+** [[arm_markings]]
+*** [[hand_markings]]'),
+        ('saul_ashle', 'A {{male}} {{salazzle}} owned by "GyroTech":/users/187594
+Raised from birth by a pokemon trainer, he was not malnourished by the females as most of his wild brothers are, and so evolved into a salazzle. As a male salazzle, he retains his orange coloration, and the mask of salandits.
+
+For more information see: https://gyro.tech/saulashle
+
+Due to e621 TWYS guidelines, he should be tagged {{salazzle}} {{salandit}} {{hybrid}}
+
+thumb #2998653 thumb #3008991 thumb #3021797 thumb #1118803 '),
+        ('booba_(series)', '[b]Booba[/b] is a 3D animated series for children created by the studio "3D Sparrow":https://www.3dsparrow.com. It features the main character who explores various worlds and embarks on thrilling adventures with a host of friends.'),
+        ('static', 'crackling or hissing noises on a telecommunications system.
+Usually caused by bad signals.'),
+        ('beverage', 'thumb #702920 thumb #701921 thumb #689512
+
+A fluid that is designed to be consumed or drunk. May or may not be held in a [[cup]], [[bottle]], or mug by a character.
+
+h4. See also:
+* beverage
+** [[alcohol]]
+*** [[beer]]
+*** [[champagne]]
+*** [[rum]]
+*** [[sake]]
+*** [[whiskey]]
+*** [[wine]]
+*** [[vodka]]
+** [[apple_juice]]
+** [[bubble_tea]]
+** [[carrot_juice]]
+** [[coconut_drink]]
+** [[coffee]]
+** [[energy_drink]]
+** [[grape_juice]]
+** [[hot_chocolate]]
+** [[lemon_juice]]
+** [[lemonade]]
+*** [[pink_lemonade]]
+** [[milk]]
+*** [[chocolate_milk]]
+*** [[strawberry_milk]]
+** [[orange_juice]]
+** [[raspberry_juice]]
+** [[smoothie]]
+** [[soda]]
+*** [[cola]]
+*** [[grape_soda]]
+*** [[orange_soda]]
+*** [[root_beer]]
+**** [[sarsaparilla]]
+** [[tea]]
+** [[tomato_juice]]
+** [[water]] (if clearly shown in a potable form, such as bottled water)'),
+        ('komi_(overgrown_lizards)', 'Komi is a [[female]] [[luxray]] character owned by Overgrown_Lizards https://www.furaffinity.net/user/overgrownlizards/
+
+"Other characters from Overgrown_Lizards can be found here.":/tags?search%5Bname_matches%5D=*_%28overgrown_lizards%29'),
+        ('fire_peashooter', 'Fire Peashooter is a female fire Peashooter that is in the game plants vs zombies 2 it''s about time '),
+        ('sar''_don', 'Sar’ Don Shevi Palk
+
+Gender:  Male
+
+Birthday:  3/17/2991
+
+Age:  66 (~ 28)
+
+Placement:  Security Director
+
+Rank:  1st Lieutenant
+
+Bio:  Don is downright obsessive about his position as the station’s security director.  He sees danger lurking around every corner, and though he has a small staff to help him, he often over-works himself trying to identify and neutralize potential threats.  It’s not unusual for him to work for days without rest, which only makes him more demanding and on-edge.  To put it nicely, he’s not the most popular person on the station.  Because he overreacts to things so spectacularly, it’s become somewhat of a sport among the station’s troublemakers to try to set him off.  He has also rung up an impressive number of nicknames (all courtesy of Tattle), the current favorites being S.D., Security Don, Shevi, Donni-boy, and “the wettest of blankets.”  Don does not approve of any of these.
+
+Source: www.kahmith.com/cast'),
+        ('glucose_monitor', 'Glucose monitors, specifically Continuous Glucose Monitors (CGM) are devices to used to help manage Type 1 or Type 2 diabetes with fewer fingerstick tests. It is a small sensor device often located on the back of the upper arm, the device reads a sensor just under the skin measures glucose levels.
+
+'),
+        ('carrottia_(sonic)', 'thumb #3728992
+
+[i][b]Carrottia[/b][/i] is a character from the [[sonic_the_hedgehog_(series)|Sonic the Hedgehog]] franchise. She is a White Rabbit with Tan skin and a pink nose. For attire, she wears a large Pink Bow on her head, a sleeveless, black tube top with light-blue trim, a green skirt, white gloves, and pink Mary Janes with white socks.
+
+Only appearing in [i][[Tails'' Sky Patrol]][/i] as a villain for [b][i][[miles_prower|Miles "Tails" Prower]][/i][/b] at first, she later made a comeback on [[idw_publishing|IDW Publishing''s]] [i]"Sonic the Hedgehog: Tails'' 30th Anniversary Special"[/i], with a overall redesign.
+
+She is not to be confused with "[[carrotia_the_rabbit_(archie_sonic)|Carrotia the Rabbit]]" (with one less "T" in her name) from the [[sonic_the_hedgehog_(archie)|Sonic the Hedgehog Archie Comics]]. Tough they are technically the same character, they are quite different design/personality wise.'),
+        ('junip', 'A male sandcat character, belonging to artist whose FA username was "Ataraxia":https://www.furaffinity.net/user/aixarata/ , but they moved to FA username [[Glopossum]] starting in 2017.'),
+        ('hazelrah0', 'Hey~ Hello new digital artist, looking foward to make friends, watch amazing artwork and post my work as I improve myself Cheers~'),
+        ('telechat', 'The series, aimed at children, parodies the television news program for adults with the concept of "object television". Sprinkled with reports and interviews dedicated to the objects, the Téléchat newspaper invariably begins with the sequence of the "celebrated object" of the day, the presenters wishing a "happy birthday" to the object in question.
+
+The diary is featured by two anthropomorphic animal puppets: a cat named Groucha (who has one arm in a cast) and an ostrich named Lola. Other characters regularly intervene such as Mic-Mac, Groucha''s microphone, but also other objects present on the set. In addition, Gluons (microscopic beings that live in various objects), are interviewed and talk about their lives in the sequence "Objects in the air."
+
+During the newspaper advertising pages are spread, the opportunity to see the Monkey Pub-Pub present “Null” products, but always in a catastrophic way. It also presents the adventures of the vigilante Léguman, a man disguised with a pumpkin head who fights against the bad guys.
+
+After the end credits, a sequence shows Groucha and Lola arguing in an unprofessional context after work, often in the cafe (the Milk Bar), as if to remind people that the characters'' experiences are not limited to your profession.
+
+In the second season, Groucha is replaced by another presenter, the GTI rabbit (for "Grégoire de la Tour d''Ivoire"). GTI is related to a person in charge of the channel and wants to rejuvenate the antenna. This character symbolizes the economic pressures exerted on journalists; As a result of his flagrant professional misconduct, he was fired, in particular for having "destroyed the advertisement".
+
+The tone of the program, by way of humor, is quite critical and speaks of television, advertising, audience races or "airdrops".'),
+        ('thick_lips', 'This tag is used when a character''s lips are very pronounced.
+
+Examples:
+
+thumb #702172 thumb #699447 thumb #692647'),
+        ('maccy_(character)', 'Taillove’s character
+ 
+Big butt big attitude loyal mascot '),
+        ('shower_sex', 'It''s people having sex in the shower'),
+        ('azeezveesk', '[b]Domainss[/b]
+Twitter [1]
+[b]URLs[/b]
+https://twitter.com/AzeezVeesk'),
+        ('cadence_bonaventura', '[color=character][b]Cadence "Cady" Bonaventura[/b][/color] is a [[female]] [[domestic cat]] [color=character]character[/color] owned by the [color=artist]artist[/color] [[Chokovit (artist)|Chokovit]]. '),
+        ('taigaxholic', 'An English speaking [[otoko no ko|femboy]] indie [[virtual youtuber]]. Has different forms: [[angel]], tiger boy, and a dog boy furry.'),
+        ('black_thigh_highs', 'Self-explanatory, for when a character is wearing thigh highs in the color black.
+
+h4. Colors:
+* [[green_thigh_highs]]
+* [[yellow_thigh_highs]]
+* [[grey_thigh_highs]]
+* [[tan_thigh_highs]]
+* [[brown_thigh_highs]]
+* [[white_thigh_highs]]
+* [[blue_thigh_highs]]
+* [[orange_thigh_highs]]
+* [[red_thigh_highs]]
+* [[pink_thigh_highs]]
+* [[purple_thigh_highs]]
+* [[rainbow_thigh_highs]]
+
+h4. Patterns / Designs
+* [[striped_thigh_highs]]
+* [[pattern_thigh_highs]]
+
+h4. See also:
+* [[thigh_highs]]'),
+        ('cum_while_sheathed', 'When a character with a [[sheath]] [[ejaculation|ejaculates]] while their [[penis]] remains [[fully sheathed]], or while only the [[penis tip]] has emerged from the [[sheath]] with most of the penis still inside the [[sheath]].'),
+        ('shut_up_and_take_my_money', 'thumb #1912338
+
+A meme originating from the TV series [i]Futurama[/i]. The meme features a character holding a wad of [[banknote|banknotes]] with the caption "SHUT UP AND TAKE MY MONEY".
+
+h4. Inherently Involves...
+* [[holding money]]
+* [[money]]
+
+h4.See also
+* [i][[Futurama]][/i]
+* [[humor]]
+* [[meme]]'),
+        ('teal_bottomwear', 'Any article of [[bottomwear]] ([[pants]], [[shorts]], [[skirt]], etc.) that is teal in color.
+
+thumb #1103347
+
+h4. Categories
+
+* [[teal_hakama]]
+* [[teal_loincloth]]
+* [[teal_kilt]]
+* [[teal_pants]]
+* [[teal_sarong]]
+* [[teal_shorts]]
+* [[teal_skirt]]
+
+h4. Bottomwear colors
+
+* [[black_bottomwear]]
+* [[blue_bottomwear]]
+* [[brown_bottomwear]]
+* [[green_bottomwear]]
+* [[grey_bottomwear]]
+* [[orange_bottomwear]]
+* [[pink_bottomwear]]
+* [[purple_bottomwear]]
+* [[red_bottomwear]]
+* [[tan_bottomwear]]
+* [b]teal_bottomwear[/b]
+* [[white_bottomwear]]
+* [[yellow_bottomwear]]
+
+* [[rainbow_bottomwear]]
+
+h5. Color attributes
+
+* [[translucent_bottomwear]]
+
+h5. Color counts
+
+* [[monotone_bottomwear]]
+* [[multicolored_bottomwear]]
+** [[two_tone_bottomwear]]
+** [[multi_tone_bottomwear]]'),
+        ('gimp_suit', 'A gimp suit, a.k.a. a bondage suit, is a garment designed to cover the body completely (usually including the hands and feet), fitting it closely, and often including anchor points for bondage. It often has an attached hood; if it does not, it often is worn with a [[gimp_mask]]. The suit may be made from any material
+
+Not to Be Confused With a [[Bitchsuit]] which is designed to also fold the wearer''s limbs to force them to walk on their elbows and knees.
+
+h4. See also
+* [[tag_group:bondage]]'),
+        ('wolfblazex', 'Really likes M.Bison fursona, I mean Shvein Hax from Fuga: Melodies of Steel.'),
+        ('ran''ou_(tamago_no_kimi)', 'Artist, illustrator.
+
+His nickname came from 卵黄 (ran''ou, lit."yolk").
+卵の黄身 (Tamago no Kimi, lit."the yellow of an egg") was originally used as a qualifier of his nickname. However, he also uses it as his username.
+
+Japanese name: らんおう [Ran''ou] or らんおう＠卵の黄身 [Ran''ou (Tamago no Kimi)]
+Circle name: 発酵戦隊
+Site name: EGG BREAKER'),
+        ('cafe_ydonas', 'is a Canadian gay furry artist whose content focuses on femboys and guys with big butts.
+
+He is known for being an artist who openly hates bisexuals and whose philosophy is misanthropy, so he is a person who does not exemplify ethical values. He himself has said that he hates all humanity and that his character is not politically correct.
+
+His fursona ''''Donas'''' is a fox that has the same sociopath character as the artist and is characterized by having a big, juicy butt. He has mocha-colored drops on his face around his eyes, alluding to his sect of Masonic origin and the Opus Dei.
+
+Donas has a violent and arrogant personality, he likes to manipulate people with physical tributes to him and he does not like people. He has all the characteristics of a sociopathic murderer which is somewhat disturbing.'),
+        ('wintermadness', 'h4.Sources:
+* "Deviantart":https://www.deviantart.com/devs-iratvs
+"Weasyl":https://www.weasyl.com/~wintermadness
+"furaffinity":https://www.furaffinity.net/user/wintermadness/
+"Personal Twitter":https://twitter.com/nuclear_wonter
+"Art Twitter":https://twitter.com/Winter__arts
+'),
+        ('black_fingers', 'thumb #3364367
+
+Tag used when a character has [[fingers]] that are black in color.
+
+https://en.wikipedia.org/wiki/Black
+
+h4. Tags About Fingers
+
+* [[fingers]]
+
+[section=Colors]
+
+h4. Fingers [[tag_group:colors|Colors]]
+
+* [b]black_fingers[/b]
+* [[blue_fingers]]
+* [[brown_fingers]]
+* [[green_fingers]]
+* [[grey_fingers]]
+* [[orange_fingers]]
+* [[pink_fingers]]
+* [[purple_fingers]]
+* [[red_fingers]]
+* [[tan_fingers]]
+* [[teal_fingers]]
+* [[white_fingers]]
+* [[yellow_fingers]]
+
+* [[monotone_fingers]]
+* [[multicolored_fingers]]
+** [[two_tone_fingers]]
+
+* [[dark_fingers]]
+* [[light_fingers]]
+
+[/section]
+
+[section=Traits]
+
+* [[fingernails]] - [[Nails]] located on the tips of fingers.
+* [[finger_claws]] - [[Claws]] located on the tips of fingers.
+* [[hooved_fingers]] - [[hooves|Hoof-like]] structures on the tips of fingers. Not the same as [[hoof hands]].
+
+[/section]
+
+[section=Actions]
+
+* [[beckoning]] - A come-hither gesture that can be made with finger(s), hand, arm, or head.
+* [[finger_wag]] - A disapproving gesture
+* [[index_to_index]]
+* [[interlocked_fingers]]
+* [[pointing]]
+* [[steepled_fingers]]
+* More examples: at [[gesture]]
+
+[/section]
+
+h4. See also
+
+[section=Number of Fingers]
+* [[1_finger]], [[2_fingers]], [[3_fingers]], [[4_fingers]], [[5_fingers]], [[6_fingers]]
+
+[/section]
+
+* [[claws]]
+* [[fin]]
+* [[frill]]
+* [[humanoid_hands]]
+* [[paws]]'),
+        ('bling', 'Flashy, ostentatious and expensive [[clothing]], [[jewelry]], and accessories usually affiliated with a materialistic lifestyle. Popularized by [[hip hop]] culture.'),
+        ('eva_(sahara)', 'A green, female snake from the movie Sahara.'),
+        ('catniplewds', 'An artist'),
+        ('multicolored_sideburns', 'Used when a character''s [[sideburns]] are several different colors.
+
+* If the character has only two different sideburns colors, also use [[two_tone_sideburns]].
+Consider using other sideburns colors in addition to this tag.
+
+h4. Tags About Sideburns
+
+* [[sideburns]]
+
+[section,expanded=Tags About Sideburns]
+
+[section,expanded=Colors of Sideburns]
+h4. [[tag_group:colors|Colors]] of Sideburns
+
+* [[black_sideburns]]
+* [[blonde_sideburns]]
+* [[blue_sideburns]]
+* [[brown_sideburns]]
+* [[green_sideburns]]
+* [[pink_sideburns]]
+* [[purple_sideburns]]
+* [[red_sideburns]]
+* [[white_sideburns]]
+
+* [[monotone_sideburns]]
+* [b]multicolored_sideburns[/b]
+** [[two_tone_sideburns]]
+
+* [[dark_sideburns]]
+* [[light_sideburns]]
+
+[/section]
+[section,expanded=Types of Facial Hair]
+
+* [[beard]]
+* [[goatee]]
+* [[mustache]]
+* [b]sideburns[/b]
+* [[soul_patch]]
+
+[/section]
+[/section]
+
+h4.See also
+* [[hairy]]
+* [[pubes]]'),
+        ('fieryjaneyart', 'See [[fieryashy]]'),
+        ('m-oni', 'Russian Artist
+
+* "Furaffinity":https://www.furaffinity.net/user/m-oni/
+"Deviantart":https://www.deviantart.com/kinder-ritsu'),
+        ('translop', 'Translops are a species created by [[ChibiTay]]
+They are rabbit-like aliens with minor shapeshifting abilities.'),
+        ('x_(bfb)', 'X is an [[algebralian]]. He is a sentient variable, the literal variable X from algebra embodied as a living creature.
+
+X was the co-host of the [[battle_for_dream_island|BFDI]] series "BFB":https://www.youtube.com/watch?v=PfEa1zFDeNY. X was first introduced in "X Finds Out His Value":https://www.youtube.com/watch?v=J2TYyUftI8k.'),
+        ('hair-pencils', 'Hair-pencils are specialized structures involved in pheromone signaling, commonly found in male moths and butterflies. These structures release pheromones that function dually as aphrodisiacs and tranquilizers for females, while concurrently acting as repellents to conspecific males. The glands responsible for producing these pheromones are housed within the male''s body until the initiation of courtship, at which juncture they are expelled through sclerotized levers located on the abdomen.
+
+Not to be confused with [[coremata]], which are distinct structures unique to male moths that bears hair-pencils.'),
+        ('size', 'Any tag or characteristics about size up or size down 
+Maibe size grow or size difference'),
+        ('mythological_avian', 'A type of [[mythology|mythological]] creature that resembles or otherwise takes visual inspiration from real world [[avian|avians.]]'),
+        ('eiden_(nu:_carnival)', 'Eiden is the main character of the game [i][[Nu: Carnival]][/i], voiced by Netoru Irakusa. 
+Official description from the game’s website: 
+[quote]A product designer for a sex toy company, Eiden grew up in an orphanage where he developed a strong, independent personality. He first realized he was gay during puberty and has since had several on-off relationships. He enjoys playing the role of both bottom and top and when it comes to sex, he''s very open-minded, with a long list of fantasies and desires.[/quote]'),
+        ('character_collage', 'thumb #1757205 thumb #575632 thumb #1409130
+
+Tagged for collages that feature a large group of posed characters, where the characters are drawn together with minimal interaction between them. Frequently, these characters are drawn aesthetically in different sizes and out-of-scale. In a conventional character collage, the characters are drawn in a way that shows off their personality.
+
+Character collages commonly feature characters from a single franchise but can be mixed-franchise.
+
+This does not apply to group gatherings such as parties, orgies, or other scenes where the characters have a reason to be depicted together.
+
+h4. Not to be confused with:
+
+* [[multiple_images]]
+
+h4. Related tags:
+
+* [[abstract_background]]
+* [[large_group]]
+* [[pose]]
+** [[action_pose]]
+* [[simple_background]]'),
+        ('wet_breasts', 'When a character''s [[breasts]] are [[wet]] from [[swimming]] in a [[swimming_pool]], [[showering]] or [[bathing]], being out in the rain, or any other situation that results in a character''s [[breasts]] getting [[wet]].
+
+h4. Wet Tags
+
+* [[wet]]
+
+[section=Wet Tags]
+* [[wet_body]]
+** [[wet_feathers]]
+** [[wet_fur]]
+** [[wet_scales]]
+** [[wet_skin]]
+* [b]wet_breasts[/b]
+* [[wet_clothing]]
+** [[cum_through_clothing]]
+*** [[cum_through_underwear]]
+** [[lactating_through_clothing]]
+** [[precum_through_clothing]]
+*** [[precum_through_underwear]]
+** [[pussy_juice_through_clothing]]
+** [[wet_apron]]
+** [[wet_armwear]]
+** [[wet_bottomwear]]
+*** [[wet_pants]]
+*** [[wet_shorts]]
+** [[wet_dress]]
+** [[wet_footwear]]
+** [[wet_headwear]]
+** [[wet_legwear]]
+*** [[wet_socks]]
+** [[wet_topwear]]
+*** [[wet_shirt]]
+** [[wet_underwear]]
+*** [[wet_panties]]
+* [[wet_hair]]
+** [[wet_mane]]
+* [[wet_penis]]
+* [[wet_tail]]
+* [[wet_tentacles]]
+* [[wet_tongue]]
+* [[wet_wings]]
+[/section]'),
+        ('dooyei', 'Drawing simple drawings.'),
+        ('virgo_(symbol)', 'Pictures with this tag contain the astrological symbol for the Zodiac sign of [[Virgo_(zodiac)|Virgo]].
+
+Pictures with this tag are likely connected to the zodiac in some manner, but they may just contain the symbol, either as a part of the background, as a [[tattoo]], a [[necklace]], or something similar.  The presence of the symbol does not mean that the character pictured is a personification of a zodiac sign.
+
+Virgo''s symbol is derived from the Greek letters ΠΑΡ, which are the first three letters of the Greek word parthenos, which means "virgin."
+
+[ltable]
+Astrological Symbols | Zodiac Page
+♈ [[Aries_(Symbol)]] | [[Aries_(zodiac)]]
+♉ [[Taurus_(Symbol)]] | [[Taurus_(zodiac)]]
+♊ [[Gemini_(Symbol)]] | [[Gemini_(zodiac)]]
+♋ [[Cancer_(Symbol)]] | [[Cancer_(zodiac)]]
+♌ [[Leo_(Symbol)]] | [[Leo_(zodiac)]]
+♍ [[Virgo_(Symbol)]]|[[Virgo_(zodiac)]]
+♎ [[Libra_(Symbol)]] | [[Libra_(zodiac)]]
+♏ [[Scorpio_(Symbol)]] | [[Scorpio_(zodiac)]]
+⛎ [[Ophiuchus_(Symbol)]] | [[Ophiuchus_(zodiac)]]
+♐ [[Sagittarius_(Symbol)]] | [[Sagittarius_(zodiac)]]
+♑ [[Capricorn_(Symbol)]] | [[Capricorn_(zodiac)]]
+♒ [[Aquarius_(Symbol)]] | [[Aquarius_(zodiac)]]
+♓ [[Pisces_(Symbol)]] | [[Pisces_(zodiac)]]
+[/ltable]
+
+See Also:
+
+* [[Western Zodiac]]
+'),
+        ('seel', 'thumb #185224 thumb #520633
+
+Source: http://bulbapedia.bulbagarden.net/wiki/Seel_(Pok%C3%A9mon)
+
+Seel (Japanese: パウワウ Pawou) is a Water-type Pokémon. 
+
+It evolves into Dewgong starting at level 34. 
+
+Seel is a pinniped Pokémon with a thick hide covered in bluish white fur. It has a pale tan maw with a large red tongue and a pair of tusks on its lower jaw. It has circular eyes and a black nose that is capable of closing while Seel swims. There is a small horn on its forehead, which it uses in combination with its tusks to bore through ice floes. It has two flippers on its chest, and two more on the end of its tail. When the tail is raised, it resembles a waterspout. 
+
+Seel lives on icebergs in frigid ocean waters. Its warm fur and thick hide allow it to swim in waters as cold as -40°F. It thrives in these cold environments, becoming more active as the temperature drops. Preferring to sleep during the day, it hunts for prey under sheets of ice in the late day and evening hours. While it is a graceful swimmer, it is awkward and struggles to move on dry land. 
+
+h4. See Also:
+
+* [[pokémon]]
+** seel
+*** [[dewgong]]
+'),
+        ('angry', 'thumb #742248 thumb #124019
+
+h1.😠
+
+[b]Anger[/b] is an emotion related to one''s psychological interpretation of having been offended, wronged or denied and a tendency to undo that by retaliation. 
+
+Tag images with this when a character shown is ANGRY!!! RAAAAAAAAAAAAAGEEE!!!
+
+For other emotions, check [[tag_group:facial_expressions#emotions]].
+
+h4. Not to be confused with:
+* [[Annoyed]]
+
+h4. Related terms:
+* [[Cross-popping vein]]
+* [[Crying]]
+* [[Frown]]
+* [[Heartbroken]]
+* [[Snarling]]
+* [[Yelling]]'),
+        ('katida_mannigan', 'Female cat dragon hybrid. Daughter of [[Chel''ah_Mannigan]]. Belongs to Katidragon. Reference: https://www.furaffinity.net/view/18767060/'),
+        ('nautilus_(lol)', 'Nautilus - the Titan of the Depths
+
+[[league_of_legends|League of Legends]] Character
+
+"Picture":https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_0.jpg'),
+        ('saneaz', 'thumb #2577948
+
+Saneaz is a Russian artist whose style is characterised by skinny characters, smooth textures and vibrant colors. '),
+        ('terriermon_assistant', 'Assistant to Agumon Hakusei/Agumon Expert.'),
+        ('mieu', 'thumb #195664
+
+[b]Mieu[/b] is a [[young]] [[male]] [[cheagle]] from the Cheagle Woods in [[Tales of the Abyss]]. He has [[blue_fur|blue]] and [[white fur]] and wears a ring around his waist.
+
+h4. External:
+
+* "Aselia - Mieu":http://aselia.wikia.com/wiki/Mieu'),
+        ('lightsaber', 'The [b]lightsaber[/b], sometimes referred to as a laser sword, is a weapon primarily used by Force-sensitive individuals in the [i][[Star Wars]][/i] universe. Lightsabers consisted of a plasma blade, powered by a focusing crystal and usually emitted from a metallic hilt (thought other materials are sometimes used). Use in the weapon required considerable skill and training, and was greatly enhanced when used in conjunction with [[the Force]]. The lightsaber is generally associated with the [[Jedi]] and [[Sith]] factions, with many in the galaxy believing only Jedi used lightsabers at all (though there have been demonstrations of non-sensitives utilizing lightsaber''s as well; usually, but not always, with considerably less skill).
+
+Lightsaber blades can be of nearly any color, though blue and green blades are typical of the Jedi faction, while red is commonly associated with the Sith. Some Jedi base the color of their blade on their chosen path, with Guardians utilizing blue blades; Consulars wielding green blades; and the lesser-known and often unseen Sentinels using yellow-hued blades. Rarely seen in the [i]Star Wars[/i] universe are violet-hued lightsaber blades (like the one wielded by Jedi Master Mace Windu); rarer still are black-colored lightsaber blades, which are sometimes referred to as darksabers.'),
+        ('beret', 'thumb #786387
+
+A [b]beret[/b] is a soft, visorless [[hat|cap]] with a close-fitting headband and a wide, round top often with a tab at its center. 
+
+h4. Not to be confused with:
+
+* [[Flat Cap]] - A similar-looking hat [i]with[/i] a visor.
+
+h4.See also:
+
+* [[Hat]]
+* [[tag_group:clothes|Tag Group: Clothes]]
+
+h4. External:
+
+* "Wikipedia - Beret":https://en.wikipedia.org/wiki/Beret'),
+        ('ponk', 'His Motives Are Unknown'),
+        ('summer_(spiritfarer)', 'Summmer is a character in [[Spiritfarer]] videogame. Her spirit''s appearance is a [[snake]] with body that is yellow and brownish-green, and wears a green cloak. Apparently was a human in life.
+
+Spiritfarer wiki page about Summmer: https://spiritfarer.fandom.com/wiki/Summmer
+
+'),
+        ('cum_string', 'The physical manifestations of [[cum]] when it is stretched out between two things. Most commonly seen as a string of cum between the tip of the [[penis]] and the [[mouth]], [[anus]], or [[pussy]] as they [[pull out]] after sex, but any picture where a string of cum is stretching between two things applies.
+
+h4. See also:
+* [[cum_drip]]
+* [[cum_strand]]'),
+        ('glowing_markings', 'Add this tag when a character has distinctive glowing marks.
+
+h4.See also:
+* [b]Marking colors[/b]
+** [[black_markings]]
+** [[blue_markings]]
+** [[brown_markings]]
+** [[cyan_markings]]
+** [[green_markings]]
+** [[grey_markings]]
+** [[orange_markings]]
+** [[pink_markings]]
+** [[purple_markings]]
+** [[red_markings]]
+** [[teal_markings]]
+** [[white_markings]]
+** [[yellow_markings]]
+* [b]Marking types[/b]
+** glowing_markings
+** [[rainbow_markings]]
+** [[tribal_markings]]
+* [b]Marking placements[/b]
+** [[arm_markings]]
+*** [[shoulder_markings]]
+*** [[wrist_markings]]
+** [[back_markings]]
+** [[ball_markings]]
+** [[breast_markings]]
+** [[butt_markings]]
+** [[chest_markings]]
+** [[belly_markings]]
+** [[ear_markings]]
+** [[eye_markings]]
+** [[head_markings]]
+*** [[facial_markings]]
+*** [[forehead_markings]]
+*** [[occipital_markings]]
+** [[leg_markings]]
+*** [[thigh_markings]]
+** [[tail_markings]]'),
+        ('carrying_weapon', 'The act of carrying a weapon somewhere on the body such as on one''s back, shoulder, or in a holster, scabbard, weapon sling etc.
+
+h4. Not to be confused with
+
+* [[holding_weapon]] - A character is holding the weapon directly with their hands, or prehensile anatomy. Both tags will be applicable if part of its weight is still being supported by the body, or for instance the character is in the process of taking it out of its sheath or holster.
+
+h4. Subtags
+
+* [[weapon_on_back]] 
+* [[weapon_on_shoulder]]
+
+h4. Related tags
+
+* [[holster]]
+* [[scabbard]]
+* [[sheathed_weapon]]
+
+h4. See also
+
+* [[body_weapon]]'),
+        ('nightshroud_(vermilion)', '
+Please Note: there''s two different artists who have gone by the name ''Nightshroud''. 
+
+* This tag is for the ''Nightshroud'' listed "here":http://unicorn.wereanimal.net/Kondor/Artists/M-O/Nightshroud/001_010/Page001.htm who seems to have used both ''Nightshroud'' and ''Vermilion'' as names and is currently inactive. 
+
+* The other artist goes solely by ''Nightshroud'' and is currently using the [[Nightshroud]] tag and is "active on Deviantart.":http://nightshroud.deviantart.com/
+'),
+        ('gyrosphere', 'Gyrospheres are a spherical mode of transportation in [[Jurassic World]]. They are made of glass and are designed for tourists to get an immersive experience.'),
+        ('tabi_socks', 'Socks that have a separation between the big toe and the other toes.
+
+h4.See also:
+
+* [[loose_socks]]'),
+        ('body_outline', 'thumb #4173803 thumb #4057771 thumb #4140667 thumb #3883565
+
+When a character''s body is clearly seen pushing out against a surface such as skin or clothing, creating a distinct outline. 
+
+[b][i]By far[/i][/b] this tag is most often used for [[vore]] content, but it may also frequently be seen when a character is [[trapped in clothing]]. 
+
+In vore, a body outline indicates a character pushing out from the inside of another character, or is tightly confined by the other character''s body, body outlines may appear through the skin of the throat, belly, cheeks, testicles, breasts or buttocks, depending on the type of vore content. 
+
+h5. Tagging Notes
+* Large parts of, or all, of a character''s body should be distinctly outlined through the material around them and it should be discernible as a character''s body, vague bulges should not be tagged as a body outline. 
+* Individual [[imprint|imprinted features]] of the body outline should be tagged if they are discernible and worth noting, such as the hands, face, breasts or penis
+ 
+h5. Body Imprint Tags
+* [[breast imprints]]
+* [[butt imprint]]
+* [[face imprint]]
+* [[foot imprint]]
+* [[hand imprint]]
+* [[paw imprint]]
+* [[penis imprint]]
+
+h4. Related Tags
+* [[inside clothing]]
+** [[trapped in clothing]]
+* Vore Specific Body Outlines
+** [[abdominal bulge]]
+** [[neck bulge]]
+** [[same size vore]]
+** [[mass vore]]
+'),
+        ('bauq', 'the.bauq@gmail.com'),
+        ('scrafty', 'h4. See Also:
+
+* [[pokémon]]
+** [[scraggy]]
+*** scrafty'),
+        ('famir_(thebestvore)', 'First name: Famir
+Age: 23 years old
+Gender: Male
+Species: Cat (hybrid puma and serval)
+Height: 187 centimeters
+Weight: 85 kg
+
+
+Character belongs to "thebestvore":https://www.furaffinity.net/user/thebestvore/
+
+Model sheet: https://www.furaffinity.net/view/26460185/'),
+        ('peeing_together', 'Multiple characters [[peeing]] in the same place, at the same time, and at the same "rank". It is acceptable to have the characters [[peeing_on_another|peeing on each other]], but it can''t be one sided such as one character peeing on the other while the other pees on [[peeing_on_ground|the ground]]. For example these two are peeing on each other simultaneously.
+
+thumb #2404121
+
+But here red is peeing on gray and gray is peeing on the ground.
+
+thumb #3783247
+
+It can also be multiple characters peeing collaboratively on another, as the collaborative peers are acting together.
+
+thumb #1271560'),
+        ('emery_pony', 'Emery pony is a white female pony with a tan undertone who appears in the second episode of season three "Cuddlemuffins" of the popular animated series My Gym Partner''s a Monkey.
+She''s one of the members of the infamous group The Cuddlemuffins, a group which deceives others who falls over their cute appeal.'),
+        ('lad_(samwellgumgi)', 'Is a red male kobold with white horns and a fin running from the top of his head to the beginning of his back. Has a large humanoid penis.'),
+        ('realistics_sl', 'Dead Links
+
+* http://lovablestranger.tumblr.com/'),
+        ('swain_(lol)', 'Swain - the Noxian Grand General
+
+[[league_of_legends|League of Legends]] Character
+
+"Picture":https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_0.jpg'),
+        ('penis_with_tongue', 'A [[penis]] with a [[tongue]] coming out of it.
+
+Related to [[pussy_tongue]].
+
+Not to be confused with [[penis_tongue]].'),
+        ('google_chrome', '[b]Google Chrome[/b] ("the fast, free browser that''s built for the modern web") is [[Google|Google''s]] free cross-platform browser, initially released in 2008 to compete with [[Internet Explorer]] and [[Firefox]].'),
+        ('headlock', 'One character has a limb wrapped around the neck of another, usually to [[restrained|restrain]] them. Some times involves [[choking]], but not always, and a staple [[wrestling]] move.
+
+* Not to be confused with [[full_nelson]].'),
+        ('tricked', 'A character falling for an act of [[deception]].
+
+h4. Not to be confused with
+
+* [[trick]] - A character performing a specialized skill or talent.'),
+        ('mistress_mare-velous_(mlp)', '"Mistress Mare-velous":http://mlp.wikia.com/wiki/Power_Ponies_(characters)#Mistress_Mare-velous has a [[lasso]] that she can psychically control. She also makes use of restraining horseshoes called "hoofarangs." [[Applejack_(mlp)|Applejack]] assumes her role in the [[comic]] book. '),
+        ('ipoke', 'Creator of the webcomic "Forest Tails":https://tapas.io/series/ForestTails under the alias Lauri Laurintytär. Forest Tails can also be found at "FurAffinity.":https://www.furaffinity.net/user/foresttails/'),
+        ('tiffania_westwood', 'h3.Tiffa, (ティファニア ウエストウッド, Tifania Uesutouddo
+
+A character from the mixed-media series [i]Zero no Tsukaima[/i].
+
+Tiffa is a half-elf born from the relationship of the Archduke of Albion and his elven mistress.  Her magical abilites come from a ring left to her by her late mother, after using her magic to revive Saito the ring is consumed.  Tiffa is quite, soft spoken and well endowed (saito described her once as "the Big-breasted elf who saved his life").  Her skin is pale, her ears are pointed (revealing her elven heritage which she often conceals beneath hoods or scarves) and her hair is a beautiful honey-gold color.
+
+Later in the series Tiffa''s royalty is recognized by Henrietta of the Kingdom of Albion, allowing her to officially join the Tristain Academy of Magic with Louise and Saito (for whom she has developed a budding love).  At first Tiffa is ostracized because of her elven heritage, but with Saito''s help she overcomes the prejudice with her warm personality, kindness, and beauty.
+
+It is revealed eventually that Tiffa is a Void Mage as well, like Louise and her spell to summon a familiar in fact summons Saito Hiraga as well, leading to him having two masters and quite a bit of tension between the three.
+
+h4.See Also
+
+* [[Zero no Tsukaima]]
+* [[The Familiar of Zero]]
+
+h4.Related Tags
+
+* {{kirche_augusta_frederica_von_anhalt-zerbst}}
+* {{louise_françoise_le_blanc_de_la_vallière}}
+* {{zero_no_tsukaima}}
+* {{elf}}'),
+        ('maim', 'Abandoned aliases/usernames
+
+* `http://maimface.tumblr.com/`
+* `http://maimmaims.tumblr.com/`
+* `http://smallcolorfulhorses.tumblr.com/`
+* `https://inkbunny.net/maim`
+* `https://nsfw-is-gross.tumblr.com/`
+* `https://www.furaffinity.net/user/winglesschimera`
+* `https://www.weasyl.com/~maim`'),
+        ('payphone', 'thumb #3839083
+
+[b]Payphones[/b] are coin operated pay-per-use public [[phone|telephones]]. Payphones may be standalone units on a pole (see example above), wall mounted indoors or outdoors, or housed inside a [[phone booth]].
+
+
+h4. Related tags
+
+* [[phone_booth]] - The enclosure of a payphone. Not all payphones will have a phone booth.
+* [[wired_phone]] - All payphones are wired, but not all will have those wires visible.'),
+        ('leloo', 'Artist'),
+        ('buzz', 'The mascot of Honey Nut Cheerios cereal.'),
+        ('daww', 'thumb #2666352 thumb #4491708 thumb #2212754 thumb #2429878 thumb #4327913 thumb #2977832
+
+A tag for posts that are intended to be cute, endearing, and/or evoke a feeling of intimacy, wholesomeness, or tenderness — imagery that may make the viewer say [i]"d''aww"[/i].
+
+Think a cute kid character hugging a plush, a couple spending time with each other, a happy wedding, puppies and kittens playing, parents doing fun activities with their kids, friends sharing a hug or a character receiving a head rub or head pat. "Daww" also frequently involves stereotypically cute characters, with big, glossy, expressive eyes, and [[chibi|chibi-fied]] anatomy (in some cases, adult characters may appear or explicitly be [[aged down]] to cuter, child versions of themselves).
+
+[section,expanded=General guidelines]
+
+* Most images that fall under `daww` will be [[rating:s|rated safe]], but exceptions do exist. It is highly recommended that this tag not be used for lewd scenes and contexts. This may include, but is not limited to:
+
+- [[pinup|Pinups]]
+- [[Ahegao]] or similar lewd expressions.
+- [[Suggestive]] content unless it is very innocent in nature.
+- [[Presenting]] or other sexual invitations.
+
+Situations involving [[casual nudity]], [[casual exposure]], the depiction of an [[x anus]] or [[genitals]] in a non-sexualized manner, the depiction of [[blood]] do not outright disqualify an image from being tagged as daww. It matters more that the scene doesn''t contain an apparent sexual theme that would distract from an otherwise innocent context.
+
+thumb #121758 thumb #3339688 thumb #4149486 thumb #649695
+
+Try to tag for situations where the character is doing something that enhances the emotional quality of the scene itself. It can involve just a pose, or a particular expression, but consider leaving more generic scenarios out of the tag.
+
+[section=Related themes]
+
+This list is not exhaustive, and not all examples will qualify as daww. These are categories that daww related content is likely to be found.
+
+
+* [[blep]] 
+* [[boop]]
+
+
+h5. [[Child]] themes
+
+* Depictions of very young characters ([[baby]], [[toddler]])
+* Happy, picturesque, or ideal depictions of childhood
+** Learning how to do something new (how to walk, swim, ride a bicycle, etc.)
+* [[Young]] characters playing, sleeping, [[holding_plushie|holding plushies]] or toys, [[creating_art|creating crude drawings]], behaving like children.
+
+h5. Family themes
+
+* Interactions or activities involving older / younger family pairings ([[parent and child]], older [[brother]] / [[sister]], etc) (Non-sexual)
+** Acts of [[good parenting]]
+** [[Hand holding]], [[piggyback|piggyback riding]], or other forms of [[carrying]], familial love or affection
+
+h5. Animal themes
+
+* [[Fluffy]] characters and animals (especially young, or feral characters)
+* [[Pet]] themes
+** Feral animals (especially young) playing, sleeping, chasing their tail, laser pointer, etc, interacting with their owners, behaving as pets for reasons other than sexual gratitude.
+** Non-feral characters (especially young) behaving as pets for reasons other than sexual gratitude.
+** [[Petting]], and other displays of affection (not lewd)
+* Poses that imitate feral animals, pets, or otherwise have innocent or childish qualities.
+* Characters wearing animal costumes (usually in some kind of pose)
+
+h5. [[Romantic]] themes
+
+* Depictions of [[intimate|intimacy]] featuring clear emotional attachment, and [[love]] between two characters. This should probably be tagged as [[passionate]], or [[romantic_sex]] instead for sexual themes.
+* Depictions of precious moments within a relationship: [[offering_gift|gift giving]], confessing love and adoration towards someone, [[proposal|proposing]].
+
+[/section]
+[/section]
+
+h4. Not to be confused with
+
+* [[passionate]] - Although the theme may sometimes overlap.
+* [[tasteful]]
+
+h4. Related tags
+
+* [[good_parenting]]
+* [[parent_and_child]]
+* [[romantic_couple]]
+* [[young]]
+
+h5. Actions
+
+* [[carrying]]
+** [[bridal_carry]]
+** [[cradling]]
+** [[piggyback]]
+* [[cuddling]]
+* [[holding_flower]]
+* [[holding_plushie]]
+* [[hug|hugging]]
+* [[sleeping]]
+
+h4. See also
+
+* [[romantic]]'),
+        ('blowup_background', 'thumb #730641 thumb #358093 thumb #326545 thumb #78928
+
+A blowup background describes pictures that have a faded out, larger version of themselves as their own background.
+
+h4. See also:
+
+* [[Tag Group:Background]]
+* [[zoom layer]]'),
+        ('empskit', 'Hyper artist'),
+        ('beezlebumawoken', '* "Conditional DNP":/wiki_pages/85#conditional_dnp: Only the artist is allowed to post
+
+Important note: This artist deletes old images which "do not exemplify [their] current skill level", so sources will become dead links over time.'),
+        ('whiskers_and_wags_cleaning_co.', 'Game-in-development by Andrew Dickman (aka TheMadCatter/awdplace/awd).
+
+The artist is DNP, so only fan-art is permitted.
+
+https://aw0.itch.io/whiskers-and-wags'),
+        ('receptive_to_money', 'an emphasized willingness to accept money, whether as a gift or as an exchange
+
+h5. See also
+
+Note that this tag does not directly imply any of the following.
+
+* [[financial domination]]
+* [[prostitution]]'),
+        ('tentacle_footjob', 'Tagged when a character is giving a ''footjob'' to a tentacle. This tag only applies if the tentacle is shaped like a penis (see [[penis tentacles]]), or if there is other visual data indicating that the tentacle is capable of ''ejaculating''.
+
+Toe play involving a penis tentacle should be tagged as [[tentacle toejob]], and will count as [[toe play]].
+
+h4. Not to be confused with
+
+* [[footjob]]
+
+h4. See also
+
+* [[tentacle_handjob]]
+'),
+        ('yogfan', '"Deviantart":http://yogfan.deviantart.com
+"Tumblr":http://yogfan14.tumblr.com/'),
+        ('jenn_and_jess', 'See [[jenn_(darkwingdork)]], [[jess_(darkwingdork)]].'),
+        ('tigress_(disambiguation)', 'The tag ''tigress'' could refer to one of several different artist or character tags.
+
+* The term ''tigress'' could also refer to a [[female]] (or feminine) [[tiger]].
+
+h4.Artist:
+
+* [[angeltigress]]
+* [[bluetigress]]
+* [[ebonytigress]]
+* [[ivorytigress]]
+* [[roamingtigress]]
+* [[spottedtigress]]
+* [[stormtigress223]]
+* [[teh-evil-tigress]]
+* [[thetiedtigress]]
+* [[thetigress]]
+* [[tigress_(artist)]]
+* [[white-tigress-12158]]
+
+h4.Character:
+
+* [[akelatheblutigress]]
+* [[amurtigress]]
+* [[angel_tigress]]
+* [[axochitl_the_tigress]]
+* [[dodger_(vulcantigress)]]
+* [[ebonytigress_(character)]]
+* [[flippytigress]]
+* [[huldra_(huldratigress]]
+* [[isaria_bluetigress]]
+* [[loud_the_tigress]]
+* [[mary_ann_tigress]]
+* [[master_tigress]]
+* [[mocha_(spottedtigress)]]
+* [[skitty_the_tigress]]
+* [[tigress_assassin]]
+* [[tigress_titan]]
+* [[tigress-twins]]
+* [[tonyatigress]]
+* [[yuki_(akelatheblutigress)]]'),
+        ('international_rabbit_day', 'The [b]fourth Saturday in September[/b] is [b]International Rabbit Day[/b], created in 1993 by The Rabbit Charity in the UK in order to promote the care and protection of [[rabbit|rabbits]] both wild and domesticated.
+
+
+h4. More Information
+"International Rabbit Day (National Today)":https://nationaltoday.com/international-rabbit-day/
+
+
+h4. Also see
+* [[September (month)]]
+'),
+        ('samanta_(artist)', 'A brazilian furry artist.'),
+        ('shy', 'A [b]shy[/b] character attempts to hide or escape potential [[humiliation]], [[embarrasment]] or other uncomfortable situation. They have a tendency of [[blush]]ing and [[covering]] themselves.'),
+        ('bactrian', 'h4.See also
+
+* [[mammal]]
+** [[camelid]]
+** [[alpaca]]
+** [[camel]]
+*** bactrian
+*** [[dromedary]]
+** [[guanaco]]
+** [[llama]]
+** [[vicuna|vicuña]]'),
+        ('barely_visible_areola', '[color=yellow][b]Questionable Tag[/b][/color]
+[sup]See "Help: Ratings":https://e621.net/help/ratings for more info.[/sup]
+
+Posts where the [[areola]] are not obvious in the thumbnail, and remain difficult to see when viewing the actual post. This may be due to its [[small_areola|small apparent size]], being a similar color to the surroundings, or being partly covered up (by anything).
+
+* This tag does not apply if the [[areola]] are actively being interacted with.
+* This tag applies if [b]any[/b] character''s [[areola]] are barely visible, and can be used even if another character''s [[areola]] are fully visible.
+
+h4. Not To Be Confused With:
+* [[areola_slip]]
+
+h4. See Also:
+* [[barely_visible_anus]]
+* [b]barely_visible_areola[/b]
+* [[barely_visible_breasts]]
+* [[barely_visible_genitalia]]
+** [[barely_visible_balls]]
+** [[barely_visible_clitoris]]
+** [[barely_visible_cloaca]]
+** [[barely_visible_genital_slit]]
+** [[barely_visible_penis]]
+** [[barely_visible_pussy]]
+** [[barely_visible_sheath]]
+* [[barely_visible_knot]]
+* [[barely_visible_nipples]]
+* [[barely_visible_wings]]'),
+        ('frank_fathih', 'Kimero_Kat''s original character. He is a demon boy around 990 years old, but his equivalent is 18 human years, which gives him an appearance of a young man of that age. He''s characterized by having a purple skin tone, long white hair, a tail with a harpoon at the end, claws on his hands and feet, and reptilian eyes that glow in the dark with a slight yellow glow. His attitude is usually calm, although when he has to bring out his most aggressive side, he is a real beast. Although Frank has not been seen much in action, he uses pistols to finish off his enemies, two black pistols in each hand for lesser enemies and two silver pistols for more powerful enemies, such as vampires or other demons'),
+        ('begging_for_mercy', 'Describes when a character is begging another character to have mercy, and stop doing whatever action they are currently doing, usually to the character that is begging. It may also feature a character trapped in a situation they want to be released from.
+
+h5. Situations where a character may beg for mercy...
+* [[forced]]
+* [[struggling]]
+* [[rape]]
+* [[explicitly stated nonconsent]]
+* [[humiliation]]
+* [[tickle torture]]
+* [[vore]]
+** [[imminent vore]]
+* [[smothering]]
+
+
+h4. See Also:
+* [[begging]]
+** [[begging for more]]
+** [[begging to cum]]
+
+
+'),
+        ('female_human', 'A [[human]] character that is [[female]]. Not to be confused with [[female humanoid]].
+
+
+h4. Related Tags
+* [[human on anthro]]
+* [[human on feral]]
+* [[human on humanoid]]
+
+h4. See Also
+* [[female anthro]]
+* [[female feral]]
+* [[female humanoid]]
+* [[male human]]'),
+        ('ibee', 'Furry artist on FA who often takes commissions.
+
+h4. Links:
+
+* "FA page":http://www.furaffinity.net/user/ibee
+* "Deviantart page":http://kingneroche.deviantart.com/'),
+        ('super_sonic', 'thumb #160931 thumb #2106122 thumb #2594635 thumb #2281085 thumb #1309785
+
+[b]Super Sonic[/b] (スーパーソニック Sūpā Sonikku) is a recurring transformation that appears in the Sonic the Hedgehog series. It is the Super State of Sonic the Hedgehog, achieved by harnessing the power of the seven Chaos Emeralds. Since its debut, this form has been Sonic''s most commonly used transformation.
+
+When transformed into Super Sonic, Sonic''s blue fur becomes golden yellow in color, his peach skin gains a slightly golden hue, and the quills on his head become upturned. Additionally, his green eyes become ruby red and his facial expression becomes more aggressive, with his eyes gaining sharpened corners. He also possesses a golden aura that varies in size and can be anything from smooth to flame-like in shape. His aura also sometimes displays either faint sparkles or electrical sparks.
+
+As Super Sonic, Sonic can fly at speeds greatly surpassing his normal running pace. His body also becomes completely impervious to physical damage, allowing him to plow through numerous enemies with relative ease. He can also use various chaos powers, most notably Chaos Control to manipulate time and space; He can use this to teleport, slow/freeze time, or travel through time.
+
+Super Sonic''s main weakness is that he cannot transform unless he has at least 50 rings and all 7 chaos emeralds. For every second he remains Super Sonic, he looses one ring. If he looses all his rings or any emeralds, he will change back and lose a life.
+
+Super Sonic rather notoriously resembles the Super Saiyan transformation from [[Dragon Ball Z]]. Officially Super Sonic was conceived before Super Saiyan, but was designed after it and Akira Toriyama (The Creator of Dragon Ball Z) never inquired about this to [[SEGA]].'),
+        ('gold_bikini', 'thumb #4074501 thumb #4159696 thumb #4038523
+
+A [[Bikini]] that has a gold metallic fabric coloring on it.
+
+Not to be confused with [[slave leia costume]].'),
+        ('botan_kempt', 'Female rabbit. Belongs to kikokitty. Reference: https://www.furaffinity.net/view/50604647/'),
+        ('holding_hairbrush', 'Used when a character is holding a [[hairbrush]].
+
+h4. Tags About Hair
+
+* [[hair]]
+
+[section=Tags About Hair]
+
+[section=Colors of Hair]
+h4. [[tag_group:colors|Colors]] of Hair
+
+* [[auburn_hair]]
+* [[black_hair]]
+* [[blonde_hair]]
+* [[blue_hair]]
+* [[brown_hair]]
+* [[cream_hair]]
+* [[green_hair]]
+* [[grey_hair]]
+* [[orange_hair]]
+* [[pink_hair]]
+* [[purple_hair]]
+* [[red_hair]]
+* [[silver_hair]]
+* [[tan_hair]]
+* [[teal_hair]]
+* [[white_hair]]
+
+* [[monotone_hair]]
+* [[multicolored_hair]]
+** [[rainbow_hair]]
+** [[two_tone_hair]]
+
+* [[dark_hair]]
+* [[light_hair]]
+
+[/section]
+
+[section=Hair Accessories]
+* [[hair_accessory]]
+** [[feather_in_hair]]
+** [[flower_in_hair]]
+** [[hair_beads]]
+** [[hair_bell]]
+** [[hair_ribbon]]
+*** [[hair_bow]]
+** [[hair_ring]]
+** [[hair_sticks]]
+** [[hair_tie]]
+** [[hairband]]
+*** [[frilly_hairband]]
+** [[hairclip]]
+** [[hairpin]]
+* [[hair_net]]
+
+[/section]
+
+[section=Hair Maintenance]
+h4. Actions
+
+* [[drying_hair]]
+* [[styling_hair]]
+** [[braiding_hair]]
+** [[brushing_hair]]
+** [[hair_trimming]]
+* [[tying_hair]]
+
+h4. Objects
+
+* [[hair_curlers]]
+* [[hair_dryer]]
+* [[hair_gel]]
+* [[hairbrush]]
+** [[comb_(brush)]]
+*** [[afro_comb]]
+*** [[holding_comb]]
+** [b]holding_hairbrush[/b]
+* [[hairspray]]
+* [[scissors]]
+* [[shampoo]]
+** [[soap]]
+
+[/section]
+
+[section=Hair Traits]
+* [[ahoge]]
+* [[antenna_hair]]
+* [[big_hair]]
+** [[huge_hair]]
+*** [[hyper_hair]]
+* [[cowlick]]
+* [[curled_hair]]
+* [[flowing_hair]]
+* [[fluffy_hair]]
+* [[glistening_hair]]
+* [[glittering_hair]]
+* [[glowing_hair]]
+* [[gradient_hair]]
+* [[hair_highlights]]
+* [[hair_mouth]]
+* [[living_hair]]
+* [[long_hair]]
+* [[mane_hair]]
+* [[messy_hair]]
+* [[prehensile_hair]]
+** [[hair_hand]]
+* [[pseudo_hair]]
+** [[ethereal_hair]]
+*** [[cosmic_hair]]
+** [[feather_hair]]
+** [[fin_hair]]
+** [[flaming_hair]]
+** [[goo_hair]]
+** [[ice_hair]]
+** [[lava_hair]]
+** [[liquid_hair]]
+** [[metallic_hair]]
+** [[penis_hair]]
+** [[plant_hair]]
+*** [[flower_hair]]
+*** [[leaf_hair]]
+** [[scale_hair]]
+** [[smoke_hair]]
+** [[snake_hair]] (See Also: [[living_hair]])
+** [[tentacle_hair]]
+* [[short_hair]]
+* [[spiky_hair]]
+* [[spotted_hair]]
+* [[straight_hair]]
+* [[striped_hair]]
+* [[translucent_hair]]
+* [[wavy_hair]]
+* [[wet_hair]]
+
+[/section]
+
+[section=Hairstyles]
+* [[afro]]
+* [[alternate_hairstyle]]
+* [[bald]]
+* [[bangs]]
+** [[blunt_bangs]]
+** [[crossed_bangs]]
+** [[long_bangs]]
+** [[parted_bangs]]
+** [[side_bangs]]
+** [[swept_bangs]]
+* [[beehive_(hairstyle)]]
+* [[bob_cut]]
+* [[bowl_cut]]
+* [[braided_hair]]
+** [[side_braid]]
+** [[single_braid]]
+** [[twin_braids]]
+* [[bride_of_frankenstein_hairdo]]
+* [[buzz_cut]]
+* [[dreadlocks]]
+* [[drill_curls]]
+* [[fauxhawk]]
+* [[hair_bun]]
+* [[hair_buns]]
+* [[hime_cut]]
+* [[mohawk_(hairstyle)]]
+* [[pigtails]]
+* [[pixie_cut]]
+* [[pompadour]]
+* [[ponytail]]
+* [[rattail_(hairstyle)]]
+* [[queue_(hairstyle)]]
+* [[side_cut]]
+
+[/section]
+
+[section=Other]
+* [[adjusting_hair]]
+* [[barber]]
+* [[biting_hair]]
+* [[cum_in_hair]]
+* [[eye_through_hair]]
+* [[eyebrow_through_hair]]
+* [[feral_with_hair]]
+* [[hair_between_eyes]]
+* [[hair_bondage]]
+* [[hair_covering_breasts]]
+* [[hair_masturbation]]
+* [[hair_on_shoulder]]
+* [[hair_on_shoulders]]
+* [[hair_over_eye]]
+* [[hair_over_eyes]]
+* [[hair_penetration]]
+* [[hair_sex]]
+* [[hairjob]]
+* [[tied_hair]]
+* [[touching_hair]]
+** [[hair_grab]]
+** [[hand_in_hair]]
+** [[holding_hair]]
+** [[pulling_hair]]
+** [[twirling_hair]]
+
+[/section]
+[/section]'),
+        ('slam_dunk', 'slam dunk/ˈslam ˌdunk/
+noun
+a shot in which a player thrusts the ball forcefully down through the basket.
+verb
+thrust (the ball) forcefully down through the basket.
+'),
+        ('orgasm_count', 'A [[number]] that represents the number of [[orgasm|orgasms]] a character has had. This tag specifically refers to numerical [[count|counts]], and should not be used for [[tally_marks|tally counts]]. For that type of count, use [[orgasm tally]] instead.
+
+h4. Related tags
+
+* [[orgasm_display]] - A [[screen]] used to display an [[orgasm count]] or tally.
+
+h4. See also
+
+* [[edging_count]]'),
+        ('hot_air_balloon', 'thumb #656575
+
+A [b]hot air balloon[/b] is lighter than air [[aircraft]] consisting of a bag called the envelope that is capable of containing heated air. Suspended beneath is a [[gondola]] or wicker [[basket]] (in some long-distance or high-altitude balloons, a capsule), which carries passengers and (usually) a source of heat, in most cases an open flame. The heated air inside the envelope makes it buoyant since it has a lower density than the relatively cold air outside the envelope. As with all aircraft, hot air balloons cannot fly beyond the atmosphere.
+
+If the balloon has an elongated shape, or the craft seems to have a method of propulsion such as rudders or engines, use [[airship]] instead.
+
+h4. External links
+
+* "Wikipedia - Hot air balloon":https://en.wikipedia.org/wiki/Hot_air_balloon'),
+        ('hindpaw', 'thumb #953354 thumb #946397 thumb #849922
+
+The [[feet]] of a [[biped]] that has [[paws]], or the rear [[paws]] of a quadruped.
+
+h4. See also
+
+* [[paws]]
+** [[handpaw]]
+** [b]hindpaw[/b]
+** [[pawpads]]
+** [[pawprint]]
+** [[paw_gloves]]'),
+        ('creature_inside', 'Used for posts when there is a creature such as a [[tentacle monster]] physically inside another character.
+Most commonly [[vaginal]]
+
+Note: Remember that [[tentacles]] by themselves don''t count as a character unless there is visual evidence that they have a physical body. But for tagging purposes, the presence of tentacles or other foreign appendages emerging from an orifice that can be reasonably argued that they do not belong to the character will apply towards this tag.  
+
+[section=Editor Notes]
+Depictions of natural [[birth|births]] or [[fetus|fetuses]] might not be applicable for this tag. I feel that this should be reserved only for creatures that are inside a character due to unnatural circumstances, or are physically living inside the host like a parasite.
+[/section]
+
+h4. Not to be confused with
+
+* [[pregnancy]]
+
+h4. See also
+
+* [[body_in_pussy]]
+* [[tentacles_from_pussy]]
+* [[vore]]'),
+        ('astralyth', 'Male maned wolf, reference sheet: https://www.furaffinity.net/view/24620076/'),
+        ('becky_(bendu)', 'character by Bendu'),
+        ('board', 'This tag has numerous meanings, and a more specific tag should be used instead.
+
+h4. Board definitions
+
+* [[cutting_board]]
+* [[information_board]]
+** [[bulletin_board]]
+** [[chalkboard]]
+** [[whiteboard]]
+* [[message_board]]
+* [[scoreboard]]
+* [[surfboard]]
+* [[wood_board]]
+** [[plank]]
+** [[plywood]]'),
+        ('gynomorph_penetrating_maleherm', 'Used for posts depicting a [[gynomorph]] character penetrating a [[maleherm]] character, regardless of the body forms of either character.
+
+h4. Tags About Penetration:
+
+* [[penetration]]
+
+[section=Tags About Penetration:]
+
+h4. Form:
+[section=Form:]
+
+[section=<Form>_penetrated:]
+* [[anthro_penetrated]]
+* [[feral_penetrated]]
+* [[human_penetrated]]
+* [[humanoid_penetrated]]
+* [[taur_penetrated]]
+
+[/section]
+
+[section=<Form>_penetrating:]
+* [[anthro_penetrating]]
+* [[feral_penetrating]]
+* [[human_penetrating]]
+* [[humanoid_penetrating]]
+* [[taur_penetrating]]
+
+[/section]
+
+[section=<Form>_penetrating_<Form>:]
+* [[anthro_penetrating_anthro]]
+* [[anthro_penetrating_feral]]
+* [[anthro_penetrating_human]]
+* [[anthro_penetrating_humanoid]]
+* [[anthro_penetrating_taur]]
+* [[feral_penetrating_anthro]]
+* [[feral_penetrating_feral]]
+* [[feral_penetrating_human]]
+* [[feral_penetrating_humanoid]]
+* [[feral_penetrating_taur]]
+* [[human_penetrating_anthro]]
+* [[human_penetrating_feral]]
+* [[human_penetrating_human]]
+* [[human_penetrating_humanoid]]
+* [[human_penetrating_taur]]
+* [[humanoid_penetrating_anthro]]
+* [[humanoid_penetrating_feral]]
+* [[humanoid_penetrating_human]]
+* [[humanoid_penetrating_humanoid]]
+* [[humanoid_penetrating_taur]]
+* [[taur_penetrating_anthro]]
+* [[taur_penetrating_feral]]
+* [[taur_penetrating_human]]
+* [[taur_penetrating_humanoid]]
+* [[taur_penetrating_taur]]
+
+[/section]
+[/section]
+
+h4. Gender:
+[section=Gender:]
+
+[section=<Gender>_penetrating Tags:]
+* [[ambiguous_penetrating]]
+* [[female_penetrating]]
+* [[intersex_penetrating]]
+** [[andromorph_penetrating]]
+** [[gynomorph_penetrating]]
+** [[herm_penetrating]]
+** [[maleherm_penetrating]]
+* [[male_penetrating]]
+
+[/section]
+
+[section=<Gender>_penetrated Tags:]
+* [[ambiguous_penetrated]]
+* [[female_penetrated]]
+* [[intersex_penetrated]]
+** [[andromorph_penetrated]]
+** [[gynomorph_penetrated]]
+** [[herm_penetrated]]
+** [[maleherm_penetrated]]
+* [[male_penetrated]]
+
+[/section]
+
+[section=<Gender>_penetrating_<Gender> Tags:]
+[section=ambiguous_penetrating:]
+* [[ambiguous_penetrating_ambiguous]]
+* [[ambiguous_penetrating_female]]
+* [[ambiguous_penetrating_intersex]]
+** [[ambiguous_penetrating_andromorph]]
+** [[ambiguous_penetrating_gynomorph]]
+** [[ambiguous_penetrating_herm]]
+** [[ambiguous_penetrating_maleherm]]
+* [[ambiguous_penetrating_male]]
+
+[/section]
+
+[section=female_penetrating:]
+* [[female_penetrating_ambiguous]]
+* [[female_penetrating_female]]
+* [[female_penetrating_intersex]]
+** [[female_penetrating_andromorph]]
+** [[female_penetrating_gynomorph]]
+** [[female_penetrating_herm]]
+** [[female_penetrating_maleherm]]
+* [[female_penetrating_male]]
+
+[/section]
+
+[section=intersex_penetrating:]
+* [[intersex_penetrating_ambiguous]]
+* [[intersex_penetrating_female]]
+* [[intersex_penetrating_intersex]]
+** [[intersex_penetrating_andromorph]]
+** [[intersex_penetrating_gynomorph]]
+** [[intersex_penetrating_herm]]
+** [[intersex_penetrating_maleherm]]
+* [[intersex_penetrating_male]]
+
+[section=andromorph_penetrating:]
+* [[andromorph_penetrating_ambiguous]]
+* [[andromorph_penetrating_female]]
+* [[andromorph_penetrating_intersex]]
+** [[andromorph_penetrating_andromorph]]
+** [[andromorph_penetrating_gynomorph]]
+** [[andromorph_penetrating_herm]]
+** [[andromorph_penetrating_maleherm]]
+* [[andromorph_penetrating_male]]
+
+[/section]
+
+[section=gynomorph_penetrating:]
+* [[gynomorph_penetrating_ambiguous]]
+* [[gynomorph_penetrating_female]]
+* [[gynomorph_penetrating_intersex]]
+** [[gynomorph_penetrating_andromorph]]
+** [[gynomorph_penetrating_gynomorph]]
+** [[gynomorph_penetrating_herm]]
+** [b]gynomorph_penetrating_maleherm[/b]
+* [[gynomorph_penetrating_male]]
+
+[/section]
+
+[section=herm_penetrating:]
+* [[herm_penetrating_ambiguous]]
+* [[herm_penetrating_female]]
+* [[herm_penetrating_intersex]]
+** [[herm_penetrating_andromorph]]
+** [[herm_penetrating_gynomorph]]
+** [[herm_penetrating_herm]]
+** [[herm_penetrating_maleherm]]
+* [[herm_penetrating_male]]
+
+[/section]
+
+[section=maleherm_penetrating:]
+* [[maleherm_penetrating_ambiguous]]
+* [[maleherm_penetrating_female]]
+* [[maleherm_penetrating_intersex]]
+** [[maleherm_penetrating_andromorph]]
+** [[maleherm_penetrating_gynomorph]]
+** [[maleherm_penetrating_herm]]
+** [[maleherm_penetrating_maleherm]]
+* [[maleherm_penetrating_male]]
+
+[/section]
+[/section]
+
+[section=male_penetrating:]
+* [[male_penetrating_ambiguous]]
+* [[male_penetrating_female]]
+* [[male_penetrating_intersex]]
+** [[male_penetrating_andromorph]]
+** [[male_penetrating_gynomorph]]
+** [[male_penetrating_herm]]
+** [[male_penetrating_maleherm]]
+* [[male_penetrating_male]]
+
+[/section]
+[/section]
+[/section]
+
+h4. Object / Orifice penetration:
+[section=<Object/Orifice>_penetration:]
+
+[section=<Orifice>_penetration:]
+* [[ambiguous_penetration]]
+* [[anal_penetration]]
+** [[dildo_in_ass]]
+** [[double_anal]]
+** [[pegging]]
+** [[triple_anal]]
+* [[arthropod_abdomen_penetration]]
+* [[cloacal_penetration]]
+** [[dildo_in_cloaca]]
+** [[double_cloacal]]
+** [[triple_cloacal]]
+* [[ear_penetration]]
+* [[hair_penetration]]
+* [[nasal_penetration]]
+* [[navel_penetration]]
+* [[nipple_penetration]]
+* [[oral_penetration]]
+** [[double_oral]]
+** [[triple_oral]]
+* [[pouch_penetration]]
+* [[sheath_penetration]]
+* [[slit_penetration]]
+* [[unusual_penetration]]
+* [[urethral_penetration]]
+** [[penis_in_penis]]
+* [[vaginal_penetration]]
+** [[cervical_penetration]]
+** [[dildo_in_pussy]]
+** [[double_vaginal]]
+** [[triple_vaginal]]
+
+[/section]
+
+[section=<Object>_penetration:]
+* [[building_penetration]]
+* [[food_penetration]]
+* [[sex_toy_penetration]]
+** [[dildo_penetration]]
+*** [[dildo_in_ass]]
+*** [[dildo_in_cloaca]]
+*** [[dildo_in_pussy]]
+* [[penile_penetration]]
+** [[penis_in_penis]]
+* [[tentacle_penetration]]
+* [[tongue_penetration]]
+
+[/section]
+[/section]
+
+h4. Quantity:
+[section=<Quantity>_penetration:]
+* [[double_penetration]]
+** [[double_anal]]
+** [[double_cloacal]]
+** [[double_oral]]
+** [[double_vaginal]]
+* [[multi_penetration]]
+* [[multiple_insertions]]
+* [[multiple_penetration]]
+* [[quadruple_penetration]]
+* [[quintuple_penetration]]
+* [[triple_penetration]]
+** [[triple_anal]]
+** [[triple_cloacal]]
+** [[triple_oral]]
+** [[triple_vaginal]]
+
+[/section]
+
+h4. Size / Depth:
+[section=Size / Depth:]
+* [[balls_deep]]
+* [[deep_penetration]]
+* [[extreme_penetration]]
+* [[huge_penetration]]
+* [[large_penetration]]
+* [[macro_penetration]]
+* [[ridiculous_fit]]
+* [[shallow_penetration]]
+* [[tight_fit]]
+
+[/section]
+
+h4. Other:
+[section=Other:]
+* [[bilateral_penetration]]
+* [[cum_while_penetrated]]
+* [[guided_penetration]]
+* [[oral_while_penetrating]]
+* [[penetrating_pov]]
+* [[receiving_pov]]
+* [[suspended_via_penetration]]
+* [[trilateral_penetration]]
+* [[u-turn_penetration]]
+
+[/section]
+[/section]'),
+        ('ethesia_(centaur_girl)', 'https://monmusutd.fandom.com/wiki/Ethesia_(Centaur_Girl)'),
+        ('konami', '"Konami Digital Entertainment Inc.":https://en.wikipedia.org/wiki/Konami (Japanese: コナミデジタルエンターテインメント株式会社 Hepburn: Konami Dejitaru Entāteinmento Kabushiki-gaisha) TYO: 9766 NYSE: KNM is a Japanese developer and publisher of numerous toys, trading cards, anime, tokusatsu, slot machines, arcade cabinets, video games, and additionally operates health and physical fitness clubs in Japan.
+
+Konami is famous for popular video game series such as [[Castlevania]], [[Contra]], Dance Dance Revolution, Gradius, Frogger, Suikoden, Ganbare Goemon, [[Metal_Gear|Metal Gear]], Pro Evolution Soccer, [[Silent_Hill|Silent Hill]] and [[Yu-Gi-Oh!]]. The 2012 purchase and absorption of Hudson Soft resulted in the addition of several other popular franchises, including Adventure Island, Bonk, Bloody Roar, Bomberman, Far East of Eden and Star Soldier. Konami is the fifth-largest game company in the world by revenue."'),
+        ('bianca_(sheep_and_wolves)', 'Thumb #918892
+[b]Bianca[/b] is the beautiful she-wolf in [[Sheep and Wolves]].
+She is voiced by Ruby Rose in the first film and Kate Bristol in the second film, the former who later played Batwoman and the latter who also voices Kisa Sohma.
+
+[b]Link:[/b] https://hero.fandom.com/wiki/Bianca_(Sheep_%26_Wolves))
+
+[section,expanded=Biography]
+Bianca is prettiest she-wolf in the pack and [[Grey (sheep and wolves)|Grey]]''s love interest. She is strong and independent and can take drastic action if the situation calls for it. She is in love with Grey and expects him to ask for her paw in marriage. When Grey plays prank on her, she becomes hurt and humiliated she decides to break up with Grey. In the end after Grey manages to mature and take responsibility and reclaim the wolf pack even still being a ram, he wins and reclaims Bianca''s love and takes her paw in marriage.[/section]
+
+[section,expanded=Sheep and Wolves]
+Bianca is the prettiest she-wolf in the pack, she and Grey are in love with each other. but Grey manages to mess up with his kiddish and foolish attitude making Bianca hate Grey and loosing the right to lead the pack. When Grey decides to change himself and gets turned into a ram, in the wolf pack Bianca witnesses the new evil leader [[Ragear]] take over with horror, since Grey never returned and never took responsibility and maturity to take anything serious. After a while Grey returns to the tree where Bianca and him declared her love only to get tackle down by Bianca when she hears him scream her name and finally letting her know is Grey himself as a ram. Much to Grey''s horror Bianca breaks up with him since he is very irresponsible and immature. Next to know that Grey was transformed by a magician, Bianca decides to find answers to help Grey return to its wolf form. Grey finally took responsibility for his actions and help the rams and sheep against the wolf attack that was coming with hand made weaponry and more. when the battle between grey and the evil wolf leader came, Grey finally stood up to him even if he had to be a ram forever at the mid moments, Bianca and the magician brought the antidote for Grey to return to normal before the day was over, Grey was punched and covered with rubble after drinking the antidote making everyone believe Grey would have to be a ram forever and had lost but in the rubble Grey emerged back as a wolf and defeated the evil wolf and reclaim the pack and reclaims Bianca''s love and ask Bianca''s paw in marriage and happily rule the pack together and in peace with the Ram village.[/section]
+
+[section,expanded=Wikipedia]
+From the source: https://en.wikipedia.org/wiki/Sheep_and_Wolves#Wolves
+
+"Elizaveta Boyarskaya":https://en.wikipedia.org/wiki/Elizaveta_Boyarskaya (Russian) and "Ruby Rose":https://en.wikipedia.org/wiki/Ruby_Rose (English dub) as Bianca.
+Bianca went through the most re-drawings, sketches and 3D models out of all the film''s characters. The designers intended to achieve a "pretty" and "decisive" style for her. The character was originally planned to have light skin, but the final result for her was a wolf with darker blue fur given the light color "looked bad" with Grey. As Boyarskaya explained, considering that Bianca was "so beautiful," she had to speak her lines at a much higher pitch than she was comfortable with, which caused her to "almost [break her] voice."'),
+        ('wales', '[b][i]Wales[/i][/b] is a country that is part of the [b]United Kingdom[/b]. It is bordered by [b]England[/b] to the east, the Irish Sea to the north and west, the Celtic Sea to the south west and the Bristol Channel to the south. It had a population in 2021 of 3,107,500 and has a total area of 20,779 km2 (8,023 sq mi). [b][i]Wales[/i][/b] has over 1,680 miles (2,700 km) of coastline and is largely mountainous with its higher peaks in the north and central areas, including Snowdon (Yr Wyddfa), its highest summit. The country lies within the north temperate zone and has a changeable, maritime climate. The capital and largest city is Cardiff.
+
+Use this tag if an image or video references Wales.
+
+'),
+        ('javanshir', 'https://www.furaffinity.net/user/javanshir/
+https://www.patreon.com/javanshir
+https://twitter.com/beiua'),
+        ('john_(mastodon)', '"The mascot":https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Mastodon_mascot_vector_version.svg/512px-Mastodon_mascot_vector_version.svg.png of the decentralized social media platform "Mastodon":https://joinmastodon.org/ is, fittingly, a stylized yellow-orange [[mastodon]].
+
+There is no official name for the mascot, and "John" is simply one unofficial name originating from "a Mediaite article":https://web.archive.org/web/20221216232836/https://www.mediaite.com/opinion/hypocrisy-and-fear-all-the-way-down-at-twitter/ which notoriously misattributed the official Mastodon account on Twitter to "John Mastodon", the alleged "founder of a competing social media company named after himself"; a misreading of the username "@joinmastodon". While the article would later be corrected, "John Mastodon" would become an in-joke among Mastodon users. '),
+        ('goldie_underwood_(ashes)', 'The [[Fallout Equestria]] design of the character: [[Goldie Underwood]].'),
+        ('ambient_jellyfish', '[b]Ambient jellyfish[/b] are small subtle [[jellyfish]] found off in the background of an image. Removing ambient jellyfish would do little to change the feel of an image. They''re mostly just there to make the world feel a little more alive. If the main character is interacting with or touching the jellyfish in question, it''s probably not ambient jellyfish.
+
+h4. See also
+
+* [[ambient_arthropod]]
+** [[ambient_arachnid]]
+*** [[ambient_spider]]
+** [[ambient_insect]]
+*** [[ambient_ant]]
+*** [[ambient_bee]]
+*** [[ambient_beetle]]
+*** [[ambient_butterfly]]
+*** [[ambient_dragonfly]]
+*** [[ambient_firefly]]
+*** [[ambient_fly]]
+*** [[ambient_ladybug]]
+*** [[ambient_moth]]
+** [[ambient_myriapod]]
+* [[ambient_bat]]
+* [[ambient_bird]]
+** [[ambient_owl]]
+* [[ambient_fairy]]
+* [[ambient_sealife]]
+** [[ambient_barnacle]]
+** [[ambient_coral]]
+** [[ambient_crustacean]]
+** [[ambient_fish]]
+** [b]ambient_jellyfish[/b]
+** [[ambient_starfish]]
+* [[ambient_wildlife]]
+** [[ambient_cervine]]
+** [[ambient_dragon]]
+** [[ambient_frog]]
+** [[ambient_pterosaur]]'),
+        ('blush_emoji', 'An [[emoji]] that has a [[blush|blushing]] expression.
+
+h4. See also
+
+* [[blush]]
+* [[blush_emoji]]
+* [[blush_emoticon]]
+* [[blush_symbol]]'),
+        ('zapper:_one_wicked_cricket', 'https://en.wikipedia.org/wiki/Zapper:_One_Wicked_Cricket
+
+[quote]Zapper: One Wicked Cricket! (or simply as Zapper) is a platform game for the Xbox, GameCube, PlayStation 2, Game Boy Advance, and Microsoft Windows. It was developed by Blitz Games and published by Infogrames. Zapper was released in North America in 2002 and 2003 in Europe.[/quote]'),
+        ('hjalta', '[color=character]Hjalta[/color] is a fictional character created by [color=artist]Tchaikovsky2[/color]. 
+She is a [color=species]Highland Cow[/color].
+
+
+Hjalta has a younger sister named [color=character]Fjóla[/color] who has a star-shaped birthmark on her chest.  Not much is known about these two.  
+Hjalta is depicted in a wide variety of surreal atmospheres. [spoiler]Rumors have it that Tchai chooses to depict their characters as pieces of themself. Hjalta could be Tchaikovsky2''s analytical mind.[/spoiler]
+
+-----
+
+Design-wise these characters were not intended to be furless as Highland cows are extremely fuzzy. A poll was posted on Tchaikovsky2''s Patreaon for their furless fates. These two were created before tchaikovsky2 was experimenting with full body furry characters, '),
+        ('salessi', 'Female cat character owned by http://www.furaffinity.net/user/floobadeedoo/ https://e621.net/user/show/105017 and often drawn by http://www.furaffinity.net/user/reign-2004 [[reign-2004]]'),
+        ('jiayi', '"DeviantArt account":http://jiayi.deviantart.com/ abandoned. Currently active on "Tumblr":http://artricahearts.tumblr.com/.'),
+        ('struggling_to_fit', 'A character that is having problems putting on [[clothing]]. This tag might have additional applications as well, but it mostly refers to clothing at the moment.
+
+h4. Related tags
+
+* [[dressing]]
+
+h4. See also
+
+* [[wardrobe_malfunction]]'),
+        ('human_penetrating_feral', 'Used for posts depicting a [[human]] character penetrating a [[feral]] character, regardless of the genders of said characters.
+
+h4. Tags About Penetration:
+
+* [[penetration]]
+
+[section=Tags About Penetration:]
+
+h4. Form:
+[section=Form:]
+
+[section=<Form>_penetrated:]
+* [[anthro_penetrated]]
+* [[feral_penetrated]]
+* [[human_penetrated]]
+* [[humanoid_penetrated]]
+* [[taur_penetrated]]
+
+[/section]
+
+[section=<Form>_penetrating:]
+* [[anthro_penetrating]]
+* [[feral_penetrating]]
+* [[human_penetrating]]
+* [[humanoid_penetrating]]
+* [[taur_penetrating]]
+
+[/section]
+
+[section=<Form>_penetrating_<Form>:]
+* [[anthro_penetrating_anthro]]
+* [[anthro_penetrating_feral]]
+* [[anthro_penetrating_human]]
+* [[anthro_penetrating_humanoid]]
+* [[anthro_penetrating_taur]]
+* [[feral_penetrating_anthro]]
+* [[feral_penetrating_feral]]
+* [[feral_penetrating_human]]
+* [[feral_penetrating_humanoid]]
+* [[feral_penetrating_taur]]
+* [[human_penetrating_anthro]]
+* [b]human_penetrating_feral[/b]
+* [[human_penetrating_human]]
+* [[human_penetrating_humanoid]]
+* [[human_penetrating_taur]]
+* [[humanoid_penetrating_anthro]]
+* [[humanoid_penetrating_feral]]
+* [[humanoid_penetrating_human]]
+* [[humanoid_penetrating_humanoid]]
+* [[humanoid_penetrating_taur]]
+* [[taur_penetrating_anthro]]
+* [[taur_penetrating_feral]]
+* [[taur_penetrating_human]]
+* [[taur_penetrating_humanoid]]
+* [[taur_penetrating_taur]]
+
+[/section]
+[/section]
+
+h4. Gender:
+[section=Gender:]
+
+[section=<Gender>_penetrating Tags:]
+* [[ambiguous_penetrating]]
+* [[female_penetrating]]
+* [[intersex_penetrating]]
+** [[andromorph_penetrating]]
+** [[gynomorph_penetrating]]
+** [[herm_penetrating]]
+** [[maleherm_penetrating]]
+* [[male_penetrating]]
+
+[/section]
+
+[section=<Gender>_penetrated Tags:]
+* [[ambiguous_penetrated]]
+* [[female_penetrated]]
+* [[intersex_penetrated]]
+** [[andromorph_penetrated]]
+** [[gynomorph_penetrated]]
+** [[herm_penetrated]]
+** [[maleherm_penetrated]]
+* [[male_penetrated]]
+
+[/section]
+
+[section=<Gender>_penetrating_<Gender> Tags:]
+[section=ambiguous_penetrating:]
+* [[ambiguous_penetrating_ambiguous]]
+* [[ambiguous_penetrating_female]]
+* [[ambiguous_penetrating_intersex]]
+** [[ambiguous_penetrating_andromorph]]
+** [[ambiguous_penetrating_gynomorph]]
+** [[ambiguous_penetrating_herm]]
+** [[ambiguous_penetrating_maleherm]]
+* [[ambiguous_penetrating_male]]
+
+[/section]
+
+[section=female_penetrating:]
+* [[female_penetrating_ambiguous]]
+* [[female_penetrating_female]]
+* [[female_penetrating_intersex]]
+** [[female_penetrating_andromorph]]
+** [[female_penetrating_gynomorph]]
+** [[female_penetrating_herm]]
+** [[female_penetrating_maleherm]]
+* [[female_penetrating_male]]
+
+[/section]
+
+[section=intersex_penetrating:]
+* [[intersex_penetrating_ambiguous]]
+* [[intersex_penetrating_female]]
+* [[intersex_penetrating_intersex]]
+** [[intersex_penetrating_andromorph]]
+** [[intersex_penetrating_gynomorph]]
+** [[intersex_penetrating_herm]]
+** [[intersex_penetrating_maleherm]]
+* [[intersex_penetrating_male]]
+
+[section=andromorph_penetrating:]
+* [[andromorph_penetrating_ambiguous]]
+* [[andromorph_penetrating_female]]
+* [[andromorph_penetrating_intersex]]
+** [[andromorph_penetrating_andromorph]]
+** [[andromorph_penetrating_gynomorph]]
+** [[andromorph_penetrating_herm]]
+** [[andromorph_penetrating_maleherm]]
+* [[andromorph_penetrating_male]]
+
+[/section]
+
+[section=gynomorph_penetrating:]
+* [[gynomorph_penetrating_ambiguous]]
+* [[gynomorph_penetrating_female]]
+* [[gynomorph_penetrating_intersex]]
+** [[gynomorph_penetrating_andromorph]]
+** [[gynomorph_penetrating_gynomorph]]
+** [[gynomorph_penetrating_herm]]
+** [[gynomorph_penetrating_maleherm]]
+* [[gynomorph_penetrating_male]]
+
+[/section]
+
+[section=herm_penetrating:]
+* [[herm_penetrating_ambiguous]]
+* [[herm_penetrating_female]]
+* [[herm_penetrating_intersex]]
+** [[herm_penetrating_andromorph]]
+** [[herm_penetrating_gynomorph]]
+** [[herm_penetrating_herm]]
+** [[herm_penetrating_maleherm]]
+* [[herm_penetrating_male]]
+
+[/section]
+
+[section=maleherm_penetrating:]
+* [[maleherm_penetrating_ambiguous]]
+* [[maleherm_penetrating_female]]
+* [[maleherm_penetrating_intersex]]
+** [[maleherm_penetrating_andromorph]]
+** [[maleherm_penetrating_gynomorph]]
+** [[maleherm_penetrating_herm]]
+** [[maleherm_penetrating_maleherm]]
+* [[maleherm_penetrating_male]]
+
+[/section]
+[/section]
+
+[section=male_penetrating:]
+* [[male_penetrating_ambiguous]]
+* [[male_penetrating_female]]
+* [[male_penetrating_intersex]]
+** [[male_penetrating_andromorph]]
+** [[male_penetrating_gynomorph]]
+** [[male_penetrating_herm]]
+** [[male_penetrating_maleherm]]
+* [[male_penetrating_male]]
+
+[/section]
+[/section]
+[/section]
+
+h4. Object / Orifice penetration:
+[section=<Object/Orifice>_penetration:]
+
+[section=<Orifice>_penetration:]
+* [[ambiguous_penetration]]
+* [[anal_penetration]]
+** [[dildo_in_ass]]
+** [[double_anal]]
+** [[pegging]]
+** [[triple_anal]]
+* [[arthropod_abdomen_penetration]]
+* [[cloacal_penetration]]
+** [[dildo_in_cloaca]]
+** [[double_cloacal]]
+** [[triple_cloacal]]
+* [[ear_penetration]]
+* [[hair_penetration]]
+* [[nasal_penetration]]
+* [[navel_penetration]]
+* [[nipple_penetration]]
+* [[oral_penetration]]
+** [[double_oral]]
+** [[triple_oral]]
+* [[pouch_penetration]]
+* [[sheath_penetration]]
+* [[slit_penetration]]
+* [[unusual_penetration]]
+* [[urethral_penetration]]
+** [[penis_in_penis]]
+* [[vaginal_penetration]]
+** [[cervical_penetration]]
+** [[dildo_in_pussy]]
+** [[double_vaginal]]
+** [[triple_vaginal]]
+
+[/section]
+
+[section=<Object>_penetration:]
+* [[building_penetration]]
+* [[food_penetration]]
+* [[sex_toy_penetration]]
+** [[dildo_penetration]]
+*** [[dildo_in_ass]]
+*** [[dildo_in_cloaca]]
+*** [[dildo_in_pussy]]
+* [[penile_penetration]]
+** [[penis_in_penis]]
+* [[tentacle_penetration]]
+* [[tongue_penetration]]
+
+[/section]
+[/section]
+
+h4. Quantity:
+[section=<Quantity>_penetration:]
+* [[double_penetration]]
+** [[double_anal]]
+** [[double_cloacal]]
+** [[double_oral]]
+** [[double_vaginal]]
+* [[multi_penetration]]
+* [[multiple_insertions]]
+* [[multiple_penetration]]
+* [[quadruple_penetration]]
+* [[quintuple_penetration]]
+* [[triple_penetration]]
+** [[triple_anal]]
+** [[triple_cloacal]]
+** [[triple_oral]]
+** [[triple_vaginal]]
+
+[/section]
+
+h4. Size / Depth:
+[section=Size / Depth:]
+* [[balls_deep]]
+* [[deep_penetration]]
+* [[extreme_penetration]]
+* [[huge_penetration]]
+* [[large_penetration]]
+* [[macro_penetration]]
+* [[ridiculous_fit]]
+* [[shallow_penetration]]
+* [[tight_fit]]
+
+[/section]
+
+h4. Other:
+[section=Other:]
+* [[bilateral_penetration]]
+* [[cum_while_penetrated]]
+* [[guided_penetration]]
+* [[oral_while_penetrating]]
+* [[penetrating_pov]]
+* [[receiving_pov]]
+* [[suspended_via_penetration]]
+* [[trilateral_penetration]]
+* [[u-turn_penetration]]
+
+[/section]
+[/section]
+
+h4. See also
+* [[anthro_on_anthro]]
+* [[anthro_on_feral]]
+* [[feral_on_feral]]
+* [[human_on_anthro]]
+* [[human_on_feral]]
+* [[human_on_humanoid]]
+* [[humanoid_on_anthro]]
+* [[humanoid_on_feral]]
+* [[humanoid_on_humanoid]]'),
+        ('indynd', 'A note from the artist: Please do not edit my artwork or upload edits of my artwork.'),
+        ('uulitch', 'She works together with "Yal", another artist, Together they make pieces of art but Uulitch is the boss lmao 🐢🫵🏻
+
+
+'),
+        ('mobywidebody', 'OG Russian artist.
+Loves Paw Patrol and muscle cars.
+A little bit crazy, but quite nice to talk to.'),
+        ('fistula', 'A [b]fistula[/b] in anatomy is an abnormal connection between two hollow spaces, such as blood vessels, [[intestines]] or other hollow [[organs]]. Other examples include a hole connecting the [[pussy]] and [[anus]].
+
+h4. See also
+
+* [[all_the_way_through]]
+* [[mismatched_threading]]'),
+        ('juicewolf96', 'New Artist tag '),
+        ('tolsticot', '"FA":https://www.furaffinity.net/user/tolsticot
+"DA":https://www.deviantart.com/tolsticot
+"Derpibooru":https://derpibooru.org/profiles/tolsticot
+"Twitter":https://twitter.com/tolsticot
+"Tumblr":https://tolsticotic.tumblr.com/
+"Newgrounds":https://tolsticot.newgrounds.com/'),
+        ('mush_(tacofoxbrazil)', 'thumb #2918607 thumb #2918645 thumb #2920882
+
+
+Mush is a Mushroom Monster girl owned by {{tacofoxbrazil}}'),
+        ('roflfox', 'thumb #1348910 thumb #1758201 thumb #3266241 thumb #1615344
+
+[b]Roflfox[/b] is a character/sona belonging to "Roflfox":http://www.furaffinity.net/user/roflfox/
+
+He is a 5''9", 165lbs male fox with teal/white fur and markings similar to that of Vocaloid idol "Hatsune Miku":https://vocaloid.fandom.com/wiki/Hatsune_Miku. (The ear stripes represent the hair bands, and he shares the same 01 tattoo)
+
+
+Roflfox can occasionally be seen in the form of  a "Braixen":https://e621.net/post?tags=roflfox+braixen+alternate_species, and also has a non-canon genderswap named [[Divafox]].
+
+h4.External links
+* "FurAffinity folder":http://www.furaffinity.net/gallery/roflfox/folder/347059/Roflfox-Things'),
+        ('headwear_only', 'When a character is wearing any form of [[headwear]], and nothing else.
+
+h4.Related Tags:
+
+* [[headwear]]
+* [[mostly_nude]]
+
+h4.See Also:
+
+[section=The ''Only'' Tags:]
+* [[apron_only]]
+* [[bandanna_only]]
+** [[headkerchief_only]]
+** [[neckerchief_only]]
+* [[boa_only]]
+* [[cape_only]]
+* [[coat_only]]
+* [[collar_only]]
+* [[footwear_only]]
+** [[boots_only]]
+** [[sandals_only]]
+** [[shoes_only]]
+** [[socks_only]]
+* [[glasses_only]]
+* [[gloves_only]]
+* [[headgear_only]]
+** [[helmet_only]]
+** [b]headwear_only[/b]
+*** [[hat_only]]
+*** [[mask_only]]
+* [[hoodie_only]]
+* [[robe_only]]
+* [[scarf_only]]
+* [[shirt_only]]
+* [[towel_only]]
+* [[underwear_only]]
+** [[panties_only]]
+[/section]'),
+        ('surge_the_tenrec', 'thumb #3689410
+
+[b]Surge the Tenrec[/b] is a character that appears in the [[Sonic the Hedgehog (IDW)]] comic series. She is an anthropomorphic tenrec who was modified into a villainous cyborg by [[Doctor Starline]] with no memories of her past, and the companion of [[Kitsunami the Fennec]]. Initially made for the intended purpose of destroying Sonic the Hedgehog and replacing him as the hero of the world, she would begin seeking revenge on everyone she blames for her past life being taken away from her after discovering the truth of her origin.
+
+Having been modified by Dr. Starline with cybernetic enhancements, Surge possesses an array of powers. She has the ability to generate electricity of varying intensity and project it as small lightning bolts or sparks, as well as the ability to move at super speeds fast enough to keep up with Sonic.'),
+        ('slapstick', 'Bodily cartoonish abuse for the sake of humor. Examples include flattening, forced stretching, impact indentation (can be inanimate, like a wall -- or organic, like a character getting hit in the face with a book and the face squashes and leaves a goofy indent), and the kind of comedic abuse and outcome you would generally expect from a cartoon.'),
+        ('condom_creature', 'A creature that happens to be a condom. A variation of  cum_creature and living_inflatable, being a cum creature heald together by the latex of a condom, or an inflatable creature "inflated" with cum instead of air. Features can include balloon knots used to tie condoms off, any and all body fluids being cum, and leaking cum from any orifice or balloon knot.'),
+        ('living_gasm_drive', 'Characters who have bodies specifically designed for being the ultimate sex toy. Typical traits include [[breasts]], [[cock tongue]], [[snake cock]], [[tail cocks]], and [[tentacles]]. "Dark_Nek0gami":http://www.furaffinity.net/user/nek0gami/ is credited for their creation.
+
+'),
+        ('amithemare', 'RP character :P'),
+        ('likey', 'Twitter bio:
+[quote]
+Basically 2d artist | animator | 3d model maker.
+[/quote]
+'),
+        ('fuketsudan', '"Hidden" explicit gallery with uncensored works: https://yamaika.sakura.ne.jp/illust/rx/rx.htm
+To find the explicit gallery, visit the artist''s "safe pictures gallery":https://yamaika.sakura.ne.jp/illust/illust.htm on their main site, scroll down, and click on the line near the bottom. It''s actually white text on a white background that says `R-18ページ` when highlighted.'),
+        ('kha''zix_(lol)', 'Kha''Zix - the Voidreaver
+
+[[league_of_legends|League of Legends]] Character
+
+"Picture":http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Khazix_0.jpg'),
+        ('billy_roll', 'The [b]Billy Roll[/b] is a product made in 1986 by the Feldhues Group, a Germany-based company known for making sausages with decorative patterns when sliced. The Billy Roll (also known as the [b]Smiling Sausage[/b] or the [b]Meat Clown[/b]) specifically has the pattern of a [[clown]]''s [[smile|smiling face]]. The product is a popular sandwich filling in Ireland where it is sold more [i]per capita[/i] than anywhere else in Europe, and gained interest online in the later 2010s due to rise in popularity of clowns.
+
+
+* "Feldhues Group''s English website":https://www.feldhues-group.de/en/
+* "Irish Times'' article on the Billy Roll":https://www.irishtimes.com/life-and-style/food-and-drink/what-is-a-billy-roll-1.3938217'),
+        ('unicorn', 'thumb #48550 thumb #1038368 thumb #1138609
+
+A [b]unicorn[/b] is a mythological [[equine]] with a single, usually spiraled [[horn]] growing from the center of its forehead.  Classical unicorns were technically not equines, having thin, almost [[deer]]-like bodies with cloven [[hoof|hooves]] and a [[lion]]-like, tufted tail.  The modern convention is to depict them as a standard [[horse]] with a horn on the forehead.
+
+Some sources argue that the apparently single horn (known as an alicorn) is really a pair of horns growing spiraled tightly about one another.  Legend has it that a unicorn''s horn can purify water and detect poison, thus making cups allegedly made from unicorn horns highly prized objects.  However, in reality, these cups are carved from other sources, such as [[narwhal]] teeth.
+
+Since the Middle Ages, unicorns traditionally are said to be attracted to virgins and the morally pure, and were sometimes used as a symbol for Christ in medieval paintings.
+
+The karkadan is a highly aggressive unicorn from Asia and Arabia possibly derived from a now extinct [[rhinoceros]].  The [[kirin]] is also often portrayed as a variety of unicorn in modern times, but the original versions possessed the standard two horns.  Other types of unicorn-like creatures also exist in folklore and legend, from the [[miraj]] to the Invisible Pink Unicorn.
+__________
+
+For the purposes of e621, unicorns are tagged as [[equine]] but should not be tagged as either [[horse]] or [[pony]].  If a creature is an equine and possesses both a horn and [[wings]], it should be tagged as [[winged unicorn]] instead.
+
+h4. Related Tags:
+* [[hooves]]
+* [[horn]]
+** [[1_horn]]
+** [[head_horn]]
+** [[unicorn_horn]]
+* [[phallicorn]]
+* [[quadruped]] - Feral forms have four legs.
+
+h4. For More Information:
+* "Unicorn (Wikipedia)":http://en.wikipedia.org/wiki/Unicorn'),
+        ('3_sword_style', 'A style of fighting with three swords used commonly by Zoro from one piece '),
+        ('cumbreon', 'An Umbreon that orgasms in excessive amounts.'),
+        ('pawmot', 'h4. See Also:
+
+* [[pokémon]]
+** [[pawmi]]
+*** [[pawmo]]
+**** pawmot'),
+        ('date', 'For images depicting characters going on a romantic date. 
+
+Not to be confused with [[dated]], used for images with the date of their creation written on them.'),
+        ('ann_(the_waiting_room)', 'ann from the waiting room object show'),
+        ('ungulatr', 'An artist that is well known for artwork with extreme amounts of saliva. [[Extreme_french_kiss]] is a tag that accurately describes Ungulatr.'),
+        ('lodi', 'Lodi / Fluffdi is a NSFW furry artist who frequently draws [[avali]]. Has a [[demon]] character [[Lodish]].
+
+https://e621.net/users/336655'),
+        ('kepi', 'A kind of hat that has a flat top and cylindrical in shape, with a visor. This hat is mainly associated with the French forces, with [[Charles de Gaulle]] wearing one in his official portrait during WWII.'),
+        ('nol_(frosttiger)', 'Character belonging to Fur Affinity user Frost.Tiger'),
+        ('suckling', 'thumb #82667 thumb #261320
+
+When a character is sucking a nipple or actively placing the nipple/areola in their mouth.  It may or may not involve lactation.
+
+* Note that this does not include any [[oral]] sex (e.g., [[fellatio]]).
+
+h4. See also
+
+* [[breast_suck]]
+* [[lactating]]'),
+        ('the_autumnlands', '* "Official website":https://imagecomics.com/comics/series/tooth-and-claw
+* "Wikia":http://imagecomics.wikia.com/wiki/The_Autumnlands_Vol_1
+* "TV Tropes":http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/TheAutumnlandsToothAndClaw'),
+        ('sallos_(character)', 'Species: [[iguanid]], [[lizard]], [[reptile]], [[scalie]]
+Character owned by:
+[[crystallos]]
+https://twitter.com/wackyiguana
+https://www.furaffinity.net/user/sallos/'),
+        ('battle', 'thumb #338652 thumb #940177
+
+An intense, large-scale [[fight]] involving numerous groups of people. 
+
+Use [[fight]] instead for small-scale fights such as duels. '),
+        ('mimic_dragon', 'A [b]mimic dragon[/b] is a usually small [[feral]] [[dragon]] that resembles another, non-dragon animal or a plant.  [[bird_dragon|Bird dragons]] are a common type of mimic dragon.
+
+[[Heather_Bruton]] has depicted a sizable number of these dragons, although she is not the only to do so.'),
+        ('tail_over_skirt', 'The tail is over the skirt, not to be confused with [[tail_through_skirt]] or [[tail_under_skirt]]. When the skirt is lowered showing some buttocks, this tag no longer applies.
+
+Note: This tag would only apply to [[dress|dresses]] if the dress is [[open-back dress|open-back]]. If there is a post tagged as this and the character is wearing a dress, the tag they were probably looking for is [[tail_through_skirt]] instead. '),
+        ('project_x_love_potion_disaster', 'thumb #330765
+[i][b]Project X: Love Potion Disaster[/b][/i], or just Project X is a fan-made hentai side scrolling beat ''em up type [[video_game|game]] featuring characters from [[Sega]]''s [[Sonic_the_Hedgehog_(series)|Sonic the Hedgehog series]] and fan characters made by Zeta Team, the leaders of said team are [[NeoEclipse]] and [[Zeta R-02]] (also a pornographic artist).
+
+The game was first released for free on November 20th, 2009. Despite being around for over a decade, the game is still incomplete and in-development hell, only receiving a major update once every 18-36 months. This is primarily due to the games status as a passion project, with the creators not charging players for the download or attempting subscription based payment via [[Patreon]] or [[SubscribeStar]]. Leading to most of the work getting done on the side while they have to take care of real-life issues. The ultimate goal of the creators is to have 8 major stages like most games in the series that it is based on.
+
+The basic premise of the game is that while [[Dr. Eggman]] is attempting once again to take over the land, a pair of scientists making a love potion wind up using too much of the eponymous Element X. This results in a massive pink cloud covering the region that causes everyone including [[Child]]ren [[Plants]], [[Feral]] Animals, [[Robot]]s, [[alien]]s, and [[mythology|mythological creatures]] such as [[ghost]]s, [[mermaid]]s, and [[demon]]s; to become sex crazed zombies. This also leads to the birth of pink, [[crossgender]]ed, nymphomaniacal, version of [[chaos_(sonic)|Chaos]] known as Venus who seeks to spread the cloud''s influence and force/seduce those affected to become part of her [[harem]] of boyfriends and girlfriends.
+
+The player''s character is one of the few characters mostly unaffected by the cloud and will attempt to find a way to reverse its effects. Originally the only playable character was Zeta-R02''s [[fan character]] [[Zeta the Echidna]]. But over time they would come to add other characters from the main series including [[Blaze the Cat]], [[Amy Rose]], [[Rouge the Bat]], [[Cream the Rabbit]] and her sidekick [[Cheese the Chao]], and [[Miles_Prower|Tails the Fox]] as the token male. At one point, [[Rockcandy]]''s [[Zu]] was also a playable character. Conversely, most of the initial enemies were based on hostiles from the Sonic series such as the [[badnik]]s, [[dark gaia minion]]s, [[Boo_(Sonic)|Boom Boos]] and [[Chao]] before shifting to more original and unique enemies.
+
+Game-play wise its a standard side-scrolling beat ''em up, with minimal platforming and unique stage design. Each of the playable characters has different stats such as jump, speed, strength, defense, and special move power. They each have a basic combo, a dash attack, a jumping attack, a ranged special, and an area of effect special. The player must defeat all the hostiles in the area within 90 seconds before moving on to the next. Enemies have different movement patterns, health bars, and even special attacks. If they get to close, they will remove the players clothes and one of two animations will play in which the enemy rapes the player''s character and they take damage. Too much damage and you''ll lose a life. Health can be replenished by collecting [[condom]]s and [[birth control]] [[pills]]. There are secret areas with challenges and puzzles to potentially earn [[Chaos Emerald]]s, which will increase maximum health and power. You can also score points with combos and by rescuing other [[fan_character|Mobians]] from the effects of the cloud. 
+
+There are currently 5 completed stages. Most of the sound assets including music and voice acting is ripped from existing triple a games from in and outside of the Sonic series. There are also a number of pop-culture references ranging from Sonic to [[Spongebob Squarepants]], [[Street Fighter]], [[The Little Mermaid]], [[Ecco_the_Dolphin_(Series)|Ecco]], [[Darkstalkers]], and much more.
+
+There are also additional game modes, including an Arena Mode where you fight hordes of enemies leading to a face off with evil (horny) versions of of the playable characters and then [[Big the Cat]], Boss Rush where you fight the game''s bosses back-to-back, those bosses being [[Decoe]], [[Bocoe]], [[Bokkun]], a hedge of [[Piranha Plant]]s, [[Lah]] the Ghost, [[Sonic the Werehog]], [[Neokat]]''s OC''s, [[Zeena]] of the [[Deadly Six]], [[Big the Cat]] and Venus.
+
+Project X Covers a massive list of kinks and fetishes, including, [[Rape]], [[tentacles]], [[oral]], [[fisting]], [[vore]], [[bestiality]], [[cub]], [[hyper]], [[inflation]], [[cumflation]], [[worms]], [[knotting]], [[underwater sex]], [[impregnation]], [[unbirthing]], [[pegging]], [[tail sex]], [[cosplay]], [[transformation]], [[watersports]], [[bdsm]], [[spanking]], [[sex toy]]s, [[gender transformation]], [[intersex]], [[lactation]], [[goo]], [[oviposition]], [[flying sex]], unorthodox penetration, gay sex, lesbian sex, straight sex, [[group sex]], and much more.
+
+[b]"As of April 28th, 2022, Development of Project X: Love Potion Disaster by Zeta Team is Officially cancelled.":https://www.furaffinity.net/journal/10203807/ [/b]Outside of modding, the game will not develop any further.'),
+        ('olivia_coniglia_(character)', 'Character of @dregadude. Deuteragonist of PANOPTICAT.'),
+        ('abyss_art_(artist)', 'Abyss Art, most commonly known on other platforms as "Void Erebus" is an artist that makes dumb stuff that other people want him to make. yup that pretty much sums it up. nothing special. '),
+        ('tunic', 'thumb #952260
+
+A [b]tunic[/b] is a long [[shirt]] that extends partway down the wearer''s leg. It can have long, short, or no sleeves.
+
+h4. See also:
+
+* [[clothing]]
+* [[tag_group:clothes]]
+* [[tunic_(video_game)]]
+* "Zeldapedia: Tunic":http://zelda.wikia.com/wiki/Tunic'),
+        ('erthy_(erthy3d)', 'Erthy is a fursona of a furry artist Erthy3d. She''s an anthro Abyssinian cat with thick forms.'),
+        ('holding_clothing', 'thumb #802466
+
+When a character is [[holding_object|holding]] an article of [[clothing]].
+
+h4.See also:
+
+* [[holding_object|Holding object]]'),
+        ('kog''maw_(lol)', 'Kog''Maw - the Mouth of the Abyss
+
+[[league_of_legends|League of Legends]] Character
+
+"Picture":http://ddragon.leagueoflegends.com/cdn/img/champion/splash/KogMaw_0.jpg'),
+        ('webtoon', 'https://en.wikipedia.org/wiki/Webtoon_(platform))'),
+        ('cow_tipping', '[b]Cow tipping[/b] is the purported activity of sneaking up on any unsuspecting or [[sleeping]] upright [[cow]] and pushing it over for entertainment.
+
+"Cow tipping - From Wikipedia, the free encyclopedia":https://en.wikipedia.org/wiki/Cow_tipping'),
+        ('maya_(falaniathewolf)', 'A merfolk OC belonging to Falaniathewolf.'),
+        ('third_wheel_drive', '[[Two subs one dom]] but the subs are in a romantic relationship, e.g. [[husband and wife]]. If the dom is also part of the relationship, tag [[polyamory]] instead.'),
+        ('lord_of_change', 'Lords of Change are Greater Daemons of Tzeentch (The Chaos God of change, mutation and magic)
+
+These bird-like daemons are considered to be an aspect of their God, and thus are powerful beings of sorcerous magic and masters of deceit and manipulation. 
+
+Lords of Change exist in the settings of [[Warhammer_40000|Warhammer 40,000]], [[[[Warhammer_Fantasy|Warhammer Fantasy]] and [[Warhammer_Age_Of_Sigmar|Warhammer: Age of Sigmar]]
+'),
+        ('ponecowdoodles', 'https://ponecowdoodles.tumblr.com'),
+        ('cafe_(coffeefly)', 'Cafe is an OC of the artist [[CoffeeFly]] and twin brother of [[Te]].
+
+Depicted as either a [[Braixen]] wearing a blue scarf and jacket, or a tan-colored anthro [[Fennec]] wearing a black vest.
+'),
+        ('moji_(paladins)', 'thumb #1450029 thumb #1891757
+
+[b]Moji[/b] is a playable character in the hero shooter video game [b][i][[Paladins]][/i][/b] developed by Evil Mojo Games. She was released in [i]Paladins[/i] as part of the Open Beta 65 update, [i]Paladins and Friends[/i]. She is a [[blue eyes|blue eyed]], [[red fur|red furred]] Leipori, a [[rabbit|rabbit-like]] race with long ears and very short statures that live in huge caverns underneath the Enchanted Forest. In her default appearance she wears a dark blue [[robe]] that covers almost her entire body, a matching blue [[witch]] hat, white [[gloves]], [[glasses]], and a brown [[mask]] that covers her mouth. She is a Flank class champion who uses her two-headed magical familiar [b][[Po-Li]][/b] to ride into battle, blasting enemies with their magic breath. 
+
+As the war between the Paladins and the Magistrate began, most of the Leipori fled into the forest to escape the conflict. Moji took it upon herself to enter the fray to protect nature and prevent its destruction. Riding on Po-Li''s back, Moji uses her familiar''s magical breath to deal damage to enemies at close range while casting shielding spells to protect herself. Her ultimate ability, Bon Appetit, has her cast a polymorphing spell to transform her enemies into a delicious treat which Po-Li can consume.
+
+Like other [i]Paladins [/i]characters, Moji has several alternate skins that radically change her and Po-Li''s appearance. Some of these include [b]Dragonborn Moji[/b], which gives her a different robe, short draconic [[horn|horns]], and a much more menacing looking dragon form for Po-Li, and [b]Cuddly Moji[/b], which changes her into a [[tan body|tan colored]] living [[plushie]].'),
+        ('atendedordeboludos', 'Vagoncho''s old nickname, everything I did between 2016 and 2018 is summarized here.'),
+        ('shino_coffe', 'Hi Shino, I''m south American NSFW artist, my English is not perfect but at least is something. I like Pokemons, ferals, big butts, knots and cum related kinks. Please consider following me on my Twitter.'),
+        ('piaa_coporation', 'American company that produces and sells LED and Halogen based lighting systems for vehicles.'),
+        ('larger_taur', 'This is used when two (or more) beings are together and the largest one happens to be a [[taur]] compared to an [[anthro]] character, a [[feral]] animal, et cetera who is also present. This is typically used for couples with a notable [[size difference]] but can be non-romantic and non-sexual. The opposite situation is labeled [[smaller taur]].
+
+h4.See Also:
+
+h3.Larger
+
+[section=Form]
+* [[larger_anthro]]
+* [[larger_feral]]
+* [[larger_human]]
+* [[larger_humanoid]]
+* larger_taur
+[/section]
+
+[section=Gender]
+* [[larger_ambiguous]]
+* [[larger_female]]
+* [[larger_intersex]]
+** [[larger_andromorph]]
+** [[larger_gynomorph]]
+** [[larger_herm]]
+** [[larger_maleherm]]
+* [[larger_male]]
+[/section]
+
+[section=Miscellaneous]
+* [[larger_on_top]]
+* [[larger_pred]]
+* [[larger_prey]]
+* [[larger_teacher]]
+* [[larger_student]]
+[/section]
+
+h3.Smaller
+
+[section=Form]
+* [[smaller_anthro]]
+* [[smaller_feral]]
+* [[smaller_human]]
+* [[smaller_humanoid]]
+* [[smaller_taur]]
+[/section]
+
+[section=Gender]
+* [[smaller_ambiguous]]
+* [[smaller_female]]
+* [[smaller_intersex]]
+** [[smaller_andromorph]]
+** [[smaller_gynomorph]]
+** [[smaller_herm]]
+** [[smaller_maleherm]]
+* [[smaller_male]]
+[/section]
+
+[section=Miscellaneous]
+* [[smaller_on_top]]
+* [[smaller_pred]]
+* [[smaller_prey]]
+* [[smaller_teacher]]
+* [[smaller_student]]
+[/section]'),
+        ('disk_graze_(oc)', 'Original Character created and owned by https://www.facebook.com/DJBrony24. User can be found on other platforms such as Twitter, Derpibooru, Discord & DeviantArt'),
+        ('dandin', 'Character''s owner:
+https://www.furaffinity.net/user/dandin'),
+        ('mink', 'This is an informal group used for easier searching of animals otherwise called minks, despite taxonomic relations.  The use of this group is for the sake of convenience, similar to the [[jackal]] informal group tag.
+
+h6. Included:
+* [i][[Mustela]][/i]
+** [[european_mink]] ([i]M. lutreola[/i])
+* [i][[Neovison]][/i]
+** [[american_mink]] ([i]N. vison[/i])
+** [[sea_mink]] ([i]N. macrodon[/i])
+
+h6. More information:
+https://en.wikipedia.org/wiki/Mink
+https://en.wikipedia.org/wiki/Mustela
+https://en.wikipedia.org/wiki/Neovison'),
+        ('face_in_ass', 'thumb #2765422 thumb #2465373 thumb #3024556
+
+Use this tag whenever a character''s face is near the [[anus]] region, or between the butt cheeks of another character. This concept includes [[facesitting]], and its variant themes, as well as most forms of [[rimming]].
+
+This theme is commonly associated with [[humiliation]] content, but not always as this theme is associated with many forms of assplay, including [[anal vore]]. Less sexualized interactions should be tagged as [[head on butt]] (pressing, nuzzling, worship themes). Limited contact themes can be found in [[butt in face]] (presenting, teasing, imminent `face_in_ass` themed content).
+
+As a note, characters tend to be drawn with enlarged butts in these types of themes. Expect to see sizes that range from [[big_butt|big]], to [[huge_butt|huge]], or even [[hyper_butt|bigger]]. [[Size difference]] is also common in `face_in_ass` themes.
+
+[b]Not to be confused with [[head in anus]], where a character''s head is partially or fully inserted into the anal cavity. These tags may overlap in certain situations.[/b]
+
+h5. [i]Acts That May Involve Face In Ass...[/i]
+* [[butt crush]]
+* [[butt smother]]
+* [[butt sniffing]]
+* [[butt worship]]
+* [[facesitting]]
+* [[rimming]]
+* [[snout fucking]]
+* [[stinkface]]
+
+h4. Related Tags
+* [[head between cheeks]]
+* [[nose to anus]]
+
+h4. See Also
+* [[between butts]]
+'),
+        ('akali', 'l'),
+        ('ritts', 'Abandoned accounts
+`https://www.furaffinity.net/user/melonface`'),
+        ('butt_kiss', 'thumb #3053666
+
+[b]Butt Kiss[/b] describes depictions of characters kissing the [[butt]] cheeks or [[anus]] of another character. This should not be tagged if the character is performing [[rimming|analingus]] on the other character, nor should it be tagged if the character is not actively kissing the other''s butt.
+
+h4. Related Tags:
+* [[Kissing]]
+* [[Lipstick On Butt]]
+* [[Lipstick On Anus]]
+
+h4. See Also:
+* [[Butt]]
+** [[Butt Lick]]
+** [[Butt Worship]]
+* [[Rimming]]'),
+        ('kamek', 'A character from the Super Mario Bros. franchise.'),
+        ('the_little_man', 'Comic foil for the [[pink panther]], said to be a caricature of Fritz Freleng. The Man is a short, white, cartoonishly drawn [[human]] with a [[mustache]] and a variety of outfits.
+
+h4. See also
+
+* "wikipedia:The Little Man (The Pink Panther)":http://en.wikipedia.org/wiki/The_Little_Man_%28The_Pink_Panther%29'),
+        ('riddleaugust', 'American male digital artist specializing in pregnancy works.'),
+        ('ball_size_difference', 'When there is a clear and visible size difference between [[balls]] in the image.
+
+h4. See also
+
+* [[comparing_penis]]
+* [[size_difference]]
+** [[breast_size_difference]]
+** [[penis_size_difference]]
+** [b]ball_size_difference[/b]'),
+        ('tentacle_coil', 'One or more [[tentacles]] wrapping around a character. It is a form of [[coiling]].
+
+h4. Related Tags
+
+* [[tentacle_around_arm]]
+* [[tentacle_around_leg]]
+* [[tentacle_around_neck]]
+
+h4. See also
+
+* [[coiling]] - Coiling via a [[serpentine]] body.
+** [[coiling_self]]
+* [[tail_coil]]
+* [b]tentacle_coil[/b]'),
+        ('artificial_turf', '[b]Artificial turf[/b] is the fake [[grass]] often seen in produce sections and [[easter_basket|Easter baskets]].'),
+        ('hisuian_sneasel', 'thumb #3190581 thumb #3211194 thumb #3264796
+
+Source: <https://bulbapedia.bulbagarden.net/wiki/Sneasel_(Pokémon)>
+
+Hisuian Sneasel is a [[regional_form_(pokémon)|regional form]] of [[Sneasel]] found in the Hisui region from [[pokemon_legends_arceus|Pokémon Legends: Arceus]]. While its Johtonian counterpart is Dark/Ice-type, Hisuian Sneasel is Fighting/Poison-type.
+
+It evolves into [[Sneasler]] when exposed to a Razor Claw during the day.
+
+Hisuian Sneasel has a similar appearance to its Johtonian counterpart due to the living environment on the cliffside. It has a white and purple body with its left ear colored light purple. The face, shoulders, and chest have dark purple spots and there is a yellow gem on both its head and chest. The two toes on each foot are closed, and it has rounder eyes than its Johtonian form. Like Johtonian Sneasel, the ear feather is shorter on the female than on the male.
+
+Hisuian Sneasel''s sturdy and curved claws allow it to climb and travel through the precipitous walls and cliffs where it lives. The venom from the tips of Hisuian Sneasel''s claws is capable of invading the nervous system of any prey it scratches. It prefers to be alone, unlike the Johtonian Sneasel. It has been observed that Hisuian Sneasel lacks the spitefulness of its Johtonian counterpart, and it has been theorized that differences in its environment account for the differing personalities. As a result of these differences in environment, Hisuian Sneasel evolves into Sneasler instead of Weavile.
+
+h4. See Also:
+
+* [[pokémon]]
+** [[sneasel]]
+** [[weavile]]
+*** [[hisuian_sneasel]]
+*** [[sneasler]]
+* [[regional_form_(pokémon)]]'),
+        ('jchboom', 'http://www.y-gallery.net/user/trippedmyshoes'),
+        ('teil', 'Artist''s twitter seens to be Shot Down by its owner.'),
+        ('eye_contact', 'thumb #2012660 thumb #2875880 thumb #1286379
+
+Used when at least two characters in an image are looking directly at each other.
+
+For situations where a character is looking at the viewer, use [[looking at viewer]] instead.
+
+h4. See also
+
+* [[first person view]]
+* [[looking at viewer]]
+* [[staredown]]
+'),
+        ('safe_sex', 'A form of sex that includes some sort of protection against pregnancy and/or STDs (i.e., a [[condom]]). This is almost always going to refer to sex while [[wearing_condom|wearing a condom]], but other forms of protection may be used if you manage to come across them (a dental dam, female condom, etc.).
+
+If it wasn''t completely obvious already, for tagging purposes forms of penetration without a condom, ejaculating outside of the pussy, using birth control, and abstaining from sex entirely are not considered safe sex.
+'),
+        ('rivo', 'Character Owner: "D1rtyP4ws":https://www.furaffinity.net/user/d1rtyp4ws/'),
+        ('nihallaks_(species)', 'Nihallaks are an antediluvian (incredibly ancient and/or existing from before the first Apocalypse) race of octopus-like, transdimensional aliens from the erotic webcomic {{fairies_vs_tentacles}}.
+
+All nihillaks are male-personality hermaphrodites, possessing several tentacles, which are imbued with nanomachines that allow them to shapeshift into any number of tools (including penii), and a single ovipositor. However, most Nihillaks are flash-cloned, with only the Emperor allowed to breed normally.
+
+Nihillaks feed on an energy known as F.A.P.S. (Fundimental Aura-Power Surges), which is generated when certain creatures experience sexual pleasure; analogous to Mana from non-erotic fantasy works.'),
+        ('baron_of_hell', 'An enemy of the [[doom_(series)|Doom]] series. Barons of Hell resemble minotaurs, fauns or satyrs with pink torsos and brown goat legs.
+
+h4. Other Characters/Species
+
+* [[demon]]
+** [[imp_(doom)]]
+** [[cacodemon]]
+** [[hell_knight]]
+** [[arachnotron]]
+** [[pain_elemental]]
+** [[revenant_(doom)]]
+** [[mancubus]]
+** [[archvile_(doom)]]
+** [[spider_mastermind]]
+** [[cyberdemon]]'),
+        ('zachary_(chocoteenie)', 'thumb #794238
+[b]Zachary[/b] is a [[goat]] character belonging to [[Chocoteenie]].'),
+        ('black_face', 'thumb #3730059 thumb #3127595 thumb #2410517
+
+Used when a character has a [[markings|marking]] that colors their face in black.
+
+h3.Not to be confused with:
+* [[blackface]] - The [[racism|racist]] caricature of African-Americans.
+
+[section,expanded=Colors of Face]
+h4. [[tag_group:colors|Colors]] of [[Face]]
+
+* [b]black_face[/b]
+* [[blue_face]]
+* [[brown_face]]
+* [[green_face]]
+* [[grey_face]]
+* [[orange_face]]
+* [[pink_face]]
+* [[purple_face]]
+* [[red_face]]
+* [[silver_face]]
+* [[tan_face]]
+* [[teal_face]]
+* [[white_face]]
+* [[yellow_face]]
+
+* [[monotone_face]]
+* [[multicolored_face]]
+** [[rainbow_face]]
+** [[two_tone_face]]
+
+* [[dark_face]]
+* [[light_face]]
+
+[/section]'),
+        ('autotitfuck', 'thumb #581289 thumb #1253298
+
+A character using their own [[penis]] to [[titfuck]] themselves, considered to be a form of [[masturbation]].
+
+Note that this should not be tagged with [[titfuck]].
+
+* Frequently used with [[autofellatio]] and [[cum_in_own_mouth]].
+
+h4. See also:
+
+* [[autopecjob]]'),
+        ('yes_pillow', 'A [[pillow]] on which the word "yes" is written. Based off of one of a [[yes-no pillow|set of pillows]] (with a matching [[no pillow|"no"]] counterpart) seen on the Japanese television show, "Welcome, Newlyweds!"
+
+h4. Related tags
+
+* [[<3|heart]]
+** [[heart_pillow]] - Either as a shape, or a print. 
+** [[heart_print]]
+** [[text_in_heart]] - A common style for this theme.
+* [[print_pillow]] - Always applies
+* [[text]]
+** [[english_text]]
+** [[text_on_pillow]] - Always applies
+** [[text_print]] - Always applies
+
+
+h4. See also
+* [[pillow]]
+** [[yes-no pillow]]
+*** [[no pillow]]'),
+        ('growling', 'When a character makes a low guttural sound of hostility in the throat. Typically paired with a ''Grrrrr'' [[sound effects|sound effect]] and [[bared teeth]].
+
+Sound effects that represent growling include the [[onomatopoeia]] "growl", and [[vowelless_sound_effect|vowelless]] forms "grrrr", "grrwl", and "rrrr".
+
+h4. Not to be confused with
+
+* [[rumbling_stomach]] - For the growling sound effect specifically, see [[belly_growl]].
+
+h4. See also
+
+* [[roaring]]
+* [[snarling]]'),
+        ('baby_bottle', 'A [b]baby bottle[/b] is a type of [[bottle]] usually used to nurse infants and capped with a rubber nipple.'),
+        ('oar', 'thumb #673403
+
+An [b]oar[/b] is an implement used for water-borne propulsion. Oars have a flat blade at one end, and a handle at the other for rowers to grasp.'),
+        ('kryztar', 'This artist works on Inkbunny and Facebook.
+
+* https://www.furaffinity.net/user/kryztar/'),
+        ('herobrine', 'A [[creepypasta]] character who is supposedly part of the video game [i][[Minecraft]][/i]. He resembles the player character [[Steve (Minecraft)|Steve]], but with completely [[white eyes]] instead. While he never actually appeared in any version of the game itself, players can change their skins to resemble him.
+
+h4.See also:
+
+* "Herobrine on Minecraft Wiki":http://minecraft.gamepedia.com/Herobrine'),
+        ('kagerou_imaizumi', 'Kagerou Imaizumi (今泉 影狼 Imaizumi Kagerou) is a werewolf who lives in the Bamboo Forest of the Lost.
+
+Kagerou is said to have a calmer demeanor than one would expect from a werewolf. Like Keine Kamishirasawa and her were-hakutaku transformation, Kagerou acquires some characteristics of a wolf during a full moon, but she also has the ability to turn into an actual wolf.
+
+
+[spoiler]Credits to TouhouWiki[/spoiler]'),
+        ('jeremy_bernal', 'DNP artist.'),
+        ('bewear', 'thumb #948360 thumb #942242
+
+Bewear is a normal/fighting-type [[Pokémon]] based on a [[bear]] and a [[red panda]]. Its legs and the front of its body are black, while its head, back, and striped tail are pink, and its snout and ears are white.
+
+See: http://bulbapedia.bulbagarden.net/wiki/Bewear_(Pok%C3%A9mon)
+http://www.pokemon-sunmoon.com/en-us/pokemon/bewear/'),
+        ('slender_man', 'The Slender Man (also known as the Operator) is a mysterious, malevolent entity who appears as an abnormally pale, tall, and thin man with no face. He may or may not have tentacles growing out of his back.'),
+        ('cosplay', 'thumb #3721978 thumb #3720076 thumb #3711906
+
+Short for "costume play". A type of performance art in which participants don costumes and accessories to represent a specific character or idea. Characters are often drawn from popular fiction in Japan, but recent trends have included American cartoons and Sci-Fi.
+
+Favourite sources include manga, anime, tokusatsu, comic books, graphic novels, video games, hentai and fantasy movies. Any entity from the real or virtual world that lends itself to dramatic interpretation may be taken up as a subject. 
+
+Inanimate objects are given anthropomorphic forms and it is not unusual to see genders switched, with women playing male roles and vice versa.
+
+Cosplayed characters should be tagged as characters in the picture, but they do not count towards [[group|the character count]] except in the potential case of [[living_clothing|living clothing]].
+
+[b]Generic costumes (cat, witch, angel) with no pre-existing source are better suited to the basic [[costume]] tag.[/b]
+
+h4. See Also
+* [[wearing_character]]
+* [[alternate_costume]]'),
+        ('fuuga_(makemon)', 'Character from [[makemon]]
+Official name in Japanese: 風雅'),
+        ('julius_(warg)', 'thumb #840194
+[b]Julius[/b] is a [[husky]] character belonging to "Warg":http://furaffinity.net/user/warg.
+
+h4.External links
+* "FurAffinity folder":http://www.furaffinity.net/gallery/warg/folder/87398/Julius/'),
+        ('medium_breasts', 'thumb #1914153 thumb #1738075 thumb #3151600 thumb #2960860 thumb #2491911  
+ 
+[b]Medium Breasts[/b] are [[breasts]] that aren''t "especially" large or small, the middle ground between [[small breasts]] and [[big breasts]]. Medium breasts [i]could[/i] possibly be considered equivalent to around a B or C [[bra]] cup. Many images that could be tagged as "medium breasts" are only tagged "breasts"; medium sized breasts are especially common in [color=green][b]Safe [/b][/color] and [color=yellow][b]Questionable [/b][/color]rated images.
+
+[quote]
+
+h5. What Are "[i]Medium[/i]" Breasts?
+
+Here are some attributes of "medium" sized breasts:
+* Typically perky, with little [[sagging_breasts|sag]] even when unsupported
+* Unlike big breasts, there is usually distinct space on the chest between the breasts when exposed, and often minimal [[cleavage]] when clothed
+* Unlike small breasts, they are distinct masses on the chest, if the breasts are only defined by hatched lines suggesting their shape, and they aren''t clearly lined, it''s more likely the character has [[small breasts]]
+* Most often seen on [[athletic]], [[slim]] and [[skinny]] body types, chubby and overweight characters with medium breasts are often [[pear-shaped figure|pear bodied]]
+
+[i]Even with the above in mind, distinguishing medium breasts from the "smaller" side of [i]big breasts[/i] in particular can be difficult and subjective, use your best judgment.[/i]
+
+[/quote]
+
+
+
+h6. For a full list of breast sizes, comparisons, and breast related tags, see [[Breasts]]
+
+h4. Related Tags
+* [[Breasts]]
+** [[Small Breasts]]: A step below "Medium Breasts"
+** [[Big Breasts]]: A step above "Medium Breasts"
+* [[Nipples]]
+'),
+        ('kiggy', 'He''s a [[kig-yar]] from the [[Halo (series)|[i]Halo[/i] series]], with the most thicc bubble butt around.'),
+        ('valerie_(bubblypears)', '[b]Valerie[/b] is a [[female]] [[fox]] character belonging to "bubblypears"https://www.furaffinity.net/user/bubblypears/:
+
+h4.External links
+* "Valerie''s folder":https://www.furaffinity.net/gallery/bubblypears/folder/974512/Valerie/ on Fur Affinity'),
+        ('rhydon', 'thumb #25218 thumb #378062 thumb #775116
+
+Source: http://bulbapedia.bulbagarden.net/wiki/Rhydon_%28Pok%C3%A9mon%29
+
+Rhydon (Japanese: サイドン Sidon) is a dual-type Ground/Rock Pokémon.
+
+It evolves from Rhyhorn starting at level 42 and evolves into Rhyperior when traded holding a Protector. 
+
+Rhydon is a large, gray, bipedal Pokémon with features of both dinosaurs and rhinoceroses. It has a cream-colored, drill-like horn on its snout, the female having a smaller horn than the male. There are other protrusions on the head as well, including a spike curving forward from the middle of its head, two triangular, points resembling ears to the sides, a wide, wavy crest under the ears, and spiky ridges on its cheeks. It has red eyes and two fangs protruding from its upper jaw. It has a cream-colored stomach and a row of spikes down its back. Rhydon has a long tail with skinny, black stripes.
+
+Rhydon is a physically powerful Pokémon. It is recorded as being able to topple buildings with a sweeping blow of its tail, and its horn is able to bore through solid rock and shatter diamonds. Rhydon is protected from heat and physical blows by its armor-like hide. It is stated to be capable of passing unscathed through streams of magma and withstanding a direct blow from a cannonball without being harmed. However, because of this tough hide, it is insensitive. Rhydon has a well-developed brain, but can also be forgetful. It lives in rough terrain.
+
+h4. See Also:
+
+* [[pokémon]]
+** [[rhyhorn]]
+*** rhydon
+**** [[rhyperior]]'),
+        ('chu', 'Chu AKA Chuu.  Unrelated to the artist [[the-chu]] (Raizy)'),
+        ('featureless_crotch', 'thumb #2728699 thumb #2753250 thumb #2347115
+
+When a character''s naked crotch is visible on the post but their genitals are nowhere to be seen on that area.
+
+h4.Reasons
+* The artist wants to keep the post [[rating:safe|safe for work]] and omitted rendering them.
+* The character in question canonically lacks genitals due to being born without one ([[null]]).
+* The character had genitals once but has somehow lost them ([[nullo]]).
+* The character somehow has the ability to hide their genitals.
+* The character has an [[unusual genitalia placement]].
+
+h4.For Tagging Purposes
+* The crotch area must be visible in view and not obscured. Having someone being [[bottomless]] but their [[crossed legs|legs are crossed]] or is [[covering_crotch|covering their crotch]] doesn''t warrant this tag.
+* If there is evidence indicating that the character canonically lacks genitals, rather than genitals simply being not drawn, [[null]] should be tagged as well.
+* If there''s evidence that the genitals were removed then [[nullo]] should be used instead.
+* Note that not all characters with a featureless crotch are nulls or nullos as they may have their genitals [[unusual genitalia placement|located somewhere else]] on their body.
+
+h4. See also
+* [[featureless_arms]]
+* [[featureless_breasts]] - No nipples (or possibly [[areola|areolae]]) visible on visible breasts
+* [[featureless_chest]]
+* [[featureless_feet]]
+* [[featureless_hands]]
+* [[featureless_legs]]
+* [[featureless_limbs]]'),
+        ('dragon_ball_anal_beads', '[[dragon_ball_(object)|Dragon Balls]] being used as [[anal_beads|anal beads]].'),
+        ('the_hermit_(tarot)', 'One of the Major Arcana defined in [[tarot]]. In typical portrayals, the Hermit is a cloaked person at the top of a mountain, holding a long staff and looking out with a lantern. Inside the lantern is a glowing [[seal of Solomon]].
+
+In cartomancy, the upright Hermit arcanum is interpreted as soul-searching, introspection, being alone, and inner guidance.
+The reversed Hermit arcanum is interpreted as isolation, loneliness, and withdrawal.
+
+[table][thead][tr][th][[Major Arcana]][/th][/tr][/thead]
+[tr][th]thumb #1736269
+[[the fool (tarot)|The Fool]][/th][/tr][/table]
+[table]
+[tr][th]thumb #1734614
+[[the magician (tarot)|The Magician]][/th]
+[th]thumb #1734586
+[[the high priestess (tarot)|The High Priestess]][/th]
+[th]thumb #1736287
+[[the empress (tarot)|The Empress]][/th]
+[th]thumb #143001
+[[the emperor (tarot)|The Emperor]][/th][/tr]
+[tr][th]thumb #1734615
+[[the hierophant (tarot)|The Hierophant]][/th]
+[th]thumb #1736286
+[[the lovers (tarot)|The Lovers]][/th]
+[th]thumb #1736796
+[[the chariot (tarot)|The Chariot]][/th]
+[th]thumb #1736234
+[[strength (tarot)|Strength]][/th][/tr]
+[tr][th]thumb #142998
+[[the hermit (tarot)|The Hermit]][/th]
+[th]thumb #1734622
+[[wheel_of_fortune (tarot)|Wheel of Fortune]][/th]
+[th]thumb #1735423
+[[justice (tarot)|Justice]][/th]
+[th]thumb #1734582
+[[the hanged man (tarot)|The Hanged Man]][/th][/tr]
+[tr][th]thumb #1736298
+[[death (tarot)|Death]][/th]
+[th]thumb #1735421
+[[temperance (tarot)|Temperance]][/th]
+[th]thumb #1735428
+[[the devil (tarot)|The Devil]][/th]
+[th]thumb #1736801
+[[the tower (tarot)|The Tower]][/th][/tr]
+[tr][th]thumb #1734583
+[[the star (tarot)|The Star]][/th]
+[th]thumb #1734584
+[[the moon (tarot)|The Moon]][/th]
+[th]thumb #1734585
+[[the sun (tarot)|The Sun]][/th]
+[th]thumb #1736799
+[[judgement (tarot)|Judgement]][/th][/tr]
+[/table]
+[table][tr][th]thumb #1736798 
+[[the world (tarot)|The World]][/th][/tr][/table]
+[table]'),
+        ('dross_rotzank', 'A YouTuber from Venezuela that he make horror and scary videos, he become a youtuber in 2006'),
+        ('lute_(zinfyu)', 'thumb #1427883 thumb #1496958 thumb #1271769
+
+A female [[Absol]] character created by the artist [[Zinfyu]].
+ 
+Lute can be distinguished from typical Absol by her long white hair and signature red glasses. 
+
+She is generally portrayed as anthropomorphic, but is occasionally portrayed as [[feral]]. 
+
+Her name may be a play on the word "abso[i]lute[/i]".   '),
+        ('poro', 'A small, white, fluffy creature found around cold climates in Runeterra. Damn cute.'),
+        ('english_audio', 'A tag given to animations that contain audio in English. 
+
+h4. See also
+* [[japanese_audio]]
+* [[spanish_audio]]'),
+        ('nekochan90', 'only active on profiles named nx6'),
+        ('mars_(fourleafisland)', 'The deuteragonist of [[laika''s_comet|Laika''s Comet]], a comic by [[fourleafisland]]. Mars is a [[domestic_cat|cat]] of unknown, possibly otherworldly origin; they are [[nonbinary_(lore)|nonbinary]] and referred to with they/them pronouns.'),
+        ('docu_(human)', 'Docu (Human) is a [[male]] [[human]] OC and [[alternate_form|alternate form]] of [[docu_(doppel)|Docu (Complex)]], created by [[Doppel]].
+
+Docu (Human) looks exactly like [[docu_(doppel)|Docu (Complex)]] if he were human, complete with a pet [[snake]] representing his tail. The snake usually stays somewhere on his body, from gently coiled around his neck to laying atop his head.
+
+More information is being gathered on how/why Docu is no longer a human, or if the two beings are even related outside of mere implication.
+
+(Due to the nature of Docu (Human) (being human), there are not likely to be any examples of him on this site.)
+[section=Docu''s Forms][[docu_(doppel)|1 - Complex]]
+[[docu_(air)|2 - Air]]
+[[docu_(tentacle)|3 - Tentacle]]
+[[docu_(giant)|4 - Giant]]
+[[docu_(gas)|5 - Gas]]
+[[docu_(divide)|6 - Divide]]
+[[docu_(underwater)|7 - Underwater]]
+[[docu_(gcp)|G - Complex (Physical) (GCP)]]
+[[docu_(gcm)|G - Complex (Mental) (GCM)]]
+[[docu_(gb)|G - Blood]]
+[i]E - Human[/i][/section]
+h6. See Also
+* [[Human]]'),
+        ('wadjet_(deity)', 'Wadjet was an Egyptian Goddess within Egyptian Mythology. She has had several roles throughout ancient Egypt from Goddess of Childbirth, to protecting and guiding of the Pharoah and his Family along side her sister Nekhbet, to Protector and Defender of the Nile Delta.
+
+She has been depicted as a Cobra, a Winged Cobra, and/or as a woman with a Snake-head.'),
+        ('naomi_minette', '* [b]Official stylized name:[/b] Naomi★Minette
+* [b]Character owner links:[/b]
+** Bluesky ("1":https://bsky.app/profile/did:plc:lm7du56qw24acyyykicgygfi , "2":https://bsky.app/profile/did:plc:q5hcjskiekgedatsdai65gkf)
+** "Fur Affinity":https://www.furaffinity.net/user/naomi-hime/
+** "e621":https://e621.net/users/192567
+** (Additional links provided in case some uploads don''t get accepted here)
+* [b]Also known as/Will also answer to:[/b] Nao★Mi, Naomi, Nao
+* [b]Species/Forms & gender:[/b] Anime humanoid cow catgirl (persona), anthro/kemono Eevee girl (fursona); will NEVER evolve but can transform between forms and her appearance due to a special power
+* [b]Age:[/b] Despite what some uploads are tagged with, she''s old enough to gamble; "birthday is on February 17":https://e621.net/post/show/2152620
+* [b]Creation birthdays (when the final versions of the first-ever commissions of each form were received):[/b] February 25, 2018 (persona), September 23, 2018 (fursona)
+* [b]Official heights:[/b] "4 feet 10 inches (oppai loli appearance)":https://www.furaffinity.net/journal/9551107/#cid:57329035, 5 feet 4 inches (older appearance); this does NOT count the ears since their sizes are inconsistent
+* [b]Unofficial voice:[/b] "Ayane Sakura":https://myanimelist.net/people/11622/Ayane_Sakura
+* [b]Personality/Traits:[/b] Shy unless provoked, can sympathize and empathize with others, very loyal to those who are considered friends, likes being treated like a princess, likes being informative, sometimes forgetful, sometimes makes mistakes, considers self a "Perverted Princess" because of the amount of fetishes liked
+* [b]Sexuality:[/b] Pan but prefer those that consider themselves female more
+* [b]Favorite:[/b]
+** [b]Anime genres & "dere" types:[/b] Comedy, romance, sometimes slice of life, absolutely loves some "cute girls doing cute things" series; tsundere, deredere, himedere
+** [b]Videogame genres & system:[/b] Platformer, music/rhythm, roleplaying, puzzle; Nintendo
+** [b]Music genres/types:[/b] Pop/J-Pop, rock/J-Rock, videogame (of course), classical remixes, anything with 3/4 timing (no, not just waltz music)
+** [b]Food & drinks:[/b] Red velvet cake, blueberry muffins, banana pudding, pepperoni pizza (preferably Domino''s), iced coffee (especially from Starbucks)
+** [b]Things to say:[/b] "Nyahahaha~", "To each, their own", "I have absolutely no idea what you''re talking about whatsoever in any way possible at all"
+* [b]Other favorite things:[/b] Two side up hairstyle (most of one''s hair is left alone, with the rest tied up like pigtails), cute animals (including anthro, kemono, & kemonomimi characters), gigantic breasts (though accepts all sizes)
+* [b]Dislikes:[/b] Mainly, anyone that causes trouble
+
+h5.Naomi★Minette and Shirotora belong to "Naomi-hime":https://e621.net/user/show/192567. Please do NOT use them for your own purposes without permission!'),
+        ('indariel', 'An arctic wolf with the FA page https://www.furaffinity.net/user/indariel'),
+        ('sexuality_symbol', 'A sexuality symbol is a [[pictographics|pictogram]] or [[symbol|glyph]] used to express sexual expression or political ideology. The first instance of this was the use of [[male/male_symbol|two interlocking male symbols]] to represent [[male/male|male homosexuality]]. Since the 2000s, numerous such variants have been introduced in the context of LGBT culture and politics.
+
+h4. Symbols
+
+* [[⚢]] ([[lesbian_symbol|Doubled female]], lesbian)
+* [[⚣]] ([[gay_symbol|Doubled male]], gay)
+* [[⚤]] ([[straight_symbol|Interlocked male and female]], straight)
+* [[rainbow symbol]]
+
+h4. See also
+
+* [[pictographics]]
+* [[symbol]]
+** [[gender_symbol]]'),
+        ('pleasant_goat_and_big_big_wolf', '[b][i]Pleasant Goat and Big Big Wolf[/i][/b] (喜羊羊與灰太狼; [i]Xǐ Yángyáng yǔ Huī Tàiláng[/i]) is a [[China|Chinese]] animated television series produced by Creative Power Entertaining with a group of goats and wolves.
+
+h4.Tagged characters
+h5. Goats
+* [[Xi Yangyang]] (aka Happy, Weslie)
+* [[Mei Yangyang]] (aka Mae, Beauty, Tibbie)
+* [[Fei Yangyang]] (aka Fray, Fitty, Sparky)
+h5. Wolves
+* [[Hui Tailang]] (aka Wolffy)'),
+        ('coremata', 'Coremata, singularly referred to as corema, are distinctive anatomical features observed in male moths. These structures, which are both eversible and inflatable, are internally stored and unfurl to expose the [[hair-pencils]] contained within. 
+
+The sole function of coremata is the dispersal of pheromones, and they should not be misconstrued with the reproductive organ, the [[penis]], which serves the purpose of delivering sperm. However, artistic liberties and [[TWYS]] should be taken into account; if an image depicts a creature ejaculating from or using a corema for penetration, it should still be tagged with [[penis]] for search purposes.'),
+        ('prey_dom_predator_sub', 'For when a prey species is dominating predator species'),
+        ('fox_shadow_puppet', 'thumb #1443052
+
+A hand [[gesture]] created by placing the thumb, middle, and ring fingers together while raising the little and index fingers upright. Creates a reasonable shadow puppet approximation of a [[fox]]. Popular in images of [[fox_humanoid|kitsune]] and other fox-themed girls.
+
+h4. See also
+
+* [[devil_horns_(gesture)]]'),
+        ('cyanosis', 'thumb #3290192
+
+[b]Cyanosis[/b] is the change of body tissue color to a bluish-purple hue as a result of having decreased amounts of oxygen bound to the hemoglobin in the red blood cells of the capillary bed.  Body tissues that reflect cyanosis are usually in locations where the skin is thinner, including the mucous membranes, lips, nail beds, and ear lobes.  Cyanosis can also be a sign of [[necrosis]].
+
+"Cyanosis - From Wikipedia, the free encyclopedia":https://en.wikipedia.org/wiki/Cyanosis
+
+Cyanosis is most commonly seen in erotic heavy-peril scenarios, such as drowning or hardcore asphyxiation, to show the character is moments away from suffocating.'),
+        ('archery', 'h4. See also:
+
+* [[bow_(weapon)]]
+* [[holding_weapon]]
+
+h4. Not to be confused with:
+
+* [[archery_(artist)]]
+* [[bow]]'),
+        ('htg', 'Japanese furry artist'),
+        ('cell_(disambiguation)', '"Cell" can mean/refer to several things, and therefore is an ambiguous term. Use more specific tags instead, such as:
+
+h4.Characters
+
+* [[cell_(character)]]
+* [[cell_(dragon_ball)]]
+** [[imperfect_cell]]
+** [[semi-perfect_cell]]
+** [[perfect_cell]]
+
+h4.Species
+
+* [[cell_(organism)]] (pending discussion)
+* [[cell_(cells_at_work!)]]
+* [[zygarde_cell]]
+
+h4.Location
+
+* [[prison_cell]]
+* [[padded_cell]]
+* [[containment_cell]]
+
+h4.Objects/Other
+
+* [[cell_(biology)]]
+* [[sperm_cell]]
+* [[ovum]]
+* [[cellphone]]'),
+        ('croquet_mallet', 'The small mallet used for moving a ball (a.k.a. "wicket") in [[croquet]]. Can be distinguished from other mallets for an excessively long handle with a small (<10cm, or only a few inches) head.'),
+        ('nelson_(ikefanboy64)', 'Nelson is an original character created by IkeFanboy64.
+
+Nelson is a small, child-like [[drone]] who''s designed after an original species by artist Immelmann (known as Immeldrones). Having large ears, a light blue visor and mouth, and has three fingers.
+
+(He''s also super adorable)'),
+        ('tsurime', 'Eyes drawn with the top eyelid slanting inwards. This usually produces a strong, piercing look and is generally given to characters with forceful personalities (naturally, exceptions exist).
+
+Opposite is [[tareme]], which usually produces a gentle, weak look.'),
+        ('scarlet_(python13rp)', '[b]Scarlet[/b] is a [[wolf]] character belonging to "python13RP":http://www.furaffinity.net/user/python13rp/.
+
+h4.External links
+* "FurAffinity folder":http://www.furaffinity.net/gallery/python13rp/folder/46680/Scarlet'),
+        ('korean_audio', 'A tag given to animations that contain audio in Korean.'),
+        ('golf_tee', '
+
+A [b]golf tee[/b] is a stand used to support a stationary [[golf ball]] so that the player can strike it.
+
+h4. See also:
+
+* [[Golf]]'),
+        ('ion7', 'His drawing style draws very similar to [[shiin]] '),
+        ('biting_sound_effect', 'A [[sound_effects|sound effect]] that is associated with [[bite|biting]].
+
+This is a supplementary tag. If there is clearly [[bite|biting]] happening, the bite tag should also be used.
+
+[b]Sound effect forms:[/b] "Bite", "Chomp", "Nibble", "Nom" (sometimes)
+
+[b]Editor''s notes:[/b] This concept is closely related to eating sound effects. A proper distinction is being worked on. 
+
+h4. See also
+
+* [[tag_group:sound_effects]]
+
+* [[sound_effects]]'),
+        ('photo_finish_(mlp)', '"Photo Finish":http://mlp.wikia.com/wiki/Photo_Finish is a female [[Earth pony]] and famous fashion photographer in Equestria. She first appears in the season one episode [I]Green Isn''t Your Color[/I], and as of season four, she appears in the series'' opening sequence.'),
+        ('kakapo', 'A flightless species of [[parrot]] native to New Zealand.'),
+        ('przewalski''s_horse', 'h4. Genera and species:
+* [[equine|equus]]
+** equus (genus)
+*** [[wild_horse]] (E. ferus)
+**** przewalski''s_horse (E. f. przewalskii)
+
+h4. More information:
+https://en.wikipedia.org/wiki/Przewalski%27s_horse'),
+        ('aiming_at_self', 'thumb #669794
+
+When a character is [[aiming]] a weapon at themselves.
+
+h4. Related:
+* [[aiming]]
+** [[aiming_at_another]]
+** aiming_at_self
+** [[aiming_at_viewer]]
+
+h4. See also:
+
+* [[holding_weapon]]'),
+        ('1866', 'This tag applies to images made in the year 1866.
+
+<-- [[1865]] | [b]1866[/b] | [[1867]] -->'),
+        ('craft_valentine', 'Male dragon. Partner of [[Krystal Hunt]]. Brother of [[Nina Valentine]]. Secondary sona of [[Leongon]]. Reference: https://www.furaffinity.net/view/5525685/'),
+        ('open_topwear', 'An article of [[topwear]] on a character that is unfastened, but not completely removed.
+
+h4. Open tags
+
+* [[open_clothing]]
+** [b]open_topwear[/b]
+*** [[open_coat]]
+*** [[open_hoodie]]
+*** [[open_jacket]]
+*** [[open_robe]]
+*** [[open_shirt]]
+*** [[open_vest]]
+** [[open_bottomwear]]
+*** [[open_pants]]
+*** [[open_shorts]]'),
+        ('tore', 'Just a gray squirrel!'),
+        ('kiki''s_delivery_service', 'h4. See also
+
+* [[jiji_(kds)]]'),
+        ('nate_(8chan)', 'Nate (or n8 or Nate-chan) is the mascot of https://8ch.net/fur/ (previously https://8ch.net/furry/ )
+
+Age ranges from 8-18, depending on the artist.
+
+His birthday is on September 18th.'),
+        ('narn', 'Female furry artist based in Canada.'),
+        ('skunk_taur', 'A skunk taur is a [[taur]] version of a [[skunk]].'),
+        ('zephrix_(orionlizard)', 'https://www.furaffinity.net/user/lizardlurker'),
+        ('cadavren', '[b]Cadavren[/b], or [b]Cadavre[/b] is a French 2D illustrator and animator working toward making 3D as well.
+
+Their main gallery is on their "twitter account":https://www.twitter.com/Cadavren but you can find good examples of their work on their "website":https://cadavren.weebly.com/. Their "TOS":https://cadavren.weebly.com/tos.html and "commission info":https://cadavren.weebly.com/commissions.html can be found there as well.
+You can follow their work progress on their "Trello":https://trello.com/b/RIFjdzYd/enfr-commission-infos.
+They sometimes stream on "Twitch":https://twitch.tv/cadavren. Expect French language though.
+
+
+h4.Links
+* "Website":https://cadavren.weebly.com/
+* "Twitter":https://www.twitter.com/Cadavren
+* "Patreon":https://www.patreon.com/cadavren
+* "Ko-fi":https://ko-fi.com/cadavren
+* "Telegram":https://t.me/cadavrenn
+* "Twitch":https://twitch.tv/cadavren
+* "Trello":https://trello.com/b/RIFjdzYd/enfr-commission-infos.');

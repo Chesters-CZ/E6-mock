@@ -94,7 +94,13 @@
  - generate post score
  - generate user password hashes, assign roles
 
- 
+---
+
+# Stuff I forgor 💀
+
+## Step 16 - tag_implication_final
+
+ - extract only tag implications mentioning valid tags
 
 ---
 
@@ -106,3 +112,4 @@
  - postgresql supports some pseudo-csv format for data import.
    - insert script could be smaller if that format is used
    - dump postgre dbs into file, then use that file as the insert script
+     - pg dump
