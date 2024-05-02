@@ -4,7 +4,7 @@ import sys
 import time
 import winsound
 
-pool_count = 500
+pool_count = 5
 
 maxInt = sys.maxsize
 

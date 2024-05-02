@@ -6,7 +6,7 @@ import winsound
 
 maxInt = sys.maxsize
 
-wiki_count = 1000
+wiki_count = 10
 
 print("Increasing csv field size limit...")
 while True:

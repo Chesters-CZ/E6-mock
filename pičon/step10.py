@@ -111,6 +111,8 @@ with open("D:\\velký dbs fily\\step10\\users.csv", mode="a", encoding="utf-8", 
     users_writer = csv.writer(users_out)
 
     linecount = (user_ids_to_be_scraped.__len__() / 1000).__floor__()
+    if linecount == 0:
+        linecount = 1
     for i, user in enumerate(user_ids_to_be_scraped):
         start_time = time.time()
         print(

@@ -43,6 +43,8 @@ def dump_database(dbs: list, header: list, filename: str):
         writer.writerow(header)
 
         arrlen = (dbs.__len__() / 1000).__floor__()
+        if arrlen == 0:
+            arrlen = 1
         for i, row in enumerate(dbs):
             if i % arrlen == 0:
                 print("\r" + (i / arrlen / 10).__str__() + "%", end="")
@@ -56,6 +58,8 @@ def dump_single_column_database(dbs: list, header: list, filename: str):
         writer.writerow(header)
 
         arrlen = (dbs.__len__() / 1000).__floor__()
+        if arrlen == 0:
+            arrlen = 1
         for i, row in enumerate(dbs):
             if i % arrlen == 0:
                 print("\r" + (i / arrlen / 10).__str__() + "%", end="")
@@ -65,7 +69,7 @@ def dump_single_column_database(dbs: list, header: list, filename: str):
 
 maxInt = sys.maxsize
 
-post_count = 5000
+post_count = 50
 
 print("Increasing csv field size limit...")
 while True:
@@ -99,6 +103,8 @@ load_csv("step1\\post_parents.csv", discard, post_parents, True)
 
 linecount = (pool_posts.__len__() / 1000).__floor__()
 print("Picking posts from pool_posts...")
+if linecount == 0:
+    linecount = 1
 for i, row in enumerate(pool_posts):
     if i % linecount == 0:
         print("\r" + (i / linecount / 10).__str__() + "%", end="")
@@ -115,6 +121,8 @@ print("\nDone!\n")
 del pool_posts
 
 linecount = (wiki_examples.__len__() / 100).__floor__()
+if linecount == 0:
+    linecount = 1
 print("Picking posts from wiki_examples...")
 for i, row in enumerate(wiki_examples):
     if i % linecount == 0:
@@ -134,6 +142,8 @@ del wiki_examples
 print("Adding random posts...")
 random_posts = random.sample(posts, post_count)
 linecount = (random_posts.__len__() / 1000).__floor__()
+if linecount == 0:
+    linecount = 1
 for i, row in enumerate(random_posts):
     if i % linecount == 0:
         print("\r" + (i / linecount / 10).__str__() + "%", end="")
@@ -148,6 +158,8 @@ del random_posts
 
 print("Adding posts' parents...")
 linecount = (chosen_posts.__len__() / 1000).__floor__()
+if linecount == 0:
+    linecount = 1
 pass_count = 1
 while True:
     found_new = False

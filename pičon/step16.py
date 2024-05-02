@@ -40,6 +40,8 @@ def dump_database(dbs: list, header: list, filename: str):
         writer.writerow(header)
 
         arrlen = (dbs.__len__() / 1000).__floor__()
+        if arrlen == 0:
+            arrlen = 1
         for i, row in enumerate(dbs):
             if i % arrlen == 0:
                 print("\r" + (i / arrlen / 10).__str__() + "%", end="")
@@ -53,6 +55,8 @@ def dump_single_column_database(dbs: list, header: list, filename: str):
         writer.writerow(header)
 
         arrlen = (dbs.__len__() / 1000).__floor__()
+        if arrlen == 0:
+            arrlen = 1
         for i, row in enumerate(dbs):
             if i % arrlen == 0:
                 print("\r" + (i / arrlen / 10).__str__() + "%", end="")
@@ -91,6 +95,8 @@ tag_implications = []
 
 print("Extracting valid implications...")
 linecount = (tag_implications_raw.__len__() / 1000).__floor__()
+if linecount == 0:
+    linecount = 1
 for i, implication in enumerate(tag_implications_raw):
     if i % linecount == 0:
         print("\r" + (i / linecount / 10).__str__() + "%", end="")

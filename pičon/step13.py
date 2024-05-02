@@ -40,6 +40,8 @@ def dump_database(dbs: list, header: list, filename: str):
         writer.writerow(header)
 
         arrlen = (dbs.__len__() / 1000).__floor__()
+        if arrlen == 0:
+            arrlen = 1
         for i, row in enumerate(dbs):
             if i % arrlen == 0:
                 print("\r" + (i / arrlen / 10).__str__() + "%", end="")
@@ -53,6 +55,8 @@ def dump_single_column_database(dbs: list, header: list, filename: str):
         writer.writerow(header)
 
         arrlen = (dbs.__len__() / 1000).__floor__()
+        if arrlen == 0:
+            arrlen = 1
         for i, row in enumerate(dbs):
             if i % arrlen == 0:
                 print("\r" + (i / arrlen / 10).__str__() + "%", end="")
