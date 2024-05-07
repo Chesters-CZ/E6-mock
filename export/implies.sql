@@ -1,4 +1,4 @@
-insert into public.implies (tag, implies)
+insert into implies (tag, implies)
 values  ('fox', 'canine'),
         ('big_balls', 'balls'),
         ('big_breasts', 'breasts'),
