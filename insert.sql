@@ -34107,4 +34107,10 @@ values (244704, 87813, false),
        (154181, 25802, false),
        (253649, 25802, false);
 
+-- no inner selects in with clause, number predefined based on max ids
+ALTER SEQUENCE pool_id_seq RESTART WITH 374101;
+ALTER SEQUENCE post_id_seq RESTART WITH 4486650;
+ALTER SEQUENCE text_post_id_seq RESTART WITH 126579;
+ALTER SEQUENCE user_id_seq RESTART WITH 1828879;
+
 commit;

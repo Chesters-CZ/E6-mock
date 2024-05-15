@@ -48,14 +48,14 @@ create table is_tagged
 
 create table pool
 (
-    id          integer unique not null,
+    id          serial unique not null,
     name        text           not null,
     description text
 );
 
 create table post
 (
-    id          integer unique              not null,
+    id          serial unique              not null,
     file        text unique                 not null,
     upload_date timestamp without time zone not null,
     uploader    integer                     not null,
@@ -84,7 +84,7 @@ create table tag
 
 create table text_post
 (
-    id      integer not null,
+    id      serial not null,
     "user"  integer not null,
     content text    not null,
     post    integer
@@ -99,7 +99,7 @@ create table text_post_score
 
 create table "user"
 (
-    id            integer     not null,
+    id            serial     not null,
     username      text unique not null,
     password_hash text        not null,
     role          text        not null default 'Member'
