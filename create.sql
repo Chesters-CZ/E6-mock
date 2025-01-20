@@ -142,31 +142,31 @@ alter table wiki
     add constraint wi_pk primary key (tag);
 
 alter table blacklisted
-    add constraint bl_fk_tag FOREIGN KEY (tag) references tag (name) on delete restrict DEFERRABLE;
+    add constraint bl_fk_tag FOREIGN KEY (tag) references tag (name) on delete cascade DEFERRABLE;
 alter table blacklisted
-    add constraint bl_fk_user foreign key ("user") references "user" (id) on delete restrict DEFERRABLE;
+    add constraint bl_fk_user foreign key ("user") references "user" (id) on delete cascade DEFERRABLE;
 
 alter table favorited
-    add constraint fa_fk_user foreign key ("user") references "user" (id) on delete restrict DEFERRABLE;
+    add constraint fa_fk_user foreign key ("user") references "user" (id) on delete cascade DEFERRABLE;
 alter table favorited
-    add constraint fa_fk_post foreign key (post) references post (id) on delete restrict DEFERRABLE;
+    add constraint fa_fk_post foreign key (post) references post (id) on delete cascade DEFERRABLE;
 
 alter table implies
-    add constraint im_fk_tag foreign key (tag) references tag (name) on delete restrict DEFERRABLE;
+    add constraint im_fk_tag foreign key (tag) references tag (name) on delete cascade DEFERRABLE;
 alter table implies
-    add constraint im_fk_implies foreign key (implies) references tag (name) on delete restrict DEFERRABLE;
+    add constraint im_fk_implies foreign key (implies) references tag (name) on delete cascade DEFERRABLE;
 
 alter table in_pool
-    add constraint ip_fk_pool foreign key (pool) references pool (id) on delete restrict DEFERRABLE;
+    add constraint ip_fk_pool foreign key (pool) references pool (id) on delete cascade DEFERRABLE;
 alter table in_pool
-    add constraint ip_fk_post foreign key (post) references post (id) on delete restrict DEFERRABLE;
+    add constraint ip_fk_post foreign key (post) references post (id) on delete cascade DEFERRABLE;
 alter table in_pool
     add constraint ip_uq_pool_order unique (pool, order_in_pool) ;
 
 alter table is_tagged
-    add constraint it_fk_post foreign key (post) references post (id) on delete restrict DEFERRABLE;
+    add constraint it_fk_post foreign key (post) references post (id) on delete cascade DEFERRABLE;
 alter table is_tagged
-    add constraint it_fk_tag foreign key (tag) references tag (name) on delete restrict DEFERRABLE;
+    add constraint it_fk_tag foreign key (tag) references tag (name) on delete cascade DEFERRABLE;
 
 -- IC8: post can only be an example of existing wikis
     CREATE OR REPLACE FUNCTION ic8_func() RETURNS TRIGGER AS
@@ -190,11 +190,11 @@ EXECUTE FUNCTION ic8_func();
 -- pool needs no other constraints
 
 alter table post
-    add constraint po_fk_uploader foreign key (uploader) references "user" (id) on delete restrict DEFERRABLE;
+    add constraint po_fk_uploader foreign key (uploader) references "user" (id) on delete cascade DEFERRABLE;
 alter table post
-    add constraint po_fk_verified_by foreign key (verified_by) references "user" (id) on delete restrict DEFERRABLE;
+    add constraint po_fk_verified_by foreign key (verified_by) references "user" (id) on delete cascade DEFERRABLE;
 alter table post
-    add constraint po_fk_parent foreign key (parent) references post (id) on delete restrict DEFERRABLE;
+    add constraint po_fk_parent foreign key (parent) references post (id) on delete cascade DEFERRABLE;
 alter table post
     add constraint ic3 check ( parent != id );
 
@@ -223,25 +223,30 @@ EXECUTE FUNCTION ic6_func();
 
 
 alter table post_score
-    add constraint ps_fk_user foreign key ("user") references "user" (id) on delete restrict DEFERRABLE;
+    add constraint ps_fk_user foreign key ("user") references "user" (id) on delete cascade DEFERRABLE;
 alter table post_score
-    add constraint ps_fk_post foreign key (post) references post (id) on delete restrict DEFERRABLE;
+    add constraint ps_fk_post foreign key (post) references post (id) on delete cascade DEFERRABLE;
 
 -- role needs no other constraints
 
 alter table text_post
-    add constraint tp_fk_user foreign key ("user") references "user" (id) on delete restrict DEFERRABLE;
+    add constraint tp_fk_user foreign key ("user") references "user" (id) on delete cascade DEFERRABLE;
 alter table text_post
-    add constraint tp_fk_post foreign key (post) references post (id) on delete restrict DEFERRABLE;
+    add constraint tp_fk_post foreign key (post) references post (id) on delete cascade DEFERRABLE;
 
 
 alter table text_post_score
-    add constraint ts_fk_user foreign key ("user") references "user" (id) on delete restrict DEFERRABLE;
+    add constraint ts_fk_user foreign key ("user") references "user" (id) on delete cascade DEFERRABLE;
 alter table text_post_score
-    add constraint ts_fk_text_post foreign key (text_post) references text_post (id) on delete restrict DEFERRABLE;
+    add constraint ts_fk_text_post foreign key (text_post) references text_post (id) on delete cascade DEFERRABLE;
 
 alter table "user"
-    add constraint us_fk_role foreign key (role) references role (name) on delete restrict DEFERRABLE;
+    add constraint us_fk_role foreign key (role) references role (name) on delete cascade DEFERRABLE;
 
 alter table wiki
-    add constraint wi_fk_tag foreign key (tag) references tag (name) on delete restrict DEFERRABLE;
+    add constraint wi_fk_tag foreign key (tag) references tag (name) on delete cascade DEFERRABLE;
+
+create or replace view post_e9 as
+select *
+from post
+where id not in (select id from post where rating like 'e' or rating like 'q');

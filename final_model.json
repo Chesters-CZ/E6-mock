@@ -1,0 +1,1604 @@
+{
+  "entities": [
+    {
+      "name": "Blacklisted",
+      "parent": null,
+      "attr": [],
+      "transform": {
+        "x": -327,
+        "y": 506.078125,
+        "width": 114,
+        "height": 108
+      }
+    },
+    {
+      "name": "Blip",
+      "parent": "Text_post",
+      "attr": [],
+      "transform": {
+        "x": 10,
+        "y": 72.77152188316757,
+        "width": 160.71570424095034,
+        "height": 121
+      }
+    },
+    {
+      "name": "Blip_score",
+      "parent": null,
+      "attr": [
+        {
+          "name": "is_like",
+          "primary": false,
+          "unique": false,
+          "nullable": false,
+          "type": null
+        }
+      ],
+      "transform": {
+        "x": -926.5293848308553,
+        "y": 590.8777337858223,
+        "width": 122.53846153846109,
+        "height": 75.80976621417767
+      }
+    },
+    {
+      "name": "Comment",
+      "parent": "Text_post",
+      "attr": [],
+      "transform": {
+        "x": 10.5,
+        "y": 204,
+        "width": 161.26061223706404,
+        "height": 138
+      }
+    },
+    {
+      "name": "Favorited",
+      "parent": null,
+      "attr": [],
+      "transform": {
+        "x": -966.0000000000001,
+        "y": 252.6875,
+        "width": 146,
+        "height": 131
+      }
+    },
+    {
+      "name": "Implies",
+      "parent": null,
+      "attr": [],
+      "transform": {
+        "x": 348.4483497960791,
+        "y": 32.9375,
+        "width": 195.96875,
+        "height": 130
+      }
+    },
+    {
+      "name": "In_pool",
+      "parent": null,
+      "attr": [
+        {
+          "name": "order_in_pool",
+          "primary": false,
+          "unique": false,
+          "nullable": false,
+          "type": null
+        }
+      ],
+      "transform": {
+        "x": -101,
+        "y": -202.921875,
+        "width": 173.77044677734375,
+        "height": 159.00231060059264
+      }
+    },
+    {
+      "name": "Is_tagged",
+      "parent": null,
+      "attr": [],
+      "transform": {
+        "x": 250,
+        "y": -190.921875,
+        "width": 174,
+        "height": 170
+      }
+    },
+    {
+      "name": "Pool",
+      "parent": null,
+      "attr": [
+        {
+          "name": "id",
+          "primary": true,
+          "unique": false,
+          "nullable": false,
+          "type": null
+        },
+        {
+          "name": "name",
+          "primary": false,
+          "unique": false,
+          "nullable": false,
+          "type": null
+        },
+        {
+          "name": "description",
+          "primary": false,
+          "unique": false,
+          "nullable": true,
+          "type": null
+        }
+      ],
+      "transform": {
+        "x": -341,
+        "y": -283.921875,
+        "width": 145.34857177734375,
+        "height": 148.53747906073252
+      }
+    },
+    {
+      "name": "Post",
+      "parent": null,
+      "attr": [
+        {
+          "name": "id",
+          "primary": true,
+          "unique": false,
+          "nullable": false,
+          "type": null
+        },
+        {
+          "name": "file",
+          "primary": false,
+          "unique": true,
+          "nullable": false,
+          "type": null
+        },
+        {
+          "name": "upload_date",
+          "primary": false,
+          "unique": false,
+          "nullable": false,
+          "type": null
+        },
+        {
+          "name": "rating",
+          "primary": false,
+          "unique": false,
+          "nullable": false,
+          "type": null
+        }
+      ],
+      "transform": {
+        "x": -97,
+        "y": 45.46875,
+        "width": 228,
+        "height": 363
+      }
+    },
+    {
+      "name": "Post_score",
+      "parent": null,
+      "attr": [
+        {
+          "name": "is_like",
+          "primary": false,
+          "unique": false,
+          "nullable": false,
+          "type": null
+        }
+      ],
+      "transform": {
+        "x": -415.7601540616263,
+        "y": 280.1085030165916,
+        "width": 135.38461538461536,
+        "height": 105.80001831054688
+      }
+    },
+    {
+      "name": "Role",
+      "parent": null,
+      "attr": [
+        {
+          "name": "name",
+          "primary": true,
+          "unique": false,
+          "nullable": false,
+          "type": null
+        },
+        {
+          "name": "can_verify",
+          "primary": false,
+          "unique": false,
+          "nullable": false,
+          "type": null
+        }
+      ],
+      "transform": {
+        "x": -682.9909232923942,
+        "y": 20.6875,
+        "width": 155,
+        "height": 124
+      }
+    },
+    {
+      "name": "Tag",
+      "parent": null,
+      "attr": [
+        {
+          "name": "name",
+          "primary": true,
+          "unique": false,
+          "nullable": false,
+          "type": null
+        }
+      ],
+      "transform": {
+        "x": 682,
+        "y": 45.46875,
+        "width": 123.3328857421875,
+        "height": 132
+      }
+    },
+    {
+      "name": "Text_post",
+      "parent": null,
+      "attr": [
+        {
+          "name": "id",
+          "primary": true,
+          "unique": false,
+          "nullable": false,
+          "type": null
+        },
+        {
+          "name": "content",
+          "primary": false,
+          "unique": false,
+          "nullable": false,
+          "type": null
+        }
+      ],
+      "transform": {
+        "x": -1134.9909232923942,
+        "y": 493.1854260935146,
+        "width": 198.5,
+        "height": 352
+      }
+    },
+    {
+      "name": "User",
+      "parent": null,
+      "attr": [
+        {
+          "name": "id",
+          "primary": true,
+          "unique": false,
+          "nullable": false,
+          "type": null
+        },
+        {
+          "name": "username",
+          "primary": false,
+          "unique": true,
+          "nullable": false,
+          "type": null
+        },
+        {
+          "name": "password_hash",
+          "primary": false,
+          "unique": false,
+          "nullable": false,
+          "type": null
+        }
+      ],
+      "transform": {
+        "x": -675,
+        "y": 257.078125,
+        "width": 145,
+        "height": 119
+      }
+    },
+    {
+      "name": "Wiki",
+      "parent": null,
+      "attr": [
+        {
+          "name": "content",
+          "primary": false,
+          "unique": false,
+          "nullable": false,
+          "type": null
+        }
+      ],
+      "transform": {
+        "x": 374,
+        "y": 266.078125,
+        "width": 139,
+        "height": 136
+      }
+    }
+  ],
+  "relations": [
+    [
+      {
+        "entity": "Pool",
+        "identifying": false,
+        "optional": true,
+        "cardinality": 1,
+        "xor": null,
+        "name": "consists of ->",
+        "transform": {
+          "anchor": {
+            "x": -195.65142822265625,
+            "y": -188.921875,
+            "edge": 1
+          },
+          "points": [
+            {
+              "x": -126.14013151763208,
+              "y": -188.921875
+            },
+            {
+              "x": -126.14013151763208,
+              "y": -174.7654273065908
+            },
+            {
+              "x": -126.14013151763208,
+              "y": -151.5936511532954
+            }
+          ],
+          "manual": true
+        }
+      },
+      {
+        "entity": "In_pool",
+        "identifying": true,
+        "optional": false,
+        "cardinality": 0,
+        "xor": null,
+        "name": null,
+        "transform": {
+          "anchor": {
+            "x": -101,
+            "y": -128.421875,
+            "edge": 3
+          },
+          "points": [
+            {
+              "x": -126.14013151763208,
+              "y": -128.421875
+            },
+            {
+              "x": -126.14013151763208,
+              "y": -151.5936511532954
+            }
+          ],
+          "manual": true
+        }
+      }
+    ],
+    [
+      {
+        "entity": "Post_score",
+        "identifying": true,
+        "optional": false,
+        "cardinality": 0,
+        "xor": null,
+        "name": null,
+        "transform": {
+          "anchor": {
+            "x": -280.3755386770109,
+            "y": 333.00851217186505,
+            "edge": 1
+          },
+          "points": [
+            {
+              "x": -188.68776933850546,
+              "y": 333.00889857079545
+            }
+          ],
+          "manual": false
+        }
+      },
+      {
+        "entity": "Post",
+        "identifying": false,
+        "optional": true,
+        "cardinality": 1,
+        "xor": null,
+        "name": "<- is rated by",
+        "transform": {
+          "anchor": {
+            "x": -97,
+            "y": 333.00928496972585,
+            "edge": 3
+          },
+          "points": [
+            {
+              "x": -188.68776933850546,
+              "y": 333.00889857079545
+            }
+          ],
+          "manual": false
+        }
+      }
+    ],
+    [
+      {
+        "entity": "Post",
+        "identifying": false,
+        "optional": false,
+        "cardinality": 1,
+        "xor": null,
+        "name": "is tagged (described) by ->",
+        "transform": {
+          "anchor": {
+            "x": 131,
+            "y": 141.21875,
+            "edge": 1
+          },
+          "points": [
+            {
+              "x": 271.0090767076058,
+              "y": 141.21875
+            }
+          ],
+          "manual": false
+        }
+      },
+      {
+        "entity": "Is_tagged",
+        "identifying": true,
+        "optional": false,
+        "cardinality": 0,
+        "xor": null,
+        "name": null,
+        "transform": {
+          "anchor": {
+            "x": 271.0090767076058,
+            "y": -20.921875,
+            "edge": 2
+          },
+          "points": [
+            {
+              "x": 271.0090767076058,
+              "y": 141.21875
+            }
+          ],
+          "manual": false
+        }
+      }
+    ],
+    [
+      {
+        "entity": "Post",
+        "identifying": false,
+        "optional": true,
+        "cardinality": 0,
+        "xor": null,
+        "name": "<- is child of",
+        "transform": {
+          "anchor": {
+            "x": -97,
+            "y": 103.6875,
+            "edge": 3
+          },
+          "points": [
+            {
+              "x": -271.9909232923942,
+              "y": 103.6875
+            },
+            {
+              "x": -271.9909232923942,
+              "y": 127.078125
+            }
+          ],
+          "manual": true
+        }
+      },
+      {
+        "entity": "Post",
+        "identifying": false,
+        "optional": false,
+        "cardinality": 1,
+        "xor": null,
+        "name": "<- is parent of",
+        "transform": {
+          "anchor": {
+            "x": -97,
+            "y": 127.078125,
+            "edge": 3
+          },
+          "points": [
+            {
+              "x": -271.9909232923942,
+              "y": 127.078125
+            }
+          ],
+          "manual": false
+        }
+      }
+    ],
+    [
+      {
+        "entity": "Post",
+        "identifying": false,
+        "optional": true,
+        "cardinality": 1,
+        "xor": null,
+        "name": "<- is in pool",
+        "transform": {
+          "anchor": {
+            "x": -45.982449764088415,
+            "y": 45.46875,
+            "edge": 0
+          },
+          "points": [
+            {
+              "x": -45.99122488204421,
+              "y": 15.37392765885869
+            }
+          ],
+          "manual": false
+        }
+      },
+      {
+        "entity": "In_pool",
+        "identifying": true,
+        "optional": false,
+        "cardinality": 0,
+        "xor": null,
+        "name": null,
+        "transform": {
+          "anchor": {
+            "x": -46,
+            "y": -43.91956439940736,
+            "edge": 2
+          },
+          "points": [
+            {
+              "x": -46,
+              "y": -3.720894682282619
+            },
+            {
+              "x": -45.99122488204421,
+              "y": 15.37392765885869
+            }
+          ],
+          "manual": true
+        }
+      }
+    ],
+    [
+      {
+        "entity": "Post",
+        "identifying": false,
+        "optional": true,
+        "cardinality": 1,
+        "xor": null,
+        "name": "<- is one of the favorites of",
+        "transform": {
+          "anchor": {
+            "x": -97,
+            "y": 198.6875,
+            "edge": 3
+          },
+          "points": [
+            {
+              "x": -770.8471158942187,
+              "y": 198.6875
+            }
+          ],
+          "manual": false
+        }
+      },
+      {
+        "entity": "Favorited",
+        "identifying": true,
+        "optional": false,
+        "cardinality": 0,
+        "xor": null,
+        "name": null,
+        "transform": {
+          "anchor": {
+            "x": -820.0000000000001,
+            "y": 263.41894257703086,
+            "edge": 1
+          },
+          "points": [
+            {
+              "x": -770.8471158942187,
+              "y": 263.41894257703086
+            },
+            {
+              "x": -770.8471158942187,
+              "y": 198.6875
+            }
+          ],
+          "manual": true
+        }
+      }
+    ],
+    [
+      {
+        "entity": "Post",
+        "identifying": false,
+        "optional": true,
+        "cardinality": 1,
+        "xor": null,
+        "name": null,
+        "transform": {
+          "anchor": {
+            "x": -71,
+            "y": 408.46875,
+            "edge": 2
+          },
+          "points": [
+            {
+              "x": -71,
+              "y": 766.1854260935146
+            }
+          ],
+          "manual": false
+        }
+      },
+      {
+        "entity": "Comment",
+        "identifying": false,
+        "optional": false,
+        "cardinality": 0,
+        "xor": null,
+        "name": "commenting post ->",
+        "transform": {
+          "anchor": {
+            "x": -963.2303110553302,
+            "y": 766.1854260935146,
+            "edge": 1
+          },
+          "points": [
+            {
+              "x": -868.1436834089839,
+              "y": 766.1854260935146
+            },
+            {
+              "x": -71,
+              "y": 766.1854260935146
+            }
+          ],
+          "manual": true
+        }
+      }
+    ],
+    [
+      {
+        "entity": "Tag",
+        "identifying": false,
+        "optional": true,
+        "cardinality": 1,
+        "xor": null,
+        "name": "<- tags (describes)",
+        "transform": {
+          "anchor": {
+            "x": 682,
+            "y": 83.46875,
+            "edge": 3
+          },
+          "points": [
+            {
+              "x": 563,
+              "y": 83.46875
+            }
+          ],
+          "manual": false
+        }
+      },
+      {
+        "entity": "Is_tagged",
+        "identifying": true,
+        "optional": false,
+        "cardinality": 0,
+        "xor": null,
+        "name": null,
+        "transform": {
+          "anchor": {
+            "x": 424,
+            "y": -105.921875,
+            "edge": 1
+          },
+          "points": [
+            {
+              "x": 563,
+              "y": -105.921875
+            },
+            {
+              "x": 563,
+              "y": 83.46875
+            }
+          ],
+          "manual": true
+        }
+      }
+    ],
+    [
+      {
+        "entity": "Tag",
+        "identifying": false,
+        "optional": true,
+        "cardinality": 1,
+        "xor": null,
+        "name": "is blacklisted by ->",
+        "transform": {
+          "anchor": {
+            "x": 805.3328857421875,
+            "y": 156.6875,
+            "edge": 1
+          },
+          "points": [
+            {
+              "x": 957,
+              "y": 156.6875
+            },
+            {
+              "x": 957,
+              "y": 601.6875
+            }
+          ],
+          "manual": true
+        }
+      },
+      {
+        "entity": "Blacklisted",
+        "identifying": true,
+        "optional": false,
+        "cardinality": 0,
+        "xor": null,
+        "name": null,
+        "transform": {
+          "anchor": {
+            "x": -213,
+            "y": 601.6875,
+            "edge": 1
+          },
+          "points": [
+            {
+              "x": 957,
+              "y": 601.6875
+            }
+          ],
+          "manual": false
+        }
+      }
+    ],
+    [
+      {
+        "entity": "Tag",
+        "identifying": false,
+        "optional": true,
+        "cardinality": 1,
+        "xor": null,
+        "name": null,
+        "transform": {
+          "anchor": {
+            "x": 682,
+            "y": 111.46875,
+            "edge": 3
+          },
+          "points": [
+            {
+              "x": 613.2085498980396,
+              "y": 111.525146484375
+            }
+          ],
+          "manual": false
+        }
+      },
+      {
+        "entity": "Implies",
+        "identifying": true,
+        "optional": false,
+        "cardinality": 0,
+        "xor": null,
+        "name": "<- tag implies",
+        "transform": {
+          "anchor": {
+            "x": 544.4170997960791,
+            "y": 111.58154296875,
+            "edge": 1
+          },
+          "points": [
+            {
+              "x": 613.2085498980396,
+              "y": 111.525146484375
+            }
+          ],
+          "manual": false
+        }
+      }
+    ],
+    [
+      {
+        "entity": "Tag",
+        "identifying": false,
+        "optional": true,
+        "cardinality": 1,
+        "xor": null,
+        "name": null,
+        "transform": {
+          "anchor": {
+            "x": 682,
+            "y": 139.46875,
+            "edge": 3
+          },
+          "points": [
+            {
+              "x": 613.2085498980396,
+              "y": 139.46950912475586
+            }
+          ],
+          "manual": false
+        }
+      },
+      {
+        "entity": "Implies",
+        "identifying": true,
+        "optional": false,
+        "cardinality": 0,
+        "xor": null,
+        "name": "<- tag is implied by",
+        "transform": {
+          "anchor": {
+            "x": 544.4170997960791,
+            "y": 139.47026824951172,
+            "edge": 1
+          },
+          "points": [
+            {
+              "x": 613.2085498980396,
+              "y": 139.46950912475586
+            }
+          ],
+          "manual": false
+        }
+      }
+    ],
+    [
+      {
+        "entity": "Text_post",
+        "identifying": false,
+        "optional": true,
+        "cardinality": 1,
+        "xor": null,
+        "name": "has been rated by ->",
+        "transform": {
+          "anchor": {
+            "x": -936.4909232923942,
+            "y": 724.9931184012069,
+            "edge": 1
+          },
+          "points": [
+            {
+              "x": -870.5061357237746,
+              "y": 724.9931184012069
+            }
+          ],
+          "manual": false
+        }
+      },
+      {
+        "entity": "Blip_score",
+        "identifying": true,
+        "optional": false,
+        "cardinality": 0,
+        "xor": null,
+        "name": null,
+        "transform": {
+          "anchor": {
+            "x": -870.5061357237746,
+            "y": 666.6875,
+            "edge": 2
+          },
+          "points": [
+            {
+              "x": -870.5061357237746,
+              "y": 724.9931184012069
+            }
+          ],
+          "manual": false
+        }
+      }
+    ],
+    [
+      {
+        "entity": "User",
+        "identifying": false,
+        "optional": true,
+        "cardinality": 0,
+        "xor": null,
+        "name": "<- has posted",
+        "transform": {
+          "anchor": {
+            "x": -675,
+            "y": 340.87773378582233,
+            "edge": 3
+          },
+          "points": [
+            {
+              "x": -745.1108462615815,
+              "y": 340.88536051064085
+            }
+          ],
+          "manual": false
+        }
+      },
+      {
+        "entity": "Text_post",
+        "identifying": false,
+        "optional": false,
+        "cardinality": 0,
+        "xor": null,
+        "name": "has been posted by ->",
+        "transform": {
+          "anchor": {
+            "x": -936.4909232923942,
+            "y": 507.80081070889923,
+            "edge": 1
+          },
+          "points": [
+            {
+              "x": -821.1447694462399,
+              "y": 507.80081070889923
+            },
+            {
+              "x": -804.221692523163,
+              "y": 507.80081070889923
+            },
+            {
+              "x": -804.221692523163,
+              "y": 340.8929872354594
+            },
+            {
+              "x": -745.1108462615815,
+              "y": 340.88536051064085
+            }
+          ],
+          "manual": true
+        }
+      }
+    ],
+    [
+      {
+        "entity": "User",
+        "identifying": false,
+        "optional": true,
+        "cardinality": 0,
+        "xor": null,
+        "name": null,
+        "transform": {
+          "anchor": {
+            "x": -613.9515056022414,
+            "y": 257.078125,
+            "edge": 0
+          },
+          "points": [
+            {
+              "x": -613.9398638399175,
+              "y": 200.8828125
+            }
+          ],
+          "manual": false
+        }
+      },
+      {
+        "entity": "Role",
+        "identifying": false,
+        "optional": false,
+        "cardinality": 1,
+        "xor": null,
+        "name": null,
+        "transform": {
+          "anchor": {
+            "x": -613.9282220775935,
+            "y": 144.6875,
+            "edge": 2
+          },
+          "points": [
+            {
+              "x": -613.9398638399175,
+              "y": 200.8828125
+            }
+          ],
+          "manual": false
+        }
+      }
+    ],
+    [
+      {
+        "entity": "User",
+        "identifying": false,
+        "optional": true,
+        "cardinality": 1,
+        "xor": null,
+        "name": "<- has favorited",
+        "transform": {
+          "anchor": {
+            "x": -675,
+            "y": 319.0439425770308,
+            "edge": 3
+          },
+          "points": [
+            {
+              "x": -747.5,
+              "y": 319.0585910145308
+            }
+          ],
+          "manual": false
+        }
+      },
+      {
+        "entity": "Favorited",
+        "identifying": true,
+        "optional": false,
+        "cardinality": 0,
+        "xor": null,
+        "name": null,
+        "transform": {
+          "anchor": {
+            "x": -820.0000000000001,
+            "y": 319.0732394520308,
+            "edge": 1
+          },
+          "points": [
+            {
+              "x": -747.5,
+              "y": 319.0585910145308
+            }
+          ],
+          "manual": false
+        }
+      }
+    ],
+    [
+      {
+        "entity": "User",
+        "identifying": false,
+        "optional": true,
+        "cardinality": 1,
+        "xor": null,
+        "name": "<- has rated blip",
+        "transform": {
+          "anchor": {
+            "x": -675,
+            "y": 365.49311840120686,
+            "edge": 3
+          },
+          "points": [
+            {
+              "x": -743.4524617539322,
+              "y": 365.49311840120686
+            }
+          ],
+          "manual": false
+        }
+      },
+      {
+        "entity": "Blip_score",
+        "identifying": true,
+        "optional": false,
+        "cardinality": 0,
+        "xor": null,
+        "name": null,
+        "transform": {
+          "anchor": {
+            "x": -803.9909232923942,
+            "y": 613.9546568627452,
+            "edge": 1
+          },
+          "points": [
+            {
+              "x": -782.0611640446749,
+              "y": 612.9053992271301
+            },
+            {
+              "x": -743.4524617539322,
+              "y": 613.9546568627452
+            },
+            {
+              "x": -743.4524617539322,
+              "y": 365.49311840120686
+            }
+          ],
+          "manual": true
+        }
+      }
+    ],
+    [
+      {
+        "entity": "User",
+        "identifying": false,
+        "optional": true,
+        "cardinality": 1,
+        "xor": null,
+        "name": "has rated->",
+        "transform": {
+          "anchor": {
+            "x": -530,
+            "y": 333.0085121101398,
+            "edge": 1
+          },
+          "points": [
+            {
+              "x": -472.88007703081314,
+              "y": 333.0085121410024
+            }
+          ],
+          "manual": false
+        }
+      },
+      {
+        "entity": "Post_score",
+        "identifying": true,
+        "optional": false,
+        "cardinality": 0,
+        "xor": null,
+        "name": null,
+        "transform": {
+          "anchor": {
+            "x": -415.7601540616263,
+            "y": 333.00851217186505,
+            "edge": 3
+          },
+          "points": [
+            {
+              "x": -472.88007703081314,
+              "y": 333.0085121410024
+            }
+          ],
+          "manual": false
+        }
+      }
+    ],
+    [
+      {
+        "entity": "User",
+        "identifying": false,
+        "optional": true,
+        "cardinality": 1,
+        "xor": null,
+        "name": "has verified ->",
+        "transform": {
+          "anchor": {
+            "x": -562.9030112044827,
+            "y": 257.078125,
+            "edge": 0
+          },
+          "points": [
+            {
+              "x": -562.9030112044827,
+              "y": 211.2017407441561
+            }
+          ],
+          "manual": false
+        }
+      },
+      {
+        "entity": "Post",
+        "identifying": false,
+        "optional": true,
+        "cardinality": 0,
+        "xor": null,
+        "name": "<- has been verified by",
+        "transform": {
+          "anchor": {
+            "x": -97,
+            "y": 214.078125,
+            "edge": 3
+          },
+          "points": [
+            {
+              "x": -116.80098037051482,
+              "y": 211.2017407441561
+            },
+            {
+              "x": -562.9030112044827,
+              "y": 211.2017407441561
+            }
+          ],
+          "manual": true
+        }
+      }
+    ],
+    [
+      {
+        "entity": "User",
+        "identifying": false,
+        "optional": true,
+        "cardinality": 1,
+        "xor": null,
+        "name": "uploaded->",
+        "transform": {
+          "anchor": {
+            "x": -530,
+            "y": 263.21530142818847,
+            "edge": 1
+          },
+          "points": [
+            {
+              "x": -346.5,
+              "y": 263.09104915159423
+            }
+          ],
+          "manual": false
+        }
+      },
+      {
+        "entity": "Post",
+        "identifying": false,
+        "optional": false,
+        "cardinality": 0,
+        "xor": null,
+        "name": "<- has been uploaded by",
+        "transform": {
+          "anchor": {
+            "x": -97,
+            "y": 262.966796875,
+            "edge": 3
+          },
+          "points": [
+            {
+              "x": -150,
+              "y": 262.966796875
+            },
+            {
+              "x": -174,
+              "y": 262.966796875
+            },
+            {
+              "x": -346.5,
+              "y": 263.09104915159423
+            }
+          ],
+          "manual": true
+        }
+      }
+    ],
+    [
+      {
+        "entity": "User",
+        "identifying": false,
+        "optional": true,
+        "cardinality": 1,
+        "xor": null,
+        "name": null,
+        "transform": {
+          "anchor": {
+            "x": -641.9140002154714,
+            "y": 376.078125,
+            "edge": 2
+          },
+          "points": [
+            {
+              "x": -641.9140002154714,
+              "y": 601.646964555053
+            }
+          ],
+          "manual": false
+        }
+      },
+      {
+        "entity": "Blacklisted",
+        "identifying": true,
+        "optional": false,
+        "cardinality": 0,
+        "xor": null,
+        "name": "does not want to see ->",
+        "transform": {
+          "anchor": {
+            "x": -327,
+            "y": 601.646964555053,
+            "edge": 3
+          },
+          "points": [
+            {
+              "x": -641.9140002154714,
+              "y": 601.646964555053
+            }
+          ],
+          "manual": false
+        }
+      }
+    ],
+    [
+      {
+        "entity": "Wiki",
+        "identifying": false,
+        "optional": true,
+        "cardinality": 1,
+        "xor": null,
+        "name": "<- gives an example",
+        "transform": {
+          "anchor": {
+            "x": 374,
+            "y": 300.6875,
+            "edge": 3
+          },
+          "points": [
+            {
+              "x": 288.0090767076058,
+              "y": 300.6875
+            }
+          ],
+          "manual": false
+        }
+      },
+      {
+        "entity": "Is_tagged",
+        "identifying": false,
+        "optional": true,
+        "cardinality": 0,
+        "xor": null,
+        "name": "is example of ->",
+        "transform": {
+          "anchor": {
+            "x": 288.0090767076058,
+            "y": -20.921875,
+            "edge": 2
+          },
+          "points": [
+            {
+              "x": 288.0090767076058,
+              "y": 300.6875
+            }
+          ],
+          "manual": false
+        }
+      }
+    ],
+    [
+      {
+        "entity": "Wiki",
+        "identifying": true,
+        "optional": false,
+        "cardinality": 1,
+        "xor": null,
+        "name": null,
+        "transform": {
+          "anchor": {
+            "x": 438.49338455087343,
+            "y": 266.078125,
+            "edge": 0
+          },
+          "points": [
+            {
+              "x": 438.49338455087343,
+              "y": 217.72166944614673
+            },
+            {
+              "x": 583.8406664679688,
+              "y": 217.72166944614673
+            }
+          ],
+          "manual": true
+        }
+      },
+      {
+        "entity": "Tag",
+        "identifying": false,
+        "optional": true,
+        "cardinality": 1,
+        "xor": null,
+        "name": "<- has a wiki page",
+        "transform": {
+          "anchor": {
+            "x": 729.1879483850643,
+            "y": 177.46875,
+            "edge": 2
+          },
+          "points": [
+            {
+              "x": 729.1879483850643,
+              "y": 217.72166944614673
+            },
+            {
+              "x": 583.8406664679688,
+              "y": 217.72166944614673
+            }
+          ],
+          "manual": true
+        }
+      }
+    ]
+  ],
+  "notes": [
+    {
+      "text": "IC1: Order of posts in a pool should not have gaps.",
+      "transform": {
+        "x": -96.27133746197723,
+        "y": -222.1908433216679,
+        "width": 204.171875,
+        "height": 19
+      }
+    },
+    {
+      "text": "IC4: A tag must not imply itself.",
+      "transform": {
+        "x": 366.1848002519072,
+        "y": 13.02258603350603,
+        "width": 131.703125,
+        "height": 19
+      }
+    },
+    {
+      "text": "IC5: A post can only be the example of wikis of tags it is tagged with",
+      "transform": {
+        "x": 661.6336994917953,
+        "y": 253.6545951470399,
+        "width": 271.34375,
+        "height": 19
+      }
+    },
+    {
+      "text": "IC3: A post must not be its own parent",
+      "transform": {
+        "x": 14.93310892369044,
+        "y": 27.470945253565247,
+        "width": 158.078125,
+        "height": 19
+      }
+    },
+    {
+      "text": "Post.id -&gt; Post_tags.post\nTags.name -&gt; Post_tags.tag\nis_example",
+      "transform": {
+        "x": 280.5401113891369,
+        "y": -156.53494387118624,
+        "width": 127.15625,
+        "height": 37
+      }
+    },
+    {
+      "text": "Tags.name -&gt; Tag_implications.tag\nTags.name -&gt; Tag_implications.implies",
+      "transform": {
+        "x": 362.8338027550227,
+        "y": 81.8784214743554,
+        "width": 167.453125,
+        "height": 28
+      }
+    },
+    {
+      "text": "Tags.name -&gt; Wikis.tag",
+      "transform": {
+        "x": 394.25630601123703,
+        "y": 315.25738981497653,
+        "width": 110.484375,
+        "height": 19
+      }
+    },
+    {
+      "text": "Wikis.tag -&gt; Wiki_examples.tag\nPosts.id -&gt; Wiki_examples.post",
+      "transform": {
+        "x": 690.5109238385181,
+        "y": 308.6739538632592,
+        "width": 141.3125,
+        "height": 28
+      }
+    },
+    {
+      "text": "Tag.name -&gt; Blacklist.tag\nUser.id -&gt; Blacklist.user",
+      "transform": {
+        "x": -322.81230517174765,
+        "y": 543.1371525519551,
+        "width": 117.71875,
+        "height": 28
+      }
+    },
+    {
+      "text": "Pools.id -&gt; Pool_posts.pool\nPosts.id -&gt; Pool_posts.post",
+      "transform": {
+        "x": -102.06237689970825,
+        "y": -111.93830155408415,
+        "width": 123.375,
+        "height": 28
+      }
+    },
+    {
+      "text": "Users.id -&gt; Post_score.user\nPosts.id -&gt; Post_score.post",
+      "transform": {
+        "x": -404.4481229746428,
+        "y": 335.7177294969392,
+        "width": 125.203125,
+        "height": 28
+      }
+    },
+    {
+      "text": "Users.id -&gt; Favorites.user\nPosts.id -&gt; Favorites.post",
+      "transform": {
+        "x": -943.6327878058141,
+        "y": 307.00136445725576,
+        "width": 118.5625,
+        "height": 28
+      }
+    },
+    {
+      "text": "Post.id -&gt; Comment.post",
+      "transform": {
+        "x": -1095.7914674053827,
+        "y": 739.3716168562487,
+        "width": 115.75,
+        "height": 19
+      }
+    },
+    {
+      "text": "Users.id -&gt; Blip_score.user\nText_posts.id -&gt; Blip_score.blip",
+      "transform": {
+        "x": -929.8183753736357,
+        "y": 631.0264269522086,
+        "width": 140,
+        "height": 28
+      }
+    },
+    {
+      "text": "pool_posts",
+      "transform": {
+        "x": 23.347675009518696,
+        "y": -204.44507167182897,
+        "width": 50.609375,
+        "height": 19
+      }
+    },
+    {
+      "text": "post_tags",
+      "transform": {
+        "x": 378.7741688722983,
+        "y": -192.17348753635912,
+        "width": 46.90625,
+        "height": 19
+      }
+    },
+    {
+      "text": "tag_implications",
+      "transform": {
+        "x": 474.0329737820746,
+        "y": 32.35524013196857,
+        "width": 71.6875,
+        "height": 19
+      }
+    },
+    {
+      "text": "wiki_examples",
+      "transform": {
+        "x": 793.9242991847144,
+        "y": 274.74661671357376,
+        "width": 65.28125,
+        "height": 19
+      }
+    },
+    {
+      "text": "*uploader\n°verified_by\n°parent",
+      "transform": {
+        "x": -81.9909232923942,
+        "y": 143.6875,
+        "width": 55.875,
+        "height": 37
+      }
+    },
+    {
+      "text": "role",
+      "transform": {
+        "x": -659.9909232923942,
+        "y": 328.6875,
+        "width": 24.28125,
+        "height": 19
+      }
+    },
+    {
+      "text": "user",
+      "transform": {
+        "x": -1117.2252592024734,
+        "y": 541.2649336691879,
+        "width": 26.328125,
+        "height": 19
+      }
+    }
+  ]
+}
